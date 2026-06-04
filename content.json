@@ -1,0 +1,53 @@
+{
+  "_readme": "ApexFlow içerik dosyası. Buradaki her şey siteye AÇILIŞTA otomatik yüklenir. Kurallar: id benzersiz olmalı (çakışan id atlanır); lv yalnızca A1/A2/B1/B2/C1/C2; ans = doğru şıkkın sırası, 0'dan başlar; her sorunun en az 2 şıkkı olmalı. İstemediğin bölümü silebilirsin. Aşağıdakiler birer ÖRNEK; kendi içeriğinle değiştir veya çoğalt.",
+
+  "vocab": [
+    { "id": "ext_resilient", "lv": "B2", "w": "resilient", "pos": "adj", "tr": "dayanıklı, çabuk toparlanan", "ex": "Children are often remarkably resilient." },
+    { "id": "ext_scrutinize", "lv": "C1", "w": "scrutinize", "pos": "v", "tr": "didik didik incelemek", "ex": "The committee scrutinized every figure." }
+  ],
+
+  "articles": [
+    {
+      "id": "ext_silkroad", "lv": "B2", "title": "The Silk Road",
+      "body": "The Silk Road was never a single road, nor was it used only for silk. It was a shifting web of routes that linked China to the Mediterranean, crossing deserts, mountains, and the territories of many peoples.\n\nGoods certainly moved along it — silk travelling west, but also glass, spices, and horses in many directions. Yet historians increasingly stress that ideas travelled just as far. Religions, technologies, and artistic styles spread between distant cultures, carried by the very merchants who carried cloth.\n\nThe network declined as sea routes grew cheaper and safer from the fifteenth century onward. Even so, its lasting importance lies less in the trade itself than in what that trade made possible: sustained contact between civilisations that might otherwise have remained strangers.",
+      "items": [
+        { "q": "According to the text, the Silk Road was —", "opts": ["a single paved road", "a network of many routes", "used only for silk", "purely a sea route"], "ans": 1 },
+        { "q": "What does the passage emphasise besides goods?", "opts": ["The movement of ideas", "The price of silk", "Desert weather", "Chinese politics"], "ans": 0, "tr": "Tarihçiler fikirlerin de en az mallar kadar yol aldığını vurguluyor." },
+        { "q": "Why did the network decline?", "opts": ["Wars destroyed the roads", "Sea routes became cheaper and safer", "Silk went out of fashion", "China closed its borders"], "ans": 1 }
+      ]
+    }
+  ],
+
+  "listening": [
+    {
+      "id": "ext_museum", "lv": "B1", "title": "At the museum desk", "accent": "en-GB",
+      "script": "Good morning, welcome to the City Museum. — Hi, two adult tickets, please. — That's sixteen pounds. The special exhibition on the second floor is included. — Great. What time do you close? — At half past five today. — Thank you!",
+      "items": [
+        { "q": "How much are the tickets in total?", "opts": ["6 pounds", "16 pounds", "60 pounds"], "ans": 1 },
+        { "q": "Where is the special exhibition?", "opts": ["Ground floor", "First floor", "Second floor"], "ans": 2 },
+        { "q": "What time does the museum close today?", "opts": ["5:00", "5:30", "6:30"], "ans": 1 }
+      ]
+    }
+  ],
+
+  "grammar": [
+    {
+      "id": "ext_modals", "lv": "B1", "title": "Modals: must / have to",
+      "exp": "'must' genelde konuşanın kendi koyduğu zorunluluğu anlatır (I must call her). 'have to' ise dışarıdan gelen, kural kaynaklı zorunluluğu anlatır (I have to wear a uniform). Olumsuzda anlam değişir: 'mustn't' = yasak; 'don't have to' = gerek yok.",
+      "items": [
+        { "q": "At my job I ___ wear a uniform; it's the rule.", "opts": ["must", "have to", "mustn't"], "ans": 1, "tr": "Dış kural -> have to." },
+        { "q": "You ___ touch that wire — it's dangerous!", "opts": ["don't have to", "mustn't", "have to"], "ans": 1, "tr": "Yasak -> mustn't." },
+        { "q": "It's Sunday, so we ___ get up early.", "opts": ["mustn't", "don't have to", "must"], "ans": 1, "tr": "Gerek yok -> don't have to." }
+      ]
+    }
+  ],
+
+  "writing": [
+    {
+      "id": "ext_complaint", "lv": "B1", "exam": ["GENEL"], "type": "Resmî Şikâyet E-postası", "minWords": 120,
+      "prompt": "Write a formal email to a company about a product that arrived damaged. Explain the problem and say what you want them to do.",
+      "tips": "Resmî dil kullan (Dear Sir/Madam). Sorunu net anlat, sipariş bilgisini ver, açık bir talep (iade/değişim) ekle, nazik kapat.",
+      "structure": "Selamlama -> sorun + sipariş detayı -> net talep -> kapanış (I look forward to...)."
+    }
+  ]
+}
