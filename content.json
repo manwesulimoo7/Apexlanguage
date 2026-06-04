@@ -1,5 +1,5 @@
 {
-  "_readme": "ApexFlow icerigi. Oxford 5000 'A' partisi (B2-C1) eklendi. Yeni parti eklerken: bu dosyayi bana gonder, sıradaki harfleri ben ekleyip geri vereyim. id benzersiz; lv A1-C2; ans 0'dan baslar.",
+  "_readme": "ApexFlow icerigi. Oxford 5000 A-F partileri (B2-C1) yuklu. Yeni parti: bu dosyayi bana gonder, siradaki harfleri ekleyip geri vereyim. id benzersiz; lv A1-C2; ans 0'dan baslar.",
   "vocab": [
     {
       "id": "ext_resilient",
@@ -1184,6 +1184,5150 @@
       "pos": "adj.",
       "tr": "garip; beceriksiz; rahatsız edici",
       "ex": "an awkward silence"
+    },
+    {
+      "id": "ox5_backdrop",
+      "lv": "C1",
+      "w": "backdrop",
+      "pos": "n.",
+      "tr": "fon, arka plan",
+      "ex": "against a dramatic backdrop"
+    },
+    {
+      "id": "ox5_backing",
+      "lv": "C1",
+      "w": "backing",
+      "pos": "n.",
+      "tr": "destek, arka çıkma",
+      "ex": "financial backing"
+    },
+    {
+      "id": "ox5_backup",
+      "lv": "C1",
+      "w": "backup",
+      "pos": "n.",
+      "tr": "yedek; destek",
+      "ex": "make a backup"
+    },
+    {
+      "id": "ox5_badge",
+      "lv": "B2",
+      "w": "badge",
+      "pos": "n.",
+      "tr": "rozet, kimlik kartı",
+      "ex": "a name badge"
+    },
+    {
+      "id": "ox5_bail",
+      "lv": "C1",
+      "w": "bail",
+      "pos": "n.",
+      "tr": "kefalet",
+      "ex": "released on bail"
+    },
+    {
+      "id": "ox5_balanced",
+      "lv": "B2",
+      "w": "balanced",
+      "pos": "adj.",
+      "tr": "dengeli",
+      "ex": "a balanced diet"
+    },
+    {
+      "id": "ox5_ballet",
+      "lv": "B2",
+      "w": "ballet",
+      "pos": "n.",
+      "tr": "bale",
+      "ex": "a ballet dancer"
+    },
+    {
+      "id": "ox5_ballot",
+      "lv": "C1",
+      "w": "ballot",
+      "pos": "n.",
+      "tr": "oy pusulası; gizli oy",
+      "ex": "a secret ballot"
+    },
+    {
+      "id": "ox5_bankruptcy",
+      "lv": "C1",
+      "w": "bankruptcy",
+      "pos": "n.",
+      "tr": "iflas",
+      "ex": "file for bankruptcy"
+    },
+    {
+      "id": "ox5_banner",
+      "lv": "C1",
+      "w": "banner",
+      "pos": "n.",
+      "tr": "afiş, pankart; başlık",
+      "ex": "a protest banner"
+    },
+    {
+      "id": "ox5_bare",
+      "lv": "C1",
+      "w": "bare",
+      "pos": "adj.",
+      "tr": "çıplak; boş",
+      "ex": "bare feet"
+    },
+    {
+      "id": "ox5_barely",
+      "lv": "B2",
+      "w": "barely",
+      "pos": "adv.",
+      "tr": "ancak, güç bela",
+      "ex": "barely enough money"
+    },
+    {
+      "id": "ox5_bargain",
+      "lv": "B2",
+      "w": "bargain",
+      "pos": "n.",
+      "tr": "kelepir; pazarlık",
+      "ex": "a real bargain"
+    },
+    {
+      "id": "ox5_barrel",
+      "lv": "C1",
+      "w": "barrel",
+      "pos": "n.",
+      "tr": "varil, fıçı; namlu",
+      "ex": "a barrel of oil"
+    },
+    {
+      "id": "ox5_basement",
+      "lv": "B2",
+      "w": "basement",
+      "pos": "n.",
+      "tr": "bodrum",
+      "ex": "in the basement"
+    },
+    {
+      "id": "ox5_basket",
+      "lv": "B2",
+      "w": "basket",
+      "pos": "n.",
+      "tr": "sepet",
+      "ex": "a shopping basket"
+    },
+    {
+      "id": "ox5_bass",
+      "lv": "C1",
+      "w": "bass",
+      "pos": "n.",
+      "tr": "bas (müzik); levrek",
+      "ex": "a bass guitar"
+    },
+    {
+      "id": "ox5_bat",
+      "lv": "B2",
+      "w": "bat",
+      "pos": "n., v.",
+      "tr": "yarasa, sopa; (f.) vurmak",
+      "ex": "a baseball bat"
+    },
+    {
+      "id": "ox5_battlefield",
+      "lv": "C1",
+      "w": "battlefield",
+      "pos": "n.",
+      "tr": "savaş alanı",
+      "ex": "on the battlefield"
+    },
+    {
+      "id": "ox5_bay",
+      "lv": "C1",
+      "w": "bay",
+      "pos": "n.",
+      "tr": "koy, körfez",
+      "ex": "a sandy bay"
+    },
+    {
+      "id": "ox5_beam",
+      "lv": "C1",
+      "w": "beam",
+      "pos": "n.",
+      "tr": "kiriş; ışın",
+      "ex": "a wooden beam"
+    },
+    {
+      "id": "ox5_beast",
+      "lv": "C1",
+      "w": "beast",
+      "pos": "n.",
+      "tr": "canavar, hayvan",
+      "ex": "a wild beast"
+    },
+    {
+      "id": "ox5_behalf",
+      "lv": "C1",
+      "w": "behalf",
+      "pos": "n.",
+      "tr": "adına, namına",
+      "ex": "on behalf of us all"
+    },
+    {
+      "id": "ox5_behavioral",
+      "lv": "C1",
+      "w": "behavioral",
+      "pos": "adj.",
+      "tr": "davranışsal",
+      "ex": "behavioral problems"
+    },
+    {
+      "id": "ox5_beloved",
+      "lv": "C1",
+      "w": "beloved",
+      "pos": "adj.",
+      "tr": "sevgili, çok sevilen",
+      "ex": "her beloved dog"
+    },
+    {
+      "id": "ox5_bench",
+      "lv": "C1",
+      "w": "bench",
+      "pos": "n.",
+      "tr": "bank, sıra; kürsü",
+      "ex": "a park bench"
+    },
+    {
+      "id": "ox5_benchmark",
+      "lv": "C1",
+      "w": "benchmark",
+      "pos": "n.",
+      "tr": "ölçüt, kıyaslama noktası",
+      "ex": "an industry benchmark"
+    },
+    {
+      "id": "ox5_beneath",
+      "lv": "C1",
+      "w": "beneath",
+      "pos": "prep.",
+      "tr": "altında",
+      "ex": "beneath the surface"
+    },
+    {
+      "id": "ox5_beneficial",
+      "lv": "B2",
+      "w": "beneficial",
+      "pos": "adj.",
+      "tr": "yararlı, faydalı",
+      "ex": "beneficial effects"
+    },
+    {
+      "id": "ox5_beneficiary",
+      "lv": "C1",
+      "w": "beneficiary",
+      "pos": "n.",
+      "tr": "yararlanan, lehtar",
+      "ex": "the main beneficiary"
+    },
+    {
+      "id": "ox5_beside",
+      "lv": "B2",
+      "w": "beside",
+      "pos": "prep.",
+      "tr": "yanında",
+      "ex": "beside the river"
+    },
+    {
+      "id": "ox5_besides",
+      "lv": "B2",
+      "w": "besides",
+      "pos": "prep., adv.",
+      "tr": "ayrıca, bunun yanında",
+      "ex": "besides, it's late"
+    },
+    {
+      "id": "ox5_betray",
+      "lv": "C1",
+      "w": "betray",
+      "pos": "v.",
+      "tr": "ihanet etmek; ele vermek",
+      "ex": "betray a friend"
+    },
+    {
+      "id": "ox5_beverage",
+      "lv": "C1",
+      "w": "beverage",
+      "pos": "n.",
+      "tr": "içecek",
+      "ex": "hot beverages"
+    },
+    {
+      "id": "ox5_bias",
+      "lv": "B2",
+      "w": "bias",
+      "pos": "n.",
+      "tr": "önyargı, yanlılık",
+      "ex": "a strong bias"
+    },
+    {
+      "id": "ox5_bid",
+      "lv": "B2",
+      "w": "bid",
+      "pos": "n., v.",
+      "tr": "teklif (vermek); ihale",
+      "ex": "a bid for the contract"
+    },
+    {
+      "id": "ox5_bind",
+      "lv": "C1",
+      "w": "bind",
+      "pos": "v.",
+      "tr": "bağlamak",
+      "ex": "bind the pages"
+    },
+    {
+      "id": "ox5_biography",
+      "lv": "C1",
+      "w": "biography",
+      "pos": "n.",
+      "tr": "biyografi, yaşam öyküsü",
+      "ex": "a new biography"
+    },
+    {
+      "id": "ox5_biological",
+      "lv": "B2",
+      "w": "biological",
+      "pos": "adj.",
+      "tr": "biyolojik",
+      "ex": "biological research"
+    },
+    {
+      "id": "ox5_bishop",
+      "lv": "C1",
+      "w": "bishop",
+      "pos": "n.",
+      "tr": "piskopos",
+      "ex": "the local bishop"
+    },
+    {
+      "id": "ox5_bizarre",
+      "lv": "C1",
+      "w": "bizarre",
+      "pos": "adj.",
+      "tr": "tuhaf, acayip",
+      "ex": "a bizarre story"
+    },
+    {
+      "id": "ox5_blade",
+      "lv": "C1",
+      "w": "blade",
+      "pos": "n.",
+      "tr": "bıçak ağzı; kanat",
+      "ex": "a sharp blade"
+    },
+    {
+      "id": "ox5_blanket",
+      "lv": "B2",
+      "w": "blanket",
+      "pos": "n.",
+      "tr": "battaniye",
+      "ex": "a warm blanket"
+    },
+    {
+      "id": "ox5_blast",
+      "lv": "C1",
+      "w": "blast",
+      "pos": "n., v.",
+      "tr": "patlama; (f.) patlatmak",
+      "ex": "a bomb blast"
+    },
+    {
+      "id": "ox5_bleed",
+      "lv": "C1",
+      "w": "bleed",
+      "pos": "v.",
+      "tr": "kanamak",
+      "ex": "my nose is bleeding"
+    },
+    {
+      "id": "ox5_blend",
+      "lv": "C1",
+      "w": "blend",
+      "pos": "v., n.",
+      "tr": "karıştırmak; karışım",
+      "ex": "blend the colors"
+    },
+    {
+      "id": "ox5_bless",
+      "lv": "C1",
+      "w": "bless",
+      "pos": "v.",
+      "tr": "kutsamak",
+      "ex": "bless this house"
+    },
+    {
+      "id": "ox5_blessing",
+      "lv": "C1",
+      "w": "blessing",
+      "pos": "n.",
+      "tr": "nimet; hayır dua",
+      "ex": "a real blessing"
+    },
+    {
+      "id": "ox5_blow",
+      "lv": "B2",
+      "w": "blow",
+      "pos": "n.",
+      "tr": "darbe, vuruş; şok",
+      "ex": "a heavy blow"
+    },
+    {
+      "id": "ox5_boast",
+      "lv": "C1",
+      "w": "boast",
+      "pos": "v.",
+      "tr": "övünmek, böbürlenmek",
+      "ex": "boast about success"
+    },
+    {
+      "id": "ox5_bold",
+      "lv": "B2",
+      "w": "bold",
+      "pos": "adj.",
+      "tr": "cesur; (yazı) kalın",
+      "ex": "a bold move"
+    },
+    {
+      "id": "ox5_bombing",
+      "lv": "B2",
+      "w": "bombing",
+      "pos": "n.",
+      "tr": "bombalama",
+      "ex": "a bombing attack"
+    },
+    {
+      "id": "ox5_bonus",
+      "lv": "C1",
+      "w": "bonus",
+      "pos": "n.",
+      "tr": "ikramiye, prim; ek fayda",
+      "ex": "a year-end bonus"
+    },
+    {
+      "id": "ox5_booking",
+      "lv": "C1",
+      "w": "booking",
+      "pos": "n.",
+      "tr": "rezervasyon",
+      "ex": "make a booking"
+    },
+    {
+      "id": "ox5_boom",
+      "lv": "C1",
+      "w": "boom",
+      "pos": "n.",
+      "tr": "patlama, hızlı büyüme",
+      "ex": "an economic boom"
+    },
+    {
+      "id": "ox5_boost",
+      "lv": "B2",
+      "w": "boost",
+      "pos": "v., n.",
+      "tr": "artırmak; destek, ivme",
+      "ex": "boost sales"
+    },
+    {
+      "id": "ox5_bounce",
+      "lv": "C1",
+      "w": "bounce",
+      "pos": "v.",
+      "tr": "sekmek, zıplamak",
+      "ex": "the ball bounced"
+    },
+    {
+      "id": "ox5_bound",
+      "lv": "B2",
+      "w": "bound",
+      "pos": "adj.",
+      "tr": "...mek zorunda; bağlı",
+      "ex": "bound to happen"
+    },
+    {
+      "id": "ox5_boundary",
+      "lv": "C1",
+      "w": "boundary",
+      "pos": "n.",
+      "tr": "sınır",
+      "ex": "cross the boundary"
+    },
+    {
+      "id": "ox5_bow",
+      "lv": "C1",
+      "w": "bow",
+      "pos": "v., n.",
+      "tr": "eğilmek, reverans",
+      "ex": "bow to the queen"
+    },
+    {
+      "id": "ox5_breach",
+      "lv": "C1",
+      "w": "breach",
+      "pos": "n., v.",
+      "tr": "ihlal (etmek); gedik",
+      "ex": "a breach of contract"
+    },
+    {
+      "id": "ox5_breakdown",
+      "lv": "C1",
+      "w": "breakdown",
+      "pos": "n.",
+      "tr": "çökme, arıza; döküm",
+      "ex": "a nervous breakdown"
+    },
+    {
+      "id": "ox5_breakthrough",
+      "lv": "C1",
+      "w": "breakthrough",
+      "pos": "n.",
+      "tr": "atılım, çığır açan gelişme",
+      "ex": "a major breakthrough"
+    },
+    {
+      "id": "ox5_breed",
+      "lv": "C1",
+      "w": "breed",
+      "pos": "v., n.",
+      "tr": "üremek/üretmek; ırk, cins",
+      "ex": "breed cattle"
+    },
+    {
+      "id": "ox5_brick",
+      "lv": "B2",
+      "w": "brick",
+      "pos": "n.",
+      "tr": "tuğla",
+      "ex": "a brick wall"
+    },
+    {
+      "id": "ox5_briefly",
+      "lv": "B2",
+      "w": "briefly",
+      "pos": "adv.",
+      "tr": "kısaca",
+      "ex": "speak briefly"
+    },
+    {
+      "id": "ox5_broadband",
+      "lv": "C1",
+      "w": "broadband",
+      "pos": "n.",
+      "tr": "geniş bant (internet)",
+      "ex": "fast broadband"
+    },
+    {
+      "id": "ox5_broadcaster",
+      "lv": "B2",
+      "w": "broadcaster",
+      "pos": "n.",
+      "tr": "yayıncı, sunucu",
+      "ex": "a TV broadcaster"
+    },
+    {
+      "id": "ox5_broadly",
+      "lv": "B2",
+      "w": "broadly",
+      "pos": "adv.",
+      "tr": "genel olarak, kabaca",
+      "ex": "broadly speaking"
+    },
+    {
+      "id": "ox5_browser",
+      "lv": "C1",
+      "w": "browser",
+      "pos": "n.",
+      "tr": "tarayıcı (internet)",
+      "ex": "a web browser"
+    },
+    {
+      "id": "ox5_brutal",
+      "lv": "C1",
+      "w": "brutal",
+      "pos": "adj.",
+      "tr": "vahşi, acımasız",
+      "ex": "a brutal attack"
+    },
+    {
+      "id": "ox5_buck",
+      "lv": "B2",
+      "w": "buck",
+      "pos": "n.",
+      "tr": "dolar (argo); erkek geyik",
+      "ex": "a few bucks"
+    },
+    {
+      "id": "ox5_buddy",
+      "lv": "C1",
+      "w": "buddy",
+      "pos": "n.",
+      "tr": "ahbap, dost",
+      "ex": "my old buddy"
+    },
+    {
+      "id": "ox5_buffer",
+      "lv": "C1",
+      "w": "buffer",
+      "pos": "n.",
+      "tr": "tampon",
+      "ex": "a buffer zone"
+    },
+    {
+      "id": "ox5_bug",
+      "lv": "B2",
+      "w": "bug",
+      "pos": "n.",
+      "tr": "böcek; (yazılım) hata",
+      "ex": "a software bug"
+    },
+    {
+      "id": "ox5_bulk",
+      "lv": "C1",
+      "w": "bulk",
+      "pos": "n.",
+      "tr": "büyük bölüm; hacim",
+      "ex": "the bulk of the work"
+    },
+    {
+      "id": "ox5_burden",
+      "lv": "C1",
+      "w": "burden",
+      "pos": "n.",
+      "tr": "yük, külfet",
+      "ex": "a heavy burden"
+    },
+    {
+      "id": "ox5_bureaucracy",
+      "lv": "C1",
+      "w": "bureaucracy",
+      "pos": "n.",
+      "tr": "bürokrasi",
+      "ex": "government bureaucracy"
+    },
+    {
+      "id": "ox5_burial",
+      "lv": "C1",
+      "w": "burial",
+      "pos": "n.",
+      "tr": "defin, gömme",
+      "ex": "a proper burial"
+    },
+    {
+      "id": "ox5_burst",
+      "lv": "C1",
+      "w": "burst",
+      "pos": "v.",
+      "tr": "patlamak, fışkırmak",
+      "ex": "the pipe burst"
+    },
+    {
+      "id": "ox5_cabin",
+      "lv": "B2",
+      "w": "cabin",
+      "pos": "n.",
+      "tr": "kulübe; kabin",
+      "ex": "a log cabin"
+    },
+    {
+      "id": "ox5_cabinet",
+      "lv": "C1",
+      "w": "cabinet",
+      "pos": "n.",
+      "tr": "dolap; kabine",
+      "ex": "a kitchen cabinet"
+    },
+    {
+      "id": "ox5_calculation",
+      "lv": "C1",
+      "w": "calculation",
+      "pos": "n.",
+      "tr": "hesap, hesaplama",
+      "ex": "a quick calculation"
+    },
+    {
+      "id": "ox5_canal",
+      "lv": "B2",
+      "w": "canal",
+      "pos": "n.",
+      "tr": "kanal",
+      "ex": "the Suez Canal"
+    },
+    {
+      "id": "ox5_candle",
+      "lv": "B2",
+      "w": "candle",
+      "pos": "n.",
+      "tr": "mum",
+      "ex": "light a candle"
+    },
+    {
+      "id": "ox5_canvas",
+      "lv": "C1",
+      "w": "canvas",
+      "pos": "n.",
+      "tr": "tuval; branda",
+      "ex": "paint on canvas"
+    },
+    {
+      "id": "ox5_capability",
+      "lv": "C1",
+      "w": "capability",
+      "pos": "n.",
+      "tr": "yetenek, kapasite",
+      "ex": "military capability"
+    },
+    {
+      "id": "ox5_capitalism",
+      "lv": "C1",
+      "w": "capitalism",
+      "pos": "n.",
+      "tr": "kapitalizm",
+      "ex": "modern capitalism"
+    },
+    {
+      "id": "ox5_capitalist",
+      "lv": "C1",
+      "w": "capitalist",
+      "pos": "adj.",
+      "tr": "kapitalist",
+      "ex": "a capitalist economy"
+    },
+    {
+      "id": "ox5_carbon",
+      "lv": "B2",
+      "w": "carbon",
+      "pos": "n.",
+      "tr": "karbon",
+      "ex": "carbon emissions"
+    },
+    {
+      "id": "ox5_cargo",
+      "lv": "C1",
+      "w": "cargo",
+      "pos": "n.",
+      "tr": "kargo, yük",
+      "ex": "a cargo ship"
+    },
+    {
+      "id": "ox5_carriage",
+      "lv": "C1",
+      "w": "carriage",
+      "pos": "n.",
+      "tr": "vagon; at arabası",
+      "ex": "a train carriage"
+    },
+    {
+      "id": "ox5_carve",
+      "lv": "C1",
+      "w": "carve",
+      "pos": "v.",
+      "tr": "oymak; (et) kesmek",
+      "ex": "carve the turkey"
+    },
+    {
+      "id": "ox5_casino",
+      "lv": "C1",
+      "w": "casino",
+      "pos": "n.",
+      "tr": "kumarhane",
+      "ex": "a Las Vegas casino"
+    },
+    {
+      "id": "ox5_casual",
+      "lv": "B2",
+      "w": "casual",
+      "pos": "adj.",
+      "tr": "gündelik; gelişigüzel",
+      "ex": "casual clothes"
+    },
+    {
+      "id": "ox5_casualty",
+      "lv": "C1",
+      "w": "casualty",
+      "pos": "n.",
+      "tr": "kayıp, zayiat; yaralı",
+      "ex": "heavy casualties"
+    },
+    {
+      "id": "ox5_catalog",
+      "lv": "C1",
+      "w": "catalog",
+      "pos": "n.",
+      "tr": "katalog",
+      "ex": "a product catalog"
+    },
+    {
+      "id": "ox5_cater",
+      "lv": "C1",
+      "w": "cater",
+      "pos": "v.",
+      "tr": "yemek sağlamak; hizmet etmek",
+      "ex": "cater for events"
+    },
+    {
+      "id": "ox5_cattle",
+      "lv": "C1",
+      "w": "cattle",
+      "pos": "n.",
+      "tr": "sığır, büyükbaş",
+      "ex": "a herd of cattle"
+    },
+    {
+      "id": "ox5_caution",
+      "lv": "C1",
+      "w": "caution",
+      "pos": "n.",
+      "tr": "dikkat, ihtiyat; uyarı",
+      "ex": "proceed with caution"
+    },
+    {
+      "id": "ox5_cautious",
+      "lv": "C1",
+      "w": "cautious",
+      "pos": "adj.",
+      "tr": "dikkatli, temkinli",
+      "ex": "a cautious approach"
+    },
+    {
+      "id": "ox5_cave",
+      "lv": "B2",
+      "w": "cave",
+      "pos": "n.",
+      "tr": "mağara",
+      "ex": "explore a cave"
+    },
+    {
+      "id": "ox5_cease",
+      "lv": "C1",
+      "w": "cease",
+      "pos": "v.",
+      "tr": "durmak, son vermek",
+      "ex": "cease fire"
+    },
+    {
+      "id": "ox5_cemetery",
+      "lv": "C1",
+      "w": "cemetery",
+      "pos": "n.",
+      "tr": "mezarlık",
+      "ex": "an old cemetery"
+    },
+    {
+      "id": "ox5_certainty",
+      "lv": "B2",
+      "w": "certainty",
+      "pos": "n.",
+      "tr": "kesinlik",
+      "ex": "with certainty"
+    },
+    {
+      "id": "ox5_challenging",
+      "lv": "B2",
+      "w": "challenging",
+      "pos": "adj.",
+      "tr": "zorlu, meydan okuyan",
+      "ex": "a challenging task"
+    },
+    {
+      "id": "ox5_chamber",
+      "lv": "C1",
+      "w": "chamber",
+      "pos": "n.",
+      "tr": "oda; meclis; hazne",
+      "ex": "the council chamber"
+    },
+    {
+      "id": "ox5_championship",
+      "lv": "B2",
+      "w": "championship",
+      "pos": "n.",
+      "tr": "şampiyona",
+      "ex": "win the championship"
+    },
+    {
+      "id": "ox5_chaos",
+      "lv": "C1",
+      "w": "chaos",
+      "pos": "n.",
+      "tr": "kaos, kargaşa",
+      "ex": "total chaos"
+    },
+    {
+      "id": "ox5_characterize",
+      "lv": "C1",
+      "w": "characterize",
+      "pos": "v.",
+      "tr": "nitelemek, betimlemek",
+      "ex": "characterized by speed"
+    },
+    {
+      "id": "ox5_charm",
+      "lv": "C1",
+      "w": "charm",
+      "pos": "n.",
+      "tr": "cazibe, çekicilik; tılsım",
+      "ex": "natural charm"
+    },
+    {
+      "id": "ox5_charming",
+      "lv": "B2",
+      "w": "charming",
+      "pos": "adj.",
+      "tr": "büyüleyici, sevimli",
+      "ex": "a charming village"
+    },
+    {
+      "id": "ox5_charter",
+      "lv": "C1",
+      "w": "charter",
+      "pos": "n.",
+      "tr": "ferman, berat; kiralama",
+      "ex": "a royal charter"
+    },
+    {
+      "id": "ox5_chase",
+      "lv": "B2",
+      "w": "chase",
+      "pos": "v., n.",
+      "tr": "kovalamak; takip",
+      "ex": "chase the thief"
+    },
+    {
+      "id": "ox5_cheek",
+      "lv": "B2",
+      "w": "cheek",
+      "pos": "n.",
+      "tr": "yanak; küstahlık",
+      "ex": "rosy cheeks"
+    },
+    {
+      "id": "ox5_cheer",
+      "lv": "B2",
+      "w": "cheer",
+      "pos": "v., n.",
+      "tr": "tezahürat; neşelendirmek",
+      "ex": "cheer the team"
+    },
+    {
+      "id": "ox5_choir",
+      "lv": "C1",
+      "w": "choir",
+      "pos": "n.",
+      "tr": "koro",
+      "ex": "sing in a choir"
+    },
+    {
+      "id": "ox5_chop",
+      "lv": "B2",
+      "w": "chop",
+      "pos": "v.",
+      "tr": "doğramak, kesmek",
+      "ex": "chop the onions"
+    },
+    {
+      "id": "ox5_chronic",
+      "lv": "C1",
+      "w": "chronic",
+      "pos": "adj.",
+      "tr": "kronik, müzmin",
+      "ex": "chronic pain"
+    },
+    {
+      "id": "ox5_chunk",
+      "lv": "C1",
+      "w": "chunk",
+      "pos": "n.",
+      "tr": "iri parça",
+      "ex": "a chunk of bread"
+    },
+    {
+      "id": "ox5_circuit",
+      "lv": "B2",
+      "w": "circuit",
+      "pos": "n.",
+      "tr": "devre; tur",
+      "ex": "an electric circuit"
+    },
+    {
+      "id": "ox5_circulate",
+      "lv": "C1",
+      "w": "circulate",
+      "pos": "v.",
+      "tr": "dolaşmak, dolaştırmak",
+      "ex": "circulate the report"
+    },
+    {
+      "id": "ox5_circulation",
+      "lv": "C1",
+      "w": "circulation",
+      "pos": "n.",
+      "tr": "dolaşım; tiraj",
+      "ex": "blood circulation"
+    },
+    {
+      "id": "ox5_citizenship",
+      "lv": "C1",
+      "w": "citizenship",
+      "pos": "n.",
+      "tr": "vatandaşlık",
+      "ex": "apply for citizenship"
+    },
+    {
+      "id": "ox5_civic",
+      "lv": "C1",
+      "w": "civic",
+      "pos": "adj.",
+      "tr": "kentsel; yurttaşlıkla ilgili",
+      "ex": "civic duty"
+    },
+    {
+      "id": "ox5_civilian",
+      "lv": "C1",
+      "w": "civilian",
+      "pos": "n., adj.",
+      "tr": "sivil",
+      "ex": "civilian casualties"
+    },
+    {
+      "id": "ox5_civilization",
+      "lv": "B2",
+      "w": "civilization",
+      "pos": "n.",
+      "tr": "uygarlık, medeniyet",
+      "ex": "ancient civilization"
+    },
+    {
+      "id": "ox5_clarify",
+      "lv": "B2",
+      "w": "clarify",
+      "pos": "v.",
+      "tr": "açıklığa kavuşturmak",
+      "ex": "clarify the point"
+    },
+    {
+      "id": "ox5_clarity",
+      "lv": "C1",
+      "w": "clarity",
+      "pos": "n.",
+      "tr": "açıklık, netlik",
+      "ex": "with great clarity"
+    },
+    {
+      "id": "ox5_clash",
+      "lv": "C1",
+      "w": "clash",
+      "pos": "n.",
+      "tr": "çatışma; uyuşmazlık",
+      "ex": "a violent clash"
+    },
+    {
+      "id": "ox5_classification",
+      "lv": "C1",
+      "w": "classification",
+      "pos": "n.",
+      "tr": "sınıflandırma",
+      "ex": "a system of classification"
+    },
+    {
+      "id": "ox5_classify",
+      "lv": "B2",
+      "w": "classify",
+      "pos": "v.",
+      "tr": "sınıflandırmak",
+      "ex": "classify the data"
+    },
+    {
+      "id": "ox5_cliff",
+      "lv": "B2",
+      "w": "cliff",
+      "pos": "n.",
+      "tr": "uçurum, yar",
+      "ex": "a steep cliff"
+    },
+    {
+      "id": "ox5_cling",
+      "lv": "C1",
+      "w": "cling",
+      "pos": "v.",
+      "tr": "sıkıca tutunmak, yapışmak",
+      "ex": "cling to hope"
+    },
+    {
+      "id": "ox5_clinic",
+      "lv": "B2",
+      "w": "clinic",
+      "pos": "n.",
+      "tr": "klinik",
+      "ex": "a dental clinic"
+    },
+    {
+      "id": "ox5_clinical",
+      "lv": "C1",
+      "w": "clinical",
+      "pos": "adj.",
+      "tr": "klinik; soğukkanlı",
+      "ex": "clinical trials"
+    },
+    {
+      "id": "ox5_clip",
+      "lv": "B2",
+      "w": "clip",
+      "pos": "n.",
+      "tr": "klip; ataç, mandal",
+      "ex": "a video clip"
+    },
+    {
+      "id": "ox5_closure",
+      "lv": "C1",
+      "w": "closure",
+      "pos": "n.",
+      "tr": "kapanış, kapanma",
+      "ex": "factory closure"
+    },
+    {
+      "id": "ox5_cluster",
+      "lv": "C1",
+      "w": "cluster",
+      "pos": "n.",
+      "tr": "küme, öbek",
+      "ex": "a cluster of stars"
+    },
+    {
+      "id": "ox5_coalition",
+      "lv": "C1",
+      "w": "coalition",
+      "pos": "n.",
+      "tr": "koalisyon",
+      "ex": "a coalition government"
+    },
+    {
+      "id": "ox5_coastal",
+      "lv": "C1",
+      "w": "coastal",
+      "pos": "adj.",
+      "tr": "kıyı, sahil",
+      "ex": "a coastal town"
+    },
+    {
+      "id": "ox5_cocktail",
+      "lv": "C1",
+      "w": "cocktail",
+      "pos": "n.",
+      "tr": "kokteyl",
+      "ex": "a fruit cocktail"
+    },
+    {
+      "id": "ox5_cognitive",
+      "lv": "C1",
+      "w": "cognitive",
+      "pos": "adj.",
+      "tr": "bilişsel",
+      "ex": "cognitive skills"
+    },
+    {
+      "id": "ox5_coincide",
+      "lv": "C1",
+      "w": "coincide",
+      "pos": "v.",
+      "tr": "denk gelmek, çakışmak",
+      "ex": "the dates coincide"
+    },
+    {
+      "id": "ox5_coincidence",
+      "lv": "B2",
+      "w": "coincidence",
+      "pos": "n.",
+      "tr": "tesadüf, rastlantı",
+      "ex": "a strange coincidence"
+    },
+    {
+      "id": "ox5_collaborate",
+      "lv": "C1",
+      "w": "collaborate",
+      "pos": "v.",
+      "tr": "işbirliği yapmak",
+      "ex": "collaborate on a project"
+    },
+    {
+      "id": "ox5_collaboration",
+      "lv": "C1",
+      "w": "collaboration",
+      "pos": "n.",
+      "tr": "işbirliği",
+      "ex": "close collaboration"
+    },
+    {
+      "id": "ox5_collective",
+      "lv": "C1",
+      "w": "collective",
+      "pos": "adj.",
+      "tr": "kolektif, ortak",
+      "ex": "collective effort"
+    },
+    {
+      "id": "ox5_collector",
+      "lv": "B2",
+      "w": "collector",
+      "pos": "n.",
+      "tr": "koleksiyoncu; tahsildar",
+      "ex": "an art collector"
+    },
+    {
+      "id": "ox5_collision",
+      "lv": "C1",
+      "w": "collision",
+      "pos": "n.",
+      "tr": "çarpışma",
+      "ex": "a head-on collision"
+    },
+    {
+      "id": "ox5_colonial",
+      "lv": "C1",
+      "w": "colonial",
+      "pos": "adj.",
+      "tr": "sömürge, sömürgeci",
+      "ex": "colonial rule"
+    },
+    {
+      "id": "ox5_colony",
+      "lv": "B2",
+      "w": "colony",
+      "pos": "n.",
+      "tr": "koloni, sömürge",
+      "ex": "a former colony"
+    },
+    {
+      "id": "ox5_colorful",
+      "lv": "B2",
+      "w": "colorful",
+      "pos": "adj.",
+      "tr": "renkli",
+      "ex": "colorful flowers"
+    },
+    {
+      "id": "ox5_columnist",
+      "lv": "C1",
+      "w": "columnist",
+      "pos": "n.",
+      "tr": "köşe yazarı",
+      "ex": "a newspaper columnist"
+    },
+    {
+      "id": "ox5_combat",
+      "lv": "C1",
+      "w": "combat",
+      "pos": "n., v.",
+      "tr": "savaş, mücadele",
+      "ex": "combat crime"
+    },
+    {
+      "id": "ox5_comic",
+      "lv": "B2",
+      "w": "comic",
+      "pos": "adj., n.",
+      "tr": "komik; çizgi roman",
+      "ex": "a comic book"
+    },
+    {
+      "id": "ox5_commander",
+      "lv": "B2",
+      "w": "commander",
+      "pos": "n.",
+      "tr": "komutan",
+      "ex": "the army commander"
+    },
+    {
+      "id": "ox5_commence",
+      "lv": "C1",
+      "w": "commence",
+      "pos": "v.",
+      "tr": "başlamak",
+      "ex": "commence work"
+    },
+    {
+      "id": "ox5_commentary",
+      "lv": "C1",
+      "w": "commentary",
+      "pos": "n.",
+      "tr": "yorum; spikerlik",
+      "ex": "live commentary"
+    },
+    {
+      "id": "ox5_commentator",
+      "lv": "C1",
+      "w": "commentator",
+      "pos": "n.",
+      "tr": "yorumcu, spiker",
+      "ex": "a political commentator"
+    },
+    {
+      "id": "ox5_commerce",
+      "lv": "C1",
+      "w": "commerce",
+      "pos": "n.",
+      "tr": "ticaret",
+      "ex": "online commerce"
+    },
+    {
+      "id": "ox5_commissioner",
+      "lv": "C1",
+      "w": "commissioner",
+      "pos": "n.",
+      "tr": "komiser; üye",
+      "ex": "the police commissioner"
+    },
+    {
+      "id": "ox5_commodity",
+      "lv": "C1",
+      "w": "commodity",
+      "pos": "n.",
+      "tr": "emtia, mal",
+      "ex": "a valuable commodity"
+    },
+    {
+      "id": "ox5_communist",
+      "lv": "C1",
+      "w": "communist",
+      "pos": "adj.",
+      "tr": "komünist",
+      "ex": "a communist party"
+    },
+    {
+      "id": "ox5_companion",
+      "lv": "C1",
+      "w": "companion",
+      "pos": "n.",
+      "tr": "yoldaş, arkadaş",
+      "ex": "a travel companion"
+    },
+    {
+      "id": "ox5_comparable",
+      "lv": "C1",
+      "w": "comparable",
+      "pos": "adj.",
+      "tr": "kıyaslanabilir, benzer",
+      "ex": "a comparable price"
+    },
+    {
+      "id": "ox5_comparative",
+      "lv": "B2",
+      "w": "comparative",
+      "pos": "adj.",
+      "tr": "karşılaştırmalı",
+      "ex": "comparative literature"
+    },
+    {
+      "id": "ox5_compassion",
+      "lv": "C1",
+      "w": "compassion",
+      "pos": "n.",
+      "tr": "şefkat, merhamet",
+      "ex": "show compassion"
+    },
+    {
+      "id": "ox5_compel",
+      "lv": "C1",
+      "w": "compel",
+      "pos": "v.",
+      "tr": "zorlamak, mecbur etmek",
+      "ex": "compelled to act"
+    },
+    {
+      "id": "ox5_compelling",
+      "lv": "C1",
+      "w": "compelling",
+      "pos": "adj.",
+      "tr": "inandırıcı; çarpıcı",
+      "ex": "a compelling argument"
+    },
+    {
+      "id": "ox5_compensate",
+      "lv": "C1",
+      "w": "compensate",
+      "pos": "v.",
+      "tr": "telafi etmek; tazmin etmek",
+      "ex": "compensate for the loss"
+    },
+    {
+      "id": "ox5_compensation",
+      "lv": "C1",
+      "w": "compensation",
+      "pos": "n.",
+      "tr": "tazminat; telafi",
+      "ex": "claim compensation"
+    },
+    {
+      "id": "ox5_competence",
+      "lv": "C1",
+      "w": "competence",
+      "pos": "n.",
+      "tr": "yeterlilik, ehliyet",
+      "ex": "professional competence"
+    },
+    {
+      "id": "ox5_competent",
+      "lv": "C1",
+      "w": "competent",
+      "pos": "adj.",
+      "tr": "yetkin, ehil",
+      "ex": "a competent worker"
+    },
+    {
+      "id": "ox5_compile",
+      "lv": "C1",
+      "w": "compile",
+      "pos": "v.",
+      "tr": "derlemek",
+      "ex": "compile a list"
+    },
+    {
+      "id": "ox5_complement",
+      "lv": "C1",
+      "w": "complement",
+      "pos": "v.",
+      "tr": "tamamlamak",
+      "ex": "complement each other"
+    },
+    {
+      "id": "ox5_completion",
+      "lv": "B2",
+      "w": "completion",
+      "pos": "n.",
+      "tr": "tamamlanma, bitirme",
+      "ex": "near completion"
+    },
+    {
+      "id": "ox5_complexity",
+      "lv": "C1",
+      "w": "complexity",
+      "pos": "n.",
+      "tr": "karmaşıklık",
+      "ex": "the complexity of the issue"
+    },
+    {
+      "id": "ox5_compliance",
+      "lv": "C1",
+      "w": "compliance",
+      "pos": "n.",
+      "tr": "uyma, riayet",
+      "ex": "compliance with rules"
+    },
+    {
+      "id": "ox5_complication",
+      "lv": "C1",
+      "w": "complication",
+      "pos": "n.",
+      "tr": "komplikasyon, güçlük",
+      "ex": "an unexpected complication"
+    },
+    {
+      "id": "ox5_comply",
+      "lv": "C1",
+      "w": "comply",
+      "pos": "v.",
+      "tr": "uymak, riayet etmek",
+      "ex": "comply with the law"
+    },
+    {
+      "id": "ox5_compose",
+      "lv": "B2",
+      "w": "compose",
+      "pos": "v.",
+      "tr": "bestelemek; oluşturmak",
+      "ex": "compose a song"
+    },
+    {
+      "id": "ox5_composer",
+      "lv": "B2",
+      "w": "composer",
+      "pos": "n.",
+      "tr": "besteci",
+      "ex": "a famous composer"
+    },
+    {
+      "id": "ox5_composition",
+      "lv": "C1",
+      "w": "composition",
+      "pos": "n.",
+      "tr": "kompozisyon; bileşim",
+      "ex": "the composition of the soil"
+    },
+    {
+      "id": "ox5_compound",
+      "lv": "B2",
+      "w": "compound",
+      "pos": "n.",
+      "tr": "bileşik; yerleşke",
+      "ex": "a chemical compound"
+    },
+    {
+      "id": "ox5_comprehensive",
+      "lv": "B2",
+      "w": "comprehensive",
+      "pos": "adj.",
+      "tr": "kapsamlı",
+      "ex": "a comprehensive guide"
+    },
+    {
+      "id": "ox5_comprise",
+      "lv": "B2",
+      "w": "comprise",
+      "pos": "v.",
+      "tr": "oluşmak, içermek",
+      "ex": "comprise three parts"
+    },
+    {
+      "id": "ox5_compromise",
+      "lv": "C1",
+      "w": "compromise",
+      "pos": "n., v.",
+      "tr": "uzlaşma; ödün vermek",
+      "ex": "reach a compromise"
+    },
+    {
+      "id": "ox5_compulsory",
+      "lv": "B2",
+      "w": "compulsory",
+      "pos": "adj.",
+      "tr": "zorunlu",
+      "ex": "compulsory education"
+    },
+    {
+      "id": "ox5_compute",
+      "lv": "C1",
+      "w": "compute",
+      "pos": "v.",
+      "tr": "hesaplamak",
+      "ex": "compute the total"
+    },
+    {
+      "id": "ox5_conceal",
+      "lv": "C1",
+      "w": "conceal",
+      "pos": "v.",
+      "tr": "gizlemek, saklamak",
+      "ex": "conceal the truth"
+    },
+    {
+      "id": "ox5_concede",
+      "lv": "C1",
+      "w": "concede",
+      "pos": "v.",
+      "tr": "kabullenmek; yenilgiyi kabul",
+      "ex": "concede defeat"
+    },
+    {
+      "id": "ox5_conceive",
+      "lv": "C1",
+      "w": "conceive",
+      "pos": "v.",
+      "tr": "tasarlamak; gebe kalmak",
+      "ex": "conceive a plan"
+    },
+    {
+      "id": "ox5_conception",
+      "lv": "C1",
+      "w": "conception",
+      "pos": "n.",
+      "tr": "kavrayış; gebe kalma",
+      "ex": "a clear conception"
+    },
+    {
+      "id": "ox5_concession",
+      "lv": "C1",
+      "w": "concession",
+      "pos": "n.",
+      "tr": "taviz, ödün; imtiyaz",
+      "ex": "make a concession"
+    },
+    {
+      "id": "ox5_concrete",
+      "lv": "B2",
+      "w": "concrete",
+      "pos": "adj., n.",
+      "tr": "somut; beton",
+      "ex": "concrete evidence"
+    },
+    {
+      "id": "ox5_condemn",
+      "lv": "C1",
+      "w": "condemn",
+      "pos": "v.",
+      "tr": "kınamak; mahkûm etmek",
+      "ex": "condemn violence"
+    },
+    {
+      "id": "ox5_confer",
+      "lv": "C1",
+      "w": "confer",
+      "pos": "v.",
+      "tr": "danışmak; vermek",
+      "ex": "confer with colleagues"
+    },
+    {
+      "id": "ox5_confess",
+      "lv": "B2",
+      "w": "confess",
+      "pos": "v.",
+      "tr": "itiraf etmek",
+      "ex": "confess a crime"
+    },
+    {
+      "id": "ox5_confession",
+      "lv": "C1",
+      "w": "confession",
+      "pos": "n.",
+      "tr": "itiraf; günah çıkarma",
+      "ex": "a full confession"
+    },
+    {
+      "id": "ox5_configuration",
+      "lv": "C1",
+      "w": "configuration",
+      "pos": "n.",
+      "tr": "yapılandırma, biçim",
+      "ex": "system configuration"
+    },
+    {
+      "id": "ox5_confine",
+      "lv": "C1",
+      "w": "confine",
+      "pos": "v.",
+      "tr": "sınırlamak; hapsetmek",
+      "ex": "confined to bed"
+    },
+    {
+      "id": "ox5_confirmation",
+      "lv": "C1",
+      "w": "confirmation",
+      "pos": "n.",
+      "tr": "onay, teyit",
+      "ex": "a confirmation email"
+    },
+    {
+      "id": "ox5_confront",
+      "lv": "C1",
+      "w": "confront",
+      "pos": "v.",
+      "tr": "yüzleşmek; karşı koymak",
+      "ex": "confront the problem"
+    },
+    {
+      "id": "ox5_confrontation",
+      "lv": "C1",
+      "w": "confrontation",
+      "pos": "n.",
+      "tr": "yüzleşme, çatışma",
+      "ex": "a direct confrontation"
+    },
+    {
+      "id": "ox5_confusion",
+      "lv": "B2",
+      "w": "confusion",
+      "pos": "n.",
+      "tr": "kafa karışıklığı",
+      "ex": "cause confusion"
+    },
+    {
+      "id": "ox5_congratulate",
+      "lv": "C1",
+      "w": "congratulate",
+      "pos": "v.",
+      "tr": "tebrik etmek",
+      "ex": "congratulate the winner"
+    },
+    {
+      "id": "ox5_congregation",
+      "lv": "C1",
+      "w": "congregation",
+      "pos": "n.",
+      "tr": "cemaat",
+      "ex": "a large congregation"
+    },
+    {
+      "id": "ox5_congressional",
+      "lv": "C1",
+      "w": "congressional",
+      "pos": "adj.",
+      "tr": "kongreyle ilgili (ABD)",
+      "ex": "a congressional hearing"
+    },
+    {
+      "id": "ox5_conquer",
+      "lv": "C1",
+      "w": "conquer",
+      "pos": "v.",
+      "tr": "fethetmek; yenmek",
+      "ex": "conquer a nation"
+    },
+    {
+      "id": "ox5_conscience",
+      "lv": "C1",
+      "w": "conscience",
+      "pos": "n.",
+      "tr": "vicdan",
+      "ex": "a clear conscience"
+    },
+    {
+      "id": "ox5_consciousness",
+      "lv": "C1",
+      "w": "consciousness",
+      "pos": "n.",
+      "tr": "bilinç, şuur",
+      "ex": "lose consciousness"
+    },
+    {
+      "id": "ox5_consecutive",
+      "lv": "C1",
+      "w": "consecutive",
+      "pos": "adj.",
+      "tr": "ardışık, art arda",
+      "ex": "three consecutive wins"
+    },
+    {
+      "id": "ox5_consensus",
+      "lv": "C1",
+      "w": "consensus",
+      "pos": "n.",
+      "tr": "uzlaşı, fikir birliği",
+      "ex": "reach a consensus"
+    },
+    {
+      "id": "ox5_consent",
+      "lv": "C1",
+      "w": "consent",
+      "pos": "n., v.",
+      "tr": "rıza, onay",
+      "ex": "give consent"
+    },
+    {
+      "id": "ox5_conservation",
+      "lv": "B2",
+      "w": "conservation",
+      "pos": "n.",
+      "tr": "koruma, muhafaza",
+      "ex": "wildlife conservation"
+    },
+    {
+      "id": "ox5_conserve",
+      "lv": "C1",
+      "w": "conserve",
+      "pos": "v.",
+      "tr": "korumak; tasarruf etmek",
+      "ex": "conserve energy"
+    },
+    {
+      "id": "ox5_considerable",
+      "lv": "B2",
+      "w": "considerable",
+      "pos": "adj.",
+      "tr": "hatırı sayılır, epey",
+      "ex": "considerable damage"
+    },
+    {
+      "id": "ox5_considerably",
+      "lv": "B2",
+      "w": "considerably",
+      "pos": "adv.",
+      "tr": "önemli ölçüde",
+      "ex": "considerably larger"
+    },
+    {
+      "id": "ox5_consistency",
+      "lv": "C1",
+      "w": "consistency",
+      "pos": "n.",
+      "tr": "tutarlılık; kıvam",
+      "ex": "lack of consistency"
+    },
+    {
+      "id": "ox5_consistently",
+      "lv": "B2",
+      "w": "consistently",
+      "pos": "adv.",
+      "tr": "tutarlı biçimde, istikrarla",
+      "ex": "consistently good"
+    },
+    {
+      "id": "ox5_consolidate",
+      "lv": "C1",
+      "w": "consolidate",
+      "pos": "v.",
+      "tr": "pekiştirmek; birleştirmek",
+      "ex": "consolidate power"
+    },
+    {
+      "id": "ox5_conspiracy",
+      "lv": "B2",
+      "w": "conspiracy",
+      "pos": "n.",
+      "tr": "komplo, suikast",
+      "ex": "a conspiracy theory"
+    },
+    {
+      "id": "ox5_constitute",
+      "lv": "C1",
+      "w": "constitute",
+      "pos": "v.",
+      "tr": "oluşturmak, teşkil etmek",
+      "ex": "constitute a threat"
+    },
+    {
+      "id": "ox5_constitution",
+      "lv": "C1",
+      "w": "constitution",
+      "pos": "n.",
+      "tr": "anayasa; bünye",
+      "ex": "the US Constitution"
+    },
+    {
+      "id": "ox5_constitutional",
+      "lv": "C1",
+      "w": "constitutional",
+      "pos": "adj.",
+      "tr": "anayasal",
+      "ex": "a constitutional right"
+    },
+    {
+      "id": "ox5_constraint",
+      "lv": "C1",
+      "w": "constraint",
+      "pos": "n.",
+      "tr": "kısıtlama, engel",
+      "ex": "time constraints"
+    },
+    {
+      "id": "ox5_consult",
+      "lv": "B2",
+      "w": "consult",
+      "pos": "v.",
+      "tr": "danışmak",
+      "ex": "consult a doctor"
+    },
+    {
+      "id": "ox5_consultant",
+      "lv": "B2",
+      "w": "consultant",
+      "pos": "n.",
+      "tr": "danışman",
+      "ex": "a business consultant"
+    },
+    {
+      "id": "ox5_consultation",
+      "lv": "C1",
+      "w": "consultation",
+      "pos": "n.",
+      "tr": "danışma, istişare",
+      "ex": "public consultation"
+    },
+    {
+      "id": "ox5_consumption",
+      "lv": "B2",
+      "w": "consumption",
+      "pos": "n.",
+      "tr": "tüketim",
+      "ex": "energy consumption"
+    },
+    {
+      "id": "ox5_contemplate",
+      "lv": "C1",
+      "w": "contemplate",
+      "pos": "v.",
+      "tr": "derin düşünmek; tasarlamak",
+      "ex": "contemplate the future"
+    },
+    {
+      "id": "ox5_contempt",
+      "lv": "C1",
+      "w": "contempt",
+      "pos": "n.",
+      "tr": "küçümseme, hor görme",
+      "ex": "treat with contempt"
+    },
+    {
+      "id": "ox5_contend",
+      "lv": "C1",
+      "w": "contend",
+      "pos": "v.",
+      "tr": "iddia etmek; mücadele etmek",
+      "ex": "contend for the title"
+    },
+    {
+      "id": "ox5_contender",
+      "lv": "C1",
+      "w": "contender",
+      "pos": "n.",
+      "tr": "rakip, aday",
+      "ex": "a title contender"
+    },
+    {
+      "id": "ox5_content",
+      "lv": "C1",
+      "w": "content",
+      "pos": "adj.",
+      "tr": "memnun, hoşnut",
+      "ex": "content with life"
+    },
+    {
+      "id": "ox5_contention",
+      "lv": "C1",
+      "w": "contention",
+      "pos": "n.",
+      "tr": "iddia; çekişme",
+      "ex": "a point of contention"
+    },
+    {
+      "id": "ox5_continually",
+      "lv": "C1",
+      "w": "continually",
+      "pos": "adv.",
+      "tr": "sürekli, durmadan",
+      "ex": "continually changing"
+    },
+    {
+      "id": "ox5_contractor",
+      "lv": "C1",
+      "w": "contractor",
+      "pos": "n.",
+      "tr": "yüklenici, müteahhit",
+      "ex": "a building contractor"
+    },
+    {
+      "id": "ox5_contradiction",
+      "lv": "C1",
+      "w": "contradiction",
+      "pos": "n.",
+      "tr": "çelişki",
+      "ex": "a clear contradiction"
+    },
+    {
+      "id": "ox5_contrary",
+      "lv": "C1",
+      "w": "contrary",
+      "pos": "adj., n.",
+      "tr": "aksi, zıt; tersine",
+      "ex": "on the contrary"
+    },
+    {
+      "id": "ox5_contributor",
+      "lv": "C1",
+      "w": "contributor",
+      "pos": "n.",
+      "tr": "katkıda bulunan; bağışçı",
+      "ex": "a regular contributor"
+    },
+    {
+      "id": "ox5_controversial",
+      "lv": "B2",
+      "w": "controversial",
+      "pos": "adj.",
+      "tr": "tartışmalı",
+      "ex": "a controversial decision"
+    },
+    {
+      "id": "ox5_controversy",
+      "lv": "B2",
+      "w": "controversy",
+      "pos": "n.",
+      "tr": "tartışma, ihtilaf",
+      "ex": "cause controversy"
+    },
+    {
+      "id": "ox5_convenience",
+      "lv": "B2",
+      "w": "convenience",
+      "pos": "n.",
+      "tr": "kolaylık, rahatlık",
+      "ex": "for your convenience"
+    },
+    {
+      "id": "ox5_convention",
+      "lv": "B2",
+      "w": "convention",
+      "pos": "n.",
+      "tr": "gelenek; kongre",
+      "ex": "a social convention"
+    },
+    {
+      "id": "ox5_conventional",
+      "lv": "B2",
+      "w": "conventional",
+      "pos": "adj.",
+      "tr": "geleneksel, alışılmış",
+      "ex": "conventional methods"
+    },
+    {
+      "id": "ox5_conversion",
+      "lv": "C1",
+      "w": "conversion",
+      "pos": "n.",
+      "tr": "dönüşüm; din değiştirme",
+      "ex": "currency conversion"
+    },
+    {
+      "id": "ox5_convey",
+      "lv": "B2",
+      "w": "convey",
+      "pos": "v.",
+      "tr": "iletmek, aktarmak",
+      "ex": "convey a message"
+    },
+    {
+      "id": "ox5_convict",
+      "lv": "C1",
+      "w": "convict",
+      "pos": "v.",
+      "tr": "mahkûm etmek",
+      "ex": "convict the suspect"
+    },
+    {
+      "id": "ox5_conviction",
+      "lv": "C1",
+      "w": "conviction",
+      "pos": "n.",
+      "tr": "mahkûmiyet; kesin inanç",
+      "ex": "a strong conviction"
+    },
+    {
+      "id": "ox5_convincing",
+      "lv": "B2",
+      "w": "convincing",
+      "pos": "adj.",
+      "tr": "inandırıcı",
+      "ex": "a convincing argument"
+    },
+    {
+      "id": "ox5_cooperate",
+      "lv": "C1",
+      "w": "cooperate",
+      "pos": "v.",
+      "tr": "işbirliği yapmak",
+      "ex": "cooperate fully"
+    },
+    {
+      "id": "ox5_cooperative",
+      "lv": "C1",
+      "w": "cooperative",
+      "pos": "adj.",
+      "tr": "işbirlikçi, yardımsever",
+      "ex": "a cooperative attitude"
+    },
+    {
+      "id": "ox5_coordinate",
+      "lv": "C1",
+      "w": "coordinate",
+      "pos": "v.",
+      "tr": "eşgüdümlemek, koordine etmek",
+      "ex": "coordinate the team"
+    },
+    {
+      "id": "ox5_coordination",
+      "lv": "C1",
+      "w": "coordination",
+      "pos": "n.",
+      "tr": "eşgüdüm, koordinasyon",
+      "ex": "good coordination"
+    },
+    {
+      "id": "ox5_coordinator",
+      "lv": "C1",
+      "w": "coordinator",
+      "pos": "n.",
+      "tr": "koordinatör",
+      "ex": "the project coordinator"
+    },
+    {
+      "id": "ox5_cop",
+      "lv": "B2",
+      "w": "cop",
+      "pos": "n.",
+      "tr": "polis (argo)",
+      "ex": "call the cops"
+    },
+    {
+      "id": "ox5_cope",
+      "lv": "B2",
+      "w": "cope",
+      "pos": "v.",
+      "tr": "başa çıkmak",
+      "ex": "cope with stress"
+    },
+    {
+      "id": "ox5_copper",
+      "lv": "C1",
+      "w": "copper",
+      "pos": "n.",
+      "tr": "bakır",
+      "ex": "a copper wire"
+    },
+    {
+      "id": "ox5_copyright",
+      "lv": "C1",
+      "w": "copyright",
+      "pos": "n.",
+      "tr": "telif hakkı",
+      "ex": "copyright law"
+    },
+    {
+      "id": "ox5_correction",
+      "lv": "C1",
+      "w": "correction",
+      "pos": "n.",
+      "tr": "düzeltme",
+      "ex": "make a correction"
+    },
+    {
+      "id": "ox5_correlate",
+      "lv": "C1",
+      "w": "correlate",
+      "pos": "v.",
+      "tr": "bağıntılı olmak",
+      "ex": "strongly correlated"
+    },
+    {
+      "id": "ox5_correlation",
+      "lv": "C1",
+      "w": "correlation",
+      "pos": "n.",
+      "tr": "bağıntı, korelasyon",
+      "ex": "a clear correlation"
+    },
+    {
+      "id": "ox5_correspond",
+      "lv": "C1",
+      "w": "correspond",
+      "pos": "v.",
+      "tr": "uymak; yazışmak",
+      "ex": "correspond to the facts"
+    },
+    {
+      "id": "ox5_correspondence",
+      "lv": "C1",
+      "w": "correspondence",
+      "pos": "n.",
+      "tr": "yazışma; uygunluk",
+      "ex": "business correspondence"
+    },
+    {
+      "id": "ox5_correspondent",
+      "lv": "C1",
+      "w": "correspondent",
+      "pos": "n.",
+      "tr": "muhabir",
+      "ex": "a war correspondent"
+    },
+    {
+      "id": "ox5_corresponding",
+      "lv": "C1",
+      "w": "corresponding",
+      "pos": "adj.",
+      "tr": "karşılık gelen, ilgili",
+      "ex": "the corresponding figure"
+    },
+    {
+      "id": "ox5_corridor",
+      "lv": "B2",
+      "w": "corridor",
+      "pos": "n.",
+      "tr": "koridor",
+      "ex": "a long corridor"
+    },
+    {
+      "id": "ox5_corrupt",
+      "lv": "C1",
+      "w": "corrupt",
+      "pos": "adj.",
+      "tr": "yozlaşmış, rüşvetçi",
+      "ex": "a corrupt official"
+    },
+    {
+      "id": "ox5_corruption",
+      "lv": "C1",
+      "w": "corruption",
+      "pos": "n.",
+      "tr": "yolsuzluk, rüşvet",
+      "ex": "fight corruption"
+    },
+    {
+      "id": "ox5_costly",
+      "lv": "C1",
+      "w": "costly",
+      "pos": "adj.",
+      "tr": "pahalı, masraflı",
+      "ex": "a costly mistake"
+    },
+    {
+      "id": "ox5_councilor",
+      "lv": "C1",
+      "w": "councilor",
+      "pos": "n.",
+      "tr": "meclis üyesi",
+      "ex": "a local councilor"
+    },
+    {
+      "id": "ox5_counseling",
+      "lv": "C1",
+      "w": "counseling",
+      "pos": "n.",
+      "tr": "danışmanlık, rehberlik",
+      "ex": "career counseling"
+    },
+    {
+      "id": "ox5_counselor",
+      "lv": "C1",
+      "w": "counselor",
+      "pos": "n.",
+      "tr": "danışman, rehber",
+      "ex": "a school counselor"
+    },
+    {
+      "id": "ox5_counter",
+      "lv": "B2",
+      "w": "counter",
+      "pos": "n.",
+      "tr": "tezgah; sayaç",
+      "ex": "the kitchen counter"
+    },
+    {
+      "id": "ox5_counterpart",
+      "lv": "C1",
+      "w": "counterpart",
+      "pos": "n.",
+      "tr": "muadil, emsal",
+      "ex": "her French counterpart"
+    },
+    {
+      "id": "ox5_countless",
+      "lv": "C1",
+      "w": "countless",
+      "pos": "adj.",
+      "tr": "sayısız",
+      "ex": "countless times"
+    },
+    {
+      "id": "ox5_coup",
+      "lv": "C1",
+      "w": "coup",
+      "pos": "n.",
+      "tr": "darbe",
+      "ex": "a military coup"
+    },
+    {
+      "id": "ox5_courtesy",
+      "lv": "C1",
+      "w": "courtesy",
+      "pos": "n.",
+      "tr": "nezaket, incelik",
+      "ex": "common courtesy"
+    },
+    {
+      "id": "ox5_coverage",
+      "lv": "B2",
+      "w": "coverage",
+      "pos": "n.",
+      "tr": "kapsam; haber yapma",
+      "ex": "news coverage"
+    },
+    {
+      "id": "ox5_cowboy",
+      "lv": "B2",
+      "w": "cowboy",
+      "pos": "n.",
+      "tr": "kovboy",
+      "ex": "a cowboy hat"
+    },
+    {
+      "id": "ox5_crack",
+      "lv": "B2",
+      "w": "crack",
+      "pos": "v., n.",
+      "tr": "çatlamak; çatlak",
+      "ex": "a crack in the wall"
+    },
+    {
+      "id": "ox5_craft",
+      "lv": "B2",
+      "w": "craft",
+      "pos": "n., v.",
+      "tr": "zanaat, el sanatı",
+      "ex": "traditional crafts"
+    },
+    {
+      "id": "ox5_crawl",
+      "lv": "C1",
+      "w": "crawl",
+      "pos": "v.",
+      "tr": "emeklemek, sürünmek",
+      "ex": "the baby crawled"
+    },
+    {
+      "id": "ox5_creativity",
+      "lv": "B2",
+      "w": "creativity",
+      "pos": "n.",
+      "tr": "yaratıcılık",
+      "ex": "artistic creativity"
+    },
+    {
+      "id": "ox5_creator",
+      "lv": "C1",
+      "w": "creator",
+      "pos": "n.",
+      "tr": "yaratıcı, yapımcı",
+      "ex": "the creator of the show"
+    },
+    {
+      "id": "ox5_credibility",
+      "lv": "C1",
+      "w": "credibility",
+      "pos": "n.",
+      "tr": "inanılırlık, itibar",
+      "ex": "lose credibility"
+    },
+    {
+      "id": "ox5_credible",
+      "lv": "C1",
+      "w": "credible",
+      "pos": "adj.",
+      "tr": "inanılır, güvenilir",
+      "ex": "a credible witness"
+    },
+    {
+      "id": "ox5_creep",
+      "lv": "C1",
+      "w": "creep",
+      "pos": "v.",
+      "tr": "sürünmek, sokulmak",
+      "ex": "creep up slowly"
+    },
+    {
+      "id": "ox5_critically",
+      "lv": "B2",
+      "w": "critically",
+      "pos": "adv.",
+      "tr": "eleştirel; ciddi şekilde",
+      "ex": "critically ill"
+    },
+    {
+      "id": "ox5_critique",
+      "lv": "C1",
+      "w": "critique",
+      "pos": "n.",
+      "tr": "eleştiri, tahlil",
+      "ex": "a literary critique"
+    },
+    {
+      "id": "ox5_crown",
+      "lv": "C1",
+      "w": "crown",
+      "pos": "n.",
+      "tr": "taç",
+      "ex": "a golden crown"
+    },
+    {
+      "id": "ox5_crude",
+      "lv": "C1",
+      "w": "crude",
+      "pos": "adj.",
+      "tr": "ham; kaba",
+      "ex": "crude oil"
+    },
+    {
+      "id": "ox5_cruise",
+      "lv": "B2",
+      "w": "cruise",
+      "pos": "n., v.",
+      "tr": "gemi gezisi; seyretmek",
+      "ex": "a Caribbean cruise"
+    },
+    {
+      "id": "ox5_crush",
+      "lv": "C1",
+      "w": "crush",
+      "pos": "v.",
+      "tr": "ezmek; bastırmak",
+      "ex": "crush the garlic"
+    },
+    {
+      "id": "ox5_crystal",
+      "lv": "C1",
+      "w": "crystal",
+      "pos": "n.",
+      "tr": "kristal",
+      "ex": "a crystal glass"
+    },
+    {
+      "id": "ox5_cue",
+      "lv": "B2",
+      "w": "cue",
+      "pos": "n.",
+      "tr": "işaret, replik; ipucu",
+      "ex": "miss a cue"
+    },
+    {
+      "id": "ox5_cult",
+      "lv": "C1",
+      "w": "cult",
+      "pos": "n., adj.",
+      "tr": "tarikat, kült",
+      "ex": "a cult film"
+    },
+    {
+      "id": "ox5_cultivate",
+      "lv": "C1",
+      "w": "cultivate",
+      "pos": "v.",
+      "tr": "yetiştirmek; geliştirmek",
+      "ex": "cultivate crops"
+    },
+    {
+      "id": "ox5_curiosity",
+      "lv": "C1",
+      "w": "curiosity",
+      "pos": "n.",
+      "tr": "merak",
+      "ex": "out of curiosity"
+    },
+    {
+      "id": "ox5_curious",
+      "lv": "B2",
+      "w": "curious",
+      "pos": "adj.",
+      "tr": "meraklı; tuhaf",
+      "ex": "a curious child"
+    },
+    {
+      "id": "ox5_curriculum",
+      "lv": "B2",
+      "w": "curriculum",
+      "pos": "n.",
+      "tr": "müfredat",
+      "ex": "the school curriculum"
+    },
+    {
+      "id": "ox5_custody",
+      "lv": "C1",
+      "w": "custody",
+      "pos": "n.",
+      "tr": "gözaltı; velayet",
+      "ex": "in police custody"
+    },
+    {
+      "id": "ox5_cute",
+      "lv": "B2",
+      "w": "cute",
+      "pos": "adj.",
+      "tr": "sevimli, şirin",
+      "ex": "a cute puppy"
+    },
+    {
+      "id": "ox5_cutting",
+      "lv": "C1",
+      "w": "cutting",
+      "pos": "n.",
+      "tr": "kesik; gazete kupürü",
+      "ex": "a newspaper cutting"
+    },
+    {
+      "id": "ox5_cynical",
+      "lv": "C1",
+      "w": "cynical",
+      "pos": "adj.",
+      "tr": "alaycı, kötümser",
+      "ex": "a cynical remark"
+    },
+    {
+      "id": "ox5_dairy",
+      "lv": "B2",
+      "w": "dairy",
+      "pos": "n., adj.",
+      "tr": "süt ürünleri; mandıra",
+      "ex": "dairy products"
+    },
+    {
+      "id": "ox5_dam",
+      "lv": "C1",
+      "w": "dam",
+      "pos": "n.",
+      "tr": "baraj",
+      "ex": "build a dam"
+    },
+    {
+      "id": "ox5_damaging",
+      "lv": "C1",
+      "w": "damaging",
+      "pos": "adj.",
+      "tr": "zarar verici",
+      "ex": "damaging effects"
+    },
+    {
+      "id": "ox5_dare",
+      "lv": "B2",
+      "w": "dare",
+      "pos": "v.",
+      "tr": "cesaret etmek; meydan okumak",
+      "ex": "how dare you"
+    },
+    {
+      "id": "ox5_darkness",
+      "lv": "B2",
+      "w": "darkness",
+      "pos": "n.",
+      "tr": "karanlık",
+      "ex": "in total darkness"
+    },
+    {
+      "id": "ox5_database",
+      "lv": "B2",
+      "w": "database",
+      "pos": "n.",
+      "tr": "veritabanı",
+      "ex": "a large database"
+    },
+    {
+      "id": "ox5_dawn",
+      "lv": "C1",
+      "w": "dawn",
+      "pos": "n.",
+      "tr": "şafak, tan",
+      "ex": "at dawn"
+    },
+    {
+      "id": "ox5_deadline",
+      "lv": "B2",
+      "w": "deadline",
+      "pos": "n.",
+      "tr": "son teslim tarihi",
+      "ex": "meet the deadline"
+    },
+    {
+      "id": "ox5_deadly",
+      "lv": "B2",
+      "w": "deadly",
+      "pos": "adj.",
+      "tr": "ölümcül",
+      "ex": "a deadly disease"
+    },
+    {
+      "id": "ox5_dealer",
+      "lv": "B2",
+      "w": "dealer",
+      "pos": "n.",
+      "tr": "satıcı, bayi",
+      "ex": "a car dealer"
+    },
+    {
+      "id": "ox5_debris",
+      "lv": "C1",
+      "w": "debris",
+      "pos": "n.",
+      "tr": "enkaz, moloz",
+      "ex": "scattered debris"
+    },
+    {
+      "id": "ox5_debut",
+      "lv": "C1",
+      "w": "debut",
+      "pos": "n.",
+      "tr": "ilk çıkış, debüt",
+      "ex": "make her debut"
+    },
+    {
+      "id": "ox5_decision_making",
+      "lv": "C1",
+      "w": "decision-making",
+      "pos": "n.",
+      "tr": "karar verme",
+      "ex": "the decision-making process"
+    },
+    {
+      "id": "ox5_decisive",
+      "lv": "C1",
+      "w": "decisive",
+      "pos": "adj.",
+      "tr": "belirleyici; kararlı",
+      "ex": "a decisive victory"
+    },
+    {
+      "id": "ox5_deck",
+      "lv": "B2",
+      "w": "deck",
+      "pos": "n.",
+      "tr": "güverte; deste",
+      "ex": "the upper deck"
+    },
+    {
+      "id": "ox5_declaration",
+      "lv": "C1",
+      "w": "declaration",
+      "pos": "n.",
+      "tr": "bildiri, beyan",
+      "ex": "a public declaration"
+    },
+    {
+      "id": "ox5_dedicated",
+      "lv": "C1",
+      "w": "dedicated",
+      "pos": "adj.",
+      "tr": "adanmış, kendini veren",
+      "ex": "a dedicated teacher"
+    },
+    {
+      "id": "ox5_dedication",
+      "lv": "C1",
+      "w": "dedication",
+      "pos": "n.",
+      "tr": "adanmışlık; ithaf",
+      "ex": "years of dedication"
+    },
+    {
+      "id": "ox5_deed",
+      "lv": "C1",
+      "w": "deed",
+      "pos": "n.",
+      "tr": "eylem, iş; tapu",
+      "ex": "a good deed"
+    },
+    {
+      "id": "ox5_deem",
+      "lv": "C1",
+      "w": "deem",
+      "pos": "v.",
+      "tr": "saymak, addetmek",
+      "ex": "deemed necessary"
+    },
+    {
+      "id": "ox5_default",
+      "lv": "C1",
+      "w": "default",
+      "pos": "n.",
+      "tr": "varsayılan; temerrüt",
+      "ex": "by default"
+    },
+    {
+      "id": "ox5_defect",
+      "lv": "C1",
+      "w": "defect",
+      "pos": "n.",
+      "tr": "kusur, bozukluk",
+      "ex": "a manufacturing defect"
+    },
+    {
+      "id": "ox5_defender",
+      "lv": "B2",
+      "w": "defender",
+      "pos": "n.",
+      "tr": "savunucu; defans oyuncusu",
+      "ex": "a strong defender"
+    },
+    {
+      "id": "ox5_defensive",
+      "lv": "C1",
+      "w": "defensive",
+      "pos": "adj.",
+      "tr": "savunmacı, savunmaya yönelik",
+      "ex": "a defensive position"
+    },
+    {
+      "id": "ox5_deficiency",
+      "lv": "C1",
+      "w": "deficiency",
+      "pos": "n.",
+      "tr": "eksiklik, yetersizlik",
+      "ex": "a vitamin deficiency"
+    },
+    {
+      "id": "ox5_deficit",
+      "lv": "C1",
+      "w": "deficit",
+      "pos": "n.",
+      "tr": "açık (bütçe)",
+      "ex": "a budget deficit"
+    },
+    {
+      "id": "ox5_defy",
+      "lv": "C1",
+      "w": "defy",
+      "pos": "v.",
+      "tr": "karşı gelmek, meydan okumak",
+      "ex": "defy the rules"
+    },
+    {
+      "id": "ox5_delegate",
+      "lv": "C1",
+      "w": "delegate",
+      "pos": "n.",
+      "tr": "delege, temsilci",
+      "ex": "a conference delegate"
+    },
+    {
+      "id": "ox5_delegation",
+      "lv": "C1",
+      "w": "delegation",
+      "pos": "n.",
+      "tr": "heyet; yetki devri",
+      "ex": "a trade delegation"
+    },
+    {
+      "id": "ox5_delete",
+      "lv": "B2",
+      "w": "delete",
+      "pos": "v.",
+      "tr": "silmek",
+      "ex": "delete the file"
+    },
+    {
+      "id": "ox5_delicate",
+      "lv": "C1",
+      "w": "delicate",
+      "pos": "adj.",
+      "tr": "narin; hassas",
+      "ex": "a delicate balance"
+    },
+    {
+      "id": "ox5_delighted",
+      "lv": "B2",
+      "w": "delighted",
+      "pos": "adj.",
+      "tr": "çok memnun, mutlu",
+      "ex": "delighted to help"
+    },
+    {
+      "id": "ox5_democracy",
+      "lv": "B2",
+      "w": "democracy",
+      "pos": "n.",
+      "tr": "demokrasi",
+      "ex": "a modern democracy"
+    },
+    {
+      "id": "ox5_democratic",
+      "lv": "B2",
+      "w": "democratic",
+      "pos": "adj.",
+      "tr": "demokratik",
+      "ex": "a democratic society"
+    },
+    {
+      "id": "ox5_demon",
+      "lv": "C1",
+      "w": "demon",
+      "pos": "n.",
+      "tr": "şeytan, iblis",
+      "ex": "fight your demons"
+    },
+    {
+      "id": "ox5_demonstration",
+      "lv": "B2",
+      "w": "demonstration",
+      "pos": "n.",
+      "tr": "gösteri; tanıtım",
+      "ex": "a street demonstration"
+    },
+    {
+      "id": "ox5_denial",
+      "lv": "C1",
+      "w": "denial",
+      "pos": "n.",
+      "tr": "inkâr; ret",
+      "ex": "a flat denial"
+    },
+    {
+      "id": "ox5_denounce",
+      "lv": "C1",
+      "w": "denounce",
+      "pos": "v.",
+      "tr": "kınamak; ihbar etmek",
+      "ex": "denounce the regime"
+    },
+    {
+      "id": "ox5_dense",
+      "lv": "C1",
+      "w": "dense",
+      "pos": "adj.",
+      "tr": "yoğun; sık",
+      "ex": "a dense forest"
+    },
+    {
+      "id": "ox5_density",
+      "lv": "C1",
+      "w": "density",
+      "pos": "n.",
+      "tr": "yoğunluk",
+      "ex": "population density"
+    },
+    {
+      "id": "ox5_depart",
+      "lv": "B2",
+      "w": "depart",
+      "pos": "v.",
+      "tr": "ayrılmak, hareket etmek",
+      "ex": "the train departs"
+    },
+    {
+      "id": "ox5_dependence",
+      "lv": "C1",
+      "w": "dependence",
+      "pos": "n.",
+      "tr": "bağımlılık",
+      "ex": "drug dependence"
+    },
+    {
+      "id": "ox5_dependent",
+      "lv": "B2",
+      "w": "dependent",
+      "pos": "adj.",
+      "tr": "bağımlı",
+      "ex": "dependent on aid"
+    },
+    {
+      "id": "ox5_depict",
+      "lv": "C1",
+      "w": "depict",
+      "pos": "v.",
+      "tr": "betimlemek, resmetmek",
+      "ex": "depict a scene"
+    },
+    {
+      "id": "ox5_deploy",
+      "lv": "C1",
+      "w": "deploy",
+      "pos": "v.",
+      "tr": "konuşlandırmak; devreye almak",
+      "ex": "deploy troops"
+    },
+    {
+      "id": "ox5_deployment",
+      "lv": "C1",
+      "w": "deployment",
+      "pos": "n.",
+      "tr": "konuşlandırma",
+      "ex": "troop deployment"
+    },
+    {
+      "id": "ox5_deposit",
+      "lv": "B2",
+      "w": "deposit",
+      "pos": "n., v.",
+      "tr": "depozito; yatırmak; tortu",
+      "ex": "pay a deposit"
+    },
+    {
+      "id": "ox5_depression",
+      "lv": "B2",
+      "w": "depression",
+      "pos": "n.",
+      "tr": "depresyon; durgunluk",
+      "ex": "suffer from depression"
+    },
+    {
+      "id": "ox5_deprive",
+      "lv": "C1",
+      "w": "deprive",
+      "pos": "v.",
+      "tr": "yoksun bırakmak",
+      "ex": "deprive of sleep"
+    },
+    {
+      "id": "ox5_deputy",
+      "lv": "C1",
+      "w": "deputy",
+      "pos": "n.",
+      "tr": "yardımcı, vekil",
+      "ex": "the deputy mayor"
+    },
+    {
+      "id": "ox5_derive",
+      "lv": "B2",
+      "w": "derive",
+      "pos": "v.",
+      "tr": "türemek; elde etmek",
+      "ex": "derive from Latin"
+    },
+    {
+      "id": "ox5_descend",
+      "lv": "C1",
+      "w": "descend",
+      "pos": "v.",
+      "tr": "inmek, alçalmak",
+      "ex": "descend the stairs"
+    },
+    {
+      "id": "ox5_descent",
+      "lv": "C1",
+      "w": "descent",
+      "pos": "n.",
+      "tr": "iniş; soy",
+      "ex": "of Irish descent"
+    },
+    {
+      "id": "ox5_designate",
+      "lv": "C1",
+      "w": "designate",
+      "pos": "v.",
+      "tr": "belirlemek, atamak",
+      "ex": "a designated area"
+    },
+    {
+      "id": "ox5_desirable",
+      "lv": "C1",
+      "w": "desirable",
+      "pos": "adj.",
+      "tr": "arzu edilir, istenir",
+      "ex": "a desirable outcome"
+    },
+    {
+      "id": "ox5_desktop",
+      "lv": "C1",
+      "w": "desktop",
+      "pos": "n.",
+      "tr": "masaüstü",
+      "ex": "a desktop computer"
+    },
+    {
+      "id": "ox5_desperately",
+      "lv": "B2",
+      "w": "desperately",
+      "pos": "adv.",
+      "tr": "umutsuzca; çaresizce",
+      "ex": "desperately needed"
+    },
+    {
+      "id": "ox5_destruction",
+      "lv": "B2",
+      "w": "destruction",
+      "pos": "n.",
+      "tr": "yıkım, tahribat",
+      "ex": "mass destruction"
+    },
+    {
+      "id": "ox5_destructive",
+      "lv": "C1",
+      "w": "destructive",
+      "pos": "adj.",
+      "tr": "yıkıcı",
+      "ex": "destructive behavior"
+    },
+    {
+      "id": "ox5_detain",
+      "lv": "C1",
+      "w": "detain",
+      "pos": "v.",
+      "tr": "gözaltına almak; alıkoymak",
+      "ex": "detained by police"
+    },
+    {
+      "id": "ox5_detection",
+      "lv": "C1",
+      "w": "detection",
+      "pos": "n.",
+      "tr": "tespit, saptama",
+      "ex": "early detection"
+    },
+    {
+      "id": "ox5_detention",
+      "lv": "C1",
+      "w": "detention",
+      "pos": "n.",
+      "tr": "gözaltı; (okul) ceza",
+      "ex": "in detention"
+    },
+    {
+      "id": "ox5_deteriorate",
+      "lv": "C1",
+      "w": "deteriorate",
+      "pos": "v.",
+      "tr": "kötüleşmek, bozulmak",
+      "ex": "conditions deteriorated"
+    },
+    {
+      "id": "ox5_determination",
+      "lv": "B2",
+      "w": "determination",
+      "pos": "n.",
+      "tr": "kararlılık; belirleme",
+      "ex": "sheer determination"
+    },
+    {
+      "id": "ox5_devastate",
+      "lv": "C1",
+      "w": "devastate",
+      "pos": "v.",
+      "tr": "harap etmek; yıkmak",
+      "ex": "devastate a region"
+    },
+    {
+      "id": "ox5_devil",
+      "lv": "C1",
+      "w": "devil",
+      "pos": "n.",
+      "tr": "şeytan",
+      "ex": "the devil himself"
+    },
+    {
+      "id": "ox5_devise",
+      "lv": "C1",
+      "w": "devise",
+      "pos": "v.",
+      "tr": "tasarlamak, icat etmek",
+      "ex": "devise a plan"
+    },
+    {
+      "id": "ox5_devote",
+      "lv": "B2",
+      "w": "devote",
+      "pos": "v.",
+      "tr": "adamak, ayırmak",
+      "ex": "devote time to it"
+    },
+    {
+      "id": "ox5_diagnose",
+      "lv": "C1",
+      "w": "diagnose",
+      "pos": "v.",
+      "tr": "teşhis koymak",
+      "ex": "diagnosed with flu"
+    },
+    {
+      "id": "ox5_diagnosis",
+      "lv": "C1",
+      "w": "diagnosis",
+      "pos": "n.",
+      "tr": "teşhis, tanı",
+      "ex": "an early diagnosis"
+    },
+    {
+      "id": "ox5_dictate",
+      "lv": "C1",
+      "w": "dictate",
+      "pos": "v.",
+      "tr": "dikte etmek; dayatmak",
+      "ex": "dictate terms"
+    },
+    {
+      "id": "ox5_dictator",
+      "lv": "C1",
+      "w": "dictator",
+      "pos": "n.",
+      "tr": "diktatör",
+      "ex": "a brutal dictator"
+    },
+    {
+      "id": "ox5_differ",
+      "lv": "B2",
+      "w": "differ",
+      "pos": "v.",
+      "tr": "farklı olmak",
+      "ex": "opinions differ"
+    },
+    {
+      "id": "ox5_differentiate",
+      "lv": "C1",
+      "w": "differentiate",
+      "pos": "v.",
+      "tr": "ayırt etmek",
+      "ex": "differentiate between them"
+    },
+    {
+      "id": "ox5_dignity",
+      "lv": "C1",
+      "w": "dignity",
+      "pos": "n.",
+      "tr": "onur, haysiyet",
+      "ex": "with dignity"
+    },
+    {
+      "id": "ox5_dilemma",
+      "lv": "C1",
+      "w": "dilemma",
+      "pos": "n.",
+      "tr": "ikilem",
+      "ex": "a moral dilemma"
+    },
+    {
+      "id": "ox5_dime",
+      "lv": "B2",
+      "w": "dime",
+      "pos": "n.",
+      "tr": "on sent (ABD)",
+      "ex": "not a dime"
+    },
+    {
+      "id": "ox5_dimension",
+      "lv": "C1",
+      "w": "dimension",
+      "pos": "n.",
+      "tr": "boyut",
+      "ex": "a new dimension"
+    },
+    {
+      "id": "ox5_diminish",
+      "lv": "C1",
+      "w": "diminish",
+      "pos": "v.",
+      "tr": "azalmak, azaltmak",
+      "ex": "diminish over time"
+    },
+    {
+      "id": "ox5_dip",
+      "lv": "C1",
+      "w": "dip",
+      "pos": "v.",
+      "tr": "daldırmak, batırmak",
+      "ex": "dip in water"
+    },
+    {
+      "id": "ox5_diplomat",
+      "lv": "C1",
+      "w": "diplomat",
+      "pos": "n.",
+      "tr": "diplomat",
+      "ex": "a senior diplomat"
+    },
+    {
+      "id": "ox5_diplomatic",
+      "lv": "C1",
+      "w": "diplomatic",
+      "pos": "adj.",
+      "tr": "diplomatik",
+      "ex": "diplomatic relations"
+    },
+    {
+      "id": "ox5_directory",
+      "lv": "C1",
+      "w": "directory",
+      "pos": "n.",
+      "tr": "rehber; dizin (klasör)",
+      "ex": "a phone directory"
+    },
+    {
+      "id": "ox5_disability",
+      "lv": "B2",
+      "w": "disability",
+      "pos": "n.",
+      "tr": "engellilik, sakatlık",
+      "ex": "a physical disability"
+    },
+    {
+      "id": "ox5_disabled",
+      "lv": "B2",
+      "w": "disabled",
+      "pos": "adj.",
+      "tr": "engelli",
+      "ex": "disabled access"
+    },
+    {
+      "id": "ox5_disagreement",
+      "lv": "B2",
+      "w": "disagreement",
+      "pos": "n.",
+      "tr": "anlaşmazlık",
+      "ex": "a minor disagreement"
+    },
+    {
+      "id": "ox5_disappoint",
+      "lv": "B2",
+      "w": "disappoint",
+      "pos": "v.",
+      "tr": "hayal kırıklığına uğratmak",
+      "ex": "don't disappoint me"
+    },
+    {
+      "id": "ox5_disappointment",
+      "lv": "B2",
+      "w": "disappointment",
+      "pos": "n.",
+      "tr": "hayal kırıklığı",
+      "ex": "a big disappointment"
+    },
+    {
+      "id": "ox5_disastrous",
+      "lv": "C1",
+      "w": "disastrous",
+      "pos": "adj.",
+      "tr": "felaket gibi, yıkıcı",
+      "ex": "a disastrous result"
+    },
+    {
+      "id": "ox5_discard",
+      "lv": "C1",
+      "w": "discard",
+      "pos": "v.",
+      "tr": "atmak, elden çıkarmak",
+      "ex": "discard old clothes"
+    },
+    {
+      "id": "ox5_discharge",
+      "lv": "C1",
+      "w": "discharge",
+      "pos": "v.",
+      "tr": "taburcu etmek; boşaltmak",
+      "ex": "discharged from hospital"
+    },
+    {
+      "id": "ox5_disclose",
+      "lv": "C1",
+      "w": "disclose",
+      "pos": "v.",
+      "tr": "açıklamak, ifşa etmek",
+      "ex": "disclose the details"
+    },
+    {
+      "id": "ox5_disclosure",
+      "lv": "C1",
+      "w": "disclosure",
+      "pos": "n.",
+      "tr": "ifşa, açıklama",
+      "ex": "full disclosure"
+    },
+    {
+      "id": "ox5_discourage",
+      "lv": "B2",
+      "w": "discourage",
+      "pos": "v.",
+      "tr": "cesaretini kırmak; caydırmak",
+      "ex": "discourage smoking"
+    },
+    {
+      "id": "ox5_discourse",
+      "lv": "C1",
+      "w": "discourse",
+      "pos": "n.",
+      "tr": "söylem",
+      "ex": "political discourse"
+    },
+    {
+      "id": "ox5_discretion",
+      "lv": "C1",
+      "w": "discretion",
+      "pos": "n.",
+      "tr": "takdir yetkisi; sağgörü",
+      "ex": "use your discretion"
+    },
+    {
+      "id": "ox5_discrimination",
+      "lv": "C1",
+      "w": "discrimination",
+      "pos": "n.",
+      "tr": "ayrımcılık",
+      "ex": "racial discrimination"
+    },
+    {
+      "id": "ox5_dismissal",
+      "lv": "C1",
+      "w": "dismissal",
+      "pos": "n.",
+      "tr": "işten çıkarma; ret",
+      "ex": "unfair dismissal"
+    },
+    {
+      "id": "ox5_disorder",
+      "lv": "B2",
+      "w": "disorder",
+      "pos": "n.",
+      "tr": "bozukluk; düzensizlik",
+      "ex": "a sleep disorder"
+    },
+    {
+      "id": "ox5_displace",
+      "lv": "C1",
+      "w": "displace",
+      "pos": "v.",
+      "tr": "yerinden etmek",
+      "ex": "displaced families"
+    },
+    {
+      "id": "ox5_disposal",
+      "lv": "C1",
+      "w": "disposal",
+      "pos": "n.",
+      "tr": "bertaraf, elden çıkarma",
+      "ex": "waste disposal"
+    },
+    {
+      "id": "ox5_dispose",
+      "lv": "C1",
+      "w": "dispose",
+      "pos": "v.",
+      "tr": "atmak, bertaraf etmek",
+      "ex": "dispose of waste"
+    },
+    {
+      "id": "ox5_dispute",
+      "lv": "C1",
+      "w": "dispute",
+      "pos": "n., v.",
+      "tr": "anlaşmazlık; itiraz etmek",
+      "ex": "a legal dispute"
+    },
+    {
+      "id": "ox5_disrupt",
+      "lv": "C1",
+      "w": "disrupt",
+      "pos": "v.",
+      "tr": "aksatmak, bozmak",
+      "ex": "disrupt the meeting"
+    },
+    {
+      "id": "ox5_disruption",
+      "lv": "C1",
+      "w": "disruption",
+      "pos": "n.",
+      "tr": "aksama, kesinti",
+      "ex": "cause disruption"
+    },
+    {
+      "id": "ox5_dissolve",
+      "lv": "C1",
+      "w": "dissolve",
+      "pos": "v.",
+      "tr": "çözmek/erimek; feshetmek",
+      "ex": "dissolve in water"
+    },
+    {
+      "id": "ox5_distant",
+      "lv": "B2",
+      "w": "distant",
+      "pos": "adj.",
+      "tr": "uzak",
+      "ex": "a distant land"
+    },
+    {
+      "id": "ox5_distinct",
+      "lv": "B2",
+      "w": "distinct",
+      "pos": "adj.",
+      "tr": "belirgin; ayrı",
+      "ex": "two distinct types"
+    },
+    {
+      "id": "ox5_distinction",
+      "lv": "C1",
+      "w": "distinction",
+      "pos": "n.",
+      "tr": "ayrım; üstünlük",
+      "ex": "an important distinction"
+    },
+    {
+      "id": "ox5_distinctive",
+      "lv": "C1",
+      "w": "distinctive",
+      "pos": "adj.",
+      "tr": "ayırt edici, kendine özgü",
+      "ex": "a distinctive style"
+    },
+    {
+      "id": "ox5_distinguish",
+      "lv": "B2",
+      "w": "distinguish",
+      "pos": "v.",
+      "tr": "ayırt etmek",
+      "ex": "distinguish right from wrong"
+    },
+    {
+      "id": "ox5_distort",
+      "lv": "C1",
+      "w": "distort",
+      "pos": "v.",
+      "tr": "çarpıtmak",
+      "ex": "distort the truth"
+    },
+    {
+      "id": "ox5_distract",
+      "lv": "B2",
+      "w": "distract",
+      "pos": "v.",
+      "tr": "dikkatini dağıtmak",
+      "ex": "don't distract me"
+    },
+    {
+      "id": "ox5_distress",
+      "lv": "C1",
+      "w": "distress",
+      "pos": "n., v.",
+      "tr": "sıkıntı, keder",
+      "ex": "in great distress"
+    },
+    {
+      "id": "ox5_disturb",
+      "lv": "B2",
+      "w": "disturb",
+      "pos": "v.",
+      "tr": "rahatsız etmek",
+      "ex": "do not disturb"
+    },
+    {
+      "id": "ox5_disturbing",
+      "lv": "C1",
+      "w": "disturbing",
+      "pos": "adj.",
+      "tr": "rahatsız edici",
+      "ex": "a disturbing image"
+    },
+    {
+      "id": "ox5_dive",
+      "lv": "B2",
+      "w": "dive",
+      "pos": "v., n.",
+      "tr": "dalmak; dalış",
+      "ex": "dive into the pool"
+    },
+    {
+      "id": "ox5_diverse",
+      "lv": "B2",
+      "w": "diverse",
+      "pos": "adj.",
+      "tr": "çeşitli, farklı",
+      "ex": "a diverse group"
+    },
+    {
+      "id": "ox5_diversity",
+      "lv": "B2",
+      "w": "diversity",
+      "pos": "n.",
+      "tr": "çeşitlilik",
+      "ex": "cultural diversity"
+    },
+    {
+      "id": "ox5_divert",
+      "lv": "C1",
+      "w": "divert",
+      "pos": "v.",
+      "tr": "yönünü değiştirmek; saptırmak",
+      "ex": "divert traffic"
+    },
+    {
+      "id": "ox5_divine",
+      "lv": "C1",
+      "w": "divine",
+      "pos": "adj.",
+      "tr": "ilahi, tanrısal",
+      "ex": "divine power"
+    },
+    {
+      "id": "ox5_divorce",
+      "lv": "B2",
+      "w": "divorce",
+      "pos": "n., v.",
+      "tr": "boşanma; boşanmak",
+      "ex": "file for divorce"
+    },
+    {
+      "id": "ox5_doctrine",
+      "lv": "C1",
+      "w": "doctrine",
+      "pos": "n.",
+      "tr": "öğreti, doktrin",
+      "ex": "a religious doctrine"
+    },
+    {
+      "id": "ox5_documentation",
+      "lv": "C1",
+      "w": "documentation",
+      "pos": "n.",
+      "tr": "belgeleme, evrak",
+      "ex": "proper documentation"
+    },
+    {
+      "id": "ox5_domain",
+      "lv": "C1",
+      "w": "domain",
+      "pos": "n.",
+      "tr": "alan; etki alanı",
+      "ex": "a public domain"
+    },
+    {
+      "id": "ox5_dominance",
+      "lv": "C1",
+      "w": "dominance",
+      "pos": "n.",
+      "tr": "egemenlik, üstünlük",
+      "ex": "market dominance"
+    },
+    {
+      "id": "ox5_dominant",
+      "lv": "B2",
+      "w": "dominant",
+      "pos": "adj.",
+      "tr": "baskın, hâkim",
+      "ex": "a dominant role"
+    },
+    {
+      "id": "ox5_donation",
+      "lv": "B2",
+      "w": "donation",
+      "pos": "n.",
+      "tr": "bağış",
+      "ex": "a generous donation"
+    },
+    {
+      "id": "ox5_donor",
+      "lv": "C1",
+      "w": "donor",
+      "pos": "n.",
+      "tr": "bağışçı; donör",
+      "ex": "a blood donor"
+    },
+    {
+      "id": "ox5_dose",
+      "lv": "C1",
+      "w": "dose",
+      "pos": "n.",
+      "tr": "doz",
+      "ex": "a small dose"
+    },
+    {
+      "id": "ox5_dot",
+      "lv": "B2",
+      "w": "dot",
+      "pos": "n.",
+      "tr": "nokta",
+      "ex": "a tiny dot"
+    },
+    {
+      "id": "ox5_drain",
+      "lv": "C1",
+      "w": "drain",
+      "pos": "v.",
+      "tr": "boşaltmak; suyunu süzmek",
+      "ex": "drain the water"
+    },
+    {
+      "id": "ox5_dramatically",
+      "lv": "B2",
+      "w": "dramatically",
+      "pos": "adv.",
+      "tr": "çarpıcı biçimde",
+      "ex": "rise dramatically"
+    },
+    {
+      "id": "ox5_drift",
+      "lv": "C1",
+      "w": "drift",
+      "pos": "v.",
+      "tr": "sürüklenmek",
+      "ex": "drift away"
+    },
+    {
+      "id": "ox5_driving",
+      "lv": "C1",
+      "w": "driving",
+      "pos": "adj.",
+      "tr": "itici, yönlendirici",
+      "ex": "the driving force"
+    },
+    {
+      "id": "ox5_drought",
+      "lv": "B2",
+      "w": "drought",
+      "pos": "n.",
+      "tr": "kuraklık",
+      "ex": "a severe drought"
+    },
+    {
+      "id": "ox5_drown",
+      "lv": "C1",
+      "w": "drown",
+      "pos": "v.",
+      "tr": "boğulmak",
+      "ex": "nearly drowned"
+    },
+    {
+      "id": "ox5_dual",
+      "lv": "C1",
+      "w": "dual",
+      "pos": "adj.",
+      "tr": "çift, ikili",
+      "ex": "dual nationality"
+    },
+    {
+      "id": "ox5_dub",
+      "lv": "C1",
+      "w": "dub",
+      "pos": "v.",
+      "tr": "adlandırmak; (film) dublaj",
+      "ex": "dubbed in Turkish"
+    },
+    {
+      "id": "ox5_dull",
+      "lv": "B2",
+      "w": "dull",
+      "pos": "adj.",
+      "tr": "sıkıcı; donuk",
+      "ex": "a dull day"
+    },
+    {
+      "id": "ox5_dumb",
+      "lv": "C1",
+      "w": "dumb",
+      "pos": "adj.",
+      "tr": "aptal; dilsiz",
+      "ex": "a dumb idea"
+    },
+    {
+      "id": "ox5_dump",
+      "lv": "B2",
+      "w": "dump",
+      "pos": "v.",
+      "tr": "atmak, dökmek; terk etmek",
+      "ex": "dump the rubbish"
+    },
+    {
+      "id": "ox5_duo",
+      "lv": "C1",
+      "w": "duo",
+      "pos": "n.",
+      "tr": "ikili, düet",
+      "ex": "a musical duo"
+    },
+    {
+      "id": "ox5_duration",
+      "lv": "B2",
+      "w": "duration",
+      "pos": "n.",
+      "tr": "süre",
+      "ex": "the duration of the trip"
+    },
+    {
+      "id": "ox5_dynamic",
+      "lv": "B2",
+      "w": "dynamic",
+      "pos": "adj., n.",
+      "tr": "dinamik; değişim",
+      "ex": "a dynamic leader"
+    },
+    {
+      "id": "ox5_eager",
+      "lv": "B2",
+      "w": "eager",
+      "pos": "adj.",
+      "tr": "istekli, hevesli",
+      "ex": "eager to learn"
+    },
+    {
+      "id": "ox5_earnings",
+      "lv": "C1",
+      "w": "earnings",
+      "pos": "n.",
+      "tr": "kazanç, gelir",
+      "ex": "annual earnings"
+    },
+    {
+      "id": "ox5_ease",
+      "lv": "C1",
+      "w": "ease",
+      "pos": "n., v.",
+      "tr": "kolaylık; hafifletmek",
+      "ex": "ease the pain"
+    },
+    {
+      "id": "ox5_echo",
+      "lv": "C1",
+      "w": "echo",
+      "pos": "v., n.",
+      "tr": "yankı(lanmak)",
+      "ex": "an echo in the cave"
+    },
+    {
+      "id": "ox5_ecological",
+      "lv": "C1",
+      "w": "ecological",
+      "pos": "adj.",
+      "tr": "ekolojik",
+      "ex": "ecological damage"
+    },
+    {
+      "id": "ox5_economics",
+      "lv": "B2",
+      "w": "economics",
+      "pos": "n.",
+      "tr": "iktisat, ekonomi (bilimi)",
+      "ex": "study economics"
+    },
+    {
+      "id": "ox5_economist",
+      "lv": "B2",
+      "w": "economist",
+      "pos": "n.",
+      "tr": "iktisatçı",
+      "ex": "a leading economist"
+    },
+    {
+      "id": "ox5_editorial",
+      "lv": "B2",
+      "w": "editorial",
+      "pos": "adj.",
+      "tr": "başyazı; yazı işleriyle ilgili",
+      "ex": "an editorial board"
+    },
+    {
+      "id": "ox5_educator",
+      "lv": "C1",
+      "w": "educator",
+      "pos": "n.",
+      "tr": "eğitimci",
+      "ex": "a respected educator"
+    },
+    {
+      "id": "ox5_effectiveness",
+      "lv": "C1",
+      "w": "effectiveness",
+      "pos": "n.",
+      "tr": "etkililik",
+      "ex": "measure effectiveness"
+    },
+    {
+      "id": "ox5_efficiency",
+      "lv": "C1",
+      "w": "efficiency",
+      "pos": "n.",
+      "tr": "verimlilik",
+      "ex": "energy efficiency"
+    },
+    {
+      "id": "ox5_efficiently",
+      "lv": "B2",
+      "w": "efficiently",
+      "pos": "adv.",
+      "tr": "verimli biçimde",
+      "ex": "work efficiently"
+    },
+    {
+      "id": "ox5_ego",
+      "lv": "C1",
+      "w": "ego",
+      "pos": "n.",
+      "tr": "ego, benlik",
+      "ex": "a big ego"
+    },
+    {
+      "id": "ox5_elaborate",
+      "lv": "C1",
+      "w": "elaborate",
+      "pos": "adj.",
+      "tr": "ayrıntılı, özenli",
+      "ex": "an elaborate plan"
+    },
+    {
+      "id": "ox5_elbow",
+      "lv": "B2",
+      "w": "elbow",
+      "pos": "n.",
+      "tr": "dirsek",
+      "ex": "bend your elbow"
+    },
+    {
+      "id": "ox5_electoral",
+      "lv": "C1",
+      "w": "electoral",
+      "pos": "adj.",
+      "tr": "seçimle ilgili",
+      "ex": "the electoral system"
+    },
+    {
+      "id": "ox5_electronics",
+      "lv": "B2",
+      "w": "electronics",
+      "pos": "n.",
+      "tr": "elektronik (eşya/bilim)",
+      "ex": "consumer electronics"
+    },
+    {
+      "id": "ox5_elegant",
+      "lv": "B2",
+      "w": "elegant",
+      "pos": "adj.",
+      "tr": "zarif, şık",
+      "ex": "an elegant dress"
+    },
+    {
+      "id": "ox5_elementary",
+      "lv": "B2",
+      "w": "elementary",
+      "pos": "adj.",
+      "tr": "temel; ilkokul",
+      "ex": "elementary school"
+    },
+    {
+      "id": "ox5_elevate",
+      "lv": "C1",
+      "w": "elevate",
+      "pos": "v.",
+      "tr": "yükseltmek",
+      "ex": "elevate the level"
+    },
+    {
+      "id": "ox5_eligible",
+      "lv": "C1",
+      "w": "eligible",
+      "pos": "adj.",
+      "tr": "uygun, hak sahibi",
+      "ex": "eligible to vote"
+    },
+    {
+      "id": "ox5_eliminate",
+      "lv": "B2",
+      "w": "eliminate",
+      "pos": "v.",
+      "tr": "ortadan kaldırmak, elemek",
+      "ex": "eliminate errors"
+    },
+    {
+      "id": "ox5_elite",
+      "lv": "C1",
+      "w": "elite",
+      "pos": "n.",
+      "tr": "seçkinler, elit",
+      "ex": "the ruling elite"
+    },
+    {
+      "id": "ox5_embark",
+      "lv": "C1",
+      "w": "embark",
+      "pos": "v.",
+      "tr": "başlamak; gemiye binmek",
+      "ex": "embark on a journey"
+    },
+    {
+      "id": "ox5_embarrassment",
+      "lv": "C1",
+      "w": "embarrassment",
+      "pos": "n.",
+      "tr": "utanç, mahcubiyet",
+      "ex": "cause embarrassment"
+    },
+    {
+      "id": "ox5_embassy",
+      "lv": "C1",
+      "w": "embassy",
+      "pos": "n.",
+      "tr": "büyükelçilik",
+      "ex": "the US embassy"
+    },
+    {
+      "id": "ox5_embed",
+      "lv": "C1",
+      "w": "embed",
+      "pos": "v.",
+      "tr": "gömmek, yerleştirmek",
+      "ex": "embed a video"
+    },
+    {
+      "id": "ox5_embody",
+      "lv": "C1",
+      "w": "embody",
+      "pos": "v.",
+      "tr": "somutlaştırmak, temsil etmek",
+      "ex": "embody an ideal"
+    },
+    {
+      "id": "ox5_embrace",
+      "lv": "B2",
+      "w": "embrace",
+      "pos": "v.",
+      "tr": "kucaklamak; benimsemek",
+      "ex": "embrace change"
+    },
+    {
+      "id": "ox5_emergence",
+      "lv": "C1",
+      "w": "emergence",
+      "pos": "n.",
+      "tr": "ortaya çıkış",
+      "ex": "the emergence of new ideas"
+    },
+    {
+      "id": "ox5_emission",
+      "lv": "B2",
+      "w": "emission",
+      "pos": "n.",
+      "tr": "salım, emisyon",
+      "ex": "carbon emissions"
+    },
+    {
+      "id": "ox5_emotionally",
+      "lv": "B2",
+      "w": "emotionally",
+      "pos": "adv.",
+      "tr": "duygusal olarak",
+      "ex": "emotionally drained"
+    },
+    {
+      "id": "ox5_empire",
+      "lv": "B2",
+      "w": "empire",
+      "pos": "n.",
+      "tr": "imparatorluk",
+      "ex": "the Roman Empire"
+    },
+    {
+      "id": "ox5_empirical",
+      "lv": "C1",
+      "w": "empirical",
+      "pos": "adj.",
+      "tr": "deneysel, görgül",
+      "ex": "empirical evidence"
+    },
+    {
+      "id": "ox5_empower",
+      "lv": "C1",
+      "w": "empower",
+      "pos": "v.",
+      "tr": "güçlendirmek, yetki vermek",
+      "ex": "empower women"
+    },
+    {
+      "id": "ox5_enact",
+      "lv": "C1",
+      "w": "enact",
+      "pos": "v.",
+      "tr": "yasalaştırmak; canlandırmak",
+      "ex": "enact a law"
+    },
+    {
+      "id": "ox5_encompass",
+      "lv": "C1",
+      "w": "encompass",
+      "pos": "v.",
+      "tr": "kapsamak, içermek",
+      "ex": "encompass many fields"
+    },
+    {
+      "id": "ox5_encouragement",
+      "lv": "C1",
+      "w": "encouragement",
+      "pos": "n.",
+      "tr": "teşvik, cesaretlendirme",
+      "ex": "words of encouragement"
+    },
+    {
+      "id": "ox5_encouraging",
+      "lv": "C1",
+      "w": "encouraging",
+      "pos": "adj.",
+      "tr": "yüreklendirici, umut verici",
+      "ex": "encouraging news"
+    },
+    {
+      "id": "ox5_endeavor",
+      "lv": "C1",
+      "w": "endeavor",
+      "pos": "n.",
+      "tr": "çaba, gayret",
+      "ex": "a human endeavor"
+    },
+    {
+      "id": "ox5_endless",
+      "lv": "C1",
+      "w": "endless",
+      "pos": "adj.",
+      "tr": "sonsuz, bitmeyen",
+      "ex": "endless possibilities"
+    },
+    {
+      "id": "ox5_endorse",
+      "lv": "C1",
+      "w": "endorse",
+      "pos": "v.",
+      "tr": "desteklemek, onaylamak",
+      "ex": "endorse a candidate"
+    },
+    {
+      "id": "ox5_endorsement",
+      "lv": "C1",
+      "w": "endorsement",
+      "pos": "n.",
+      "tr": "onay, destek",
+      "ex": "a public endorsement"
+    },
+    {
+      "id": "ox5_endure",
+      "lv": "C1",
+      "w": "endure",
+      "pos": "v.",
+      "tr": "dayanmak, katlanmak",
+      "ex": "endure hardship"
+    },
+    {
+      "id": "ox5_enforce",
+      "lv": "C1",
+      "w": "enforce",
+      "pos": "v.",
+      "tr": "uygulamak, yürürlüğe koymak",
+      "ex": "enforce the rules"
+    },
+    {
+      "id": "ox5_enforcement",
+      "lv": "C1",
+      "w": "enforcement",
+      "pos": "n.",
+      "tr": "uygulama, yaptırım",
+      "ex": "law enforcement"
+    },
+    {
+      "id": "ox5_engagement",
+      "lv": "C1",
+      "w": "engagement",
+      "pos": "n.",
+      "tr": "nişan; katılım",
+      "ex": "an engagement ring"
+    },
+    {
+      "id": "ox5_engaging",
+      "lv": "C1",
+      "w": "engaging",
+      "pos": "adj.",
+      "tr": "ilgi çekici, sevimli",
+      "ex": "an engaging speaker"
+    },
+    {
+      "id": "ox5_enjoyable",
+      "lv": "B2",
+      "w": "enjoyable",
+      "pos": "adj.",
+      "tr": "keyifli, zevkli",
+      "ex": "an enjoyable evening"
+    },
+    {
+      "id": "ox5_enrich",
+      "lv": "C1",
+      "w": "enrich",
+      "pos": "v.",
+      "tr": "zenginleştirmek",
+      "ex": "enrich your life"
+    },
+    {
+      "id": "ox5_enroll",
+      "lv": "C1",
+      "w": "enroll",
+      "pos": "v.",
+      "tr": "kaydolmak, kaydetmek",
+      "ex": "enroll in a course"
+    },
+    {
+      "id": "ox5_ensue",
+      "lv": "C1",
+      "w": "ensue",
+      "pos": "v.",
+      "tr": "ardından gelmek",
+      "ex": "chaos ensued"
+    },
+    {
+      "id": "ox5_enterprise",
+      "lv": "C1",
+      "w": "enterprise",
+      "pos": "n.",
+      "tr": "girişim; işletme",
+      "ex": "a private enterprise"
+    },
+    {
+      "id": "ox5_entertaining",
+      "lv": "B2",
+      "w": "entertaining",
+      "pos": "adj.",
+      "tr": "eğlenceli",
+      "ex": "an entertaining film"
+    },
+    {
+      "id": "ox5_enthusiast",
+      "lv": "C1",
+      "w": "enthusiast",
+      "pos": "n.",
+      "tr": "meraklı, hayran",
+      "ex": "a sports enthusiast"
+    },
+    {
+      "id": "ox5_entitle",
+      "lv": "C1",
+      "w": "entitle",
+      "pos": "v.",
+      "tr": "hak vermek; adlandırmak",
+      "ex": "entitled to a refund"
+    },
+    {
+      "id": "ox5_entity",
+      "lv": "C1",
+      "w": "entity",
+      "pos": "n.",
+      "tr": "varlık, kuruluş",
+      "ex": "a legal entity"
+    },
+    {
+      "id": "ox5_envelope",
+      "lv": "B2",
+      "w": "envelope",
+      "pos": "n.",
+      "tr": "zarf",
+      "ex": "seal the envelope"
+    },
+    {
+      "id": "ox5_epidemic",
+      "lv": "C1",
+      "w": "epidemic",
+      "pos": "n.",
+      "tr": "salgın",
+      "ex": "a flu epidemic"
+    },
+    {
+      "id": "ox5_equality",
+      "lv": "C1",
+      "w": "equality",
+      "pos": "n.",
+      "tr": "eşitlik",
+      "ex": "gender equality"
+    },
+    {
+      "id": "ox5_equation",
+      "lv": "C1",
+      "w": "equation",
+      "pos": "n.",
+      "tr": "denklem",
+      "ex": "solve the equation"
+    },
+    {
+      "id": "ox5_equip",
+      "lv": "B2",
+      "w": "equip",
+      "pos": "v.",
+      "tr": "donatmak",
+      "ex": "equip with tools"
+    },
+    {
+      "id": "ox5_equivalent",
+      "lv": "B2",
+      "w": "equivalent",
+      "pos": "n., adj.",
+      "tr": "eşdeğer, karşılık",
+      "ex": "the equivalent amount"
+    },
+    {
+      "id": "ox5_era",
+      "lv": "B2",
+      "w": "era",
+      "pos": "n.",
+      "tr": "çağ, dönem",
+      "ex": "a new era"
+    },
+    {
+      "id": "ox5_erect",
+      "lv": "C1",
+      "w": "erect",
+      "pos": "v.",
+      "tr": "dikmek, inşa etmek",
+      "ex": "erect a statue"
+    },
+    {
+      "id": "ox5_erupt",
+      "lv": "B2",
+      "w": "erupt",
+      "pos": "v.",
+      "tr": "patlamak (yanardağ); püskürmek",
+      "ex": "the volcano erupted"
+    },
+    {
+      "id": "ox5_escalate",
+      "lv": "C1",
+      "w": "escalate",
+      "pos": "v.",
+      "tr": "tırmanmak, artmak",
+      "ex": "tensions escalated"
+    },
+    {
+      "id": "ox5_essence",
+      "lv": "C1",
+      "w": "essence",
+      "pos": "n.",
+      "tr": "öz, esas",
+      "ex": "the essence of the matter"
+    },
+    {
+      "id": "ox5_essentially",
+      "lv": "B2",
+      "w": "essentially",
+      "pos": "adv.",
+      "tr": "esasen, temelde",
+      "ex": "essentially the same"
+    },
+    {
+      "id": "ox5_establishment",
+      "lv": "C1",
+      "w": "establishment",
+      "pos": "n.",
+      "tr": "kuruluş; düzen, sistem",
+      "ex": "the political establishment"
+    },
+    {
+      "id": "ox5_eternal",
+      "lv": "C1",
+      "w": "eternal",
+      "pos": "adj.",
+      "tr": "ebedi, sonsuz",
+      "ex": "eternal life"
+    },
+    {
+      "id": "ox5_ethic",
+      "lv": "B2",
+      "w": "ethic",
+      "pos": "n.",
+      "tr": "etik, ahlak ilkesi",
+      "ex": "a strong work ethic"
+    },
+    {
+      "id": "ox5_ethnic",
+      "lv": "B2",
+      "w": "ethnic",
+      "pos": "adj.",
+      "tr": "etnik",
+      "ex": "ethnic groups"
+    },
+    {
+      "id": "ox5_evacuate",
+      "lv": "C1",
+      "w": "evacuate",
+      "pos": "v.",
+      "tr": "tahliye etmek, boşaltmak",
+      "ex": "evacuate the building"
+    },
+    {
+      "id": "ox5_evaluation",
+      "lv": "B2",
+      "w": "evaluation",
+      "pos": "n.",
+      "tr": "değerlendirme",
+      "ex": "a careful evaluation"
+    },
+    {
+      "id": "ox5_evident",
+      "lv": "B2",
+      "w": "evident",
+      "pos": "adj.",
+      "tr": "açık, belli",
+      "ex": "clearly evident"
+    },
+    {
+      "id": "ox5_evoke",
+      "lv": "C1",
+      "w": "evoke",
+      "pos": "v.",
+      "tr": "çağrıştırmak, uyandırmak",
+      "ex": "evoke memories"
+    },
+    {
+      "id": "ox5_evolution",
+      "lv": "B2",
+      "w": "evolution",
+      "pos": "n.",
+      "tr": "evrim",
+      "ex": "the theory of evolution"
+    },
+    {
+      "id": "ox5_evolutionary",
+      "lv": "C1",
+      "w": "evolutionary",
+      "pos": "adj.",
+      "tr": "evrimsel",
+      "ex": "evolutionary change"
+    },
+    {
+      "id": "ox5_evolve",
+      "lv": "B2",
+      "w": "evolve",
+      "pos": "v.",
+      "tr": "evrilmek, gelişmek",
+      "ex": "evolve over time"
+    },
+    {
+      "id": "ox5_exaggerate",
+      "lv": "C1",
+      "w": "exaggerate",
+      "pos": "v.",
+      "tr": "abartmak",
+      "ex": "don't exaggerate"
+    },
+    {
+      "id": "ox5_exceed",
+      "lv": "B2",
+      "w": "exceed",
+      "pos": "v.",
+      "tr": "aşmak, geçmek",
+      "ex": "exceed the limit"
+    },
+    {
+      "id": "ox5_excellence",
+      "lv": "C1",
+      "w": "excellence",
+      "pos": "n.",
+      "tr": "mükemmellik, üstünlük",
+      "ex": "academic excellence"
+    },
+    {
+      "id": "ox5_exception",
+      "lv": "B2",
+      "w": "exception",
+      "pos": "n.",
+      "tr": "istisna",
+      "ex": "with one exception"
+    },
+    {
+      "id": "ox5_exceptional",
+      "lv": "C1",
+      "w": "exceptional",
+      "pos": "adj.",
+      "tr": "olağanüstü, müstesna",
+      "ex": "exceptional talent"
+    },
+    {
+      "id": "ox5_excess",
+      "lv": "C1",
+      "w": "excess",
+      "pos": "n., adj.",
+      "tr": "fazlalık, aşırılık",
+      "ex": "excess weight"
+    },
+    {
+      "id": "ox5_excessive",
+      "lv": "B2",
+      "w": "excessive",
+      "pos": "adj.",
+      "tr": "aşırı",
+      "ex": "excessive force"
+    },
+    {
+      "id": "ox5_exclude",
+      "lv": "B2",
+      "w": "exclude",
+      "pos": "v.",
+      "tr": "hariç tutmak, dışlamak",
+      "ex": "exclude from the list"
+    },
+    {
+      "id": "ox5_exclusion",
+      "lv": "C1",
+      "w": "exclusion",
+      "pos": "n.",
+      "tr": "dışlama, hariç tutma",
+      "ex": "social exclusion"
+    },
+    {
+      "id": "ox5_exclusive",
+      "lv": "C1",
+      "w": "exclusive",
+      "pos": "adj.",
+      "tr": "özel, münhasır",
+      "ex": "an exclusive club"
+    },
+    {
+      "id": "ox5_exclusively",
+      "lv": "C1",
+      "w": "exclusively",
+      "pos": "adv.",
+      "tr": "yalnızca, münhasıran",
+      "ex": "exclusively for members"
+    },
+    {
+      "id": "ox5_execute",
+      "lv": "C1",
+      "w": "execute",
+      "pos": "v.",
+      "tr": "yürütmek; idam etmek",
+      "ex": "execute a plan"
+    },
+    {
+      "id": "ox5_execution",
+      "lv": "C1",
+      "w": "execution",
+      "pos": "n.",
+      "tr": "uygulama; idam",
+      "ex": "the execution of the plan"
+    },
+    {
+      "id": "ox5_exert",
+      "lv": "C1",
+      "w": "exert",
+      "pos": "v.",
+      "tr": "(güç/baskı) uygulamak",
+      "ex": "exert pressure"
+    },
+    {
+      "id": "ox5_exile",
+      "lv": "C1",
+      "w": "exile",
+      "pos": "n.",
+      "tr": "sürgün",
+      "ex": "live in exile"
+    },
+    {
+      "id": "ox5_expansion",
+      "lv": "B2",
+      "w": "expansion",
+      "pos": "n.",
+      "tr": "genişleme, yayılma",
+      "ex": "rapid expansion"
+    },
+    {
+      "id": "ox5_expedition",
+      "lv": "B2",
+      "w": "expedition",
+      "pos": "n.",
+      "tr": "sefer, keşif gezisi",
+      "ex": "a polar expedition"
+    },
+    {
+      "id": "ox5_expenditure",
+      "lv": "C1",
+      "w": "expenditure",
+      "pos": "n.",
+      "tr": "harcama, gider",
+      "ex": "public expenditure"
+    },
+    {
+      "id": "ox5_experimental",
+      "lv": "C1",
+      "w": "experimental",
+      "pos": "adj.",
+      "tr": "deneysel",
+      "ex": "experimental music"
+    },
+    {
+      "id": "ox5_expertise",
+      "lv": "B2",
+      "w": "expertise",
+      "pos": "n.",
+      "tr": "uzmanlık",
+      "ex": "technical expertise"
+    },
+    {
+      "id": "ox5_expire",
+      "lv": "C1",
+      "w": "expire",
+      "pos": "v.",
+      "tr": "sona ermek, geçerliğini yitirmek",
+      "ex": "the visa expired"
+    },
+    {
+      "id": "ox5_explicit",
+      "lv": "C1",
+      "w": "explicit",
+      "pos": "adj.",
+      "tr": "açık, sarih",
+      "ex": "explicit instructions"
+    },
+    {
+      "id": "ox5_explicitly",
+      "lv": "C1",
+      "w": "explicitly",
+      "pos": "adv.",
+      "tr": "açıkça",
+      "ex": "explicitly stated"
+    },
+    {
+      "id": "ox5_exploit",
+      "lv": "B2",
+      "w": "exploit",
+      "pos": "v.",
+      "tr": "sömürmek; değerlendirmek",
+      "ex": "exploit workers"
+    },
+    {
+      "id": "ox5_exploitation",
+      "lv": "C1",
+      "w": "exploitation",
+      "pos": "n.",
+      "tr": "sömürü; istismar",
+      "ex": "child exploitation"
+    },
+    {
+      "id": "ox5_explosive",
+      "lv": "C1",
+      "w": "explosive",
+      "pos": "adj., n.",
+      "tr": "patlayıcı",
+      "ex": "an explosive device"
+    },
+    {
+      "id": "ox5_exposure",
+      "lv": "B2",
+      "w": "exposure",
+      "pos": "n.",
+      "tr": "maruz kalma; teşhir",
+      "ex": "sun exposure"
+    },
+    {
+      "id": "ox5_extension",
+      "lv": "B2",
+      "w": "extension",
+      "pos": "n.",
+      "tr": "uzatma; ek; dahili",
+      "ex": "a phone extension"
+    },
+    {
+      "id": "ox5_extensive",
+      "lv": "B2",
+      "w": "extensive",
+      "pos": "adj.",
+      "tr": "kapsamlı, geniş",
+      "ex": "extensive research"
+    },
+    {
+      "id": "ox5_extensively",
+      "lv": "B2",
+      "w": "extensively",
+      "pos": "adv.",
+      "tr": "geniş ölçüde",
+      "ex": "travel extensively"
+    },
+    {
+      "id": "ox5_extract",
+      "lv": "B2",
+      "w": "extract",
+      "pos": "v., n.",
+      "tr": "çıkarmak; alıntı, özüt",
+      "ex": "extract the data"
+    },
+    {
+      "id": "ox5_extremist",
+      "lv": "C1",
+      "w": "extremist",
+      "pos": "n.",
+      "tr": "aşırılıkçı, ekstremist",
+      "ex": "a political extremist"
+    },
+    {
+      "id": "ox5_fabric",
+      "lv": "B2",
+      "w": "fabric",
+      "pos": "n.",
+      "tr": "kumaş; doku",
+      "ex": "soft fabric"
+    },
+    {
+      "id": "ox5_fabulous",
+      "lv": "B2",
+      "w": "fabulous",
+      "pos": "adj.",
+      "tr": "harika, muhteşem",
+      "ex": "a fabulous view"
+    },
+    {
+      "id": "ox5_facilitate",
+      "lv": "C1",
+      "w": "facilitate",
+      "pos": "v.",
+      "tr": "kolaylaştırmak",
+      "ex": "facilitate learning"
+    },
+    {
+      "id": "ox5_faction",
+      "lv": "C1",
+      "w": "faction",
+      "pos": "n.",
+      "tr": "hizip, grup",
+      "ex": "a rival faction"
+    },
+    {
+      "id": "ox5_faculty",
+      "lv": "B2",
+      "w": "faculty",
+      "pos": "n.",
+      "tr": "fakülte; yeti",
+      "ex": "the science faculty"
+    },
+    {
+      "id": "ox5_fade",
+      "lv": "C1",
+      "w": "fade",
+      "pos": "v.",
+      "tr": "solmak; azalmak",
+      "ex": "colors fade"
+    },
+    {
+      "id": "ox5_failed",
+      "lv": "B2",
+      "w": "failed",
+      "pos": "adj.",
+      "tr": "başarısız",
+      "ex": "a failed attempt"
+    },
+    {
+      "id": "ox5_fairness",
+      "lv": "C1",
+      "w": "fairness",
+      "pos": "n.",
+      "tr": "adillik, dürüstlük",
+      "ex": "a sense of fairness"
+    },
+    {
+      "id": "ox5_fake",
+      "lv": "B2",
+      "w": "fake",
+      "pos": "adj.",
+      "tr": "sahte",
+      "ex": "a fake passport"
+    },
+    {
+      "id": "ox5_fame",
+      "lv": "B2",
+      "w": "fame",
+      "pos": "n.",
+      "tr": "şöhret, ün",
+      "ex": "rise to fame"
+    },
+    {
+      "id": "ox5_fantasy",
+      "lv": "B2",
+      "w": "fantasy",
+      "pos": "n.",
+      "tr": "hayal, fantezi",
+      "ex": "a childhood fantasy"
+    },
+    {
+      "id": "ox5_fare",
+      "lv": "B2",
+      "w": "fare",
+      "pos": "n.",
+      "tr": "yol ücreti, bilet ücreti",
+      "ex": "the bus fare"
+    },
+    {
+      "id": "ox5_fatal",
+      "lv": "C1",
+      "w": "fatal",
+      "pos": "adj.",
+      "tr": "ölümcül",
+      "ex": "a fatal accident"
+    },
+    {
+      "id": "ox5_fate",
+      "lv": "C1",
+      "w": "fate",
+      "pos": "n.",
+      "tr": "kader, yazgı",
+      "ex": "a cruel fate"
+    },
+    {
+      "id": "ox5_favorable",
+      "lv": "C1",
+      "w": "favorable",
+      "pos": "adj.",
+      "tr": "olumlu, elverişli",
+      "ex": "a favorable response"
+    },
+    {
+      "id": "ox5_feat",
+      "lv": "C1",
+      "w": "feat",
+      "pos": "n.",
+      "tr": "başarı, marifet",
+      "ex": "an amazing feat"
+    },
+    {
+      "id": "ox5_felony",
+      "lv": "C1",
+      "w": "felony",
+      "pos": "n.",
+      "tr": "ağır suç",
+      "ex": "charged with a felony"
+    },
+    {
+      "id": "ox5_feminist",
+      "lv": "C1",
+      "w": "feminist",
+      "pos": "adj., n.",
+      "tr": "feminist",
+      "ex": "a feminist movement"
+    },
+    {
+      "id": "ox5_fiber",
+      "lv": "C1",
+      "w": "fiber",
+      "pos": "n.",
+      "tr": "lif, elyaf",
+      "ex": "natural fiber"
+    },
+    {
+      "id": "ox5_fierce",
+      "lv": "C1",
+      "w": "fierce",
+      "pos": "adj.",
+      "tr": "şiddetli; vahşi",
+      "ex": "fierce competition"
+    },
+    {
+      "id": "ox5_filmmaker",
+      "lv": "C1",
+      "w": "filmmaker",
+      "pos": "n.",
+      "tr": "film yapımcısı",
+      "ex": "an independent filmmaker"
+    },
+    {
+      "id": "ox5_filter",
+      "lv": "C1",
+      "w": "filter",
+      "pos": "n., v.",
+      "tr": "filtre; süzmek",
+      "ex": "a water filter"
+    },
+    {
+      "id": "ox5_fine",
+      "lv": "C1",
+      "w": "fine",
+      "pos": "n., v.",
+      "tr": "para cezası; ceza kesmek",
+      "ex": "pay a fine"
+    },
+    {
+      "id": "ox5_firearm",
+      "lv": "C1",
+      "w": "firearm",
+      "pos": "n.",
+      "tr": "ateşli silah",
+      "ex": "carry a firearm"
+    },
+    {
+      "id": "ox5_firefighter",
+      "lv": "B2",
+      "w": "firefighter",
+      "pos": "n.",
+      "tr": "itfaiyeci",
+      "ex": "a brave firefighter"
+    },
+    {
+      "id": "ox5_firework",
+      "lv": "B2",
+      "w": "firework",
+      "pos": "n.",
+      "tr": "havai fişek",
+      "ex": "a firework display"
+    },
+    {
+      "id": "ox5_firm",
+      "lv": "B2",
+      "w": "firm",
+      "pos": "adj.",
+      "tr": "sağlam, kararlı",
+      "ex": "a firm grip"
+    },
+    {
+      "id": "ox5_firmly",
+      "lv": "B2",
+      "w": "firmly",
+      "pos": "adv.",
+      "tr": "sıkıca, kararlılıkla",
+      "ex": "firmly believe"
+    },
+    {
+      "id": "ox5_fiscal",
+      "lv": "C1",
+      "w": "fiscal",
+      "pos": "adj.",
+      "tr": "mali",
+      "ex": "fiscal policy"
+    },
+    {
+      "id": "ox5_fit",
+      "lv": "C1",
+      "w": "fit",
+      "pos": "n.",
+      "tr": "nöbet, kriz; uyum",
+      "ex": "a coughing fit"
+    },
+    {
+      "id": "ox5_flavor",
+      "lv": "B2",
+      "w": "flavor",
+      "pos": "n.",
+      "tr": "tat, aroma",
+      "ex": "a rich flavor"
+    },
+    {
+      "id": "ox5_flaw",
+      "lv": "C1",
+      "w": "flaw",
+      "pos": "n.",
+      "tr": "kusur, hata",
+      "ex": "a fatal flaw"
+    },
+    {
+      "id": "ox5_flawed",
+      "lv": "C1",
+      "w": "flawed",
+      "pos": "adj.",
+      "tr": "kusurlu, hatalı",
+      "ex": "a flawed plan"
+    },
+    {
+      "id": "ox5_flee",
+      "lv": "C1",
+      "w": "flee",
+      "pos": "v.",
+      "tr": "kaçmak",
+      "ex": "flee the country"
+    },
+    {
+      "id": "ox5_fleet",
+      "lv": "C1",
+      "w": "fleet",
+      "pos": "n.",
+      "tr": "filo",
+      "ex": "a fishing fleet"
+    },
+    {
+      "id": "ox5_flesh",
+      "lv": "C1",
+      "w": "flesh",
+      "pos": "n.",
+      "tr": "et (canlı doku)",
+      "ex": "raw flesh"
+    },
+    {
+      "id": "ox5_flexibility",
+      "lv": "C1",
+      "w": "flexibility",
+      "pos": "n.",
+      "tr": "esneklik",
+      "ex": "physical flexibility"
+    },
+    {
+      "id": "ox5_flourish",
+      "lv": "C1",
+      "w": "flourish",
+      "pos": "v.",
+      "tr": "gelişmek, serpilmek",
+      "ex": "business flourished"
+    },
+    {
+      "id": "ox5_fluid",
+      "lv": "C1",
+      "w": "fluid",
+      "pos": "n.",
+      "tr": "sıvı",
+      "ex": "drink plenty of fluids"
+    },
+    {
+      "id": "ox5_fond",
+      "lv": "B2",
+      "w": "fond",
+      "pos": "adj.",
+      "tr": "düşkün, seven",
+      "ex": "fond of music"
+    },
+    {
+      "id": "ox5_fool",
+      "lv": "B2",
+      "w": "fool",
+      "pos": "n.",
+      "tr": "aptal, budala",
+      "ex": "a complete fool"
+    },
+    {
+      "id": "ox5_footage",
+      "lv": "C1",
+      "w": "footage",
+      "pos": "n.",
+      "tr": "film görüntüsü/kaydı",
+      "ex": "security footage"
+    },
+    {
+      "id": "ox5_forbid",
+      "lv": "B2",
+      "w": "forbid",
+      "pos": "v.",
+      "tr": "yasaklamak",
+      "ex": "forbid smoking"
+    },
+    {
+      "id": "ox5_forecast",
+      "lv": "B2",
+      "w": "forecast",
+      "pos": "n., v.",
+      "tr": "tahmin (etmek)",
+      "ex": "the weather forecast"
+    },
+    {
+      "id": "ox5_foreigner",
+      "lv": "C1",
+      "w": "foreigner",
+      "pos": "n.",
+      "tr": "yabancı",
+      "ex": "treated like a foreigner"
+    },
+    {
+      "id": "ox5_forge",
+      "lv": "C1",
+      "w": "forge",
+      "pos": "v.",
+      "tr": "sahtesini yapmak; dövmek; kurmak",
+      "ex": "forge a signature"
+    },
+    {
+      "id": "ox5_format",
+      "lv": "B2",
+      "w": "format",
+      "pos": "n.",
+      "tr": "biçim, format",
+      "ex": "a new format"
+    },
+    {
+      "id": "ox5_formation",
+      "lv": "B2",
+      "w": "formation",
+      "pos": "n.",
+      "tr": "oluşum; düzen",
+      "ex": "cloud formation"
+    },
+    {
+      "id": "ox5_formerly",
+      "lv": "B2",
+      "w": "formerly",
+      "pos": "adv.",
+      "tr": "eskiden, önceden",
+      "ex": "formerly known as"
+    },
+    {
+      "id": "ox5_formula",
+      "lv": "C1",
+      "w": "formula",
+      "pos": "n.",
+      "tr": "formül",
+      "ex": "a secret formula"
+    },
+    {
+      "id": "ox5_formulate",
+      "lv": "C1",
+      "w": "formulate",
+      "pos": "v.",
+      "tr": "formüle etmek, dile getirmek",
+      "ex": "formulate a theory"
+    },
+    {
+      "id": "ox5_forth",
+      "lv": "C1",
+      "w": "forth",
+      "pos": "adv.",
+      "tr": "ileri, dışarı",
+      "ex": "back and forth"
+    },
+    {
+      "id": "ox5_forthcoming",
+      "lv": "C1",
+      "w": "forthcoming",
+      "pos": "adj.",
+      "tr": "yaklaşan, gelecek olan",
+      "ex": "the forthcoming election"
+    },
+    {
+      "id": "ox5_fortunate",
+      "lv": "B2",
+      "w": "fortunate",
+      "pos": "adj.",
+      "tr": "şanslı",
+      "ex": "fortunate enough"
+    },
+    {
+      "id": "ox5_forum",
+      "lv": "B2",
+      "w": "forum",
+      "pos": "n.",
+      "tr": "forum, platform",
+      "ex": "an online forum"
+    },
+    {
+      "id": "ox5_fossil",
+      "lv": "B2",
+      "w": "fossil",
+      "pos": "n.",
+      "tr": "fosil",
+      "ex": "a dinosaur fossil"
+    },
+    {
+      "id": "ox5_foster",
+      "lv": "C1",
+      "w": "foster",
+      "pos": "v.",
+      "tr": "beslemek, geliştirmek; koruyucu aile",
+      "ex": "foster creativity"
+    },
+    {
+      "id": "ox5_foundation",
+      "lv": "B2",
+      "w": "foundation",
+      "pos": "n.",
+      "tr": "temel; vakıf",
+      "ex": "a solid foundation"
+    },
+    {
+      "id": "ox5_founder",
+      "lv": "B2",
+      "w": "founder",
+      "pos": "n.",
+      "tr": "kurucu",
+      "ex": "the company founder"
+    },
+    {
+      "id": "ox5_fraction",
+      "lv": "B2",
+      "w": "fraction",
+      "pos": "n.",
+      "tr": "kesir; küçük parça",
+      "ex": "a fraction of the cost"
+    },
+    {
+      "id": "ox5_fragile",
+      "lv": "C1",
+      "w": "fragile",
+      "pos": "adj.",
+      "tr": "kırılgan, narin",
+      "ex": "a fragile object"
+    },
+    {
+      "id": "ox5_fragment",
+      "lv": "B2",
+      "w": "fragment",
+      "pos": "n.",
+      "tr": "parça, kırıntı",
+      "ex": "a fragment of glass"
+    },
+    {
+      "id": "ox5_framework",
+      "lv": "B2",
+      "w": "framework",
+      "pos": "n.",
+      "tr": "çerçeve, yapı",
+      "ex": "a legal framework"
+    },
+    {
+      "id": "ox5_franchise",
+      "lv": "C1",
+      "w": "franchise",
+      "pos": "n.",
+      "tr": "bayilik, franchise",
+      "ex": "a fast-food franchise"
+    },
+    {
+      "id": "ox5_frankly",
+      "lv": "C1",
+      "w": "frankly",
+      "pos": "adv.",
+      "tr": "açıkçası, dürüstçe",
+      "ex": "frankly speaking"
+    },
+    {
+      "id": "ox5_fraud",
+      "lv": "B2",
+      "w": "fraud",
+      "pos": "n.",
+      "tr": "dolandırıcılık, sahtekârlık",
+      "ex": "credit-card fraud"
+    },
+    {
+      "id": "ox5_freely",
+      "lv": "B2",
+      "w": "freely",
+      "pos": "adv.",
+      "tr": "özgürce, serbestçe",
+      "ex": "speak freely"
+    },
+    {
+      "id": "ox5_frequent",
+      "lv": "B2",
+      "w": "frequent",
+      "pos": "adj.",
+      "tr": "sık, sık olan",
+      "ex": "frequent visits"
+    },
+    {
+      "id": "ox5_freshman",
+      "lv": "C1",
+      "w": "freshman",
+      "pos": "n.",
+      "tr": "birinci sınıf öğrencisi",
+      "ex": "a college freshman"
+    },
+    {
+      "id": "ox5_frustrated",
+      "lv": "C1",
+      "w": "frustrated",
+      "pos": "adj.",
+      "tr": "hüsrana uğramış, bunalmış",
+      "ex": "feel frustrated"
+    },
+    {
+      "id": "ox5_frustrating",
+      "lv": "C1",
+      "w": "frustrating",
+      "pos": "adj.",
+      "tr": "sinir bozucu, bunaltıcı",
+      "ex": "a frustrating delay"
+    },
+    {
+      "id": "ox5_frustration",
+      "lv": "C1",
+      "w": "frustration",
+      "pos": "n.",
+      "tr": "hüsran, engellenme",
+      "ex": "out of frustration"
+    },
+    {
+      "id": "ox5_fulfill",
+      "lv": "B2",
+      "w": "fulfill",
+      "pos": "v.",
+      "tr": "yerine getirmek; gerçekleştirmek",
+      "ex": "fulfill a promise"
+    },
+    {
+      "id": "ox5_full_time",
+      "lv": "B2",
+      "w": "full-time",
+      "pos": "adj./adv.",
+      "tr": "tam zamanlı",
+      "ex": "a full-time job"
+    },
+    {
+      "id": "ox5_functional",
+      "lv": "C1",
+      "w": "functional",
+      "pos": "adj.",
+      "tr": "işlevsel",
+      "ex": "fully functional"
+    },
+    {
+      "id": "ox5_fundamentally",
+      "lv": "B2",
+      "w": "fundamentally",
+      "pos": "adv.",
+      "tr": "temelde, esasen",
+      "ex": "fundamentally different"
+    },
+    {
+      "id": "ox5_fundraising",
+      "lv": "C1",
+      "w": "fundraising",
+      "pos": "n.",
+      "tr": "bağış toplama",
+      "ex": "a fundraising event"
+    },
+    {
+      "id": "ox5_funeral",
+      "lv": "C1",
+      "w": "funeral",
+      "pos": "n.",
+      "tr": "cenaze (töreni)",
+      "ex": "attend the funeral"
+    },
+    {
+      "id": "ox5_furious",
+      "lv": "B2",
+      "w": "furious",
+      "pos": "adj.",
+      "tr": "öfkeli, küplere binmiş",
+      "ex": "absolutely furious"
     }
   ],
   "articles": [
