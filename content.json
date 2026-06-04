@@ -1,50 +1,1319 @@
 {
-  "_readme": "ApexFlow içerik dosyası. Buradaki her şey siteye AÇILIŞTA otomatik yüklenir. Kurallar: id benzersiz olmalı (çakışan id atlanır); lv yalnızca A1/A2/B1/B2/C1/C2; ans = doğru şıkkın sırası, 0'dan başlar; her sorunun en az 2 şıkkı olmalı. İstemediğin bölümü silebilirsin. Aşağıdakiler birer ÖRNEK; kendi içeriğinle değiştir veya çoğalt.",
-
+  "_readme": "ApexFlow icerigi. Oxford 5000 'A' partisi (B2-C1) eklendi. Yeni parti eklerken: bu dosyayi bana gonder, sıradaki harfleri ben ekleyip geri vereyim. id benzersiz; lv A1-C2; ans 0'dan baslar.",
   "vocab": [
-    { "id": "ext_resilient", "lv": "B2", "w": "resilient", "pos": "adj", "tr": "dayanıklı, çabuk toparlanan", "ex": "Children are often remarkably resilient." },
-    { "id": "ext_scrutinize", "lv": "C1", "w": "scrutinize", "pos": "v", "tr": "didik didik incelemek", "ex": "The committee scrutinized every figure." }
+    {
+      "id": "ext_resilient",
+      "lv": "B2",
+      "w": "resilient",
+      "pos": "adj",
+      "tr": "dayanıklı, çabuk toparlanan",
+      "ex": "Children are often remarkably resilient."
+    },
+    {
+      "id": "ext_scrutinize",
+      "lv": "C1",
+      "w": "scrutinize",
+      "pos": "v",
+      "tr": "didik didik incelemek",
+      "ex": "The committee scrutinized every figure."
+    },
+    {
+      "id": "ox5_abolish",
+      "lv": "C1",
+      "w": "abolish",
+      "pos": "v.",
+      "tr": "(yasa/kurum) kaldırmak, ilga etmek",
+      "ex": "They abolished slavery."
+    },
+    {
+      "id": "ox5_abortion",
+      "lv": "C1",
+      "w": "abortion",
+      "pos": "n.",
+      "tr": "kürtaj",
+      "ex": "The law on abortion changed."
+    },
+    {
+      "id": "ox5_absence",
+      "lv": "C1",
+      "w": "absence",
+      "pos": "n.",
+      "tr": "yokluk; devamsızlık",
+      "ex": "Her absence was noticed."
+    },
+    {
+      "id": "ox5_absent",
+      "lv": "C1",
+      "w": "absent",
+      "pos": "adj.",
+      "tr": "yok, devamsız",
+      "ex": "He was absent from class."
+    },
+    {
+      "id": "ox5_absorb",
+      "lv": "B2",
+      "w": "absorb",
+      "pos": "v.",
+      "tr": "emmek, soğurmak; (bilgiyi) sindirmek",
+      "ex": "Plants absorb water."
+    },
+    {
+      "id": "ox5_abstract",
+      "lv": "B2",
+      "w": "abstract",
+      "pos": "adj.",
+      "tr": "soyut",
+      "ex": "an abstract idea"
+    },
+    {
+      "id": "ox5_absurd",
+      "lv": "C1",
+      "w": "absurd",
+      "pos": "adj.",
+      "tr": "saçma, akıl dışı",
+      "ex": "What an absurd idea!"
+    },
+    {
+      "id": "ox5_abuse",
+      "lv": "C1",
+      "w": "abuse",
+      "pos": "n., v.",
+      "tr": "kötüye kullanma, istismar (etmek)",
+      "ex": "drug abuse"
+    },
+    {
+      "id": "ox5_academy",
+      "lv": "C1",
+      "w": "academy",
+      "pos": "n.",
+      "tr": "akademi",
+      "ex": "a military academy"
+    },
+    {
+      "id": "ox5_acceptance",
+      "lv": "C1",
+      "w": "acceptance",
+      "pos": "n.",
+      "tr": "kabul (etme/edilme)",
+      "ex": "her acceptance of the offer"
+    },
+    {
+      "id": "ox5_accessible",
+      "lv": "C1",
+      "w": "accessible",
+      "pos": "adj.",
+      "tr": "erişilebilir, ulaşılabilir",
+      "ex": "an accessible building"
+    },
+    {
+      "id": "ox5_accidentally",
+      "lv": "B2",
+      "w": "accidentally",
+      "pos": "adv.",
+      "tr": "kazara, yanlışlıkla",
+      "ex": "I deleted it accidentally."
+    },
+    {
+      "id": "ox5_accommodate",
+      "lv": "B2",
+      "w": "accommodate",
+      "pos": "v.",
+      "tr": "barındırmak; uyum sağlamak",
+      "ex": "The hotel accommodates 200."
+    },
+    {
+      "id": "ox5_accommodation",
+      "lv": "B2",
+      "w": "accommodation",
+      "pos": "n.",
+      "tr": "konaklama, kalacak yer",
+      "ex": "cheap accommodation"
+    },
+    {
+      "id": "ox5_accomplish",
+      "lv": "B2",
+      "w": "accomplish",
+      "pos": "v.",
+      "tr": "başarmak, tamamlamak",
+      "ex": "She accomplished her goal."
+    },
+    {
+      "id": "ox5_accomplishment",
+      "lv": "C1",
+      "w": "accomplishment",
+      "pos": "n.",
+      "tr": "başarı, beceri",
+      "ex": "a great accomplishment"
+    },
+    {
+      "id": "ox5_accordingly",
+      "lv": "C1",
+      "w": "accordingly",
+      "pos": "adv.",
+      "tr": "buna göre, bu nedenle",
+      "ex": "Plan accordingly."
+    },
+    {
+      "id": "ox5_accountability",
+      "lv": "C1",
+      "w": "accountability",
+      "pos": "n.",
+      "tr": "hesap verebilirlik",
+      "ex": "public accountability"
+    },
+    {
+      "id": "ox5_accountable",
+      "lv": "C1",
+      "w": "accountable",
+      "pos": "adj.",
+      "tr": "hesap verebilir, sorumlu",
+      "ex": "held accountable for it"
+    },
+    {
+      "id": "ox5_accountant",
+      "lv": "B2",
+      "w": "accountant",
+      "pos": "n.",
+      "tr": "muhasebeci",
+      "ex": "She works as an accountant."
+    },
+    {
+      "id": "ox5_accumulate",
+      "lv": "C1",
+      "w": "accumulate",
+      "pos": "v.",
+      "tr": "birikmek, biriktirmek",
+      "ex": "Dust accumulates quickly."
+    },
+    {
+      "id": "ox5_accumulation",
+      "lv": "C1",
+      "w": "accumulation",
+      "pos": "n.",
+      "tr": "birikim",
+      "ex": "an accumulation of snow"
+    },
+    {
+      "id": "ox5_accuracy",
+      "lv": "B2",
+      "w": "accuracy",
+      "pos": "n.",
+      "tr": "doğruluk, isabet",
+      "ex": "the accuracy of the data"
+    },
+    {
+      "id": "ox5_accurately",
+      "lv": "B2",
+      "w": "accurately",
+      "pos": "adv.",
+      "tr": "doğru biçimde, isabetle",
+      "ex": "Measure it accurately."
+    },
+    {
+      "id": "ox5_accusation",
+      "lv": "C1",
+      "w": "accusation",
+      "pos": "n.",
+      "tr": "suçlama, itham",
+      "ex": "a serious accusation"
+    },
+    {
+      "id": "ox5_accused",
+      "lv": "C1",
+      "w": "accused",
+      "pos": "n.",
+      "tr": "sanık",
+      "ex": "The accused stood up."
+    },
+    {
+      "id": "ox5_acid",
+      "lv": "B2",
+      "w": "acid",
+      "pos": "n./adj.",
+      "tr": "asit; (sıfat) ekşi, asidik",
+      "ex": "a strong acid"
+    },
+    {
+      "id": "ox5_acquisition",
+      "lv": "C1",
+      "w": "acquisition",
+      "pos": "n.",
+      "tr": "edinme; satın alma, iktisap",
+      "ex": "the acquisition of land"
+    },
+    {
+      "id": "ox5_acre",
+      "lv": "B2",
+      "w": "acre",
+      "pos": "n.",
+      "tr": "akr (yaklaşık dönüm)",
+      "ex": "a ten-acre farm"
+    },
+    {
+      "id": "ox5_activate",
+      "lv": "B2",
+      "w": "activate",
+      "pos": "v.",
+      "tr": "etkinleştirmek, çalıştırmak",
+      "ex": "Activate the alarm."
+    },
+    {
+      "id": "ox5_activation",
+      "lv": "C1",
+      "w": "activation",
+      "pos": "n.",
+      "tr": "etkinleştirme",
+      "ex": "account activation"
+    },
+    {
+      "id": "ox5_activist",
+      "lv": "C1",
+      "w": "activist",
+      "pos": "n.",
+      "tr": "eylemci, aktivist",
+      "ex": "a human-rights activist"
+    },
+    {
+      "id": "ox5_acute",
+      "lv": "C1",
+      "w": "acute",
+      "pos": "adj.",
+      "tr": "keskin, şiddetli; akut",
+      "ex": "acute pain"
+    },
+    {
+      "id": "ox5_adaptation",
+      "lv": "C1",
+      "w": "adaptation",
+      "pos": "n.",
+      "tr": "uyarlama; uyum",
+      "ex": "a film adaptation"
+    },
+    {
+      "id": "ox5_addiction",
+      "lv": "B2",
+      "w": "addiction",
+      "pos": "n.",
+      "tr": "bağımlılık",
+      "ex": "drug addiction"
+    },
+    {
+      "id": "ox5_additionally",
+      "lv": "B2",
+      "w": "additionally",
+      "pos": "adv.",
+      "tr": "ayrıca, ek olarak",
+      "ex": "Additionally, it's cheap."
+    },
+    {
+      "id": "ox5_adequate",
+      "lv": "B2",
+      "w": "adequate",
+      "pos": "adj.",
+      "tr": "yeterli",
+      "ex": "adequate food and water"
+    },
+    {
+      "id": "ox5_adequately",
+      "lv": "B2",
+      "w": "adequately",
+      "pos": "adv.",
+      "tr": "yeterince",
+      "ex": "adequately prepared"
+    },
+    {
+      "id": "ox5_adhere",
+      "lv": "C1",
+      "w": "adhere",
+      "pos": "v.",
+      "tr": "yapışmak; (kurala) uymak",
+      "ex": "adhere to the rules"
+    },
+    {
+      "id": "ox5_adjacent",
+      "lv": "C1",
+      "w": "adjacent",
+      "pos": "adj.",
+      "tr": "bitişik, komşu",
+      "ex": "the adjacent room"
+    },
+    {
+      "id": "ox5_adjust",
+      "lv": "B2",
+      "w": "adjust",
+      "pos": "v.",
+      "tr": "ayarlamak; uyum sağlamak",
+      "ex": "Adjust the volume."
+    },
+    {
+      "id": "ox5_adjustment",
+      "lv": "C1",
+      "w": "adjustment",
+      "pos": "n.",
+      "tr": "ayarlama, düzeltme",
+      "ex": "a small adjustment"
+    },
+    {
+      "id": "ox5_administer",
+      "lv": "C1",
+      "w": "administer",
+      "pos": "v.",
+      "tr": "yönetmek; (ilaç) uygulamak",
+      "ex": "administer a test"
+    },
+    {
+      "id": "ox5_administrative",
+      "lv": "C1",
+      "w": "administrative",
+      "pos": "adj.",
+      "tr": "idari, yönetimsel",
+      "ex": "administrative tasks"
+    },
+    {
+      "id": "ox5_administrator",
+      "lv": "C1",
+      "w": "administrator",
+      "pos": "n.",
+      "tr": "yönetici, idareci",
+      "ex": "a system administrator"
+    },
+    {
+      "id": "ox5_admission",
+      "lv": "C1",
+      "w": "admission",
+      "pos": "n.",
+      "tr": "giriş (izni); itiraf",
+      "ex": "free admission"
+    },
+    {
+      "id": "ox5_adolescent",
+      "lv": "C1",
+      "w": "adolescent",
+      "pos": "n.",
+      "tr": "ergen, genç",
+      "ex": "a troubled adolescent"
+    },
+    {
+      "id": "ox5_adoption",
+      "lv": "C1",
+      "w": "adoption",
+      "pos": "n.",
+      "tr": "evlat edinme; benimseme",
+      "ex": "the adoption of new rules"
+    },
+    {
+      "id": "ox5_adverse",
+      "lv": "C1",
+      "w": "adverse",
+      "pos": "adj.",
+      "tr": "olumsuz, ters",
+      "ex": "adverse effects"
+    },
+    {
+      "id": "ox5_advocate",
+      "lv": "C1",
+      "w": "advocate",
+      "pos": "n., v.",
+      "tr": "savunucu; savunmak",
+      "ex": "advocate for change"
+    },
+    {
+      "id": "ox5_aesthetic",
+      "lv": "C1",
+      "w": "aesthetic",
+      "pos": "adj.",
+      "tr": "estetik",
+      "ex": "aesthetic appeal"
+    },
+    {
+      "id": "ox5_affection",
+      "lv": "C1",
+      "w": "affection",
+      "pos": "n.",
+      "tr": "sevgi, şefkat",
+      "ex": "He showed affection."
+    },
+    {
+      "id": "ox5_affordable",
+      "lv": "B2",
+      "w": "affordable",
+      "pos": "adj.",
+      "tr": "uygun fiyatlı",
+      "ex": "affordable housing"
+    },
+    {
+      "id": "ox5_aftermath",
+      "lv": "C1",
+      "w": "aftermath",
+      "pos": "n.",
+      "tr": "sonrası, akıbet",
+      "ex": "the aftermath of the war"
+    },
+    {
+      "id": "ox5_aged",
+      "lv": "B2",
+      "w": "aged",
+      "pos": "adj.",
+      "tr": "...yaşında; yaşlı",
+      "ex": "children aged five"
+    },
+    {
+      "id": "ox5_aggression",
+      "lv": "C1",
+      "w": "aggression",
+      "pos": "n.",
+      "tr": "saldırganlık",
+      "ex": "an act of aggression"
+    },
+    {
+      "id": "ox5_agricultural",
+      "lv": "C1",
+      "w": "agricultural",
+      "pos": "adj.",
+      "tr": "tarımsal",
+      "ex": "agricultural land"
+    },
+    {
+      "id": "ox5_agriculture",
+      "lv": "B2",
+      "w": "agriculture",
+      "pos": "n.",
+      "tr": "tarım",
+      "ex": "modern agriculture"
+    },
+    {
+      "id": "ox5_aide",
+      "lv": "C1",
+      "w": "aide",
+      "pos": "n.",
+      "tr": "yardımcı, danışman",
+      "ex": "a presidential aide"
+    },
+    {
+      "id": "ox5_aids",
+      "lv": "B2",
+      "w": "AIDS",
+      "pos": "n.",
+      "tr": "AIDS",
+      "ex": "AIDS research"
+    },
+    {
+      "id": "ox5_alert",
+      "lv": "C1",
+      "w": "alert",
+      "pos": "v., n., adj.",
+      "tr": "uyarmak; alarm; tetikte, uyanık",
+      "ex": "Stay alert."
+    },
+    {
+      "id": "ox5_alien",
+      "lv": "B2",
+      "w": "alien",
+      "pos": "n./adj.",
+      "tr": "uzaylı; (sıfat) yabancı",
+      "ex": "an alien from space"
+    },
+    {
+      "id": "ox5_align",
+      "lv": "C1",
+      "w": "align",
+      "pos": "v.",
+      "tr": "hizalamak; uyumlu kılmak",
+      "ex": "align the text"
+    },
+    {
+      "id": "ox5_alignment",
+      "lv": "C1",
+      "w": "alignment",
+      "pos": "n.",
+      "tr": "hizalama; uyum",
+      "ex": "political alignment"
+    },
+    {
+      "id": "ox5_alike",
+      "lv": "C1",
+      "w": "alike",
+      "pos": "adv., adj.",
+      "tr": "benzer; aynı şekilde",
+      "ex": "They look alike."
+    },
+    {
+      "id": "ox5_allegation",
+      "lv": "C1",
+      "w": "allegation",
+      "pos": "n.",
+      "tr": "iddia, isnat",
+      "ex": "serious allegations"
+    },
+    {
+      "id": "ox5_allege",
+      "lv": "C1",
+      "w": "allege",
+      "pos": "v.",
+      "tr": "iddia etmek",
+      "ex": "They allege fraud."
+    },
+    {
+      "id": "ox5_allegedly",
+      "lv": "C1",
+      "w": "allegedly",
+      "pos": "adv.",
+      "tr": "iddiaya göre, sözde",
+      "ex": "He allegedly lied."
+    },
+    {
+      "id": "ox5_alliance",
+      "lv": "C1",
+      "w": "alliance",
+      "pos": "n.",
+      "tr": "ittifak",
+      "ex": "a military alliance"
+    },
+    {
+      "id": "ox5_allocate",
+      "lv": "C1",
+      "w": "allocate",
+      "pos": "v.",
+      "tr": "tahsis etmek, ayırmak",
+      "ex": "allocate funds"
+    },
+    {
+      "id": "ox5_allocation",
+      "lv": "C1",
+      "w": "allocation",
+      "pos": "n.",
+      "tr": "tahsis, pay",
+      "ex": "budget allocation"
+    },
+    {
+      "id": "ox5_allowance",
+      "lv": "C1",
+      "w": "allowance",
+      "pos": "n.",
+      "tr": "harçlık; ödenek; tolerans",
+      "ex": "a weekly allowance"
+    },
+    {
+      "id": "ox5_ally",
+      "lv": "C1",
+      "w": "ally",
+      "pos": "n.",
+      "tr": "müttefik",
+      "ex": "a close ally"
+    },
+    {
+      "id": "ox5_alongside",
+      "lv": "B2",
+      "w": "alongside",
+      "pos": "prep.",
+      "tr": "yanı sıra, yan yana",
+      "ex": "He worked alongside her."
+    },
+    {
+      "id": "ox5_altogether",
+      "lv": "B2",
+      "w": "altogether",
+      "pos": "adv.",
+      "tr": "tamamen; toplamda",
+      "ex": "That's £20 altogether."
+    },
+    {
+      "id": "ox5_aluminum",
+      "lv": "C1",
+      "w": "aluminum",
+      "pos": "n.",
+      "tr": "alüminyum",
+      "ex": "an aluminum can"
+    },
+    {
+      "id": "ox5_amateur",
+      "lv": "C1",
+      "w": "amateur",
+      "pos": "adj., n.",
+      "tr": "amatör",
+      "ex": "an amateur photographer"
+    },
+    {
+      "id": "ox5_ambassador",
+      "lv": "C1",
+      "w": "ambassador",
+      "pos": "n.",
+      "tr": "büyükelçi",
+      "ex": "the British ambassador"
+    },
+    {
+      "id": "ox5_amend",
+      "lv": "C1",
+      "w": "amend",
+      "pos": "v.",
+      "tr": "değiştirmek, tadil etmek",
+      "ex": "amend the law"
+    },
+    {
+      "id": "ox5_amendment",
+      "lv": "C1",
+      "w": "amendment",
+      "pos": "n.",
+      "tr": "değişiklik, tadilat",
+      "ex": "a constitutional amendment"
+    },
+    {
+      "id": "ox5_amid",
+      "lv": "C1",
+      "w": "amid",
+      "pos": "prep.",
+      "tr": "ortasında, arasında",
+      "ex": "amid the chaos"
+    },
+    {
+      "id": "ox5_amusing",
+      "lv": "B2",
+      "w": "amusing",
+      "pos": "adj.",
+      "tr": "eğlenceli, komik",
+      "ex": "an amusing story"
+    },
+    {
+      "id": "ox5_analogy",
+      "lv": "C1",
+      "w": "analogy",
+      "pos": "n.",
+      "tr": "benzetme, analoji",
+      "ex": "draw an analogy"
+    },
+    {
+      "id": "ox5_analyst",
+      "lv": "B2",
+      "w": "analyst",
+      "pos": "n.",
+      "tr": "analist, çözümleyici",
+      "ex": "a financial analyst"
+    },
+    {
+      "id": "ox5_ancestor",
+      "lv": "B2",
+      "w": "ancestor",
+      "pos": "n.",
+      "tr": "ata, cet",
+      "ex": "our ancestors"
+    },
+    {
+      "id": "ox5_anchor",
+      "lv": "C1",
+      "w": "anchor",
+      "pos": "n.",
+      "tr": "çapa; (haber) sunucu",
+      "ex": "drop the anchor"
+    },
+    {
+      "id": "ox5_animation",
+      "lv": "B2",
+      "w": "animation",
+      "pos": "n.",
+      "tr": "animasyon, canlandırma",
+      "ex": "computer animation"
+    },
+    {
+      "id": "ox5_annually",
+      "lv": "B2",
+      "w": "annually",
+      "pos": "adv.",
+      "tr": "yıllık olarak, her yıl",
+      "ex": "paid annually"
+    },
+    {
+      "id": "ox5_anonymous",
+      "lv": "C1",
+      "w": "anonymous",
+      "pos": "adj.",
+      "tr": "isimsiz, anonim",
+      "ex": "an anonymous donor"
+    },
+    {
+      "id": "ox5_anticipate",
+      "lv": "B2",
+      "w": "anticipate",
+      "pos": "v.",
+      "tr": "öngörmek, beklemek",
+      "ex": "We anticipate problems."
+    },
+    {
+      "id": "ox5_anxiety",
+      "lv": "B2",
+      "w": "anxiety",
+      "pos": "n.",
+      "tr": "kaygı, endişe",
+      "ex": "feelings of anxiety"
+    },
+    {
+      "id": "ox5_apology",
+      "lv": "B2",
+      "w": "apology",
+      "pos": "n.",
+      "tr": "özür",
+      "ex": "a sincere apology"
+    },
+    {
+      "id": "ox5_apparatus",
+      "lv": "C1",
+      "w": "apparatus",
+      "pos": "n.",
+      "tr": "aygıt, düzenek",
+      "ex": "laboratory apparatus"
+    },
+    {
+      "id": "ox5_apparel",
+      "lv": "C1",
+      "w": "apparel",
+      "pos": "n.",
+      "tr": "giyim, kıyafet",
+      "ex": "sports apparel"
+    },
+    {
+      "id": "ox5_appealing",
+      "lv": "C1",
+      "w": "appealing",
+      "pos": "adj.",
+      "tr": "çekici, cazip",
+      "ex": "an appealing offer"
+    },
+    {
+      "id": "ox5_appetite",
+      "lv": "C1",
+      "w": "appetite",
+      "pos": "n.",
+      "tr": "iştah",
+      "ex": "a healthy appetite"
+    },
+    {
+      "id": "ox5_applaud",
+      "lv": "C1",
+      "w": "applaud",
+      "pos": "v.",
+      "tr": "alkışlamak",
+      "ex": "The crowd applauded."
+    },
+    {
+      "id": "ox5_applicable",
+      "lv": "C1",
+      "w": "applicable",
+      "pos": "adj.",
+      "tr": "uygulanabilir, geçerli",
+      "ex": "rules applicable to all"
+    },
+    {
+      "id": "ox5_applicant",
+      "lv": "B2",
+      "w": "applicant",
+      "pos": "n.",
+      "tr": "başvuran, aday",
+      "ex": "a job applicant"
+    },
+    {
+      "id": "ox5_appoint",
+      "lv": "C1",
+      "w": "appoint",
+      "pos": "v.",
+      "tr": "atamak, tayin etmek",
+      "ex": "appoint a new manager"
+    },
+    {
+      "id": "ox5_appreciation",
+      "lv": "C1",
+      "w": "appreciation",
+      "pos": "n.",
+      "tr": "takdir; minnet",
+      "ex": "a token of appreciation"
+    },
+    {
+      "id": "ox5_appropriately",
+      "lv": "B2",
+      "w": "appropriately",
+      "pos": "adv.",
+      "tr": "uygun biçimde",
+      "ex": "dress appropriately"
+    },
+    {
+      "id": "ox5_arbitrary",
+      "lv": "C1",
+      "w": "arbitrary",
+      "pos": "adj.",
+      "tr": "keyfi, gelişigüzel",
+      "ex": "an arbitrary decision"
+    },
+    {
+      "id": "ox5_architectural",
+      "lv": "C1",
+      "w": "architectural",
+      "pos": "adj.",
+      "tr": "mimari",
+      "ex": "architectural design"
+    },
+    {
+      "id": "ox5_archive",
+      "lv": "C1",
+      "w": "archive",
+      "pos": "n.",
+      "tr": "arşiv",
+      "ex": "the national archive"
+    },
+    {
+      "id": "ox5_arena",
+      "lv": "C1",
+      "w": "arena",
+      "pos": "n.",
+      "tr": "arena, saha; alan",
+      "ex": "a sports arena"
+    },
+    {
+      "id": "ox5_arm",
+      "lv": "C1",
+      "w": "arm",
+      "pos": "v.",
+      "tr": "silahlandırmak",
+      "ex": "arm the soldiers"
+    },
+    {
+      "id": "ox5_array",
+      "lv": "C1",
+      "w": "array",
+      "pos": "n.",
+      "tr": "dizi, yelpaze",
+      "ex": "a wide array of colors"
+    },
+    {
+      "id": "ox5_arrow",
+      "lv": "B2",
+      "w": "arrow",
+      "pos": "n.",
+      "tr": "ok; ok işareti",
+      "ex": "Follow the arrow."
+    },
+    {
+      "id": "ox5_articulate",
+      "lv": "C1",
+      "w": "articulate",
+      "pos": "v.",
+      "tr": "açıkça ifade etmek",
+      "ex": "articulate your ideas"
+    },
+    {
+      "id": "ox5_artwork",
+      "lv": "B2",
+      "w": "artwork",
+      "pos": "n.",
+      "tr": "sanat eseri/çalışması",
+      "ex": "beautiful artwork"
+    },
+    {
+      "id": "ox5_ash",
+      "lv": "C1",
+      "w": "ash",
+      "pos": "n.",
+      "tr": "kül",
+      "ex": "cigarette ash"
+    },
+    {
+      "id": "ox5_aspiration",
+      "lv": "C1",
+      "w": "aspiration",
+      "pos": "n.",
+      "tr": "özlem, emel, hedef",
+      "ex": "career aspirations"
+    },
+    {
+      "id": "ox5_aspire",
+      "lv": "C1",
+      "w": "aspire",
+      "pos": "v.",
+      "tr": "özlemek, hedeflemek",
+      "ex": "aspire to greatness"
+    },
+    {
+      "id": "ox5_assassination",
+      "lv": "C1",
+      "w": "assassination",
+      "pos": "n.",
+      "tr": "suikast",
+      "ex": "an assassination attempt"
+    },
+    {
+      "id": "ox5_assault",
+      "lv": "C1",
+      "w": "assault",
+      "pos": "n., v.",
+      "tr": "saldırı; saldırmak",
+      "ex": "a violent assault"
+    },
+    {
+      "id": "ox5_assemble",
+      "lv": "C1",
+      "w": "assemble",
+      "pos": "v.",
+      "tr": "toplamak/toplanmak; monte etmek",
+      "ex": "assemble the parts"
+    },
+    {
+      "id": "ox5_assembly",
+      "lv": "C1",
+      "w": "assembly",
+      "pos": "n.",
+      "tr": "meclis; montaj; toplanma",
+      "ex": "the national assembly"
+    },
+    {
+      "id": "ox5_assert",
+      "lv": "C1",
+      "w": "assert",
+      "pos": "v.",
+      "tr": "ileri sürmek, savunmak",
+      "ex": "assert your rights"
+    },
+    {
+      "id": "ox5_assertion",
+      "lv": "C1",
+      "w": "assertion",
+      "pos": "n.",
+      "tr": "iddia, sav",
+      "ex": "a bold assertion"
+    },
+    {
+      "id": "ox5_asset",
+      "lv": "B2",
+      "w": "asset",
+      "pos": "n.",
+      "tr": "varlık; değerli şey",
+      "ex": "a valuable asset"
+    },
+    {
+      "id": "ox5_assign",
+      "lv": "B2",
+      "w": "assign",
+      "pos": "v.",
+      "tr": "atamak, görevlendirmek",
+      "ex": "assign a task"
+    },
+    {
+      "id": "ox5_assistance",
+      "lv": "B2",
+      "w": "assistance",
+      "pos": "n.",
+      "tr": "yardım",
+      "ex": "financial assistance"
+    },
+    {
+      "id": "ox5_assumption",
+      "lv": "B2",
+      "w": "assumption",
+      "pos": "n.",
+      "tr": "varsayım",
+      "ex": "a false assumption"
+    },
+    {
+      "id": "ox5_assurance",
+      "lv": "C1",
+      "w": "assurance",
+      "pos": "n.",
+      "tr": "güvence, teminat",
+      "ex": "a written assurance"
+    },
+    {
+      "id": "ox5_assure",
+      "lv": "B2",
+      "w": "assure",
+      "pos": "v.",
+      "tr": "temin etmek, güvence vermek",
+      "ex": "I assure you it's safe."
+    },
+    {
+      "id": "ox5_astonishing",
+      "lv": "B2",
+      "w": "astonishing",
+      "pos": "adj.",
+      "tr": "şaşırtıcı",
+      "ex": "an astonishing result"
+    },
+    {
+      "id": "ox5_asylum",
+      "lv": "C1",
+      "w": "asylum",
+      "pos": "n.",
+      "tr": "sığınma, iltica",
+      "ex": "seek asylum"
+    },
+    {
+      "id": "ox5_athletic",
+      "lv": "B2",
+      "w": "athletic",
+      "pos": "adj.",
+      "tr": "atletik, sportif",
+      "ex": "an athletic build"
+    },
+    {
+      "id": "ox5_atrocity",
+      "lv": "C1",
+      "w": "atrocity",
+      "pos": "n.",
+      "tr": "vahşet, gaddarlık",
+      "ex": "wartime atrocities"
+    },
+    {
+      "id": "ox5_attachment",
+      "lv": "B2",
+      "w": "attachment",
+      "pos": "n.",
+      "tr": "ek (dosya); bağlılık",
+      "ex": "an email attachment"
+    },
+    {
+      "id": "ox5_attain",
+      "lv": "C1",
+      "w": "attain",
+      "pos": "v.",
+      "tr": "ulaşmak, elde etmek",
+      "ex": "attain a goal"
+    },
+    {
+      "id": "ox5_attendance",
+      "lv": "C1",
+      "w": "attendance",
+      "pos": "n.",
+      "tr": "katılım, devam",
+      "ex": "poor attendance"
+    },
+    {
+      "id": "ox5_attribute",
+      "lv": "C1",
+      "w": "attribute",
+      "pos": "v., n.",
+      "tr": "atfetmek; nitelik, özellik",
+      "ex": "attribute success to luck"
+    },
+    {
+      "id": "ox5_auction",
+      "lv": "C1",
+      "w": "auction",
+      "pos": "n.",
+      "tr": "açık artırma, müzayede",
+      "ex": "sold at auction"
+    },
+    {
+      "id": "ox5_audio",
+      "lv": "B2",
+      "w": "audio",
+      "pos": "adj.",
+      "tr": "sesli, işitsel",
+      "ex": "audio recording"
+    },
+    {
+      "id": "ox5_audit",
+      "lv": "C1",
+      "w": "audit",
+      "pos": "n.",
+      "tr": "denetim",
+      "ex": "a financial audit"
+    },
+    {
+      "id": "ox5_authentic",
+      "lv": "C1",
+      "w": "authentic",
+      "pos": "adj.",
+      "tr": "gerçek, özgün, otantik",
+      "ex": "authentic Italian food"
+    },
+    {
+      "id": "ox5_authorize",
+      "lv": "C1",
+      "w": "authorize",
+      "pos": "v.",
+      "tr": "yetki vermek, onaylamak",
+      "ex": "authorize a payment"
+    },
+    {
+      "id": "ox5_auto",
+      "lv": "C1",
+      "w": "auto",
+      "pos": "n.",
+      "tr": "otomobil, araba",
+      "ex": "the auto industry"
+    },
+    {
+      "id": "ox5_autonomy",
+      "lv": "C1",
+      "w": "autonomy",
+      "pos": "n.",
+      "tr": "özerklik",
+      "ex": "regional autonomy"
+    },
+    {
+      "id": "ox5_autumn",
+      "lv": "C1",
+      "w": "autumn",
+      "pos": "n.",
+      "tr": "sonbahar (İng.)",
+      "ex": "in late autumn"
+    },
+    {
+      "id": "ox5_availability",
+      "lv": "C1",
+      "w": "availability",
+      "pos": "n.",
+      "tr": "bulunabilirlik, müsaitlik",
+      "ex": "check availability"
+    },
+    {
+      "id": "ox5_await",
+      "lv": "C1",
+      "w": "await",
+      "pos": "v.",
+      "tr": "beklemek",
+      "ex": "await a reply"
+    },
+    {
+      "id": "ox5_awareness",
+      "lv": "B2",
+      "w": "awareness",
+      "pos": "n.",
+      "tr": "farkındalık",
+      "ex": "public awareness"
+    },
+    {
+      "id": "ox5_awkward",
+      "lv": "B2",
+      "w": "awkward",
+      "pos": "adj.",
+      "tr": "garip; beceriksiz; rahatsız edici",
+      "ex": "an awkward silence"
+    }
   ],
-
   "articles": [
     {
-      "id": "ext_silkroad", "lv": "B2", "title": "The Silk Road",
+      "id": "ext_silkroad",
+      "lv": "B2",
+      "title": "The Silk Road",
       "body": "The Silk Road was never a single road, nor was it used only for silk. It was a shifting web of routes that linked China to the Mediterranean, crossing deserts, mountains, and the territories of many peoples.\n\nGoods certainly moved along it — silk travelling west, but also glass, spices, and horses in many directions. Yet historians increasingly stress that ideas travelled just as far. Religions, technologies, and artistic styles spread between distant cultures, carried by the very merchants who carried cloth.\n\nThe network declined as sea routes grew cheaper and safer from the fifteenth century onward. Even so, its lasting importance lies less in the trade itself than in what that trade made possible: sustained contact between civilisations that might otherwise have remained strangers.",
       "items": [
-        { "q": "According to the text, the Silk Road was —", "opts": ["a single paved road", "a network of many routes", "used only for silk", "purely a sea route"], "ans": 1 },
-        { "q": "What does the passage emphasise besides goods?", "opts": ["The movement of ideas", "The price of silk", "Desert weather", "Chinese politics"], "ans": 0, "tr": "Tarihçiler fikirlerin de en az mallar kadar yol aldığını vurguluyor." },
-        { "q": "Why did the network decline?", "opts": ["Wars destroyed the roads", "Sea routes became cheaper and safer", "Silk went out of fashion", "China closed its borders"], "ans": 1 }
+        {
+          "q": "According to the text, the Silk Road was —",
+          "opts": [
+            "a single paved road",
+            "a network of many routes",
+            "used only for silk",
+            "purely a sea route"
+          ],
+          "ans": 1
+        },
+        {
+          "q": "What does the passage emphasise besides goods?",
+          "opts": [
+            "The movement of ideas",
+            "The price of silk",
+            "Desert weather",
+            "Chinese politics"
+          ],
+          "ans": 0,
+          "tr": "Tarihçiler fikirlerin de en az mallar kadar yol aldığını vurguluyor."
+        },
+        {
+          "q": "Why did the network decline?",
+          "opts": [
+            "Wars destroyed the roads",
+            "Sea routes became cheaper and safer",
+            "Silk went out of fashion",
+            "China closed its borders"
+          ],
+          "ans": 1
+        }
       ]
     }
   ],
-
   "listening": [
     {
-      "id": "ext_museum", "lv": "B1", "title": "At the museum desk", "accent": "en-GB",
+      "id": "ext_museum",
+      "lv": "B1",
+      "title": "At the museum desk",
+      "accent": "en-GB",
       "script": "Good morning, welcome to the City Museum. — Hi, two adult tickets, please. — That's sixteen pounds. The special exhibition on the second floor is included. — Great. What time do you close? — At half past five today. — Thank you!",
       "items": [
-        { "q": "How much are the tickets in total?", "opts": ["6 pounds", "16 pounds", "60 pounds"], "ans": 1 },
-        { "q": "Where is the special exhibition?", "opts": ["Ground floor", "First floor", "Second floor"], "ans": 2 },
-        { "q": "What time does the museum close today?", "opts": ["5:00", "5:30", "6:30"], "ans": 1 }
+        {
+          "q": "How much are the tickets in total?",
+          "opts": [
+            "6 pounds",
+            "16 pounds",
+            "60 pounds"
+          ],
+          "ans": 1
+        },
+        {
+          "q": "Where is the special exhibition?",
+          "opts": [
+            "Ground floor",
+            "First floor",
+            "Second floor"
+          ],
+          "ans": 2
+        },
+        {
+          "q": "What time does the museum close today?",
+          "opts": [
+            "5:00",
+            "5:30",
+            "6:30"
+          ],
+          "ans": 1
+        }
       ]
     }
   ],
-
   "grammar": [
     {
-      "id": "ext_modals", "lv": "B1", "title": "Modals: must / have to",
+      "id": "ext_modals",
+      "lv": "B1",
+      "title": "Modals: must / have to",
       "exp": "'must' genelde konuşanın kendi koyduğu zorunluluğu anlatır (I must call her). 'have to' ise dışarıdan gelen, kural kaynaklı zorunluluğu anlatır (I have to wear a uniform). Olumsuzda anlam değişir: 'mustn't' = yasak; 'don't have to' = gerek yok.",
       "items": [
-        { "q": "At my job I ___ wear a uniform; it's the rule.", "opts": ["must", "have to", "mustn't"], "ans": 1, "tr": "Dış kural -> have to." },
-        { "q": "You ___ touch that wire — it's dangerous!", "opts": ["don't have to", "mustn't", "have to"], "ans": 1, "tr": "Yasak -> mustn't." },
-        { "q": "It's Sunday, so we ___ get up early.", "opts": ["mustn't", "don't have to", "must"], "ans": 1, "tr": "Gerek yok -> don't have to." }
+        {
+          "q": "At my job I ___ wear a uniform; it's the rule.",
+          "opts": [
+            "must",
+            "have to",
+            "mustn't"
+          ],
+          "ans": 1,
+          "tr": "Dış kural -> have to."
+        },
+        {
+          "q": "You ___ touch that wire — it's dangerous!",
+          "opts": [
+            "don't have to",
+            "mustn't",
+            "have to"
+          ],
+          "ans": 1,
+          "tr": "Yasak -> mustn't."
+        },
+        {
+          "q": "It's Sunday, so we ___ get up early.",
+          "opts": [
+            "mustn't",
+            "don't have to",
+            "must"
+          ],
+          "ans": 1,
+          "tr": "Gerek yok -> don't have to."
+        }
       ]
     }
   ],
-
   "writing": [
     {
-      "id": "ext_complaint", "lv": "B1", "exam": ["GENEL"], "type": "Resmî Şikâyet E-postası", "minWords": 120,
+      "id": "ext_complaint",
+      "lv": "B1",
+      "exam": [
+        "GENEL"
+      ],
+      "type": "Resmî Şikâyet E-postası",
+      "minWords": 120,
       "prompt": "Write a formal email to a company about a product that arrived damaged. Explain the problem and say what you want them to do.",
       "tips": "Resmî dil kullan (Dear Sir/Madam). Sorunu net anlat, sipariş bilgisini ver, açık bir talep (iade/değişim) ekle, nazik kapat.",
       "structure": "Selamlama -> sorun + sipariş detayı -> net talep -> kapanış (I look forward to...)."
