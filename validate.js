@@ -137,6 +137,90 @@ function checkOptsAns(item, opts, ans, where) {
   if (!isStr(it.en)) errors.push(`${where}: en missing`);
 });
 
+// ===========================================================================
+// BATCH 2 — Learn modules (articles, listening, grammar, writing)
+// ===========================================================================
+const LV2 = ['B1', 'B2', 'C1'];
+const ACCENTS = ['en-GB', 'en-US'];
+const EXAMS = ['GENEL', 'IELTS', 'TOEFL'];
+
+// Items in these modules carry their own ids ("_x2_"). Validate only the
+// batch-2 records, identified by the "_x2_" marker in their id, so the
+// original example records (ext_*) are left untouched.
+const isB2id = (id) => typeof id === 'string' && id.includes('_x2_');
+
+function checkItemOptsAns(item, optsLen, ansMax, where) {
+  if (!Array.isArray(item.opts) || item.opts.length !== optsLen) errors.push(`${where}: opts must be array of length ${optsLen} (got ${Array.isArray(item.opts) ? item.opts.length : typeof item.opts})`);
+  else if (!item.opts.every(isStr)) errors.push(`${where}: every opt must be a non-empty string`);
+  if (!isInt(item.ans) || item.ans < 0 || item.ans > ansMax) errors.push(`${where}: ans must be int in 0..${ansMax} (got ${JSON.stringify(item.ans)})`);
+}
+
+// --- articles (opts length 4, items carry tr/en, body needs paragraph break) ---
+(content.articles || []).filter((it) => isB2id(it.id)).forEach((it) => {
+  const where = `article ${it.id}`;
+  if (!it.id.includes('_x2_')) errors.push(`${where}: id must contain "_x2_"`);
+  if (!LV2.includes(it.lv)) errors.push(`${where}: lv must be B1/B2/C1 (got ${JSON.stringify(it.lv)})`);
+  if (!FIELD.includes(it.field)) errors.push(`${where}: field must be fen/saglik/sosyal (got ${JSON.stringify(it.field)})`);
+  if (!isStr(it.title)) errors.push(`${where}: title missing`);
+  if (!isStr(it.body)) errors.push(`${where}: body missing`);
+  else if (!it.body.includes('\n\n')) errors.push(`${where}: body must contain a paragraph break "\\n\\n"`);
+  if (!Array.isArray(it.items) || it.items.length < 1) errors.push(`${where}: items missing`);
+  else it.items.forEach((q, i) => {
+    const w = `${where} item#${i + 1}`;
+    if (!isStr(q.q)) errors.push(`${w}: q missing`);
+    checkItemOptsAns(q, 4, 3, w);
+    if (!isStr(q.tr)) errors.push(`${w}: tr missing`);
+    if (!isStr(q.en)) errors.push(`${w}: en missing`);
+  });
+});
+
+// --- listening (opts length 3, accent constrained, items have no tr/en) ---
+(content.listening || []).filter((it) => isB2id(it.id)).forEach((it) => {
+  const where = `listening ${it.id}`;
+  if (!it.id.includes('_x2_')) errors.push(`${where}: id must contain "_x2_"`);
+  if (!LV2.includes(it.lv)) errors.push(`${where}: lv must be B1/B2/C1 (got ${JSON.stringify(it.lv)})`);
+  if (!FIELD.includes(it.field)) errors.push(`${where}: field must be fen/saglik/sosyal (got ${JSON.stringify(it.field)})`);
+  if (!ACCENTS.includes(it.accent)) errors.push(`${where}: accent must be en-GB/en-US (got ${JSON.stringify(it.accent)})`);
+  if (!isStr(it.title)) errors.push(`${where}: title missing`);
+  if (!isStr(it.script)) errors.push(`${where}: script missing`);
+  if (!Array.isArray(it.items) || it.items.length < 1) errors.push(`${where}: items missing`);
+  else it.items.forEach((q, i) => {
+    const w = `${where} item#${i + 1}`;
+    if (!isStr(q.q)) errors.push(`${w}: q missing`);
+    checkItemOptsAns(q, 3, 2, w);
+  });
+});
+
+// --- grammar (opts length 3, items carry tr; no field) ---
+(content.grammar || []).filter((it) => isB2id(it.id)).forEach((it) => {
+  const where = `grammar ${it.id}`;
+  if (!it.id.includes('_x2_')) errors.push(`${where}: id must contain "_x2_"`);
+  if (!LV2.includes(it.lv)) errors.push(`${where}: lv must be B1/B2/C1 (got ${JSON.stringify(it.lv)})`);
+  if (!isStr(it.title)) errors.push(`${where}: title missing`);
+  if (!isStr(it.exp)) errors.push(`${where}: exp missing`);
+  if (!Array.isArray(it.items) || it.items.length < 1) errors.push(`${where}: items missing`);
+  else it.items.forEach((q, i) => {
+    const w = `${where} item#${i + 1}`;
+    if (!isStr(q.q)) errors.push(`${w}: q missing`);
+    checkItemOptsAns(q, 3, 2, w);
+    if (!isStr(q.tr)) errors.push(`${w}: tr missing`);
+  });
+});
+
+// --- writing (exam labels constrained; no items) ---
+(content.writing || []).filter((it) => isB2id(it.id)).forEach((it) => {
+  const where = `writing ${it.id}`;
+  if (!it.id.includes('_x2_')) errors.push(`${where}: id must contain "_x2_"`);
+  if (!LV2.includes(it.lv)) errors.push(`${where}: lv must be B1/B2/C1 (got ${JSON.stringify(it.lv)})`);
+  if (!Array.isArray(it.exam) || it.exam.length < 1) errors.push(`${where}: exam must be a non-empty array`);
+  else if (!it.exam.every((e) => EXAMS.includes(e))) errors.push(`${where}: exam values must be in {GENEL,IELTS,TOEFL} (got ${JSON.stringify(it.exam)})`);
+  if (!isStr(it.type)) errors.push(`${where}: type missing`);
+  if (!isInt(it.minWords) || it.minWords < 50) errors.push(`${where}: minWords must be a sensible integer (got ${JSON.stringify(it.minWords)})`);
+  if (!isStr(it.prompt)) errors.push(`${where}: prompt missing`);
+  if (!isStr(it.tips)) errors.push(`${where}: tips missing`);
+  if (!isStr(it.structure)) errors.push(`${where}: structure missing`);
+});
+
 // --- summary / distribution ---
 const banks = ['cloze', 'restate', 'oddout', 'dialogue', 'paracomp', 'translate'];
 const counts = {};
@@ -165,6 +249,35 @@ console.log('field:', fieldCount);
 console.log('ans distribution (incl. cloze blanks):', ansDist);
 const dirs = (content.translate || []).reduce((a, it) => { a[it.dir] = (a[it.dir] || 0) + 1; return a; }, {});
 console.log('translate dirs:', dirs);
+
+// --- batch 2 summary ---
+const b2types = ['articles', 'listening', 'grammar', 'writing'];
+const b2lv = { B1: 0, B2: 0, C1: 0 };
+const b2field = { fen: 0, saglik: 0, sosyal: 0 };
+const b2counts = {};
+let b2total = 0;
+const accentCount = {};
+const examCount = {};
+const itemAns = { articles: {}, listening: {}, grammar: {} };
+for (const t of b2types) {
+  const arr = (content[t] || []).filter((it) => isB2id(it.id));
+  b2counts[t] = arr.length;
+  b2total += arr.length;
+  for (const it of arr) {
+    if (b2lv[it.lv] !== undefined) b2lv[it.lv]++;
+    if (it.field && b2field[it.field] !== undefined) b2field[it.field]++;
+    if (it.accent) accentCount[it.accent] = (accentCount[it.accent] || 0) + 1;
+    if (Array.isArray(it.exam)) for (const e of it.exam) examCount[e] = (examCount[e] || 0) + 1;
+    if (itemAns[t] && Array.isArray(it.items)) for (const q of it.items) itemAns[t][q.ans] = (itemAns[t][q.ans] || 0) + 1;
+  }
+}
+console.log('\n--- BATCH 2 ---');
+console.log('counts:', b2counts, 'total', b2total);
+console.log('lv:', b2lv, '=> B1', (100 * b2lv.B1 / b2total).toFixed(0) + '% B2', (100 * b2lv.B2 / b2total).toFixed(0) + '% C1', (100 * b2lv.C1 / b2total).toFixed(0) + '%');
+console.log('field (articles+listening):', b2field);
+console.log('listening accents:', accentCount);
+console.log('writing exam labels:', examCount);
+console.log('item ans positions:', itemAns);
 
 if (errors.length) {
   console.error('\nVALIDATION FAILED with ' + errors.length + ' error(s):');
