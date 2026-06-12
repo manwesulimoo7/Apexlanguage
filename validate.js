@@ -222,6 +222,62 @@ function checkItemOptsAns(item, optsLen, ansMax, where) {
 });
 
 // ===========================================================================
+// BATCH 4b — errorhunt, paraphrase, toeflint (new content types)
+// ===========================================================================
+// --- errorhunt: paragraph with exactly N embedded grammar errors ---
+(content.errorhunt || []).forEach((it) => {
+  const where = `errorhunt ${it.id}`;
+  if (!isStr(it.id) || !it.id.startsWith('eh_')) errors.push(`${where}: id must start with "eh_"`);
+  else if (!/_x\d+_/.test(it.id)) errors.push(`${where}: id must contain a batch marker like "_x4_"`);
+  if (!LV2.includes(it.lv)) errors.push(`${where}: lv must be B1/B2/C1 (got ${JSON.stringify(it.lv)})`);
+  if (!FIELD.includes(it.field)) errors.push(`${where}: field must be fen/saglik/sosyal (got ${JSON.stringify(it.field)})`);
+  if (!isStr(it.text)) errors.push(`${where}: text missing`);
+  if (!Array.isArray(it.errors) || it.errors.length < 1) { errors.push(`${where}: errors must be a non-empty array`); return; }
+  it.errors.forEach((e, i) => {
+    const w = `${where} error#${i + 1}`;
+    if (!isStr(e.find)) { errors.push(`${w}: find missing`); return; }
+    if (!isStr(e.fix)) errors.push(`${w}: fix missing`);
+    if (!isStr(e.tr)) errors.push(`${w}: tr missing`);
+    if (!isStr(e.en)) errors.push(`${w}: en missing`);
+    // each "find" must appear in text exactly once (literal substring)
+    if (isStr(it.text)) {
+      const occ = it.text.split(e.find).length - 1;
+      if (occ !== 1) errors.push(`${w}: find ${JSON.stringify(e.find)} must appear exactly once in text (found ${occ})`);
+    }
+  });
+});
+
+// --- paraphrase: source + transformation instruction + model answer (no field) ---
+(content.paraphrase || []).forEach((it) => {
+  const where = `paraphrase ${it.id}`;
+  if (!isStr(it.id) || !it.id.startsWith('pp_')) errors.push(`${where}: id must start with "pp_"`);
+  else if (!/_x\d+_/.test(it.id)) errors.push(`${where}: id must contain a batch marker like "_x4_"`);
+  if (!LV2.includes(it.lv)) errors.push(`${where}: lv must be B1/B2/C1 (got ${JSON.stringify(it.lv)})`);
+  if (!isStr(it.source)) errors.push(`${where}: source missing`);
+  if (!isStr(it.instruction)) errors.push(`${where}: instruction missing`);
+  if (!isStr(it.instruction_en)) errors.push(`${where}: instruction_en missing`);
+  if (!isStr(it.sample)) errors.push(`${where}: sample missing`);
+});
+
+// --- toeflint: integrated writing (reading vs. lecture) ---
+(content.toeflint || []).forEach((it) => {
+  const where = `toeflint ${it.id}`;
+  if (!isStr(it.id) || !it.id.startsWith('ti_')) errors.push(`${where}: id must start with "ti_"`);
+  else if (!/_x\d+_/.test(it.id)) errors.push(`${where}: id must contain a batch marker like "_x4_"`);
+  if (it.type !== 'writing') errors.push(`${where}: type must be "writing" (got ${JSON.stringify(it.type)})`);
+  if (!LV.includes(it.lv)) errors.push(`${where}: lv must be B2/C1 (got ${JSON.stringify(it.lv)})`);
+  if (!isStr(it.topic)) errors.push(`${where}: topic missing`);
+  if (!isInt(it.minWords) || it.minWords < 50) errors.push(`${where}: minWords must be a sensible integer (got ${JSON.stringify(it.minWords)})`);
+  if (!it.reading || !isStr(it.reading.title)) errors.push(`${where}: reading.title missing`);
+  if (!it.reading || !isStr(it.reading.body)) errors.push(`${where}: reading.body missing`);
+  else if (!it.reading.body.includes('\n\n')) errors.push(`${where}: reading.body must contain a paragraph break "\\n\\n"`);
+  if (!it.lecture || !isStr(it.lecture.body)) errors.push(`${where}: lecture.body missing`);
+  if (!isStr(it.prompt)) errors.push(`${where}: prompt missing`);
+  if (!Array.isArray(it.keyPoints) || it.keyPoints.length !== 3) errors.push(`${where}: keyPoints must be an array of length 3`);
+  else if (!it.keyPoints.every(isStr)) errors.push(`${where}: every keyPoint must be a non-empty string`);
+});
+
+// ===========================================================================
 // VOCAB (all entries: ox5_/ext_ prefix, unique w, full fields, lv A1-C1)
 // ===========================================================================
 {
