@@ -8776,6 +8776,1758 @@
       "pos": "n.",
       "tr": "takım, set; donanım",
       "ex": "Keep a first-aid kit in the car."
+    },
+    {
+      "id": "ext_labour",
+      "lv": "B2",
+      "w": "labour",
+      "pos": "n.",
+      "tr": "emek, iş gücü; doğum sancısı",
+      "ex": "The bridge took years of hard labour to build."
+    },
+    {
+      "id": "ext_lad",
+      "lv": "C1",
+      "w": "lad",
+      "pos": "n.",
+      "tr": "delikanlı, oğlan",
+      "ex": "He's a friendly lad who helps his neighbours."
+    },
+    {
+      "id": "ext_ladder",
+      "lv": "B2",
+      "w": "ladder",
+      "pos": "n.",
+      "tr": "merdiven (taşınır); kariyer basamakları",
+      "ex": "He climbed the ladder to clean the gutters."
+    },
+    {
+      "id": "ext_landing",
+      "lv": "B2",
+      "w": "landing",
+      "pos": "n.",
+      "tr": "iniş; merdiven sahanlığı",
+      "ex": "The pilot made a smooth landing despite the wind."
+    },
+    {
+      "id": "ext_landlord",
+      "lv": "C1",
+      "w": "landlord",
+      "pos": "n.",
+      "tr": "ev sahibi, mülk sahibi",
+      "ex": "The landlord agreed to repair the heating."
+    },
+    {
+      "id": "ext_landmark",
+      "lv": "C1",
+      "w": "landmark",
+      "pos": "n.",
+      "tr": "simge yapı; dönüm noktası",
+      "ex": "The tower is the city's most famous landmark."
+    },
+    {
+      "id": "ext_landscape",
+      "lv": "B2",
+      "w": "landscape",
+      "pos": "n.",
+      "tr": "manzara, peyzaj; genel görünüm",
+      "ex": "The train passed through a dramatic mountain landscape."
+    },
+    {
+      "id": "ext_lane",
+      "lv": "B2",
+      "w": "lane",
+      "pos": "n.",
+      "tr": "şerit; dar yol",
+      "ex": "Stay in the left lane until the exit."
+    },
+    {
+      "id": "ext_lap",
+      "lv": "C1",
+      "w": "lap",
+      "pos": "n.",
+      "tr": "kucak; tur (yarış)",
+      "ex": "The cat fell asleep on her lap."
+    },
+    {
+      "id": "ext_large_scale",
+      "lv": "C1",
+      "w": "large-scale",
+      "pos": "adj.",
+      "tr": "büyük ölçekli",
+      "ex": "The company began large-scale production of the device."
+    },
+    {
+      "id": "ext_largely",
+      "lv": "B2",
+      "w": "largely",
+      "pos": "adv.",
+      "tr": "büyük ölçüde",
+      "ex": "The accident was largely the driver's fault."
+    },
+    {
+      "id": "ext_laser",
+      "lv": "C1",
+      "w": "laser",
+      "pos": "n.",
+      "tr": "lazer",
+      "ex": "The scar was removed with a laser."
+    },
+    {
+      "id": "ext_lately",
+      "lv": "B2",
+      "w": "lately",
+      "pos": "adv.",
+      "tr": "son zamanlarda",
+      "ex": "Have you spoken to your cousin lately?"
+    },
+    {
+      "id": "ext_latest",
+      "lv": "B2",
+      "w": "latest",
+      "pos": "n.",
+      "tr": "en yenisi, son çıkan",
+      "ex": "Her latest is even better than the first novel."
+    },
+    {
+      "id": "ext_latter",
+      "lv": "C1",
+      "w": "latter",
+      "pos": "adj., n.",
+      "tr": "ikincisi, sonuncusu (bahsedilenlerden)",
+      "ex": "Of tea and coffee, I prefer the latter."
+    },
+    {
+      "id": "ext_launch",
+      "lv": "B2",
+      "w": "launch",
+      "pos": "n., v.",
+      "tr": "fırlatma, lansman; başlatmak, piyasaya sürmek",
+      "ex": "The charity launched a campaign against food waste."
+    },
+    {
+      "id": "ext_lawn",
+      "lv": "C1",
+      "w": "lawn",
+      "pos": "n.",
+      "tr": "çim, çimenlik",
+      "ex": "He mows the lawn every other weekend."
+    },
+    {
+      "id": "ext_lawsuit",
+      "lv": "C1",
+      "w": "lawsuit",
+      "pos": "n.",
+      "tr": "dava",
+      "ex": "The actor filed a lawsuit against the magazine."
+    },
+    {
+      "id": "ext_layout",
+      "lv": "C1",
+      "w": "layout",
+      "pos": "n.",
+      "tr": "yerleşim, düzen, sayfa düzeni",
+      "ex": "The layout of the office encourages conversation."
+    },
+    {
+      "id": "ext_leadership",
+      "lv": "B2",
+      "w": "leadership",
+      "pos": "n.",
+      "tr": "liderlik, önderlik",
+      "ex": "The team improved under her leadership."
+    },
+    {
+      "id": "ext_leaflet",
+      "lv": "B2",
+      "w": "leaflet",
+      "pos": "n.",
+      "tr": "broşür, el ilanı",
+      "ex": "A volunteer handed out leaflets about recycling."
+    },
+    {
+      "id": "ext_league",
+      "lv": "B2",
+      "w": "league",
+      "pos": "n.",
+      "tr": "lig; birlik",
+      "ex": "The club was promoted to the top league."
+    },
+    {
+      "id": "ext_leak",
+      "lv": "C1",
+      "w": "leak",
+      "pos": "n., v.",
+      "tr": "sızıntı; sızdırmak",
+      "ex": "A gas leak forced the building to be evacuated."
+    },
+    {
+      "id": "ext_lean",
+      "lv": "B2",
+      "w": "lean",
+      "pos": "v.",
+      "tr": "yaslanmak, eğilmek",
+      "ex": "She leaned against the wall to rest."
+    },
+    {
+      "id": "ext_leap",
+      "lv": "C1",
+      "w": "leap",
+      "pos": "n., v.",
+      "tr": "sıçrama; sıçramak",
+      "ex": "The dancer made a graceful leap across the stage."
+    },
+    {
+      "id": "ext_leave",
+      "lv": "B2",
+      "w": "leave",
+      "pos": "n.",
+      "tr": "izin (işten)",
+      "ex": "He took two weeks' leave to visit his family."
+    },
+    {
+      "id": "ext_legacy",
+      "lv": "C1",
+      "w": "legacy",
+      "pos": "n.",
+      "tr": "miras, kalıt",
+      "ex": "The festival is the legacy of one determined teacher."
+    },
+    {
+      "id": "ext_legend",
+      "lv": "B2",
+      "w": "legend",
+      "pos": "n.",
+      "tr": "efsane",
+      "ex": "According to legend, a dragon guarded the lake."
+    },
+    {
+      "id": "ext_legendary",
+      "lv": "C1",
+      "w": "legendary",
+      "pos": "adj.",
+      "tr": "efsanevi",
+      "ex": "Her parties were legendary in the neighbourhood."
+    },
+    {
+      "id": "ext_legislation",
+      "lv": "C1",
+      "w": "legislation",
+      "pos": "n.",
+      "tr": "mevzuat, yasama",
+      "ex": "New legislation will tighten rules on advertising."
+    },
+    {
+      "id": "ext_legislative",
+      "lv": "C1",
+      "w": "legislative",
+      "pos": "adj.",
+      "tr": "yasama ile ilgili",
+      "ex": "The assembly has full legislative powers."
+    },
+    {
+      "id": "ext_legislature",
+      "lv": "C1",
+      "w": "legislature",
+      "pos": "n.",
+      "tr": "yasama organı",
+      "ex": "The legislature voted to raise the minimum wage."
+    },
+    {
+      "id": "ext_legitimate",
+      "lv": "C1",
+      "w": "legitimate",
+      "pos": "adj.",
+      "tr": "meşru, yasal; haklı",
+      "ex": "Voters raised legitimate concerns about the plan."
+    },
+    {
+      "id": "ext_lengthy",
+      "lv": "C1",
+      "w": "lengthy",
+      "pos": "adj.",
+      "tr": "uzun (süren)",
+      "ex": "The contract followed lengthy negotiations."
+    },
+    {
+      "id": "ext_lens",
+      "lv": "B2",
+      "w": "lens",
+      "pos": "n.",
+      "tr": "mercek, lens; objektif",
+      "ex": "The photographer changed to a wider lens."
+    },
+    {
+      "id": "ext_lesbian",
+      "lv": "C1",
+      "w": "lesbian",
+      "pos": "adj.",
+      "tr": "lezbiyen",
+      "ex": "The festival screened several lesbian films."
+    },
+    {
+      "id": "ext_lesser",
+      "lv": "C1",
+      "w": "lesser",
+      "pos": "adj.",
+      "tr": "daha az(önemli), küçük",
+      "ex": "He was convicted of a lesser charge."
+    },
+    {
+      "id": "ext_lethal",
+      "lv": "C1",
+      "w": "lethal",
+      "pos": "adj.",
+      "tr": "öldürücü",
+      "ex": "The snake's venom can be lethal to humans."
+    },
+    {
+      "id": "ext_level",
+      "lv": "B2",
+      "w": "level",
+      "pos": "v.",
+      "tr": "düzlemek; eşitlemek; (suçlama) yöneltmek",
+      "ex": "Workers levelled the ground before laying the path."
+    },
+    {
+      "id": "ext_liable",
+      "lv": "C1",
+      "w": "liable",
+      "pos": "adj.",
+      "tr": "yükümlü, sorumlu; eğilimli",
+      "ex": "Drivers are liable for damage they cause."
+    },
+    {
+      "id": "ext_liberal",
+      "lv": "C1",
+      "w": "liberal",
+      "pos": "adj., n.",
+      "tr": "özgürlükçü, liberal; hoşgörülü",
+      "ex": "Her parents took a liberal approach to bedtime."
+    },
+    {
+      "id": "ext_liberation",
+      "lv": "C1",
+      "w": "liberation",
+      "pos": "n.",
+      "tr": "kurtuluş, özgürleşme",
+      "ex": "The city celebrated its liberation every spring."
+    },
+    {
+      "id": "ext_liberty",
+      "lv": "C1",
+      "w": "liberty",
+      "pos": "n.",
+      "tr": "özgürlük, hürriyet",
+      "ex": "The constitution protects individual liberty."
+    },
+    {
+      "id": "ext_licence",
+      "lv": "B2",
+      "w": "licence",
+      "pos": "n.",
+      "tr": "ehliyet, ruhsat, lisans",
+      "ex": "You need a licence to fish in this river."
+    },
+    {
+      "id": "ext_license",
+      "lv": "C1",
+      "w": "license",
+      "pos": "v.",
+      "tr": "ruhsat vermek, yetkilendirmek",
+      "ex": "The café is licensed to serve alcohol."
+    },
+    {
+      "id": "ext_lifelong",
+      "lv": "C1",
+      "w": "lifelong",
+      "pos": "adj.",
+      "tr": "ömür boyu süren",
+      "ex": "Reading became a lifelong passion."
+    },
+    {
+      "id": "ext_lifetime",
+      "lv": "B2",
+      "w": "lifetime",
+      "pos": "n.",
+      "tr": "ömür, yaşam süresi",
+      "ex": "Such storms happen once in a lifetime."
+    },
+    {
+      "id": "ext_lighting",
+      "lv": "B2",
+      "w": "lighting",
+      "pos": "n.",
+      "tr": "aydınlatma",
+      "ex": "Soft lighting made the room feel warm."
+    },
+    {
+      "id": "ext_likelihood",
+      "lv": "C1",
+      "w": "likelihood",
+      "pos": "n.",
+      "tr": "olasılık, ihtimal",
+      "ex": "There is little likelihood of rain this week."
+    },
+    {
+      "id": "ext_likewise",
+      "lv": "B2",
+      "w": "likewise",
+      "pos": "adv.",
+      "tr": "aynı şekilde, keza",
+      "ex": "The first test failed; the second, likewise."
+    },
+    {
+      "id": "ext_limb",
+      "lv": "C1",
+      "w": "limb",
+      "pos": "n.",
+      "tr": "uzuv, kol/bacak; dal",
+      "ex": "The accident cost him the use of one limb."
+    },
+    {
+      "id": "ext_limitation",
+      "lv": "B2",
+      "w": "limitation",
+      "pos": "n.",
+      "tr": "sınırlama, kısıt",
+      "ex": "Every method has its limitations."
+    },
+    {
+      "id": "ext_limited",
+      "lv": "B2",
+      "w": "limited",
+      "pos": "adj.",
+      "tr": "sınırlı, kısıtlı",
+      "ex": "Seats are limited, so book early."
+    },
+    {
+      "id": "ext_line",
+      "lv": "B2",
+      "w": "line",
+      "pos": "v.",
+      "tr": "kaplamak, astarlamak; sıralanmak",
+      "ex": "Trees lined the avenue on both sides."
+    },
+    {
+      "id": "ext_line_up",
+      "lv": "C1",
+      "w": "line-up",
+      "pos": "n.",
+      "tr": "kadro, program (etkinlik)",
+      "ex": "The festival announced a strong line-up of bands."
+    },
+    {
+      "id": "ext_linear",
+      "lv": "C1",
+      "w": "linear",
+      "pos": "adj.",
+      "tr": "doğrusal, çizgisel",
+      "ex": "The story does not follow a linear order."
+    },
+    {
+      "id": "ext_linger",
+      "lv": "C1",
+      "w": "linger",
+      "pos": "v.",
+      "tr": "oyalanmak, geçmek bilmemek",
+      "ex": "The smell of paint lingered for days."
+    },
+    {
+      "id": "ext_listing",
+      "lv": "C1",
+      "w": "listing",
+      "pos": "n.",
+      "tr": "liste kaydı, ilan",
+      "ex": "The flat's listing attracted dozens of calls."
+    },
+    {
+      "id": "ext_literacy",
+      "lv": "C1",
+      "w": "literacy",
+      "pos": "n.",
+      "tr": "okuryazarlık",
+      "ex": "The campaign aims to improve adult literacy."
+    },
+    {
+      "id": "ext_literally",
+      "lv": "B2",
+      "w": "literally",
+      "pos": "adv.",
+      "tr": "kelimenin tam anlamıyla",
+      "ex": "The town was literally buried in snow."
+    },
+    {
+      "id": "ext_literary",
+      "lv": "B2",
+      "w": "literary",
+      "pos": "adj.",
+      "tr": "edebî, yazınsal",
+      "ex": "She won a major literary prize."
+    },
+    {
+      "id": "ext_litre",
+      "lv": "B2",
+      "w": "litre",
+      "pos": "n.",
+      "tr": "litre",
+      "ex": "The recipe needs a litre of milk."
+    },
+    {
+      "id": "ext_litter",
+      "lv": "B2",
+      "w": "litter",
+      "pos": "n.",
+      "tr": "çöp (yere atılan)",
+      "ex": "Volunteers collected litter along the beach."
+    },
+    {
+      "id": "ext_lively",
+      "lv": "B2",
+      "w": "lively",
+      "pos": "adj.",
+      "tr": "canlı, hareketli",
+      "ex": "The market is liveliest on Saturday mornings."
+    },
+    {
+      "id": "ext_liver",
+      "lv": "C1",
+      "w": "liver",
+      "pos": "n.",
+      "tr": "karaciğer",
+      "ex": "The liver removes toxins from the blood."
+    },
+    {
+      "id": "ext_load",
+      "lv": "B2",
+      "w": "load",
+      "pos": "n., v.",
+      "tr": "yük; yüklemek",
+      "ex": "They loaded the van with furniture."
+    },
+    {
+      "id": "ext_loan",
+      "lv": "B2",
+      "w": "loan",
+      "pos": "n.",
+      "tr": "kredi, borç; ödünç verme",
+      "ex": "She took out a loan to start the bakery."
+    },
+    {
+      "id": "ext_lobby",
+      "lv": "C1",
+      "w": "lobby",
+      "pos": "n., v.",
+      "tr": "lobi; kulis yapmak, baskı grubu oluşturmak",
+      "ex": "Farmers lobbied the government for better prices."
+    },
+    {
+      "id": "ext_log",
+      "lv": "C1",
+      "w": "log",
+      "pos": "n., v.",
+      "tr": "kütük; kayıt; kaydetmek",
+      "ex": "The captain logged the ship's position every hour."
+    },
+    {
+      "id": "ext_logic",
+      "lv": "C1",
+      "w": "logic",
+      "pos": "n.",
+      "tr": "mantık",
+      "ex": "I can't follow the logic of his argument."
+    },
+    {
+      "id": "ext_logical",
+      "lv": "B2",
+      "w": "logical",
+      "pos": "adj.",
+      "tr": "mantıklı, mantıksal",
+      "ex": "Moving closer to work was the logical choice."
+    },
+    {
+      "id": "ext_logo",
+      "lv": "B2",
+      "w": "logo",
+      "pos": "n.",
+      "tr": "logo",
+      "ex": "The new logo appears on all their products."
+    },
+    {
+      "id": "ext_long_standing",
+      "lv": "C1",
+      "w": "long-standing",
+      "pos": "adj.",
+      "tr": "uzun süredir devam eden",
+      "ex": "They finally settled a long-standing dispute."
+    },
+    {
+      "id": "ext_long_term",
+      "lv": "B2",
+      "w": "long-term",
+      "pos": "adj., adv.",
+      "tr": "uzun vadeli",
+      "ex": "Smoking causes long-term damage to the lungs."
+    },
+    {
+      "id": "ext_long_time",
+      "lv": "C1",
+      "w": "long-time",
+      "pos": "adj.",
+      "tr": "eski, uzun süreli (ilişki)",
+      "ex": "A long-time friend gave the wedding speech."
+    },
+    {
+      "id": "ext_loom",
+      "lv": "C1",
+      "w": "loom",
+      "pos": "v.",
+      "tr": "belirmek (tehditkâr); yaklaşmak",
+      "ex": "Dark mountains loomed ahead of the climbers."
+    },
+    {
+      "id": "ext_loop",
+      "lv": "C1",
+      "w": "loop",
+      "pos": "n.",
+      "tr": "döngü, ilmek",
+      "ex": "The path makes a loop around the lake."
+    },
+    {
+      "id": "ext_loose",
+      "lv": "B2",
+      "w": "loose",
+      "pos": "adj.",
+      "tr": "gevşek; bol; serbest",
+      "ex": "One of the screws has come loose."
+    },
+    {
+      "id": "ext_lord",
+      "lv": "B2",
+      "w": "lord",
+      "pos": "n.",
+      "tr": "lort; efendi",
+      "ex": "The castle once belonged to a powerful lord."
+    },
+    {
+      "id": "ext_lottery",
+      "lv": "B2",
+      "w": "lottery",
+      "pos": "n.",
+      "tr": "piyango",
+      "ex": "Winning the lottery did not make him happier."
+    },
+    {
+      "id": "ext_low",
+      "lv": "B2",
+      "w": "low",
+      "pos": "n.",
+      "tr": "en düşük nokta/değer; dip",
+      "ex": "The currency fell to a new low."
+    },
+    {
+      "id": "ext_lower",
+      "lv": "B2",
+      "w": "lower",
+      "pos": "v.",
+      "tr": "alçaltmak, indirmek, düşürmek",
+      "ex": "Please lower your voice in the library."
+    },
+    {
+      "id": "ext_loyal",
+      "lv": "B2",
+      "w": "loyal",
+      "pos": "adj.",
+      "tr": "sadık, vefalı",
+      "ex": "The shop has a small but loyal group of customers."
+    },
+    {
+      "id": "ext_loyalty",
+      "lv": "C1",
+      "w": "loyalty",
+      "pos": "n.",
+      "tr": "sadakat, bağlılık",
+      "ex": "His loyalty to his friends never wavered."
+    },
+    {
+      "id": "ext_lung",
+      "lv": "B2",
+      "w": "lung",
+      "pos": "n.",
+      "tr": "akciğer",
+      "ex": "Polluted air damages the lungs over time."
+    },
+    {
+      "id": "ext_lyric",
+      "lv": "B2",
+      "w": "lyric",
+      "pos": "n.",
+      "tr": "şarkı sözü",
+      "ex": "She writes the lyrics and her brother composes."
+    },
+    {
+      "id": "ext_machinery",
+      "lv": "C1",
+      "w": "machinery",
+      "pos": "n.",
+      "tr": "makineler; mekanizma",
+      "ex": "The farm invested in modern machinery."
+    },
+    {
+      "id": "ext_magical",
+      "lv": "C1",
+      "w": "magical",
+      "pos": "adj.",
+      "tr": "büyülü, sihirli",
+      "ex": "The lanterns gave the garden a magical feel."
+    },
+    {
+      "id": "ext_magistrate",
+      "lv": "C1",
+      "w": "magistrate",
+      "pos": "n.",
+      "tr": "sulh hâkimi",
+      "ex": "The magistrate fined the driver and warned him."
+    },
+    {
+      "id": "ext_magnetic",
+      "lv": "C1",
+      "w": "magnetic",
+      "pos": "adj.",
+      "tr": "manyetik; çekici (kişilik)",
+      "ex": "The earth has a magnetic field."
+    },
+    {
+      "id": "ext_magnificent",
+      "lv": "B2",
+      "w": "magnificent",
+      "pos": "adj.",
+      "tr": "muhteşem, görkemli",
+      "ex": "The palace has a magnificent marble staircase."
+    },
+    {
+      "id": "ext_magnitude",
+      "lv": "C1",
+      "w": "magnitude",
+      "pos": "n.",
+      "tr": "büyüklük; önem derecesi",
+      "ex": "They underestimated the magnitude of the task."
+    },
+    {
+      "id": "ext_mainland",
+      "lv": "C1",
+      "w": "mainland",
+      "pos": "n.",
+      "tr": "ana kara",
+      "ex": "A ferry links the island to the mainland."
+    },
+    {
+      "id": "ext_mainstream",
+      "lv": "C1",
+      "w": "mainstream",
+      "pos": "adj., n.",
+      "tr": "ana akım",
+      "ex": "The idea moved from the margins into the mainstream."
+    },
+    {
+      "id": "ext_maintain",
+      "lv": "B2",
+      "w": "maintain",
+      "pos": "v.",
+      "tr": "sürdürmek; bakımını yapmak; iddia etmek",
+      "ex": "It is hard to maintain focus for hours."
+    },
+    {
+      "id": "ext_maintenance",
+      "lv": "C1",
+      "w": "maintenance",
+      "pos": "n.",
+      "tr": "bakım; sürdürme",
+      "ex": "The lift is closed for routine maintenance."
+    },
+    {
+      "id": "ext_majority",
+      "lv": "B2",
+      "w": "majority",
+      "pos": "n.",
+      "tr": "çoğunluk",
+      "ex": "The majority of members voted for the change."
+    },
+    {
+      "id": "ext_make",
+      "lv": "B2",
+      "w": "make",
+      "pos": "n.",
+      "tr": "marka, yapım",
+      "ex": "What make is your washing machine?"
+    },
+    {
+      "id": "ext_make_up",
+      "lv": "B2",
+      "w": "make-up",
+      "pos": "n.",
+      "tr": "makyaj; yapı, bileşim",
+      "ex": "She wears very little make-up to work."
+    },
+    {
+      "id": "ext_making",
+      "lv": "B2",
+      "w": "making",
+      "pos": "n.",
+      "tr": "yapım, oluşturma",
+      "ex": "The documentary shows the making of the film."
+    },
+    {
+      "id": "ext_mandate",
+      "lv": "C1",
+      "w": "mandate",
+      "pos": "n.",
+      "tr": "yetki (seçimle verilen); görev emri",
+      "ex": "The new government claimed a clear mandate for reform."
+    },
+    {
+      "id": "ext_mandatory",
+      "lv": "C1",
+      "w": "mandatory",
+      "pos": "adj.",
+      "tr": "zorunlu",
+      "ex": "Seat belts are mandatory for all passengers."
+    },
+    {
+      "id": "ext_manifest",
+      "lv": "C1",
+      "w": "manifest",
+      "pos": "v.",
+      "tr": "açıkça göstermek, belirti vermek",
+      "ex": "Her anxiety manifested itself as sleeplessness."
+    },
+    {
+      "id": "ext_manipulate",
+      "lv": "C1",
+      "w": "manipulate",
+      "pos": "v.",
+      "tr": "yönlendirmek, manipüle etmek; ustaca kullanmak",
+      "ex": "The film accuses the press of manipulating public opinion."
+    },
+    {
+      "id": "ext_manipulation",
+      "lv": "C1",
+      "w": "manipulation",
+      "pos": "n.",
+      "tr": "manipülasyon, yönlendirme",
+      "ex": "The trial exposed years of financial manipulation."
+    },
+    {
+      "id": "ext_manufacture",
+      "lv": "B2",
+      "w": "manufacture",
+      "pos": "v.",
+      "tr": "imal etmek, üretmek",
+      "ex": "The plant manufactures parts for aircraft."
+    },
+    {
+      "id": "ext_manufacturing",
+      "lv": "B2",
+      "w": "manufacturing",
+      "pos": "n.",
+      "tr": "imalat (sanayisi)",
+      "ex": "Manufacturing still employs millions of workers."
+    },
+    {
+      "id": "ext_manuscript",
+      "lv": "C1",
+      "w": "manuscript",
+      "pos": "n.",
+      "tr": "el yazması; müsvedde",
+      "ex": "The library preserves a twelfth-century manuscript."
+    },
+    {
+      "id": "ext_map",
+      "lv": "B2",
+      "w": "map",
+      "pos": "v.",
+      "tr": "haritalamak; ayrıntısıyla ortaya koymak",
+      "ex": "Scientists have mapped the entire genome."
+    },
+    {
+      "id": "ext_marathon",
+      "lv": "B2",
+      "w": "marathon",
+      "pos": "n.",
+      "tr": "maraton",
+      "ex": "She ran her first marathon at fifty."
+    },
+    {
+      "id": "ext_march",
+      "lv": "C1",
+      "w": "march",
+      "pos": "n., v.",
+      "tr": "yürüyüş (protesto/asker); yürümek",
+      "ex": "Thousands marched through the capital for peace."
+    },
+    {
+      "id": "ext_margin",
+      "lv": "B2",
+      "w": "margin",
+      "pos": "n.",
+      "tr": "kenar boşluğu; marj, fark",
+      "ex": "He won the election by a narrow margin."
+    },
+    {
+      "id": "ext_marginal",
+      "lv": "C1",
+      "w": "marginal",
+      "pos": "adj.",
+      "tr": "önemsiz, marjinal; kenarda kalan",
+      "ex": "The change had only a marginal effect on sales."
+    },
+    {
+      "id": "ext_marine",
+      "lv": "C1",
+      "w": "marine",
+      "pos": "adj.",
+      "tr": "denizle ilgili, deniz-",
+      "ex": "Plastic waste threatens marine life."
+    },
+    {
+      "id": "ext_marker",
+      "lv": "B2",
+      "w": "marker",
+      "pos": "n.",
+      "tr": "işaret(leyici); keçeli kalem",
+      "ex": "A stone marker shows where the old gate stood."
+    },
+    {
+      "id": "ext_marketplace",
+      "lv": "C1",
+      "w": "marketplace",
+      "pos": "n.",
+      "tr": "pazar yeri; piyasa",
+      "ex": "Small firms struggle in a crowded marketplace."
+    },
+    {
+      "id": "ext_martial",
+      "lv": "B2",
+      "w": "martial",
+      "pos": "adj.",
+      "tr": "savaşla ilgili, askeri",
+      "ex": "He has practised martial arts since childhood."
+    },
+    {
+      "id": "ext_mask",
+      "lv": "C1",
+      "w": "mask",
+      "pos": "n.",
+      "tr": "maske",
+      "ex": "The nurse wore a mask and gloves."
+    },
+    {
+      "id": "ext_mass",
+      "lv": "B2",
+      "w": "mass",
+      "pos": "adj., n.",
+      "tr": "kitle(sel); yığın; kütle",
+      "ex": "Mass tourism has changed the small town completely."
+    },
+    {
+      "id": "ext_massacre",
+      "lv": "C1",
+      "w": "massacre",
+      "pos": "n.",
+      "tr": "katliam",
+      "ex": "The museum commemorates the victims of the massacre."
+    },
+    {
+      "id": "ext_massive",
+      "lv": "B2",
+      "w": "massive",
+      "pos": "adj.",
+      "tr": "devasa, çok büyük",
+      "ex": "A massive crowd filled the square."
+    },
+    {
+      "id": "ext_master",
+      "lv": "B2",
+      "w": "master",
+      "pos": "n., v.",
+      "tr": "usta; efendi; ustalaşmak",
+      "ex": "It takes years to master a musical instrument."
+    },
+    {
+      "id": "ext_matching",
+      "lv": "B2",
+      "w": "matching",
+      "pos": "adj.",
+      "tr": "uyumlu, takım (renk/desen)",
+      "ex": "She wore a hat with matching gloves."
+    },
+    {
+      "id": "ext_mate",
+      "lv": "B2",
+      "w": "mate",
+      "pos": "n., v.",
+      "tr": "arkadaş; eş (hayvan); çiftleşmek",
+      "ex": "He went fishing with a couple of mates."
+    },
+    {
+      "id": "ext_material",
+      "lv": "B2",
+      "w": "material",
+      "pos": "adj.",
+      "tr": "maddi; önemli (hukuk)",
+      "ex": "The witness withheld material facts from the court."
+    },
+    {
+      "id": "ext_mathematical",
+      "lv": "C1",
+      "w": "mathematical",
+      "pos": "adj.",
+      "tr": "matematiksel",
+      "ex": "The model rests on a few mathematical assumptions."
+    },
+    {
+      "id": "ext_mature",
+      "lv": "C1",
+      "w": "mature",
+      "pos": "adj., v.",
+      "tr": "olgun; olgunlaşmak",
+      "ex": "She is very mature for her age."
+    },
+    {
+      "id": "ext_maximize",
+      "lv": "C1",
+      "w": "maximize",
+      "pos": "v.",
+      "tr": "en üst düzeye çıkarmak",
+      "ex": "Arrange the shelves to maximize storage space."
+    },
+    {
+      "id": "ext_maximum",
+      "lv": "B2",
+      "w": "maximum",
+      "pos": "adj., n.",
+      "tr": "azami, en çok; üst sınır",
+      "ex": "The hall holds a maximum of two hundred people."
+    },
+    {
+      "id": "ext_mayor",
+      "lv": "B2",
+      "w": "mayor",
+      "pos": "n.",
+      "tr": "belediye başkanı",
+      "ex": "The mayor opened the new sports centre."
+    },
+    {
+      "id": "ext_meaningful",
+      "lv": "C1",
+      "w": "meaningful",
+      "pos": "adj.",
+      "tr": "anlamlı",
+      "ex": "Volunteering gave her work a meaningful purpose."
+    },
+    {
+      "id": "ext_means",
+      "lv": "B2",
+      "w": "means",
+      "pos": "n.",
+      "tr": "araç, yol; olanaklar",
+      "ex": "The bicycle is his only means of transport."
+    },
+    {
+      "id": "ext_meantime",
+      "lv": "C1",
+      "w": "meantime",
+      "pos": "n.",
+      "tr": "bu arada (in the meantime)",
+      "ex": "The bus comes at six; in the meantime, let's walk."
+    },
+    {
+      "id": "ext_measurement",
+      "lv": "B2",
+      "w": "measurement",
+      "pos": "n.",
+      "tr": "ölçüm, ölçü",
+      "ex": "Take careful measurements before cutting the wood."
+    },
+    {
+      "id": "ext_mechanic",
+      "lv": "B2",
+      "w": "mechanic",
+      "pos": "n.",
+      "tr": "tamirci, makinist",
+      "ex": "The mechanic found the fault in minutes."
+    },
+    {
+      "id": "ext_mechanical",
+      "lv": "B2",
+      "w": "mechanical",
+      "pos": "adj.",
+      "tr": "mekanik",
+      "ex": "The delay was caused by a mechanical failure."
+    },
+    {
+      "id": "ext_mechanism",
+      "lv": "B2",
+      "w": "mechanism",
+      "pos": "n.",
+      "tr": "mekanizma, düzenek",
+      "ex": "The clock's mechanism needs cleaning."
+    },
+    {
+      "id": "ext_medal",
+      "lv": "B2",
+      "w": "medal",
+      "pos": "n.",
+      "tr": "madalya",
+      "ex": "She won a gold medal in swimming."
+    },
+    {
+      "id": "ext_medication",
+      "lv": "B2",
+      "w": "medication",
+      "pos": "n.",
+      "tr": "ilaç (tedavisi)",
+      "ex": "Remember to take your medication with food."
+    },
+    {
+      "id": "ext_medieval",
+      "lv": "C1",
+      "w": "medieval",
+      "pos": "adj.",
+      "tr": "orta çağa ait",
+      "ex": "The town kept its medieval walls."
+    },
+    {
+      "id": "ext_meditation",
+      "lv": "C1",
+      "w": "meditation",
+      "pos": "n.",
+      "tr": "meditasyon; derin düşünme",
+      "ex": "Ten minutes of meditation calms her mind."
+    },
+    {
+      "id": "ext_medium",
+      "lv": "B2",
+      "w": "medium",
+      "pos": "n.",
+      "tr": "araç, ortam; iletişim aracı",
+      "ex": "Radio remains a powerful medium in rural areas."
+    },
+    {
+      "id": "ext_melody",
+      "lv": "C1",
+      "w": "melody",
+      "pos": "n.",
+      "tr": "melodi, ezgi",
+      "ex": "The song's melody stayed with me all day."
+    },
+    {
+      "id": "ext_melt",
+      "lv": "B2",
+      "w": "melt",
+      "pos": "v.",
+      "tr": "erimek; eritmek",
+      "ex": "The snow melted quickly in the morning sun."
+    },
+    {
+      "id": "ext_membership",
+      "lv": "B2",
+      "w": "membership",
+      "pos": "n.",
+      "tr": "üyelik",
+      "ex": "Gym membership costs less in summer."
+    },
+    {
+      "id": "ext_memo",
+      "lv": "C1",
+      "w": "memo",
+      "pos": "n.",
+      "tr": "kısa not, bildiri (kurum içi)",
+      "ex": "A memo announced the new working hours."
+    },
+    {
+      "id": "ext_memoir",
+      "lv": "C1",
+      "w": "memoir",
+      "pos": "n.",
+      "tr": "anı kitabı",
+      "ex": "Her memoir describes her childhood at sea."
+    },
+    {
+      "id": "ext_memorable",
+      "lv": "B2",
+      "w": "memorable",
+      "pos": "adj.",
+      "tr": "unutulmaz, akılda kalıcı",
+      "ex": "The trip ended with a memorable sunset."
+    },
+    {
+      "id": "ext_memorial",
+      "lv": "C1",
+      "w": "memorial",
+      "pos": "n.",
+      "tr": "anıt, anma",
+      "ex": "A memorial honours the miners who died."
+    },
+    {
+      "id": "ext_mentor",
+      "lv": "C1",
+      "w": "mentor",
+      "pos": "n.",
+      "tr": "akıl hocası, rehber",
+      "ex": "A good mentor can shape a young career."
+    },
+    {
+      "id": "ext_merchant",
+      "lv": "C1",
+      "w": "merchant",
+      "pos": "n.",
+      "tr": "tüccar",
+      "ex": "The port grew rich on the trade of merchants."
+    },
+    {
+      "id": "ext_mercy",
+      "lv": "C1",
+      "w": "mercy",
+      "pos": "n.",
+      "tr": "merhamet",
+      "ex": "The prisoner begged the king for mercy."
+    },
+    {
+      "id": "ext_mere",
+      "lv": "C1",
+      "w": "mere",
+      "pos": "adj.",
+      "tr": "sadece, yalnızca (küçümseme)",
+      "ex": "He was a mere child when the war began."
+    },
+    {
+      "id": "ext_merely",
+      "lv": "C1",
+      "w": "merely",
+      "pos": "adv.",
+      "tr": "sadece, yalnızca",
+      "ex": "I was merely asking a question."
+    },
+    {
+      "id": "ext_merge",
+      "lv": "C1",
+      "w": "merge",
+      "pos": "v.",
+      "tr": "birleşmek; kaynaşmak",
+      "ex": "The two banks merged last year."
+    },
+    {
+      "id": "ext_merger",
+      "lv": "C1",
+      "w": "merger",
+      "pos": "n.",
+      "tr": "(şirket) birleşme(si)",
+      "ex": "The merger created the country's largest insurer."
+    },
+    {
+      "id": "ext_merit",
+      "lv": "C1",
+      "w": "merit",
+      "pos": "n.",
+      "tr": "değer, meziyet; haklılık payı",
+      "ex": "Each application is judged on its merits."
+    },
+    {
+      "id": "ext_metaphor",
+      "lv": "B2",
+      "w": "metaphor",
+      "pos": "n.",
+      "tr": "metafor, eğretileme",
+      "ex": "The poet uses winter as a metaphor for loss."
+    },
+    {
+      "id": "ext_methodology",
+      "lv": "C1",
+      "w": "methodology",
+      "pos": "n.",
+      "tr": "yöntem bilimi, metodoloji",
+      "ex": "The study's methodology is described in detail."
+    },
+    {
+      "id": "ext_midst",
+      "lv": "C1",
+      "w": "midst",
+      "pos": "n.",
+      "tr": "orta(sı) (in the midst of)",
+      "ex": "He stayed calm in the midst of the chaos."
+    },
+    {
+      "id": "ext_migration",
+      "lv": "C1",
+      "w": "migration",
+      "pos": "n.",
+      "tr": "göç",
+      "ex": "The birds begin their migration in October."
+    },
+    {
+      "id": "ext_militant",
+      "lv": "C1",
+      "w": "militant",
+      "pos": "adj., n.",
+      "tr": "militan; mücadeleci",
+      "ex": "Militant protesters blocked the main road."
+    },
+    {
+      "id": "ext_military",
+      "lv": "B2",
+      "w": "military",
+      "pos": "adj., n.",
+      "tr": "askeri; ordu",
+      "ex": "He spent six years in the military."
+    },
+    {
+      "id": "ext_militia",
+      "lv": "C1",
+      "w": "militia",
+      "pos": "n.",
+      "tr": "milis (kuvveti)",
+      "ex": "Armed militias controlled the border region."
+    },
+    {
+      "id": "ext_mill",
+      "lv": "C1",
+      "w": "mill",
+      "pos": "n.",
+      "tr": "değirmen; fabrika",
+      "ex": "The old mill has been turned into flats."
+    },
+    {
+      "id": "ext_miner",
+      "lv": "B2",
+      "w": "miner",
+      "pos": "n.",
+      "tr": "madenci",
+      "ex": "The miners worked deep below the surface."
+    },
+    {
+      "id": "ext_mineral",
+      "lv": "B2",
+      "w": "mineral",
+      "pos": "n.",
+      "tr": "mineral, maden",
+      "ex": "The region is rich in valuable minerals."
+    },
+    {
+      "id": "ext_minimal",
+      "lv": "C1",
+      "w": "minimal",
+      "pos": "adj.",
+      "tr": "asgari, çok az",
+      "ex": "The storm caused only minimal damage."
+    },
+    {
+      "id": "ext_minimize",
+      "lv": "C1",
+      "w": "minimize",
+      "pos": "v.",
+      "tr": "en aza indirmek",
+      "ex": "Wear a helmet to minimize the risk of injury."
+    },
+    {
+      "id": "ext_minimum",
+      "lv": "B2",
+      "w": "minimum",
+      "pos": "adj., n.",
+      "tr": "asgari, en az; alt sınır",
+      "ex": "Keep noise to a minimum after ten."
+    },
+    {
+      "id": "ext_mining",
+      "lv": "C1",
+      "w": "mining",
+      "pos": "n.",
+      "tr": "madencilik",
+      "ex": "Coal mining shaped this valley for a century."
+    },
+    {
+      "id": "ext_minister",
+      "lv": "B2",
+      "w": "minister",
+      "pos": "n.",
+      "tr": "bakan",
+      "ex": "The minister announced new funding for schools."
+    },
+    {
+      "id": "ext_ministry",
+      "lv": "C1",
+      "w": "ministry",
+      "pos": "n.",
+      "tr": "bakanlık",
+      "ex": "She works at the Ministry of Health."
+    },
+    {
+      "id": "ext_minor",
+      "lv": "B2",
+      "w": "minor",
+      "pos": "adj.",
+      "tr": "küçük, önemsiz; ikincil",
+      "ex": "The car needs a few minor repairs."
+    },
+    {
+      "id": "ext_minority",
+      "lv": "B2",
+      "w": "minority",
+      "pos": "n.",
+      "tr": "azınlık",
+      "ex": "Only a small minority opposed the plan."
+    },
+    {
+      "id": "ext_minute",
+      "lv": "C1",
+      "w": "minute",
+      "pos": "adj.",
+      "tr": "çok küçük, minicik",
+      "ex": "The water contains minute traces of iron."
+    },
+    {
+      "id": "ext_miracle",
+      "lv": "C1",
+      "w": "miracle",
+      "pos": "n.",
+      "tr": "mucize",
+      "ex": "It's a miracle no one was hurt in the crash."
+    },
+    {
+      "id": "ext_miserable",
+      "lv": "B2",
+      "w": "miserable",
+      "pos": "adj.",
+      "tr": "perişan, çok mutsuz; berbat",
+      "ex": "He felt miserable after failing the test."
+    },
+    {
+      "id": "ext_misery",
+      "lv": "C1",
+      "w": "misery",
+      "pos": "n.",
+      "tr": "sefalet, büyük mutsuzluk",
+      "ex": "The drought brought misery to thousands."
+    },
+    {
+      "id": "ext_misleading",
+      "lv": "C1",
+      "w": "misleading",
+      "pos": "adj.",
+      "tr": "yanıltıcı",
+      "ex": "The advert was banned for being misleading."
+    },
+    {
+      "id": "ext_missile",
+      "lv": "C1",
+      "w": "missile",
+      "pos": "n.",
+      "tr": "füze",
+      "ex": "The ship carries defensive missiles."
+    },
+    {
+      "id": "ext_mission",
+      "lv": "B2",
+      "w": "mission",
+      "pos": "n.",
+      "tr": "görev, misyon",
+      "ex": "Their mission is to bring clean water to villages."
+    },
+    {
+      "id": "ext_mistake",
+      "lv": "B2",
+      "w": "mistake",
+      "pos": "v.",
+      "tr": "yanlış anlamak; (for ile) karıştırmak",
+      "ex": "I mistook the salt for sugar."
+    },
+    {
+      "id": "ext_mixed",
+      "lv": "B2",
+      "w": "mixed",
+      "pos": "adj.",
+      "tr": "karışık, karma",
+      "ex": "The film received mixed reviews."
+    },
+    {
+      "id": "ext_mob",
+      "lv": "C1",
+      "w": "mob",
+      "pos": "n.",
+      "tr": "öfkeli kalabalık; güruh",
+      "ex": "An angry mob gathered outside the courthouse."
+    },
+    {
+      "id": "ext_mobility",
+      "lv": "C1",
+      "w": "mobility",
+      "pos": "n.",
+      "tr": "hareketlilik; devinim",
+      "ex": "The exercises improve mobility in the joints."
+    },
+    {
+      "id": "ext_mobilize",
+      "lv": "C1",
+      "w": "mobilize",
+      "pos": "v.",
+      "tr": "seferber etmek, harekete geçirmek",
+      "ex": "The charity mobilized hundreds of volunteers overnight."
+    },
+    {
+      "id": "ext_mode",
+      "lv": "B2",
+      "w": "mode",
+      "pos": "n.",
+      "tr": "mod, kip; biçim",
+      "ex": "Switch your phone to silent mode."
+    },
+    {
+      "id": "ext_model",
+      "lv": "B2",
+      "w": "model",
+      "pos": "v.",
+      "tr": "modellemek; örnek almak",
+      "ex": "The simulation models the flow of traffic."
+    },
+    {
+      "id": "ext_moderate",
+      "lv": "C1",
+      "w": "moderate",
+      "pos": "adj.",
+      "tr": "ılımlı; orta düzeyde",
+      "ex": "Moderate exercise is good for the heart."
+    },
+    {
+      "id": "ext_modest",
+      "lv": "B2",
+      "w": "modest",
+      "pos": "adj.",
+      "tr": "alçakgönüllü; mütevazı (miktar)",
+      "ex": "They live in a modest house near the park."
+    },
+    {
+      "id": "ext_modification",
+      "lv": "C1",
+      "w": "modification",
+      "pos": "n.",
+      "tr": "değişiklik, tadilat",
+      "ex": "The engine needs only minor modifications."
+    },
+    {
+      "id": "ext_modify",
+      "lv": "B2",
+      "w": "modify",
+      "pos": "v.",
+      "tr": "değiştirmek, uyarlamak",
+      "ex": "The recipe can be modified for vegetarians."
+    },
+    {
+      "id": "ext_momentum",
+      "lv": "C1",
+      "w": "momentum",
+      "pos": "n.",
+      "tr": "ivme, momentum",
+      "ex": "The campaign gained momentum after the debate."
+    },
+    {
+      "id": "ext_monitor",
+      "lv": "B2",
+      "w": "monitor",
+      "pos": "n., v.",
+      "tr": "ekran; izlemek, takip etmek",
+      "ex": "Nurses monitored the patient's heart rate."
+    },
+    {
+      "id": "ext_monk",
+      "lv": "C1",
+      "w": "monk",
+      "pos": "n.",
+      "tr": "keşiş",
+      "ex": "The monks rise before dawn to pray."
+    },
+    {
+      "id": "ext_monopoly",
+      "lv": "C1",
+      "w": "monopoly",
+      "pos": "n.",
+      "tr": "tekel",
+      "ex": "For years the company held a monopoly on rail travel."
+    },
+    {
+      "id": "ext_monster",
+      "lv": "B2",
+      "w": "monster",
+      "pos": "n.",
+      "tr": "canavar",
+      "ex": "The story is about a kind-hearted monster."
+    },
+    {
+      "id": "ext_monthly",
+      "lv": "B2",
+      "w": "monthly",
+      "pos": "adj.",
+      "tr": "aylık",
+      "ex": "The magazine is published on a monthly basis."
+    },
+    {
+      "id": "ext_monument",
+      "lv": "B2",
+      "w": "monument",
+      "pos": "n.",
+      "tr": "anıt",
+      "ex": "A monument marks the site of the battle."
+    },
+    {
+      "id": "ext_moral",
+      "lv": "B2",
+      "w": "moral",
+      "pos": "adj., n.",
+      "tr": "ahlaki; ders (öykü)",
+      "ex": "The story's moral is simple: be honest."
+    },
+    {
+      "id": "ext_morality",
+      "lv": "C1",
+      "w": "morality",
+      "pos": "n.",
+      "tr": "ahlak (anlayışı)",
+      "ex": "The play questions the morality of war."
+    },
+    {
+      "id": "ext_moreover",
+      "lv": "B2",
+      "w": "moreover",
+      "pos": "adv.",
+      "tr": "dahası, üstelik",
+      "ex": "The flat is small; moreover, it is expensive."
+    },
+    {
+      "id": "ext_mortgage",
+      "lv": "B2",
+      "w": "mortgage",
+      "pos": "n.",
+      "tr": "konut kredisi, ipotek",
+      "ex": "They finally paid off their mortgage."
+    },
+    {
+      "id": "ext_mosque",
+      "lv": "B2",
+      "w": "mosque",
+      "pos": "n.",
+      "tr": "cami",
+      "ex": "The mosque's minaret rises above the rooftops."
+    },
+    {
+      "id": "ext_motion",
+      "lv": "B2",
+      "w": "motion",
+      "pos": "n.",
+      "tr": "hareket; önerge",
+      "ex": "The gentle motion of the boat sent her to sleep."
+    },
+    {
+      "id": "ext_motivate",
+      "lv": "B2",
+      "w": "motivate",
+      "pos": "v.",
+      "tr": "motive etmek, isteklendirmek",
+      "ex": "Praise motivates students more than punishment."
+    },
+    {
+      "id": "ext_motivation",
+      "lv": "B2",
+      "w": "motivation",
+      "pos": "n.",
+      "tr": "motivasyon, güdü",
+      "ex": "His motivation faded halfway through the course."
+    },
+    {
+      "id": "ext_motive",
+      "lv": "C1",
+      "w": "motive",
+      "pos": "n.",
+      "tr": "sebep, saik",
+      "ex": "The police could find no motive for the attack."
+    },
+    {
+      "id": "ext_motor",
+      "lv": "B2",
+      "w": "motor",
+      "pos": "adj., n.",
+      "tr": "motor(lu)",
+      "ex": "The boat is powered by a small electric motor."
+    },
+    {
+      "id": "ext_motorist",
+      "lv": "C1",
+      "w": "motorist",
+      "pos": "n.",
+      "tr": "sürücü, otomobil kullanan",
+      "ex": "Motorists were warned of black ice on the roads."
+    },
+    {
+      "id": "ext_mount",
+      "lv": "B2",
+      "w": "mount",
+      "pos": "v.",
+      "tr": "artmak; (kampanya) düzenlemek; binmek",
+      "ex": "Pressure mounted on the minister to resign."
+    },
+    {
+      "id": "ext_moving",
+      "lv": "B2",
+      "w": "moving",
+      "pos": "adj.",
+      "tr": "dokunaklı, duygulandırıcı",
+      "ex": "She gave a moving speech about her grandmother."
+    },
+    {
+      "id": "ext_multiple",
+      "lv": "B2",
+      "w": "multiple",
+      "pos": "adj.",
+      "tr": "çok sayıda, birden çok",
+      "ex": "The driver suffered multiple injuries."
+    },
+    {
+      "id": "ext_multiply",
+      "lv": "B2",
+      "w": "multiply",
+      "pos": "v.",
+      "tr": "çarpmak; çoğalmak",
+      "ex": "Bacteria multiply rapidly in warm conditions."
+    },
+    {
+      "id": "ext_municipal",
+      "lv": "C1",
+      "w": "municipal",
+      "pos": "adj.",
+      "tr": "belediyeye ait",
+      "ex": "Municipal workers cleared the fallen branches."
+    },
+    {
+      "id": "ext_mutual",
+      "lv": "C1",
+      "w": "mutual",
+      "pos": "adj.",
+      "tr": "karşılıklı; ortak",
+      "ex": "They parted by mutual agreement."
+    },
+    {
+      "id": "ext_mysterious",
+      "lv": "B2",
+      "w": "mysterious",
+      "pos": "adj.",
+      "tr": "gizemli, esrarengiz",
+      "ex": "A mysterious light appeared over the field."
+    },
+    {
+      "id": "ext_myth",
+      "lv": "B2",
+      "w": "myth",
+      "pos": "n.",
+      "tr": "mit, efsane; yaygın yanlış inanç",
+      "ex": "It's a myth that we use only ten per cent of our brains."
     }
   ],
   "articles": [
