@@ -42482,6 +42482,1041 @@
           "en": "'noticeably cooler' fits: the measures aim to cool cities. 'hotter' reverses the aim."
         }
       ]
+    },
+    {
+      "id": "cz_x4_dna_structure",
+      "lv": "C1",
+      "field": "fen",
+      "title": "The Shape of Life",
+      "text": "The discovery of the structure of DNA is often described as one of the most important moments in the history of biology. For years, scientists knew that this molecule somehow (1) ____ the instructions that living things pass to their offspring, but its exact form remained a mystery. When researchers finally showed that DNA takes the shape of a twisted ladder, the elegance of the design immediately (2) ____ how copying might occur. Each side of the ladder could serve as a template from which a new, identical partner was (3) ____. This insight transformed the field, for it explained how information could be (4) ____ faithfully from one generation to the next. Later work revealed that small changes, or mutations, in the sequence can (5) ____ the way an organism develops, providing the raw material on which evolution acts.",
+      "blanks": [
+        {
+          "n": 1,
+          "opts": [
+            "carried",
+            "hid",
+            "ignored",
+            "wasted"
+          ],
+          "ans": 0,
+          "tr": "'carried the instructions' = talimatları taşıyordu; DNA kalıtsal bilgiyi taşır. 'hid/ignored' bağlama aykırı.",
+          "en": "'carried the instructions' fits: DNA holds hereditary information. 'hid/ignored' contradict."
+        },
+        {
+          "n": 2,
+          "opts": [
+            "concealed",
+            "suggested",
+            "prevented",
+            "delayed"
+          ],
+          "ans": 1,
+          "tr": "'suggested how copying might occur' = kopyalamanın nasıl olabileceğini düşündürdü; tasarımın zarafeti mekanizmayı ima eder.",
+          "en": "'suggested how copying might occur' fits: the design hinted at the mechanism."
+        },
+        {
+          "n": 3,
+          "opts": [
+            "destroyed",
+            "forgotten",
+            "built",
+            "sold"
+          ],
+          "ans": 2,
+          "tr": "'a new partner was built' = yeni bir eş inşa edildi; şablondan yeni zincir oluşturulur.",
+          "en": "'a new partner was built' fits: a new strand is formed from the template."
+        },
+        {
+          "n": 4,
+          "opts": [
+            "lost",
+            "reduced",
+            "hidden",
+            "copied"
+          ],
+          "ans": 3,
+          "tr": "'information could be copied faithfully' = bilgi sadakatle kopyalanabilir; kalıtımın özü.",
+          "en": "'information could be copied faithfully' captures inheritance."
+        },
+        {
+          "n": 5,
+          "opts": [
+            "alter",
+            "stabilise",
+            "ignore",
+            "measure"
+          ],
+          "ans": 0,
+          "tr": "'mutations can alter the way an organism develops' = mutasyonlar gelişimi değiştirebilir; evrimin ham maddesi.",
+          "en": "'mutations can alter development' provides the raw material for evolution."
+        }
+      ]
+    },
+    {
+      "id": "cz_x4_renaissance_patronage",
+      "lv": "C1",
+      "field": "sosyal",
+      "title": "Art and Its Patrons",
+      "text": "The extraordinary flowering of painting and sculpture during the Renaissance cannot be understood without considering the people who paid for it. Wealthy merchants and powerful families competed to (1) ____ the finest artists, treating great works as a sign of their own taste and status. Far from being free to follow their own vision, painters often had to (2) ____ the detailed wishes of those who commissioned them, from the subject of a picture to the precise colours used. Yet this system did not (3) ____ creativity; on the contrary, the steady supply of money allowed artists to experiment with new techniques and materials. Over time, the most successful masters gained enough reputation to (4) ____ greater independence, choosing their own subjects and charging high fees. The relationship between art and wealth, then, was far more (5) ____ than the popular image of the lonely genius suggests.",
+      "blanks": [
+        {
+          "n": 1,
+          "opts": [
+            "dismiss",
+            "employ",
+            "ignore",
+            "punish"
+          ],
+          "ans": 1,
+          "tr": "'employ the finest artists' = en iyi sanatçıları çalıştırmak; hamiler usta peşindeydi.",
+          "en": "'employ the finest artists' fits patrons competing for talent."
+        },
+        {
+          "n": 2,
+          "opts": [
+            "reject",
+            "forget",
+            "follow",
+            "mock"
+          ],
+          "ans": 2,
+          "tr": "'follow the detailed wishes' = ayrıntılı istekleri izlemek; sipariş veren belirlerdi.",
+          "en": "'follow the detailed wishes' fits: commissioners dictated terms."
+        },
+        {
+          "n": 3,
+          "opts": [
+            "encourage",
+            "reward",
+            "reflect",
+            "crush"
+          ],
+          "ans": 3,
+          "tr": "'did not crush creativity' = yaratıcılığı ezmedi; sonraki 'on the contrary' karşıtlık kurar.",
+          "en": "'did not crush creativity' fits the 'on the contrary' that follows."
+        },
+        {
+          "n": 4,
+          "opts": [
+            "win",
+            "lose",
+            "hide",
+            "copy"
+          ],
+          "ans": 0,
+          "tr": "'win greater independence' = daha fazla bağımsızlık kazanmak; ün bağımsızlık getirdi.",
+          "en": "'win greater independence' fits: reputation brought freedom."
+        },
+        {
+          "n": 5,
+          "opts": [
+            "simple",
+            "complex",
+            "recent",
+            "illegal"
+          ],
+          "ans": 1,
+          "tr": "'far more complex' = çok daha karmaşık; yalnız dâhi imgesiyle çelişir.",
+          "en": "'far more complex' contrasts with the lonely-genius image."
+        }
+      ]
+    },
+    {
+      "id": "cz_x4_gut_microbes",
+      "lv": "B2",
+      "field": "saglik",
+      "title": "The Bacteria Within",
+      "text": "For most of medical history, the bacteria living inside the human body were seen mainly as a source of disease. Recently, however, scientists have begun to (1) ____ that many of these tiny organisms are in fact helpful. The community of microbes in our intestines, sometimes called the gut flora, helps us to (2) ____ food that we could not break down on our own. These bacteria also produce certain vitamins and appear to (3) ____ the immune system, teaching it to tell friend from enemy. When the balance of this community is (4) ____, perhaps by a poor diet or a course of antibiotics, the effects can reach far beyond the stomach. Some studies even suggest a link to mood, which is why researchers are now so (5) ____ to understand how these invisible partners shape our health.",
+      "blanks": [
+        {
+          "n": 1,
+          "opts": [
+            "deny",
+            "forget",
+            "realise",
+            "hide"
+          ],
+          "ans": 2,
+          "tr": "'realise that many are helpful' = çoğunun yararlı olduğunu fark etmek; eski görüşün revizyonu.",
+          "en": "'realise that many are helpful' fits the revised view."
+        },
+        {
+          "n": 2,
+          "opts": [
+            "waste",
+            "refuse",
+            "count",
+            "digest"
+          ],
+          "ans": 3,
+          "tr": "'digest food' = yiyeceği sindirmek; bağırsak florasının işlevi.",
+          "en": "'digest food' is the gut flora's function."
+        },
+        {
+          "n": 3,
+          "opts": [
+            "support",
+            "weaken",
+            "ignore",
+            "sell"
+          ],
+          "ans": 0,
+          "tr": "'support the immune system' = bağışıklığı desteklemek; sonrasında 'teaching it' bunu açıklar.",
+          "en": "'support the immune system' fits 'teaching it to tell friend from enemy'."
+        },
+        {
+          "n": 4,
+          "opts": [
+            "perfect",
+            "disturbed",
+            "praised",
+            "hidden"
+          ],
+          "ans": 1,
+          "tr": "'the balance is disturbed' = denge bozulduğunda; kötü diyet/antibiyotik örneği.",
+          "en": "'the balance is disturbed' fits the diet/antibiotic example."
+        },
+        {
+          "n": 5,
+          "opts": [
+            "unwilling",
+            "afraid",
+            "keen",
+            "slow"
+          ],
+          "ans": 2,
+          "tr": "'so keen to understand' = anlamaya öyle istekli; araştırma ilgisinin nedeni.",
+          "en": "'so keen to understand' fits researchers' interest."
+        }
+      ]
+    },
+    {
+      "id": "cz_x4_deforestation",
+      "lv": "C1",
+      "field": "fen",
+      "title": "When the Forests Fall",
+      "text": "Tropical forests are sometimes called the lungs of the planet, yet vast areas of them are cleared every year. The most obvious reason is economic: land that (1) ____ trees can be sold or used to grow crops and raise cattle. The consequences, however, reach far beyond the cleared ground itself. Forests store enormous amounts of carbon, and when they are burned this carbon is (2) ____ into the atmosphere, adding to global warming. The loss of trees also (3) ____ countless species of their only habitat, driving some towards extinction. Perhaps less obviously, large forests help to (4) ____ rainfall across whole regions, so their removal can make distant farmland drier. For all these reasons, many governments and organisations are now searching for ways to make standing forests more (5) ____ than the land beneath them.",
+      "blanks": [
+        {
+          "n": 1,
+          "opts": [
+            "never had",
+            "always lacked",
+            "quietly sold",
+            "once held"
+          ],
+          "ans": 3,
+          "tr": "'land that once held trees' = bir zamanlar ağaç olan toprak; temizlenen arazi.",
+          "en": "'land that once held trees' describes cleared ground."
+        },
+        {
+          "n": 2,
+          "opts": [
+            "released",
+            "absorbed",
+            "hidden",
+            "frozen"
+          ],
+          "ans": 0,
+          "tr": "'carbon is released into the atmosphere' = karbon atmosfere salınır; yanma ile.",
+          "en": "'carbon is released' fits burning forests."
+        },
+        {
+          "n": 3,
+          "opts": [
+            "provides",
+            "deprives",
+            "reminds",
+            "rewards"
+          ],
+          "ans": 1,
+          "tr": "'deprives countless species of their habitat' = türleri yaşam alanından yoksun bırakır.",
+          "en": "'deprives species of their habitat' fits extinction risk."
+        },
+        {
+          "n": 4,
+          "opts": [
+            "ignore",
+            "sell",
+            "regulate",
+            "waste"
+          ],
+          "ans": 2,
+          "tr": "'help to regulate rainfall' = yağışı düzenlemeye yardımcı olmak; ormanın bölgesel rolü.",
+          "en": "'help to regulate rainfall' fits forests' regional role."
+        },
+        {
+          "n": 5,
+          "opts": [
+            "cheaper",
+            "dangerous",
+            "distant",
+            "valuable"
+          ],
+          "ans": 3,
+          "tr": "'more valuable than the land beneath' = altındaki topraktan daha değerli; koruma teşviki.",
+          "en": "'more valuable than the land beneath' fits the conservation incentive."
+        }
+      ]
+    },
+    {
+      "id": "cz_x4_behavioural_econ",
+      "lv": "C1",
+      "field": "saglik",
+      "title": "The Limits of Rational Choice",
+      "text": "Traditional economics long assumed that people make decisions in a coldly rational way, carefully weighing costs against benefits. In recent decades, however, a new field has (1) ____ this comfortable picture. By running careful experiments, researchers have shown that human choices are frequently (2) ____ by factors that have nothing to do with logic. The way a question is worded, the order in which options appear, or simply what other people are doing can all (3) ____ our decisions. We tend, for example, to fear a loss far more than we value an equal gain, a tendency that classical theory cannot easily (4) ____. Rather than dismissing such behaviour as mere error, the new approach treats it as a regular and predictable feature of the human mind, one that policymakers can take into account when they design (5) ____ that gently guide people towards better choices.",
+      "blanks": [
+        {
+          "n": 1,
+          "opts": [
+            "challenged",
+            "confirmed",
+            "praised",
+            "copied"
+          ],
+          "ans": 0,
+          "tr": "'challenged this comfortable picture' = bu rahat tabloyu sarstı; yeni alanın katkısı.",
+          "en": "'challenged this comfortable picture' fits the new field."
+        },
+        {
+          "n": 2,
+          "opts": [
+            "ignored",
+            "shaped",
+            "perfected",
+            "measured"
+          ],
+          "ans": 1,
+          "tr": "'choices are shaped by factors' = seçimler mantık dışı etkenlerce biçimlenir.",
+          "en": "'choices are shaped by factors' fits the finding."
+        },
+        {
+          "n": 3,
+          "opts": [
+            "sharpen",
+            "reward",
+            "sway",
+            "count"
+          ],
+          "ans": 2,
+          "tr": "'sway our decisions' = kararlarımızı etkilemek; bağlam etkisi.",
+          "en": "'sway our decisions' fits contextual influence."
+        },
+        {
+          "n": 4,
+          "opts": [
+            "cause",
+            "enjoy",
+            "sell",
+            "explain"
+          ],
+          "ans": 3,
+          "tr": "'cannot easily explain' = kolayca açıklayamaz; klasik teorinin sınırı.",
+          "en": "'cannot easily explain' fits the limit of classical theory."
+        },
+        {
+          "n": 5,
+          "opts": [
+            "policies",
+            "weapons",
+            "prisons",
+            "holidays"
+          ],
+          "ans": 0,
+          "tr": "'design policies that gently guide' = nazikçe yönlendiren politikalar tasarlamak; dürtme teorisi.",
+          "en": "'policies that gently guide people' fits nudge-style design."
+        }
+      ]
+    },
+    {
+      "id": "cz_x4_organ_transplant",
+      "lv": "C1",
+      "field": "saglik",
+      "title": "A Question of Supply",
+      "text": "Organ transplantation is one of the great achievements of modern surgery, allowing a failing heart or kidney to be (1) ____ with a healthy one from a donor. The main obstacle is no longer the operation itself, which has become remarkably safe, but the chronic (2) ____ of suitable organs. Far more patients are waiting than there are donors available, and many die before a match can be (3) ____. To address this, some countries have changed their laws so that citizens are assumed to be donors unless they (4) ____ choose otherwise, a system that has raised donation rates. Scientists are also exploring bolder solutions, such as growing organs in the laboratory or adapting those of animals. Whatever the method, the goal is the same: to (5) ____ the painful gap between the number of organs needed and the number that can be found.",
+      "blanks": [
+        {
+          "n": 1,
+          "opts": [
+            "painted",
+            "replaced",
+            "hidden",
+            "sold"
+          ],
+          "ans": 1,
+          "tr": "'replaced with a healthy one' = sağlıklısıyla değiştirilmek; nakil tanımı.",
+          "en": "'replaced with a healthy one' defines a transplant."
+        },
+        {
+          "n": 2,
+          "opts": [
+            "surplus",
+            "beauty",
+            "shortage",
+            "noise"
+          ],
+          "ans": 2,
+          "tr": "'chronic shortage of organs' = organ kıtlığı; ana sorun.",
+          "en": "'chronic shortage of organs' is the main obstacle."
+        },
+        {
+          "n": 3,
+          "opts": [
+            "wasted",
+            "denied",
+            "sold",
+            "found"
+          ],
+          "ans": 3,
+          "tr": "'a match can be found' = uyumlu organ bulunabilir; bekleme listesi.",
+          "en": "'a match can be found' fits the waiting list."
+        },
+        {
+          "n": 4,
+          "opts": [
+            "actively",
+            "rarely",
+            "never",
+            "loudly"
+          ],
+          "ans": 0,
+          "tr": "'unless they actively choose otherwise' = aksini etkin biçimde seçmedikçe; varsayılan bağış.",
+          "en": "'actively choose otherwise' fits opt-out donation."
+        },
+        {
+          "n": 5,
+          "opts": [
+            "widen",
+            "close",
+            "ignore",
+            "enjoy"
+          ],
+          "ans": 1,
+          "tr": "'close the painful gap' = acı veren açığı kapatmak; amaç.",
+          "en": "'close the gap' states the goal."
+        }
+      ]
+    },
+    {
+      "id": "cz_x4_industrial_revolution",
+      "lv": "B2",
+      "field": "sosyal",
+      "title": "The Age of Machines",
+      "text": "The Industrial Revolution changed human life more deeply than almost any event before it. Within a few generations, goods that had always been made slowly by hand began to be produced in vast (1) ____ by machines. People who had farmed the land for centuries moved into rapidly growing cities to (2) ____ work in the new factories. Life there was often hard: hours were long, wages were low, and the air was thick with smoke. Yet the changes also (3) ____ enormous wealth and, in time, cheaper goods for ordinary families. Perhaps most importantly, the period created a sense that the future need not (4) ____ the past, that human societies could be transformed by invention. The world we live in today, with its constant search for new technology, is in many ways the (5) ____ of those noisy early factories.",
+      "blanks": [
+        {
+          "n": 1,
+          "opts": [
+            "silence",
+            "colours",
+            "quantities",
+            "holidays"
+          ],
+          "ans": 2,
+          "tr": "'produced in vast quantities' = büyük miktarlarda üretmek; makineyle seri üretim.",
+          "en": "'in vast quantities' fits machine production."
+        },
+        {
+          "n": 2,
+          "opts": [
+            "avoid",
+            "forget",
+            "sell",
+            "seek"
+          ],
+          "ans": 3,
+          "tr": "'to seek work in the factories' = fabrikada iş aramak; kente göç.",
+          "en": "'to seek work' fits migration to cities."
+        },
+        {
+          "n": 3,
+          "opts": [
+            "created",
+            "destroyed",
+            "hid",
+            "reduced"
+          ],
+          "ans": 0,
+          "tr": "'created enormous wealth' = büyük servet yarattı; olumlu yön.",
+          "en": "'created enormous wealth' fits the positive side."
+        },
+        {
+          "n": 4,
+          "opts": [
+            "help",
+            "resemble",
+            "reward",
+            "follow"
+          ],
+          "ans": 1,
+          "tr": "'need not resemble the past' = geçmişe benzemek zorunda değil; ilerleme fikri.",
+          "en": "'need not resemble the past' fits the idea of progress."
+        },
+        {
+          "n": 5,
+          "opts": [
+            "enemy",
+            "rival",
+            "child",
+            "victim"
+          ],
+          "ans": 2,
+          "tr": "'the child of those early factories' = o erken fabrikaların çocuğu; süreklilik metaforu.",
+          "en": "'the child of those early factories' fits the continuity metaphor."
+        }
+      ]
+    },
+    {
+      "id": "cz_x4_quantum_world",
+      "lv": "C1",
+      "field": "fen",
+      "title": "The Strange Rules of the Very Small",
+      "text": "At the scale of atoms and the particles inside them, nature behaves in ways that seem to (1) ____ common sense. A particle that we might picture as a tiny ball can also act like a spreading wave, and until it is measured it appears to exist in several states at (2) ____. These ideas were so unfamiliar that even the scientists who developed them found the results difficult to (3) ____. Yet the theory has been tested countless times and has never failed, making it one of the most successful descriptions of nature ever produced. Far from being mere abstraction, its predictions (4) ____ much of modern technology, from the lasers in supermarket scanners to the chips inside our phones. The lesson, perhaps, is that the universe is under no (5) ____ to match the expectations of creatures who evolved to deal with rocks and rivers.",
+      "blanks": [
+        {
+          "n": 1,
+          "opts": [
+            "confirm",
+            "reward",
+            "copy",
+            "defy"
+          ],
+          "ans": 3,
+          "tr": "'defy common sense' = sağduyuya meydan okumak; kuantumun tuhaflığı.",
+          "en": "'defy common sense' fits quantum strangeness."
+        },
+        {
+          "n": 2,
+          "opts": [
+            "the same time",
+            "once",
+            "random",
+            "noon"
+          ],
+          "ans": 0,
+          "tr": "'in several states at the same time' = aynı anda birkaç durumda; süperpozisyon.",
+          "en": "'at the same time' fits superposition."
+        },
+        {
+          "n": 3,
+          "opts": [
+            "sell",
+            "accept",
+            "hide",
+            "count"
+          ],
+          "ans": 1,
+          "tr": "'difficult to accept' = kabul etmesi güç; tanıdık olmayan sonuçlar.",
+          "en": "'difficult to accept' fits the unfamiliar results."
+        },
+        {
+          "n": 4,
+          "opts": [
+            "ignore",
+            "delay",
+            "underpin",
+            "waste"
+          ],
+          "ans": 2,
+          "tr": "'predictions underpin modern technology' = öngörüler teknolojinin temelini oluşturur.",
+          "en": "'underpin modern technology' fits lasers and chips."
+        },
+        {
+          "n": 5,
+          "opts": [
+            "holiday",
+            "danger",
+            "price",
+            "obligation"
+          ],
+          "ans": 3,
+          "tr": "'under no obligation to match our expectations' = beklentilerimize uymak zorunda değil.",
+          "en": "'under no obligation' fits the closing point."
+        }
+      ]
+    },
+    {
+      "id": "cz_x4_procrastination",
+      "lv": "B2",
+      "field": "saglik",
+      "title": "Why We Put Things Off",
+      "text": "Almost everyone has, at some point, delayed an important task in favour of something easier or more pleasant. Psychologists who study this habit, known as procrastination, argue that it is rarely a simple matter of (1) ____. More often, people put things off because the task makes them feel anxious or bored, and avoiding it brings a short moment of (2) ____. Unfortunately, the task does not disappear, and the stress usually (3) ____ as the deadline approaches. Researchers suggest that the most effective response is not to wait for motivation to appear but to make the first step as (4) ____ as possible, perhaps by promising to work for only five minutes. Once a person has begun, continuing often feels surprisingly easy. Understanding procrastination as an emotional habit rather than a (5) ____ failing can make it far less frightening to overcome.",
+      "blanks": [
+        {
+          "n": 1,
+          "opts": [
+            "laziness",
+            "genius",
+            "wealth",
+            "luck"
+          ],
+          "ans": 0,
+          "tr": "'rarely a simple matter of laziness' = nadiren sadece tembellik meselesi; yaygın yanılgıyı çürütür.",
+          "en": "'a simple matter of laziness' is the myth being corrected."
+        },
+        {
+          "n": 2,
+          "opts": [
+            "pain",
+            "relief",
+            "anger",
+            "noise"
+          ],
+          "ans": 1,
+          "tr": "'a short moment of relief' = kısa bir rahatlama anı; kaçınmanın ödülü.",
+          "en": "'a short moment of relief' fits avoidance."
+        },
+        {
+          "n": 3,
+          "opts": [
+            "disappears",
+            "freezes",
+            "grows",
+            "helps"
+          ],
+          "ans": 2,
+          "tr": "'the stress usually grows' = stres genelde artar; erteleme sonucu.",
+          "en": "'the stress usually grows' fits procrastination's cost."
+        },
+        {
+          "n": 4,
+          "opts": [
+            "hard",
+            "expensive",
+            "boring",
+            "small"
+          ],
+          "ans": 3,
+          "tr": "'make the first step as small as possible' = ilk adımı olabildiğince küçük yapmak; strateji.",
+          "en": "'as small as possible' fits the recommended strategy."
+        },
+        {
+          "n": 5,
+          "opts": [
+            "moral",
+            "musical",
+            "foreign",
+            "royal"
+          ],
+          "ans": 0,
+          "tr": "'rather than a moral failing' = ahlaki bir kusur olarak değil; duygusal alışkanlık vurgusu.",
+          "en": "'a moral failing' contrasts with the emotional-habit view."
+        }
+      ]
+    },
+    {
+      "id": "cz_x4_age_exploration",
+      "lv": "B2",
+      "field": "sosyal",
+      "title": "Across Unknown Seas",
+      "text": "In the fifteenth and sixteenth centuries, sailors from Europe set out on voyages that would (1) ____ the map of the world. Driven by the hope of profit and the search for new routes to the spices of Asia, they crossed oceans that had never before been (2) ____ by their people. These journeys required real courage, for the ships were small and the dangers were great. The results, however, were enormous and not always happy. Contact between distant continents allowed plants, animals, and ideas to (3) ____ in every direction, changing diets and landscapes forever. At the same time, the arrival of the newcomers often brought disease and conquest to the peoples they (4) ____. The age of exploration, then, must be remembered as a period that was at once (5) ____ and deeply destructive, depending very much on where one stood.",
+      "blanks": [
+        {
+          "n": 1,
+          "opts": [
+            "hide",
+            "redraw",
+            "forget",
+            "copy"
+          ],
+          "ans": 1,
+          "tr": "'redraw the map of the world' = dünya haritasını yeniden çizmek; keşiflerin etkisi.",
+          "en": "'redraw the map' fits the impact of exploration."
+        },
+        {
+          "n": 2,
+          "opts": [
+            "painted",
+            "sold",
+            "crossed",
+            "counted"
+          ],
+          "ans": 2,
+          "tr": "'never before been crossed' = daha önce hiç geçilmemiş; bilinmeyen okyanuslar.",
+          "en": "'never before been crossed' fits unknown seas."
+        },
+        {
+          "n": 3,
+          "opts": [
+            "vanish",
+            "rest",
+            "hide",
+            "spread"
+          ],
+          "ans": 3,
+          "tr": "'allowed plants and ideas to spread' = bitki ve fikirlerin yayılmasını sağladı; değiş tokuş.",
+          "en": "'to spread in every direction' fits the exchange."
+        },
+        {
+          "n": 4,
+          "opts": [
+            "encountered",
+            "invented",
+            "rewarded",
+            "praised"
+          ],
+          "ans": 0,
+          "tr": "'the peoples they encountered' = karşılaştıkları halklar; fetih ve hastalık.",
+          "en": "'the peoples they encountered' fits conquest and disease."
+        },
+        {
+          "n": 5,
+          "opts": [
+            "silent",
+            "remarkable",
+            "cheap",
+            "recent"
+          ],
+          "ans": 1,
+          "tr": "'at once remarkable and deeply destructive' = hem dikkat çekici hem yıkıcı; çift yönlü değerlendirme.",
+          "en": "'remarkable and deeply destructive' fits the balanced verdict."
+        }
+      ]
+    },
+    {
+      "id": "cz_x4_wildfire_ecology",
+      "lv": "C1",
+      "field": "fen",
+      "title": "Fire and the Forest",
+      "text": "To most people, a forest fire is simply a disaster, and in many cases it certainly is. Yet ecologists have come to understand that fire is also a natural part of how some landscapes (1) ____. Certain trees, for instance, produce cones that only open and release their seeds when (2) ____ to intense heat, so that a new generation springs up after the flames have passed. For thousands of years, small, frequent fires cleared away dead wood and kept these systems healthy. Problems arise when humans (3) ____ all fires for long periods, allowing fuel to build up until an eventual blaze becomes far more (4) ____ than any natural one. Managing such landscapes, therefore, is not a matter of removing fire altogether but of restoring something closer to the balance that existed before people tried to (5) ____ it completely.",
+      "blanks": [
+        {
+          "n": 1,
+          "opts": [
+            "vanish",
+            "rest",
+            "function",
+            "hide"
+          ],
+          "ans": 2,
+          "tr": "'how some landscapes function' = bazı ekosistemlerin işleyişi; ateşin doğal rolü.",
+          "en": "'how landscapes function' fits fire's natural role."
+        },
+        {
+          "n": 2,
+          "opts": [
+            "hidden",
+            "sold",
+            "married",
+            "exposed"
+          ],
+          "ans": 3,
+          "tr": "'exposed to intense heat' = yoğun ısıya maruz kalınca; kozalakların açılması.",
+          "en": "'exposed to intense heat' fits seed release."
+        },
+        {
+          "n": 3,
+          "opts": [
+            "suppress",
+            "enjoy",
+            "count",
+            "paint"
+          ],
+          "ans": 0,
+          "tr": "'humans suppress all fires' = insanlar tüm yangınları bastırınca; yakıt birikimi.",
+          "en": "'suppress all fires' fits fuel build-up."
+        },
+        {
+          "n": 4,
+          "opts": [
+            "gentle",
+            "destructive",
+            "distant",
+            "cheap"
+          ],
+          "ans": 1,
+          "tr": "'far more destructive' = çok daha yıkıcı; biriken yakıtın sonucu.",
+          "en": "'far more destructive' fits accumulated fuel."
+        },
+        {
+          "n": 5,
+          "opts": [
+            "reward",
+            "copy",
+            "control",
+            "sell"
+          ],
+          "ans": 2,
+          "tr": "'tried to control it completely' = onu tümüyle kontrol etmeye çalışmak; dengeyi bozan tutum.",
+          "en": "'control it completely' fits the disruptive approach."
+        }
+      ]
+    },
+    {
+      "id": "cz_x4_telemedicine",
+      "lv": "B2",
+      "field": "saglik",
+      "title": "The Doctor on the Screen",
+      "text": "In recent years, more and more patients have begun to see their doctors not in person but through a screen. This practice, known as telemedicine, allows a patient at home to (1) ____ a video call with a nurse or physician many miles away. For people who live far from a hospital or who find travel difficult, the benefits are (2) ____: advice that once required a long journey can now arrive in minutes. Telemedicine is also useful for simple matters, such as checking on a patient's recovery or (3) ____ a repeat prescription. It is not, of course, a complete (4) ____ for the traditional visit, since many conditions still need a physical examination. Used wisely, however, it can free doctors to spend more time with the patients who truly need to be (5) ____ in person.",
+      "blanks": [
+        {
+          "n": 1,
+          "opts": [
+            "avoid",
+            "sell",
+            "forget",
+            "have"
+          ],
+          "ans": 3,
+          "tr": "'have a video call' = görüntülü görüşme yapmak; telesağlığın tanımı.",
+          "en": "'have a video call' defines telemedicine."
+        },
+        {
+          "n": 2,
+          "opts": [
+            "clear",
+            "hidden",
+            "cheap",
+            "dangerous"
+          ],
+          "ans": 0,
+          "tr": "'the benefits are clear' = yararlar açık; uzaktakiler için.",
+          "en": "'the benefits are clear' fits remote patients."
+        },
+        {
+          "n": 3,
+          "opts": [
+            "hiding",
+            "renewing",
+            "wasting",
+            "selling"
+          ],
+          "ans": 1,
+          "tr": "'renewing a repeat prescription' = tekrar reçeteyi yenilemek; basit işler.",
+          "en": "'renewing a prescription' fits simple tasks."
+        },
+        {
+          "n": 4,
+          "opts": [
+            "copy",
+            "danger",
+            "replacement",
+            "holiday"
+          ],
+          "ans": 2,
+          "tr": "'not a complete replacement' = tam bir ikame değil; muayene gerektiren durumlar.",
+          "en": "'not a complete replacement' fits cases needing examination."
+        },
+        {
+          "n": 5,
+          "opts": [
+            "sold",
+            "hidden",
+            "counted",
+            "seen"
+          ],
+          "ans": 3,
+          "tr": "'seen in person' = yüz yüze görülmek; gerçekten gerekli hastalar.",
+          "en": "'seen in person' fits patients who truly need it."
+        }
+      ]
+    },
+    {
+      "id": "cz_x4_byzantine_trade",
+      "lv": "C1",
+      "field": "sosyal",
+      "title": "The Crossroads City",
+      "text": "For more than a thousand years, the city of Constantinople stood at the meeting point of Europe and Asia, and its wealth (1) ____ heavily on this position. Goods from distant lands passed through its harbours, and the taxes collected on them filled the treasury of the empire. The city's craftsmen were famous for luxury items, especially silk, the secret of whose production the state guarded (2) ____. So great was the flow of trade that the city's coinage became a trusted currency across much of the medieval world, (3) ____ in markets far beyond the empire's borders. Yet such riches also made the city a (4) ____ for ambitious rivals, and its walls were tested again and again. When those defences finally failed, the loss was felt not only locally but across a network of commerce that had (5) ____ on the great crossroads city for centuries.",
+      "blanks": [
+        {
+          "n": 1,
+          "opts": [
+            "rested",
+            "vanished",
+            "wasted",
+            "hid"
+          ],
+          "ans": 0,
+          "tr": "'wealth rested on this position' = zenginlik bu konuma dayanıyordu; coğrafi avantaj.",
+          "en": "'rested on this position' fits geographic advantage."
+        },
+        {
+          "n": 2,
+          "opts": [
+            "carelessly",
+            "jealously",
+            "rarely",
+            "loudly"
+          ],
+          "ans": 1,
+          "tr": "'guarded jealously' = kıskançlıkla korunan ipek sırrı.",
+          "en": "'guarded jealously' fits the silk secret."
+        },
+        {
+          "n": 3,
+          "opts": [
+            "hidden",
+            "burned",
+            "accepted",
+            "lost"
+          ],
+          "ans": 2,
+          "tr": "'accepted in markets far beyond' = uzak pazarlarda kabul edilen; güvenilir para.",
+          "en": "'accepted in distant markets' fits the trusted coinage."
+        },
+        {
+          "n": 4,
+          "opts": [
+            "reward",
+            "holiday",
+            "copy",
+            "target"
+          ],
+          "ans": 3,
+          "tr": "'a target for ambitious rivals' = hırslı rakipler için hedef; zenginliğin bedeli.",
+          "en": "'a target for rivals' fits the cost of riches."
+        },
+        {
+          "n": 5,
+          "opts": [
+            "depended",
+            "rested",
+            "agreed",
+            "insisted"
+          ],
+          "ans": 0,
+          "tr": "'a network that had depended on the city' = şehre bağımlı ağ; düşüşün etkisi. 'depend on' kalıbı.",
+          "en": "'depended on the city' fits the trade network's reliance."
+        }
+      ]
+    },
+    {
+      "id": "cz_x4_biodiversity",
+      "lv": "B2",
+      "field": "fen",
+      "title": "The Web of Living Things",
+      "text": "A healthy natural area is rarely home to just one or two kinds of plant and animal. Instead, it usually contains a great (1) ____ of species, each connected to the others in countless ways. Scientists use the word biodiversity to describe this richness, and they warn that it is now (2) ____ at an alarming rate. When one species disappears, the effect is rarely limited to that single creature. A predator may lose its prey, a plant may lose the insect that (3) ____ it, and the whole system can become less stable as a result. Protecting biodiversity is not, therefore, simply a matter of saving a few attractive animals; it is about keeping the entire web of life strong enough to (4) ____ the shocks that nature, and human activity, will inevitably bring. For this reason, many scientists regard it as one of the most (5) ____ tasks of our age.",
+      "blanks": [
+        {
+          "n": 1,
+          "opts": [
+            "silence",
+            "variety",
+            "danger",
+            "colour"
+          ],
+          "ans": 1,
+          "tr": "'a great variety of species' = büyük bir tür çeşitliliği; biyoçeşitlilik tanımı.",
+          "en": "'a great variety of species' defines biodiversity."
+        },
+        {
+          "n": 2,
+          "opts": [
+            "rising",
+            "resting",
+            "falling",
+            "hiding"
+          ],
+          "ans": 2,
+          "tr": "'falling at an alarming rate' = endişe verici hızla azalan; uyarı.",
+          "en": "'falling at an alarming rate' fits the warning."
+        },
+        {
+          "n": 3,
+          "opts": [
+            "destroys",
+            "ignores",
+            "sells",
+            "pollinates"
+          ],
+          "ans": 3,
+          "tr": "'the insect that pollinates it' = onu tozlaştıran böcek; bağlantı örneği.",
+          "en": "'the insect that pollinates it' fits the example of connection."
+        },
+        {
+          "n": 4,
+          "opts": [
+            "withstand",
+            "cause",
+            "enjoy",
+            "sell"
+          ],
+          "ans": 0,
+          "tr": "'withstand the shocks' = şoklara dayanmak; istikrar amacı.",
+          "en": "'withstand the shocks' fits the goal of stability."
+        },
+        {
+          "n": 5,
+          "opts": [
+            "trivial",
+            "important",
+            "foreign",
+            "recent"
+          ],
+          "ans": 1,
+          "tr": "'one of the most important tasks' = en önemli görevlerden biri; sonuç.",
+          "en": "'one of the most important tasks' concludes the passage."
+        }
+      ]
+    },
+    {
+      "id": "cz_x4_cognitive_bias",
+      "lv": "C1",
+      "field": "saglik",
+      "title": "The Tricks of the Mind",
+      "text": "We like to believe that our judgements are based on careful thought, but psychologists have shown that the mind takes many (1) ____ that can lead us astray. These mental shortcuts, known as cognitive biases, usually work quickly and without our (2) ____. One of the best known is the tendency to notice and remember only the evidence that supports what we already believe, while quietly (3) ____ anything that does not. Such biases are not a sign of stupidity; even the most intelligent people fall victim to them, often without realising it. The first step towards thinking more clearly is simply to (4) ____ that these tendencies exist, since a danger that is recognised is far easier to guard against. Trained to pause and question their first reaction, people can learn to (5) ____ at least some of the errors that the mind makes so naturally.",
+      "blanks": [
+        {
+          "n": 1,
+          "opts": [
+            "holidays",
+            "prisoners",
+            "shortcuts",
+            "colours"
+          ],
+          "ans": 2,
+          "tr": "'the mind takes many shortcuts' = zihin birçok kestirme kullanır; bilişsel önyargı.",
+          "en": "'shortcuts' names cognitive biases."
+        },
+        {
+          "n": 2,
+          "opts": [
+            "money",
+            "permission",
+            "noise",
+            "awareness"
+          ],
+          "ans": 3,
+          "tr": "'without our awareness' = farkındalığımız olmadan; otomatik işleyiş.",
+          "en": "'without our awareness' fits automatic operation."
+        },
+        {
+          "n": 3,
+          "opts": [
+            "ignoring",
+            "rewarding",
+            "selling",
+            "counting"
+          ],
+          "ans": 0,
+          "tr": "'quietly ignoring anything that does not' = desteklemeyeni göz ardı etmek; teyit yanlılığı.",
+          "en": "'ignoring anything that does not' fits confirmation bias."
+        },
+        {
+          "n": 4,
+          "opts": [
+            "deny",
+            "recognise",
+            "enjoy",
+            "sell"
+          ],
+          "ans": 1,
+          "tr": "'recognise that these tendencies exist' = bu eğilimleri kabul etmek; ilk adım.",
+          "en": "'recognise that these tendencies exist' is the first step."
+        },
+        {
+          "n": 5,
+          "opts": [
+            "cause",
+            "enjoy",
+            "avoid",
+            "copy"
+          ],
+          "ans": 2,
+          "tr": "'avoid at least some of the errors' = hataların bir kısmından kaçınmak; sonuç.",
+          "en": "'avoid at least some of the errors' concludes the point."
+        }
+      ]
     }
   ],
   "restate": [
@@ -42784,6 +43819,381 @@
       "ans": 3,
       "tr": "'offers flexibility, but can blur the boundary' = esneklik sağlar ama sınırı bulanıklaştırabilir; doğru cevap iki yönü de korur. Çeldiriciler esnekliği yok sayar ya da sınırın net kaldığını söyler.",
       "en": "'offers flexibility, but can blur the boundary' keeps both; distractors drop the flexibility or claim the line stays sharp."
+    },
+    {
+      "id": "rs_x4_glacier_retreat",
+      "lv": "C1",
+      "field": "fen",
+      "stem": "Even if emissions were halted today, many glaciers would continue to shrink for decades because of the heat already stored in the oceans.",
+      "opts": [
+        "Glaciers would keep retreating for years even after emissions stopped, owing to heat the oceans have already absorbed.",
+        "Stopping emissions now would immediately halt the shrinking of all glaciers.",
+        "Glaciers are shrinking only because emissions continue to rise.",
+        "The oceans store no heat, so glaciers respond at once to emission cuts."
+      ],
+      "ans": 0,
+      "tr": "'Even if ... halted today ... would continue to shrink ... because of heat already stored' = bugün dursa bile depolanmış ısı yüzünden küçülme sürer; doğru cevap bu gecikmeli etkiyi korur. Diğerleri anında durmayı ya da ısının olmadığını iddia eder.",
+      "en": "'Even if halted today ... would continue to shrink because of heat already stored' keeps the lagged effect; distractors claim instant halt or no stored heat."
+    },
+    {
+      "id": "rs_x4_vaccine_trust",
+      "lv": "C1",
+      "field": "saglik",
+      "stem": "Public confidence in vaccines depends less on the science itself than on whether people trust the institutions that deliver it.",
+      "opts": [
+        "Vaccine confidence rests entirely on the quality of the science.",
+        "People's trust in institutions matters more than the science for vaccine confidence.",
+        "Institutions have no influence on whether people accept vaccines.",
+        "People reject vaccines only when the science is weak."
+      ],
+      "ans": 1,
+      "tr": "'depends less on the science than on whether people trust the institutions' = bilimsel veriden çok kurumlara güvene bağlı; doğru cevap bu karşılaştırmayı korur. Diğerleri bilime ya da kuruma ağırlığı ters çevirir.",
+      "en": "'depends less on the science than on trust in institutions' is kept; distractors reverse the weighting."
+    },
+    {
+      "id": "rs_x4_urban_density",
+      "lv": "C1",
+      "field": "sosyal",
+      "stem": "Contrary to common belief, densely built cities can be greener than sprawling suburbs, since shorter distances reduce the need for cars.",
+      "opts": [
+        "Dense cities always pollute more than spread-out suburbs.",
+        "Suburbs are greener because their houses are far apart.",
+        "Despite what many assume, compact cities may be more environmentally friendly than sprawl, as people drive less.",
+        "Car use has no connection to how a city is built."
+      ],
+      "ans": 2,
+      "tr": "'Contrary to common belief ... can be greener ... since shorter distances reduce the need for cars' = yaygın inancın aksine yoğun şehir daha yeşil olabilir; doğru cevap bunu korur. Diğerleri ters iddia eder.",
+      "en": "'Contrary to common belief, dense cities can be greener since shorter distances cut car use' is kept; distractors invert it."
+    },
+    {
+      "id": "rs_x4_ai_limits",
+      "lv": "C1",
+      "field": "fen",
+      "stem": "However impressive its output may seem, a language model does not understand meaning in the way a human does; it predicts likely sequences of words.",
+      "opts": [
+        "A language model understands meaning exactly as a person does.",
+        "The model's output is never impressive because it lacks understanding.",
+        "Humans and models both produce text without any understanding at all.",
+        "Although its results look impressive, such a model predicts probable word sequences rather than grasping meaning like a human."
+      ],
+      "ans": 3,
+      "tr": "'However impressive ... does not understand ... predicts likely sequences' = etkileyici olsa da anlamı kavramaz, olası dizileri tahmin eder; doğru cevap her iki yönü korur.",
+      "en": "'However impressive, it predicts word sequences rather than understanding' keeps both halves."
+    },
+    {
+      "id": "rs_x4_minimum_wage",
+      "lv": "C1",
+      "field": "sosyal",
+      "stem": "While raising the minimum wage can lift many families out of poverty, economists disagree about whether it also reduces the number of available jobs.",
+      "opts": [
+        "Raising the minimum wage may help poor families, but experts are divided over its effect on job numbers.",
+        "Economists fully agree that a higher minimum wage destroys jobs.",
+        "A higher minimum wage helps poor families and certainly creates more jobs.",
+        "The minimum wage has no effect on poverty or employment."
+      ],
+      "ans": 0,
+      "tr": "'can lift families out of poverty, economists disagree about whether it reduces jobs' = yoksulluğu azaltabilir ama istihdam etkisi tartışmalı; doğru cevap iki yönü de korur.",
+      "en": "'lifts families out of poverty, but experts are divided on jobs' keeps both points."
+    },
+    {
+      "id": "rs_x4_sleep_learning",
+      "lv": "B2",
+      "field": "saglik",
+      "stem": "Students who study a little each day tend to remember more than those who try to learn everything the night before an exam.",
+      "opts": [
+        "Cramming the night before leads to better memory than daily study.",
+        "Spreading study over many days usually produces better recall than last-minute cramming.",
+        "Daily study and last-minute study give exactly the same results.",
+        "Memory does not depend on how study is spaced."
+      ],
+      "ans": 1,
+      "tr": "'study a little each day tend to remember more than ... the night before' = günlük çalışma son geceye göre daha iyi hatırlatır; doğru cevap bu karşılaştırmayı korur.",
+      "en": "'daily study remembers more than night-before cramming' keeps the comparison."
+    },
+    {
+      "id": "rs_x4_museum_repatriation",
+      "lv": "C1",
+      "field": "sosyal",
+      "stem": "Although museums argue that they preserve ancient objects for all humanity, many countries insist that such items belong in their place of origin.",
+      "opts": [
+        "Museums and origin countries fully agree on where ancient objects belong.",
+        "Origin countries believe ancient objects are safest in foreign museums.",
+        "Museums claim to protect objects for everyone, yet many nations maintain the items should return home.",
+        "Museums admit that ancient objects belong in their country of origin."
+      ],
+      "ans": 2,
+      "tr": "'museums argue they preserve ... many countries insist they belong in their origin' = müzeler korumayı, ülkeler iadeyi savunur; doğru cevap iki tarafı da korur.",
+      "en": "'museums claim to preserve, yet nations insist on return' keeps both sides."
+    },
+    {
+      "id": "rs_x4_remote_education",
+      "lv": "B2",
+      "field": "sosyal",
+      "stem": "Online learning makes courses available to people who could never attend in person, but it works best when students are already good at managing their own time.",
+      "opts": [
+        "Online learning suits everyone equally, regardless of self-discipline.",
+        "Online courses are useless for people who cannot attend in person.",
+        "Time management has nothing to do with online learning.",
+        "Online courses reach distant learners, yet they succeed most with students who can organise their own time."
+      ],
+      "ans": 3,
+      "tr": "'makes courses available ... but works best when students manage their own time' = uzaktakilere ulaşır ama öz disiplin gerektirir; doğru cevap iki yönü korur.",
+      "en": "'reaches distant learners but works best with self-managers' keeps both halves."
+    },
+    {
+      "id": "rs_x4_antibiotic_overuse",
+      "lv": "C1",
+      "field": "saglik",
+      "stem": "The more often antibiotics are used unnecessarily, the faster bacteria develop resistance to them.",
+      "opts": [
+        "Frequent unnecessary use of antibiotics accelerates the development of resistant bacteria.",
+        "Using antibiotics rarely speeds up bacterial resistance.",
+        "Bacteria become resistant only when antibiotics are never used.",
+        "Antibiotic use has no effect on resistance."
+      ],
+      "ans": 0,
+      "tr": "'the more often ... unnecessarily, the faster bacteria develop resistance' = gereksiz kullanım arttıkça direnç hızlanır; doğru cevap bu orantıyı korur.",
+      "en": "'the more unnecessary use, the faster resistance' keeps the proportional link."
+    },
+    {
+      "id": "rs_x4_renewable_storage",
+      "lv": "C1",
+      "field": "fen",
+      "stem": "Solar and wind power are now cheap to generate, but their value is limited until we can store the electricity for times when the sun is down and the wind is still.",
+      "opts": [
+        "Solar and wind power are expensive and rarely worth using.",
+        "Cheap as they are to produce, solar and wind reach their full value only once we can store their electricity for calm, dark periods.",
+        "Storing electricity is unnecessary for solar and wind power.",
+        "The sun and wind provide constant, uninterrupted power."
+      ],
+      "ans": 1,
+      "tr": "'cheap to generate, but value limited until we can store ... for times when sun is down' = üretimi ucuz ama depolama olmadan değeri sınırlı; doğru cevap bunu korur.",
+      "en": "'cheap to generate but limited until stored' keeps the condition."
+    },
+    {
+      "id": "rs_x4_language_extinction",
+      "lv": "C1",
+      "field": "sosyal",
+      "stem": "When the last fluent speaker of a language dies, the knowledge encoded in that language — its songs, names, and ways of describing the world — usually vanishes with them.",
+      "opts": [
+        "A language survives easily even after its last speaker dies.",
+        "Only the grammar of a language is lost when its last speaker dies.",
+        "The death of a language's last speaker generally erases the unique knowledge that language carried.",
+        "Songs and names are always recorded before a language disappears."
+      ],
+      "ans": 2,
+      "tr": "'when the last speaker dies, the knowledge ... usually vanishes with them' = son konuşmacıyla o bilgi yok olur; doğru cevap kapsamı korur.",
+      "en": "'with the last speaker, the encoded knowledge vanishes' keeps the scope."
+    },
+    {
+      "id": "rs_x4_exercise_brain",
+      "lv": "B2",
+      "field": "saglik",
+      "stem": "Regular physical exercise benefits not only the body but also the brain, improving memory and concentration.",
+      "opts": [
+        "Exercise helps the body but harms the brain.",
+        "Only the brain, not the body, benefits from exercise.",
+        "Memory and concentration are unaffected by exercise.",
+        "Besides helping the body, regular exercise also sharpens memory and concentration."
+      ],
+      "ans": 3,
+      "tr": "'benefits not only the body but also the brain, improving memory' = sadece beden değil beyin de yarar görür; doğru cevap iki yararı korur.",
+      "en": "'helps the body and also the brain' keeps both benefits."
+    },
+    {
+      "id": "rs_x4_tourism_impact",
+      "lv": "C1",
+      "field": "sosyal",
+      "stem": "Mass tourism brings welcome income to many towns, yet it can also raise local prices and strain the very landscapes that attract visitors in the first place.",
+      "opts": [
+        "Mass tourism provides income but may push up prices and damage the landscapes that drew tourists.",
+        "Mass tourism only ever harms the towns it reaches.",
+        "Tourism lowers local prices and protects the landscape.",
+        "Towns gain nothing at all from mass tourism."
+      ],
+      "ans": 0,
+      "tr": "'brings welcome income ... yet can raise prices and strain the landscapes' = gelir getirir ama fiyatları ve doğayı zorlar; doğru cevap iki yönü korur.",
+      "en": "'income, yet higher prices and strained landscapes' keeps both sides."
+    },
+    {
+      "id": "rs_x4_gene_editing",
+      "lv": "C1",
+      "field": "saglik",
+      "stem": "New gene-editing tools could one day cure inherited diseases, though many scientists urge caution until the long-term effects are properly understood.",
+      "opts": [
+        "Gene-editing tools have already cured all inherited diseases.",
+        "Gene editing might eventually cure inherited diseases, but many researchers advise caution until the long-term effects are clear.",
+        "Scientists agree that gene editing is completely safe to use now.",
+        "Gene editing can never affect inherited diseases."
+      ],
+      "ans": 1,
+      "tr": "'could one day cure ... though scientists urge caution until long-term effects understood' = ileride tedavi edebilir ama uzun vadeli etkiler bilinene dek dikkat; doğru cevap bunu korur.",
+      "en": "'might cure, but caution until long-term effects clear' keeps the caveat."
+    },
+    {
+      "id": "rs_x4_fast_fashion",
+      "lv": "B2",
+      "field": "sosyal",
+      "stem": "Cheap, fashionable clothes are tempting to buy, but producing them quickly and in huge amounts creates serious environmental problems.",
+      "opts": [
+        "Cheap fashionable clothes have no effect on the environment.",
+        "Producing clothes slowly causes the most pollution.",
+        "Although such clothes are tempting, making them fast and in vast quantities causes serious environmental harm.",
+        "Expensive clothes are the main cause of environmental damage."
+      ],
+      "ans": 2,
+      "tr": "'tempting to buy, but producing them quickly and in huge amounts creates problems' = cazip ama hızlı/çok üretim çevreye zarar; doğru cevap iki yönü korur.",
+      "en": "'tempting, but fast mass production harms the environment' keeps both."
+    },
+    {
+      "id": "rs_x4_space_junk",
+      "lv": "C1",
+      "field": "fen",
+      "stem": "Decades of launches have left so much debris in orbit that even a tiny fragment, travelling at enormous speed, can destroy a working satellite.",
+      "opts": [
+        "Orbital debris is harmless because the pieces are small.",
+        "Only large objects in orbit threaten satellites.",
+        "Satellites are never at risk from orbital debris.",
+        "Years of launches have filled orbit with debris, and even a small piece moving very fast can wreck a functioning satellite."
+      ],
+      "ans": 3,
+      "tr": "'so much debris ... even a tiny fragment at enormous speed can destroy a satellite' = küçük parça bile yüksek hızda uyduyu yok edebilir; doğru cevap bunu korur.",
+      "en": "'even a tiny fast fragment can destroy a satellite' keeps the danger."
+    },
+    {
+      "id": "rs_x4_historical_sources",
+      "lv": "C1",
+      "field": "sosyal",
+      "stem": "Historians treat every document with caution, aware that its author may have had reasons to emphasise certain facts and quietly omit others.",
+      "opts": [
+        "Historians read each document carefully, knowing the writer might have stressed some facts and left others out.",
+        "Historians accept every document as a complete and neutral record.",
+        "Documents written at the time are always free of bias.",
+        "Historians ignore documents because they cannot be trusted at all."
+      ],
+      "ans": 0,
+      "tr": "'treat every document with caution ... author may emphasise some facts and omit others' = her belgeyi temkinle okur; doğru cevap bu kuşkuyu korur.",
+      "en": "'read each document with caution about emphasis and omission' keeps the skepticism."
+    },
+    {
+      "id": "rs_x4_coral_recovery",
+      "lv": "C1",
+      "field": "fen",
+      "stem": "Some damaged reefs can recover if given enough time, but the heatwaves that harm them are now arriving too frequently for that recovery to take place.",
+      "opts": [
+        "Damaged reefs always recover, no matter how often heatwaves occur.",
+        "Reefs could recover with time, yet heatwaves now strike too often to allow it.",
+        "Heatwaves help reefs recover more quickly.",
+        "Reefs never recover from any damage."
+      ],
+      "ans": 1,
+      "tr": "'can recover if given time, but heatwaves arriving too frequently for recovery' = zaman olsa toparlanır ama şoklar çok sık; doğru cevap bunu korur.",
+      "en": "'could recover with time, but heatwaves too frequent' keeps the condition."
+    },
+    {
+      "id": "rs_x4_screen_children",
+      "lv": "B2",
+      "field": "saglik",
+      "stem": "Doctors do not say that all screen time is harmful for children; they argue that what matters most is how the time is used and whether it replaces sleep and play.",
+      "opts": [
+        "Doctors say every minute of screen time harms children.",
+        "Doctors claim screen time has no effect on children at all.",
+        "Doctors argue that the key issue is not screens themselves but how the time is used and what it displaces.",
+        "Doctors believe screens are always better than sleep and play."
+      ],
+      "ans": 2,
+      "tr": "'do not say all screen time is harmful ... what matters is how it is used and whether it replaces sleep and play' = önemli olan kullanımı ve neyin yerini aldığı; doğru cevap nüansı korur.",
+      "en": "'not all screen time is harmful; what matters is use and what it displaces' keeps the nuance."
+    },
+    {
+      "id": "rs_x4_inflation_savers",
+      "lv": "C1",
+      "field": "sosyal",
+      "stem": "High inflation hurts people who keep their money in cash, because the same amount buys a little less with each passing month.",
+      "opts": [
+        "High inflation benefits those who hold cash.",
+        "Inflation has no effect on the value of cash.",
+        "Cash gains value steadily when inflation is high.",
+        "Holding cash during high inflation is costly, since its purchasing power falls month by month."
+      ],
+      "ans": 3,
+      "tr": "'hurts people who keep money in cash ... buys a little less each month' = nakit tutanın alım gücü her ay azalır; doğru cevap bunu korur.",
+      "en": "'cash loses purchasing power monthly under inflation' keeps the mechanism."
+    },
+    {
+      "id": "rs_x4_ancient_medicine",
+      "lv": "C1",
+      "field": "saglik",
+      "stem": "Although many remedies used by ancient healers had no real effect, a surprising number contained plants whose active ingredients modern medicine still relies on.",
+      "opts": [
+        "While many old remedies did nothing, a striking number used plants whose active compounds modern medicine still uses.",
+        "Every remedy used by ancient healers was completely useless.",
+        "Ancient healers used only plants that modern medicine has rejected.",
+        "Modern medicine owes nothing to ancient plant remedies."
+      ],
+      "ans": 0,
+      "tr": "'many had no effect, a surprising number contained plants modern medicine still relies on' = çoğu işe yaramazdı ama şaşırtıcı sayıda etken madde bugün de kullanılıyor; doğru cevap iki yönü korur.",
+      "en": "'many did nothing, yet many used compounds still used today' keeps both."
+    },
+    {
+      "id": "rs_x4_volunteer_motive",
+      "lv": "B2",
+      "field": "saglik",
+      "stem": "People volunteer not only to help others but also because the work gives them a sense of purpose and a chance to meet new friends.",
+      "opts": [
+        "People volunteer purely to help others, with no personal benefit.",
+        "People volunteer both to help others and because it gives them purpose and new friendships.",
+        "Volunteering offers no benefit to the volunteer at all.",
+        "People volunteer mainly to avoid meeting new people."
+      ],
+      "ans": 1,
+      "tr": "'not only to help others but also because it gives purpose and a chance to meet friends' = hem başkasına yardım hem amaç/arkadaşlık; doğru cevap iki güdüyü korur.",
+      "en": "'to help others and for purpose and friendship' keeps both motives."
+    },
+    {
+      "id": "rs_x4_dam_tradeoff",
+      "lv": "C1",
+      "field": "fen",
+      "stem": "A large dam can supply clean electricity to millions, yet building it often floods valleys and forces whole communities to leave their homes.",
+      "opts": [
+        "Large dams produce electricity without affecting anyone.",
+        "Dams only harm the environment and never produce useful power.",
+        "A big dam can give clean power to millions but may flood valleys and displace entire communities.",
+        "Communities are never affected by the building of dams."
+      ],
+      "ans": 2,
+      "tr": "'can supply clean electricity ... yet building it floods valleys and forces communities to leave' = temiz enerji verir ama vadileri sular ve toplulukları göçe zorlar; doğru cevap iki yönü korur.",
+      "en": "'clean power, yet flooding and displacement' keeps both sides."
+    },
+    {
+      "id": "rs_x4_critical_reading",
+      "lv": "C1",
+      "field": "saglik",
+      "stem": "A skilled reader does not simply accept what a text says; they ask who wrote it, why, and what evidence supports its claims.",
+      "opts": [
+        "A skilled reader accepts every statement in a text without question.",
+        "Skilled readers care only about who wrote a text, not its evidence.",
+        "Reading critically means ignoring the author entirely.",
+        "Good readers go beyond accepting a text, questioning its author, purpose, and evidence."
+      ],
+      "ans": 3,
+      "tr": "'does not simply accept ... asks who wrote it, why, and what evidence supports' = yazarı, amacı ve kanıtı sorgular; doğru cevap eleştirel okuma tanımını korur.",
+      "en": "'questions author, purpose, and evidence' keeps the definition of critical reading."
+    },
+    {
+      "id": "rs_x4_bee_pollination",
+      "lv": "B2",
+      "field": "fen",
+      "stem": "If bee populations keep falling, the cost of many fruits and vegetables is likely to rise, since these crops depend on insects to pollinate them.",
+      "opts": [
+        "Should bee numbers keep dropping, prices of many crops may climb because those crops rely on insect pollination.",
+        "Falling bee numbers will make fruit and vegetables cheaper.",
+        "Fruits and vegetables do not need bees at all.",
+        "Bee numbers have no link to the price of crops."
+      ],
+      "ans": 0,
+      "tr": "'if bee populations keep falling, cost likely to rise, since crops depend on insects' = arı azalırsa ürün pahalanır çünkü tozlaşmaya bağımlı; doğru cevap neden-sonucu korur.",
+      "en": "'fewer bees, higher crop prices because crops need pollination' keeps the causal chain."
     }
   ],
   "oddout": [
@@ -43011,6 +44421,306 @@
       "ans": 4,
       "tr": "Paragraf makine çevirisinin gelişimi ve sınırlarını anlatır; en eski kütüphanelerden söz eden cümle konu dışıdır.",
       "en": "The paragraph is about the progress and limits of machine translation; the sentence about the oldest libraries is off-topic."
+    },
+    {
+      "id": "oo_x4_mars_exploration",
+      "lv": "C1",
+      "field": "fen",
+      "sentences": [
+        "The first commercial flight across the Atlantic was a major event in aviation history.",
+        "Robotic rovers have been exploring the surface of Mars for more than two decades.",
+        "They drill into rocks, analyse the soil, and send detailed images back to Earth.",
+        "From this data, scientists have built a picture of a planet that was once far wetter than it is today.",
+        "Each new mission adds to our understanding of whether life could ever have existed there."
+      ],
+      "ans": 0,
+      "tr": "Paragraf Mars rover'larını ve gezegenin geçmişini anlatır; Atlantik üzerindeki ilk ticari uçuştan söz eden cümle konu dışıdır.",
+      "en": "The paragraph is about Mars rovers and the planet's past; the sentence about the first transatlantic flight is off-topic."
+    },
+    {
+      "id": "oo_x4_caffeine_effect",
+      "lv": "B2",
+      "field": "saglik",
+      "sentences": [
+        "Caffeine is one of the most widely used stimulants in the world.",
+        "Most kitchens contain at least one wooden cutting board.",
+        "It works by blocking the chemical in the brain that makes us feel sleepy.",
+        "For this reason, a cup of coffee can help people feel alert in the morning.",
+        "Too much caffeine late in the day, however, can make it hard to fall asleep."
+      ],
+      "ans": 1,
+      "tr": "Paragraf kafeinin uyarıcı etkisini anlatır; mutfaklarda tahta kesme tahtası bulunduğunu söyleyen cümle alakasızdır.",
+      "en": "The paragraph explains caffeine's stimulant effect; the sentence about wooden cutting boards is unrelated."
+    },
+    {
+      "id": "oo_x4_french_revolution",
+      "lv": "C1",
+      "field": "sosyal",
+      "sentences": [
+        "The French Revolution began in 1789 amid deep anger over taxes and inequality.",
+        "Crowds in Paris seized power from a monarchy that seemed unable to reform itself.",
+        "Olive trees can live for several hundred years if the climate is mild.",
+        "The years that followed brought both new ideas of citizenship and terrible violence.",
+        "Many of the political terms we use today were shaped during this turbulent period."
+      ],
+      "ans": 2,
+      "tr": "Paragraf Fransız Devrimi'ni ele alır; zeytin ağaçlarının ömrünü anlatan cümle konuyla bağlantısızdır.",
+      "en": "The paragraph is about the French Revolution; the sentence on the lifespan of olive trees is unrelated."
+    },
+    {
+      "id": "oo_x4_recycling_metal",
+      "lv": "B2",
+      "field": "fen",
+      "sentences": [
+        "Recycling metal uses far less energy than producing it from raw ore.",
+        "Old cans and machines are melted down and shaped into new products.",
+        "Because metal can be reused many times, it is one of the most valuable materials to recycle.",
+        "The novel was translated into more than thirty languages.",
+        "This saves energy and reduces the need for mining."
+      ],
+      "ans": 3,
+      "tr": "Paragraf metal geri dönüşümünün enerji tasarrufunu anlatır; romanın otuz dile çevrildiğini söyleyen cümle konu dışıdır.",
+      "en": "The paragraph is about energy savings from recycling metal; the sentence about the novel's translations is off-topic."
+    },
+    {
+      "id": "oo_x4_sleep_stages",
+      "lv": "C1",
+      "field": "saglik",
+      "sentences": [
+        "During the night the brain passes through several distinct stages of sleep.",
+        "In the deepest stage, the body repairs tissue and strengthens the immune system.",
+        "In another stage, known as REM sleep, vivid dreams usually occur.",
+        "Disturbing these cycles, even without reducing total sleep, can leave a person feeling tired.",
+        "The harbour was famous for the quality of its fresh fish."
+      ],
+      "ans": 4,
+      "tr": "Paragraf uyku evrelerini anlatır; limanın taze balığıyla ünlü olduğunu söyleyen cümle alakasızdır.",
+      "en": "The paragraph describes sleep stages; the sentence about the harbour's fresh fish is unrelated."
+    },
+    {
+      "id": "oo_x4_ancient_trade_routes",
+      "lv": "C1",
+      "field": "sosyal",
+      "sentences": [
+        "A healthy adult heart beats about seventy times a minute.",
+        "Long before modern shipping, goods moved across continents along established trade routes.",
+        "Merchants carried silk, spices, and precious metals over deserts and mountains.",
+        "Along with these goods travelled languages, religions, and new technologies.",
+        "In this way, distant civilisations influenced one another far more than is often assumed."
+      ],
+      "ans": 0,
+      "tr": "Paragraf eski ticaret yollarını ve kültürel etkileşimi anlatır; kalbin dakikadaki atış sayısını veren cümle konu dışıdır.",
+      "en": "The paragraph is about ancient trade routes and exchange; the sentence on heart rate is off-topic."
+    },
+    {
+      "id": "oo_x4_electric_grid",
+      "lv": "C1",
+      "field": "fen",
+      "sentences": [
+        "Keeping an electricity grid stable means matching supply to demand at every moment.",
+        "Many ancient cities were built around a central marketplace.",
+        "If too little power is produced, lights dim and machines fail.",
+        "If too much is produced, the system can be damaged just as easily.",
+        "Operators therefore watch the network constantly and adjust output second by second."
+      ],
+      "ans": 1,
+      "tr": "Paragraf elektrik şebekesinin arz-talep dengesini anlatır; eski şehirlerin pazar yeri etrafında kurulduğunu söyleyen cümle alakasızdır.",
+      "en": "The paragraph is about balancing the electricity grid; the sentence on ancient marketplaces is unrelated."
+    },
+    {
+      "id": "oo_x4_vitamin_d",
+      "lv": "B2",
+      "field": "saglik",
+      "sentences": [
+        "Our bodies make vitamin D when sunlight falls on the skin.",
+        "This vitamin helps to keep bones strong and healthy.",
+        "The museum's new wing was designed by a famous architect.",
+        "People who spend little time outdoors may not produce enough of it.",
+        "Doctors sometimes recommend supplements for those at risk."
+      ],
+      "ans": 2,
+      "tr": "Paragraf D vitamini ve kemik sağlığını anlatır; müzenin yeni kanadının ünlü bir mimarca tasarlandığını söyleyen cümle konu dışıdır.",
+      "en": "The paragraph is about vitamin D and bone health; the sentence about the museum's architect is off-topic."
+    },
+    {
+      "id": "oo_x4_printing_money",
+      "lv": "C1",
+      "field": "sosyal",
+      "sentences": [
+        "When a government prints far more money than its economy can support, prices tend to rise.",
+        "Each unit of currency then buys a little less than it did before.",
+        "If this continues unchecked, people may lose confidence in the money itself.",
+        "Penguins spend much of their lives swimming in cold southern waters.",
+        "History offers several examples of currencies that collapsed in exactly this way."
+      ],
+      "ans": 3,
+      "tr": "Paragraf aşırı para basımı ve enflasyonu anlatır; penguenlerin soğuk sularda yüzdüğünü söyleyen cümle alakasızdır.",
+      "en": "The paragraph is about printing money and inflation; the sentence about penguins is unrelated."
+    },
+    {
+      "id": "oo_x4_plant_communication",
+      "lv": "C1",
+      "field": "fen",
+      "sentences": [
+        "Scientists have discovered that plants can communicate with one another.",
+        "When attacked by insects, some plants release chemicals into the air.",
+        "Nearby plants detect these signals and begin to prepare their own defences.",
+        "This hidden conversation helps a whole group of plants survive.",
+        "The stadium can hold over sixty thousand spectators."
+      ],
+      "ans": 4,
+      "tr": "Paragraf bitkilerin kimyasal iletişimini anlatır; stadyumun seyirci kapasitesini veren cümle konu dışıdır.",
+      "en": "The paragraph is about plant chemical communication; the sentence on stadium capacity is off-topic."
+    },
+    {
+      "id": "oo_x4_minimum_sleep_teens",
+      "lv": "B2",
+      "field": "saglik",
+      "sentences": [
+        "The recipe calls for two cups of flour and a little salt.",
+        "Teenagers generally need more sleep than adults do.",
+        "Their bodies and brains are still growing and changing rapidly.",
+        "Yet many of them stay up late and struggle to wake for early classes.",
+        "As a result, a large number of students are tired throughout the school day."
+      ],
+      "ans": 0,
+      "tr": "Paragraf ergenlerin uyku ihtiyacını anlatır; un ve tuz isteyen tarif cümlesi alakasızdır.",
+      "en": "The paragraph is about teenagers' need for sleep; the recipe sentence is unrelated."
+    },
+    {
+      "id": "oo_x4_roman_law",
+      "lv": "C1",
+      "field": "sosyal",
+      "sentences": [
+        "The legal system of ancient Rome shaped much of the law used in Europe today.",
+        "Bamboo is one of the fastest-growing plants on Earth.",
+        "Roman jurists developed clear rules about property, contracts, and citizenship.",
+        "These principles were written down and studied for centuries after the empire fell.",
+        "Many modern legal terms can be traced directly back to Latin originals."
+      ],
+      "ans": 1,
+      "tr": "Paragraf Roma hukukunun etkisini anlatır; bambunun en hızlı büyüyen bitkilerden olduğunu söyleyen cümle konu dışıdır.",
+      "en": "The paragraph is about Roman law's influence; the sentence about bamboo is off-topic."
+    },
+    {
+      "id": "oo_x4_volcano_monitoring",
+      "lv": "C1",
+      "field": "fen",
+      "sentences": [
+        "Scientists watch active volcanoes for signs that an eruption may be near.",
+        "Small earthquakes often increase in the weeks before the ground breaks open.",
+        "The orchestra rehearsed the symphony for several weeks.",
+        "Gases escaping from the rock can also reveal what is happening below.",
+        "By combining these clues, experts can sometimes warn people in time."
+      ],
+      "ans": 2,
+      "tr": "Paragraf volkan izlemeyi anlatır; orkestranın senfoniyi prova ettiğini söyleyen cümle alakasızdır.",
+      "en": "The paragraph is about volcano monitoring; the sentence about the orchestra is unrelated."
+    },
+    {
+      "id": "oo_x4_handwriting_decline",
+      "lv": "B2",
+      "field": "sosyal",
+      "sentences": [
+        "As more writing moves to screens, many people use handwriting less and less.",
+        "Some schools now spend far less time teaching children to write by hand.",
+        "Researchers wonder whether this change will affect how well children learn to spell.",
+        "The blue whale is the largest animal that has ever lived.",
+        "Others point out that typing is simply the skill most jobs now require."
+      ],
+      "ans": 3,
+      "tr": "Paragraf el yazısının azalmasını tartışır; mavi balinanın en büyük hayvan olduğunu söyleyen cümle konu dışıdır.",
+      "en": "The paragraph discusses the decline of handwriting; the sentence about the blue whale is off-topic."
+    },
+    {
+      "id": "oo_x4_desalination",
+      "lv": "C1",
+      "field": "fen",
+      "sentences": [
+        "In dry coastal regions, some countries now turn seawater into drinking water.",
+        "The process removes the salt, leaving water that is safe to use.",
+        "Although it can supply cities that have no rivers, it uses a great deal of energy.",
+        "Engineers are searching for cheaper ways to carry out this difficult task.",
+        "The festival attracts thousands of music lovers every summer."
+      ],
+      "ans": 4,
+      "tr": "Paragraf deniz suyunun arıtılmasını anlatır; festivalin müzikseverleri çektiğini söyleyen cümle alakasızdır.",
+      "en": "The paragraph is about desalination; the sentence about the music festival is unrelated."
+    },
+    {
+      "id": "oo_x4_memory_palace",
+      "lv": "C1",
+      "field": "saglik",
+      "sentences": [
+        "The bakery on the corner opens at six every morning.",
+        "For thousands of years, people have used clever tricks to remember long lists.",
+        "One ancient method asks you to imagine placing each item in a familiar room.",
+        "To recall the list, you simply walk through the room in your mind.",
+        "Competitors in memory contests still rely on this surprisingly powerful technique."
+      ],
+      "ans": 0,
+      "tr": "Paragraf hafıza tekniklerini anlatır; köşedeki fırının altıda açıldığını söyleyen cümle konu dışıdır.",
+      "en": "The paragraph is about memory techniques; the sentence about the bakery's opening time is off-topic."
+    },
+    {
+      "id": "oo_x4_renewable_jobs",
+      "lv": "B2",
+      "field": "fen",
+      "sentences": [
+        "As countries build more wind and solar farms, new kinds of jobs are appearing.",
+        "Spiders have eight legs and most of them spin webs.",
+        "Workers are needed to install panels, maintain turbines, and manage the power they produce.",
+        "Many of these roles are in regions that once depended on coal.",
+        "For some communities, the shift to clean energy has brought welcome employment."
+      ],
+      "ans": 1,
+      "tr": "Paragraf yenilenebilir enerjinin yeni iş alanlarını anlatır; örümceklerin sekiz bacağını anlatan cümle alakasızdır.",
+      "en": "The paragraph is about new jobs in renewable energy; the sentence about spiders is unrelated."
+    },
+    {
+      "id": "oo_x4_coral_nurseries",
+      "lv": "C1",
+      "field": "fen",
+      "sentences": [
+        "To help damaged reefs, scientists have begun growing coral in underwater nurseries.",
+        "Small fragments are attached to frames where they can grow in safety.",
+        "The ancient library held thousands of handwritten scrolls.",
+        "Once they are large enough, divers move them onto the damaged reef.",
+        "Although slow, this patient work is giving some reefs a second chance."
+      ],
+      "ans": 2,
+      "tr": "Paragraf mercan fidanlıklarını anlatır; eski kütüphanenin el yazması tomarları olduğunu söyleyen cümle konu dışıdır.",
+      "en": "The paragraph is about coral nurseries; the sentence about the ancient library's scrolls is off-topic."
+    },
+    {
+      "id": "oo_x4_food_waste",
+      "lv": "B2",
+      "field": "sosyal",
+      "sentences": [
+        "A surprising amount of the food produced in the world is never eaten.",
+        "Some is lost on farms, while much is thrown away in shops and homes.",
+        "Wasting food also wastes the water and energy used to grow it.",
+        "Lightning is hotter than the surface of the sun.",
+        "Reducing this waste could feed many people and protect the environment."
+      ],
+      "ans": 3,
+      "tr": "Paragraf gıda israfını anlatır; yıldırımın güneş yüzeyinden sıcak olduğunu söyleyen cümle alakasızdır.",
+      "en": "The paragraph is about food waste; the sentence about lightning's temperature is off-topic."
+    },
+    {
+      "id": "oo_x4_dolphin_intelligence",
+      "lv": "C1",
+      "field": "fen",
+      "sentences": [
+        "Dolphins are among the most intelligent animals in the ocean.",
+        "They use a system of clicks and whistles to communicate with one another.",
+        "Some appear to call each other by signals that work rather like names.",
+        "Scientists are still trying to understand how complex this communication really is.",
+        "The bridge took almost ten years to complete."
+      ],
+      "ans": 4,
+      "tr": "Paragraf yunusların zekâsını ve iletişimini anlatır; köprünün on yılda tamamlandığını söyleyen cümle konu dışıdır.",
+      "en": "The paragraph is about dolphin intelligence and communication; the sentence about the bridge is off-topic."
     }
   ],
   "dialogue": [
@@ -43369,6 +45079,445 @@
       "ans": 3,
       "tr": "A testler iyi olsa da hastanın ilacın işe yaramadığını söylediğini belirtir; sonra 'reçeteye uyup uymadığını soracağım' der. B önce uyumu kontrol etmeyi önererek bunu hazırlar.",
       "en": "A notes the patient says the tablets fail though tests are fine, then decides to check adherence. B fits by proposing to check how regularly she takes them first."
+    },
+    {
+      "id": "dlg_x4_grant_review",
+      "lv": "C1",
+      "field": "fen",
+      "lines": [
+        {
+          "sp": "A",
+          "t": "The reviewers liked our method but said the sample was too small to prove anything."
+        },
+        {
+          "sp": "B",
+          "t": "____"
+        },
+        {
+          "sp": "A",
+          "t": "You're right. If we run the study again with more participants, the results will carry far more weight."
+        }
+      ],
+      "blankIndex": 1,
+      "opts": [
+        "So perhaps the answer is to repeat the work on a larger group before we draw conclusions.",
+        "Then there's nothing we can do but give up the project.",
+        "That means our method must have been completely wrong.",
+        "I suppose the reviewers simply didn't read the proposal."
+      ],
+      "ans": 0,
+      "tr": "A küçük örneklem eleştirisini aktarır; sonra 'daha çok katılımcıyla tekrar' fikrini onaylar. Doğru replik, sonuca varmadan çalışmayı daha büyük grupta tekrarlamayı önererek bu akışı hazırlar.",
+      "en": "A reports the small-sample criticism, then agrees to repeat with more participants; the correct line proposes exactly that, fitting the flow."
+    },
+    {
+      "id": "dlg_x4_clinic_followup",
+      "lv": "B2",
+      "field": "saglik",
+      "lines": [
+        {
+          "sp": "A",
+          "t": "The patient says the new diet hasn't lowered her blood pressure at all."
+        },
+        {
+          "sp": "B",
+          "t": "____"
+        },
+        {
+          "sp": "A",
+          "t": "Good point. I'll check how closely she's actually been following it before we change the plan."
+        }
+      ],
+      "blankIndex": 1,
+      "opts": [
+        "Then the diet clearly doesn't work and we should stop it.",
+        "Before we conclude that, it might be worth finding out how strictly she's keeping to it.",
+        "Her blood pressure must be impossible to treat.",
+        "We should double her medication immediately."
+      ],
+      "ans": 1,
+      "tr": "A diyetin tansiyonu düşürmediğini söyler; sonra 'ne kadar uyduğunu kontrol edeceğim' der. Doğru replik, sonuca varmadan uyumu kontrol etmeyi önererek bunu hazırlar.",
+      "en": "A says the diet hasn't helped, then decides to check adherence; the correct line proposes checking how strictly she follows it."
+    },
+    {
+      "id": "dlg_x4_city_planning",
+      "lv": "B2",
+      "field": "sosyal",
+      "lines": [
+        {
+          "sp": "A",
+          "t": "Residents keep complaining about traffic, even though we've widened two of the main roads."
+        },
+        {
+          "sp": "B",
+          "t": "____"
+        },
+        {
+          "sp": "A",
+          "t": "That hadn't occurred to me. Maybe bigger roads just encourage more people to drive."
+        }
+      ],
+      "blankIndex": 1,
+      "opts": [
+        "Then we should widen every road in the city as fast as possible.",
+        "It clearly means the residents are exaggerating.",
+        "Perhaps wider roads are part of the problem, not the solution.",
+        "Traffic has nothing to do with the width of roads."
+      ],
+      "ans": 2,
+      "tr": "A yolları genişletmesine rağmen şikâyetlerden yakınır; sonra 'büyük yollar daha çok araç çekebilir' der. Doğru replik, geniş yolların sorunun parçası olabileceğini söyleyerek bunu hazırlar.",
+      "en": "A complains despite widening roads, then realises bigger roads invite more cars; the correct line suggests wider roads are part of the problem."
+    },
+    {
+      "id": "dlg_x4_library_research",
+      "lv": "B2",
+      "field": "sosyal",
+      "lines": [
+        {
+          "sp": "A",
+          "t": "I found a great website for my history project, so I'm just going to use that."
+        },
+        {
+          "sp": "B",
+          "t": "Be careful — anyone can put information online, true or not."
+        },
+        {
+          "sp": "A",
+          "t": "____"
+        },
+        {
+          "sp": "B",
+          "t": "Exactly. If two or three reliable sources agree, you can trust the fact much more."
+        }
+      ],
+      "blankIndex": 2,
+      "opts": [
+        "So you think one website is always enough for a project.",
+        "Then I shouldn't use the internet for research at all.",
+        "That means all websites are completely accurate.",
+        "I see — so I should check the same facts in other sources too."
+      ],
+      "ans": 3,
+      "tr": "B internetteki bilginin doğru olmayabileceğini söyler; sonra 'birkaç güvenilir kaynak aynı şeyi söylerse güvenebilirsin' der. Doğru replik, aynı bilgiyi başka kaynaklarda doğrulamayı önererek bunu hazırlar.",
+      "en": "B warns online info may be false, then says agreement of several sources builds trust; the correct line proposes cross-checking in other sources."
+    },
+    {
+      "id": "dlg_x4_lab_safety",
+      "lv": "B2",
+      "field": "fen",
+      "lines": [
+        {
+          "sp": "A",
+          "t": "Do I really need to wear goggles? I'm only mixing two harmless liquids."
+        },
+        {
+          "sp": "B",
+          "t": "____"
+        },
+        {
+          "sp": "A",
+          "t": "Fair enough. I suppose it's better to be safe even when nothing seems dangerous."
+        }
+      ],
+      "blankIndex": 1,
+      "opts": [
+        "Even safe-looking reactions can splash, so it's wise to protect your eyes anyway.",
+        "No, goggles are a waste of time in this lab.",
+        "You should never wear goggles when mixing liquids.",
+        "Goggles only matter when you work with fire."
+      ],
+      "ans": 0,
+      "tr": "A gözlüğe gerek olmadığını ima eder; sonra 'tehlikesiz görünse de güvende olmak iyi' der. Doğru replik, güvenli görünen tepkimelerin bile sıçrayabileceğini söyleyerek bunu hazırlar.",
+      "en": "A doubts the need for goggles, then agrees safety is wise; the correct line notes even safe-looking reactions can splash."
+    },
+    {
+      "id": "dlg_x4_startup_pitch",
+      "lv": "C1",
+      "field": "sosyal",
+      "lines": [
+        {
+          "sp": "A",
+          "t": "Investors love the idea, but they keep asking how we'll actually make money."
+        },
+        {
+          "sp": "B",
+          "t": "____"
+        },
+        {
+          "sp": "A",
+          "t": "You're right. A brilliant product is no use if we can't explain how it pays for itself."
+        }
+      ],
+      "blankIndex": 1,
+      "opts": [
+        "Then we should stop talking to investors altogether.",
+        "Maybe the problem is that we've described the product but not a clear plan for revenue.",
+        "It means the idea itself must be worthless.",
+        "Investors never care about how a company earns money."
+      ],
+      "ans": 1,
+      "tr": "A yatırımcıların 'nasıl para kazanacaksınız' sorusunu aktarır; sonra 'ürün harika olsa da kendini nasıl ödediğini anlatmalıyız' der. Doğru replik, net gelir planının eksik olduğunu söyleyerek bunu hazırlar.",
+      "en": "A reports investors asking about revenue, then admits a great product needs a clear way to pay for itself; the correct line points to a missing revenue plan."
+    },
+    {
+      "id": "dlg_x4_diet_advice2",
+      "lv": "B2",
+      "field": "saglik",
+      "lines": [
+        {
+          "sp": "A",
+          "t": "I've started skipping breakfast completely to lose weight faster."
+        },
+        {
+          "sp": "B",
+          "t": "____"
+        },
+        {
+          "sp": "A",
+          "t": "Oh, I didn't know that. So eating something in the morning might actually help?"
+        }
+      ],
+      "blankIndex": 1,
+      "opts": [
+        "Good idea; the body never needs food in the morning.",
+        "You should skip lunch and dinner too, then.",
+        "Be careful — for many people, skipping breakfast just leads to overeating later.",
+        "Breakfast has no effect on weight at all."
+      ],
+      "ans": 2,
+      "tr": "A kahvaltıyı atladığını söyler; sonra 'sabah bir şey yemek aslında işe yarar mı?' diye sorar. Doğru replik, kahvaltıyı atlamanın ileride aşırı yemeye yol açabileceğini söyleyerek bunu hazırlar.",
+      "en": "A says they skip breakfast, then asks if eating in the morning helps; the correct line notes skipping breakfast often leads to later overeating."
+    },
+    {
+      "id": "dlg_x4_museum_tour",
+      "lv": "B2",
+      "field": "sosyal",
+      "lines": [
+        {
+          "sp": "A",
+          "t": "This vase has almost no decoration. The plain ones must be the least valuable."
+        },
+        {
+          "sp": "B",
+          "t": "____"
+        },
+        {
+          "sp": "A",
+          "t": "Really? So a simple shape can tell historians more than a fancy one?"
+        }
+      ],
+      "blankIndex": 1,
+      "opts": [
+        "Yes, only decorated objects are worth studying.",
+        "That's true; plain vases are always worthless.",
+        "Historians ignore anything without decoration.",
+        "Actually, plain everyday objects often tell us most about how ordinary people lived."
+      ],
+      "ans": 3,
+      "tr": "A süssüz vazoyu değersiz sanır; sonra 'basit şekil daha çok şey anlatabilir mi?' der. Doğru replik, sade gündelik nesnelerin sıradan yaşamı en iyi anlattığını söyleyerek bunu hazırlar.",
+      "en": "A assumes plain vases are worthless, then asks if a simple shape reveals more; the correct line notes plain everyday objects often reveal most about ordinary life."
+    },
+    {
+      "id": "dlg_x4_software_bug",
+      "lv": "B2",
+      "field": "fen",
+      "lines": [
+        {
+          "sp": "A",
+          "t": "The app crashes only on some phones, so I think it's just those users' fault."
+        },
+        {
+          "sp": "B",
+          "t": "____"
+        },
+        {
+          "sp": "A",
+          "t": "You may be right. If it happens on a whole brand of phone, the problem is probably ours."
+        }
+      ],
+      "blankIndex": 1,
+      "opts": [
+        "I'd be careful — if it always fails on one type of phone, that points to our code, not the users.",
+        "Yes, it's definitely the users who are doing something wrong.",
+        "Then we should ignore those users completely.",
+        "Crashes never tell us anything about the software."
+      ],
+      "ans": 0,
+      "tr": "A çökmeleri kullanıcılara yükler; sonra 'tüm bir marka telefonda oluyorsa sorun bizde' der. Doğru replik, belirli bir telefon türünde sürekli çökmenin kodu işaret ettiğini söyleyerek bunu hazırlar.",
+      "en": "A blames users, then concedes a whole phone brand failing points to their code; the correct line makes that very point."
+    },
+    {
+      "id": "dlg_x4_energy_bill",
+      "lv": "B2",
+      "field": "fen",
+      "lines": [
+        {
+          "sp": "A",
+          "t": "My electricity bill doubled this winter, but I haven't bought any new devices."
+        },
+        {
+          "sp": "B",
+          "t": "____"
+        },
+        {
+          "sp": "A",
+          "t": "That makes sense. The heater has been on almost all day during the cold spell."
+        }
+      ],
+      "blankIndex": 1,
+      "opts": [
+        "Then the electricity company must be cheating you.",
+        "Heating usually uses far more power than gadgets, so the cold weather could explain it.",
+        "New devices are the only thing that raises a bill.",
+        "Your bill has nothing to do with the weather."
+      ],
+      "ans": 1,
+      "tr": "A faturanın iki katına çıktığını ama yeni cihaz almadığını söyler; sonra 'soğukta ısıtıcı sürekli açıktı' der. Doğru replik, ısıtmanın cihazlardan çok güç çektiğini söyleyerek bunu hazırlar.",
+      "en": "A is puzzled by a doubled bill with no new devices, then notes the heater ran all day; the correct line explains heating uses far more power than gadgets."
+    },
+    {
+      "id": "dlg_x4_thesis_topic",
+      "lv": "B2",
+      "field": "sosyal",
+      "lines": [
+        {
+          "sp": "A",
+          "t": "My thesis question covers the entire history of European trade. There's just so much to read."
+        },
+        {
+          "sp": "B",
+          "t": "____"
+        },
+        {
+          "sp": "A",
+          "t": "You're probably right. Focusing on one port over fifty years would be much more manageable."
+        }
+      ],
+      "blankIndex": 1,
+      "opts": [
+        "Then you should add even more centuries to be safe.",
+        "It means you shouldn't write a thesis at all.",
+        "Perhaps the topic is simply too broad to handle in a single thesis.",
+        "A narrow topic is always a bad idea."
+      ],
+      "ans": 2,
+      "tr": "A tezinin tüm Avrupa ticaretini kapsadığını, çok okuma olduğunu söyler; sonra 'tek liman, elli yıl daha yönetilebilir' der. Doğru replik, konunun fazla geniş olduğunu söyleyerek bunu hazırlar.",
+      "en": "A says the thesis covers all European trade, too much to read, then agrees to narrow it; the correct line notes the topic is too broad."
+    },
+    {
+      "id": "dlg_x4_pharmacy",
+      "lv": "B2",
+      "field": "saglik",
+      "lines": [
+        {
+          "sp": "A",
+          "t": "The label says take this medicine with food, but I always forget and take it on an empty stomach."
+        },
+        {
+          "sp": "B",
+          "t": "____"
+        },
+        {
+          "sp": "A",
+          "t": "I see. So eating first isn't just a suggestion; it actually protects my stomach."
+        }
+      ],
+      "blankIndex": 1,
+      "opts": [
+        "It doesn't matter at all when you take it.",
+        "You should never eat before taking medicine.",
+        "Labels are usually wrong, so just ignore them.",
+        "That instruction is there for a reason — food can stop the medicine upsetting your stomach."
+      ],
+      "ans": 3,
+      "tr": "A ilacı aç karnına aldığını söyler; sonra 'önce yemek midemi koruyor' der. Doğru replik, talimatın boşuna olmadığını, yemeğin mideyi koruduğunu söyleyerek bunu hazırlar.",
+      "en": "A admits taking the medicine on an empty stomach, then realises eating protects the stomach; the correct line explains the instruction exists for that reason."
+    },
+    {
+      "id": "dlg_x4_translation_app",
+      "lv": "B2",
+      "field": "fen",
+      "lines": [
+        {
+          "sp": "A",
+          "t": "This translation app is amazing. I'll just use it for the whole business contract."
+        },
+        {
+          "sp": "B",
+          "t": "____"
+        },
+        {
+          "sp": "A",
+          "t": "Good point. For something legal, one wrong word could cause real trouble."
+        }
+      ],
+      "blankIndex": 1,
+      "opts": [
+        "I'd be careful — these apps still make subtle mistakes that matter a lot in a contract.",
+        "Yes, the app is perfect for legal documents.",
+        "Then you never need a human translator again.",
+        "Legal documents are the easiest thing to translate."
+      ],
+      "ans": 0,
+      "tr": "A çeviri uygulamasını sözleşme için kullanmak ister; sonra 'hukuki metinde tek yanlış kelime sorun olur' der. Doğru replik, uygulamaların sözleşmede önemli ince hatalar yaptığını söyleyerek bunu hazırlar.",
+      "en": "A wants to use the app for a contract, then notes one wrong legal word is risky; the correct line warns apps still make subtle, costly mistakes."
+    },
+    {
+      "id": "dlg_x4_volunteer_signup",
+      "lv": "B2",
+      "field": "saglik",
+      "lines": [
+        {
+          "sp": "A",
+          "t": "I signed up for five different volunteer groups, but I never seem to actually help any of them."
+        },
+        {
+          "sp": "B",
+          "t": "____"
+        },
+        {
+          "sp": "A",
+          "t": "You're right. I should probably commit to just one and give it my full attention."
+        }
+      ],
+      "blankIndex": 1,
+      "opts": [
+        "Then you should join several more groups at once.",
+        "Maybe you've simply taken on too many to give any of them real time.",
+        "It means volunteering is a waste of effort.",
+        "Helping one group is exactly the same as helping five."
+      ],
+      "ans": 1,
+      "tr": "A beş gruba yazılıp hiçbirine yardım edemediğini söyler; sonra 'birine tam odaklanmalıyım' der. Doğru replik, aynı anda çok fazlasını üstlendiğini söyleyerek bunu hazırlar.",
+      "en": "A joined five groups but helps none, then decides to focus on one; the correct line notes they took on too many."
+    },
+    {
+      "id": "dlg_x4_field_dig",
+      "lv": "B2",
+      "field": "sosyal",
+      "lines": [
+        {
+          "sp": "A",
+          "t": "We've dug all week and found only broken pottery, not a single coin or jewel."
+        },
+        {
+          "sp": "B",
+          "t": "____"
+        },
+        {
+          "sp": "A",
+          "t": "When you put it that way, those broken pots probably tell us more about daily life than treasure would."
+        }
+      ],
+      "blankIndex": 1,
+      "opts": [
+        "I agree; without treasure the whole dig was pointless.",
+        "Then we should stop digging this site at once.",
+        "I wouldn't be disappointed — everyday objects often reveal far more about how people actually lived.",
+        "Only gold is ever worth finding in archaeology."
+      ],
+      "ans": 2,
+      "tr": "A sadece kırık çömlek bulduklarını söyler; sonra 'kırık çömlekler günlük yaşamı hazineden iyi anlatır' der. Doğru replik, gündelik nesnelerin yaşamı daha iyi anlattığını söyleyerek bunu hazırlar.",
+      "en": "A laments finding only broken pottery, then admits it reveals daily life better than treasure; the correct line stresses the value of everyday objects."
     }
   ],
   "paracomp": [
@@ -43596,6 +45745,306 @@
       "ans": 2,
       "tr": "Boşluktan sonra 'destekçiler ... eleştirenler ...' tartışması gelir; doğru cevap bu uygulamanın saygılı olup olmadığına dair canlı bir tartışma başlattığını söyleyerek iki görüşü hazırlar.",
       "en": "After the gap come supporters vs. critics; the correct option sets up both sides by noting the practice sparked a lively debate over whether it is respectful."
+    },
+    {
+      "id": "pc_x4_black_death",
+      "lv": "C1",
+      "field": "sosyal",
+      "text": "The plague that swept through Europe in the fourteenth century killed a vast share of the population in just a few years. ---- With so few workers left alive, those who survived could suddenly demand higher wages, and the rigid social order that had bound peasants to the land began to loosen.",
+      "opts": [
+        "Yet its consequences were not limited to the terrible loss of life.",
+        "The disease had almost no effect on the way society was organised.",
+        "Most doctors of the time fully understood how the plague spread.",
+        "Trade between European cities continued exactly as before."
+      ],
+      "ans": 0,
+      "tr": "Boşluktan sonra 'işçi azalınca ücretler arttı, toplumsal düzen gevşedi' geliyor. Doğru cevap, sonuçların yalnızca ölümle sınırlı olmadığını söyleyerek bu toplumsal sonucu hazırlar.",
+      "en": "After the gap come social consequences (higher wages, loosening order); the correct option says the effects went beyond loss of life, setting that up."
+    },
+    {
+      "id": "pc_x4_antarctic_ice",
+      "lv": "C1",
+      "field": "fen",
+      "text": "The ice sheet covering Antarctica is so vast that it holds most of the world's fresh water. ---- For this reason, even a small acceleration in its melting could raise sea levels enough to threaten coastal cities thousands of kilometres away.",
+      "opts": [
+        "The continent is mostly covered in tropical forest.",
+        "Locked within it is enough water to change the height of every ocean on Earth.",
+        "Very few scientists have any interest in studying it.",
+        "The ice has remained completely unchanged for centuries."
+      ],
+      "ans": 1,
+      "tr": "Boşluktan sonra 'küçük bir erime hızlanması deniz seviyelerini yükseltebilir' geliyor. Doğru cevap, içinde okyanusları değiştirecek kadar su olduğunu söyleyerek bunu hazırlar.",
+      "en": "After the gap: small melting could raise sea levels; the correct option notes it holds enough water to alter every ocean."
+    },
+    {
+      "id": "pc_x4_sleep_immune",
+      "lv": "B2",
+      "field": "saglik",
+      "text": "Most people think of sleep simply as a way to feel less tired. ---- During the night, for example, the body produces substances that help it fight infection, which is one reason that people who sleep too little tend to catch more colds.",
+      "opts": [
+        "Sleep has no connection to the immune system at all.",
+        "Tiredness is the only effect of missing a night's sleep.",
+        "In fact, sleep does far more than restore our energy.",
+        "The body shuts down completely while we sleep."
+      ],
+      "ans": 2,
+      "tr": "Boşluktan sonra 'vücut enfeksiyonla savaşan maddeler üretir' örneği geliyor. Doğru cevap, uykunun enerjiyi yenilemekten fazlasını yaptığını söyleyerek bunu hazırlar.",
+      "en": "After the gap comes an immune example; the correct option states sleep does far more than restore energy."
+    },
+    {
+      "id": "pc_x4_universal_basic_income",
+      "lv": "C1",
+      "field": "sosyal",
+      "text": "The idea of paying every citizen a fixed sum of money, regardless of whether they work, has gained attention in recent years. ---- Critics, however, worry that such payments would be enormously expensive and might discourage some people from working at all.",
+      "opts": [
+        "Nobody has ever taken this idea seriously.",
+        "Such payments would cost the government almost nothing.",
+        "Everyone agrees that the scheme would be a disaster.",
+        "Supporters argue that it would give people security and the freedom to take risks."
+      ],
+      "ans": 3,
+      "tr": "Boşluktan sonra 'eleştirmenler maliyetli ve çalışmayı caydırıcı bulur' (however) geliyor. Doğru cevap, destekçilerin güvenlik ve risk alma özgürlüğü görüşünü vererek karşıtlığı hazırlar.",
+      "en": "After the gap critics object ('however'); the correct option gives supporters' view of security and freedom, setting up the contrast."
+    },
+    {
+      "id": "pc_x4_photosynthesis_origin",
+      "lv": "C1",
+      "field": "fen",
+      "text": "Billions of years ago, the air on Earth contained almost no oxygen. ---- As these tiny organisms spread across the oceans, they slowly filled the atmosphere with the oxygen on which most life, including our own, now depends.",
+      "opts": [
+        "The first life able to use sunlight to make food changed everything.",
+        "Oxygen has always been present in exactly the same amount.",
+        "No living thing has ever affected the atmosphere.",
+        "The oceans were completely empty of life."
+      ],
+      "ans": 0,
+      "tr": "Boşluktan sonra 'bu canlılar yayıldıkça atmosferi oksijenle doldurdu' geliyor. Doğru cevap, güneş ışığıyla besin yapan ilk yaşamın her şeyi değiştirdiğini söyleyerek bunu hazırlar.",
+      "en": "After the gap: these organisms filled the air with oxygen; the correct option introduces the first photosynthetic life that changed everything."
+    },
+    {
+      "id": "pc_x4_printing_reformation",
+      "lv": "C1",
+      "field": "sosyal",
+      "text": "Before the printing press, books had to be copied slowly by hand, and ideas spread no faster than a person could travel. ---- Within decades of its invention, the same text could be produced in thousands of copies, allowing new and sometimes dangerous ideas to reach a vast audience almost overnight.",
+      "opts": [
+        "The press made the copying of books even slower than before.",
+        "The new machine transformed the speed at which knowledge could move.",
+        "Few people ever noticed that the press existed.",
+        "Books remained as rare and expensive as they had always been."
+      ],
+      "ans": 1,
+      "tr": "Boşluktan sonra 'aynı metin binlerce kopya basılabildi, fikirler geniş kitleye ulaştı' geliyor. Doğru cevap, makinenin bilginin yayılma hızını dönüştürdüğünü söyleyerek bunu hazırlar.",
+      "en": "After the gap: thousands of copies reached a vast audience; the correct option says the press transformed how fast knowledge could move."
+    },
+    {
+      "id": "pc_x4_placebo_ethics",
+      "lv": "C1",
+      "field": "saglik",
+      "text": "Doctors have long known that a harmless sugar pill can sometimes make patients feel better. ---- This raises a difficult question: is it acceptable to give someone a treatment that has no active ingredient, even if it might genuinely help them?",
+      "opts": [
+        "The effect disappears the moment a patient is told the pill is fake.",
+        "Such pills work only because patients are clever enough to see through them.",
+        "The puzzle is that this improvement happens even though the pill does nothing chemically.",
+        "Sugar pills are known to cure every illness completely."
+      ],
+      "ans": 2,
+      "tr": "Boşluktan sonra 'etkin maddesi olmayan tedavi vermek etik mi?' sorusu geliyor. Doğru cevap, hapın kimyasal olarak hiçbir şey yapmamasına rağmen iyileşme olduğunu söyleyerek bu ikilemi hazırlar.",
+      "en": "After the gap comes an ethical question about inert treatment; the correct option notes the improvement happens though the pill does nothing chemically."
+    },
+    {
+      "id": "pc_x4_ocean_currents",
+      "lv": "C1",
+      "field": "fen",
+      "text": "The world's oceans are not still; great rivers of water move constantly through them, carrying warmth from the equator towards the poles. ---- Without this steady flow of heat, many regions that are now mild would be far colder, and the climate of whole continents would be transformed.",
+      "opts": [
+        "These currents have no effect on temperature anywhere.",
+        "The oceans are completely motionless from top to bottom.",
+        "Heat is unable to travel through water of any kind.",
+        "One of these currents keeps much of north-western Europe surprisingly warm."
+      ],
+      "ans": 3,
+      "tr": "Boşluktan sonra 'bu ısı akışı olmasa birçok ılıman bölge çok daha soğuk olurdu' geliyor. Doğru cevap, bir akıntının Kuzeybatı Avrupa'yı ılık tuttuğunu söyleyerek bu örneği hazırlar.",
+      "en": "After the gap: without this heat flow mild regions would be colder; the correct option gives the example of a current warming north-western Europe."
+    },
+    {
+      "id": "pc_x4_gig_workers",
+      "lv": "B2",
+      "field": "sosyal",
+      "text": "Many people now earn money through apps that offer short, flexible jobs such as delivering food or driving passengers. ---- On the other hand, these workers often have no guaranteed hours, no paid holidays, and little protection if they suddenly lose the work.",
+      "opts": [
+        "Such work offers the freedom to choose when and how much to work.",
+        "These jobs always come with full benefits and job security.",
+        "No one is interested in this kind of flexible work.",
+        "Apps have made all traditional jobs disappear."
+      ],
+      "ans": 0,
+      "tr": "Boşluktan sonra 'öte yandan güvenceli saat, ücretli izin yok' geliyor. Doğru cevap, bu işin ne zaman ve ne kadar çalışacağını seçme özgürlüğü sunduğunu söyleyerek karşıtlığı hazırlar.",
+      "en": "After the gap come the downsides ('on the other hand'); the correct option states the freedom such work offers, setting up the contrast."
+    },
+    {
+      "id": "pc_x4_vaccine_herd",
+      "lv": "C1",
+      "field": "saglik",
+      "text": "A vaccine protects the person who receives it, but its benefits do not stop there. ---- When a large enough share of a community is immune, a disease struggles to spread at all, which shields even those who cannot be vaccinated, such as newborn babies.",
+      "opts": [
+        "A vaccine can only ever help the single person who takes it.",
+        "The wider effect appears once most of a population is protected.",
+        "Diseases spread fastest when almost everyone is immune.",
+        "Newborn babies are the only people a vaccine protects."
+      ],
+      "ans": 1,
+      "tr": "Boşluktan sonra 'yeterli kişi bağışıksa hastalık yayılamaz, aşılanamayanlar da korunur' geliyor. Doğru cevap, çoğunluk korunduğunda geniş etkinin ortaya çıktığını söyleyerek sürü bağışıklığını hazırlar.",
+      "en": "After the gap: herd immunity shields the unvaccinated; the correct option notes the wider effect appears once most are protected."
+    },
+    {
+      "id": "pc_x4_megacity_growth",
+      "lv": "B2",
+      "field": "sosyal",
+      "text": "Every week, hundreds of thousands of people around the world leave the countryside and move into cities. ---- This rapid growth can overwhelm housing, transport, and water supplies, forcing city governments to build and plan faster than ever before.",
+      "opts": [
+        "City populations have stayed exactly the same for decades.",
+        "People are actually leaving cities for the countryside.",
+        "As a result, cities are growing at a speed never seen in history.",
+        "Cities never face any problems as they grow."
+      ],
+      "ans": 2,
+      "tr": "Boşluktan sonra 'bu hızlı büyüme konut, ulaşım ve suyu zorluyor' geliyor. Doğru cevap, şehirlerin tarihte görülmemiş hızda büyüdüğünü söyleyerek bunu hazırlar.",
+      "en": "After the gap: rapid growth strains housing and water; the correct option notes cities are growing at an unprecedented speed."
+    },
+    {
+      "id": "pc_x4_antibiotic_discovery",
+      "lv": "C1",
+      "field": "saglik",
+      "text": "The discovery of the first antibiotic is often told as a story of luck, when a scientist noticed that mould had killed the bacteria on a forgotten dish. ---- Turning that chance observation into a usable medicine, however, took many more years of patient and difficult laboratory work by a large team of researchers.",
+      "opts": [
+        "The medicine was ready for patients on the very same day.",
+        "No further work was ever needed after that moment.",
+        "The mould had no effect on the bacteria at all.",
+        "Yet luck alone was only the beginning of the story."
+      ],
+      "ans": 3,
+      "tr": "Boşluktan sonra 'ama bunu ilaca dönüştürmek yıllarca laboratuvar çalışması gerektirdi' geliyor. Doğru cevap, şansın yalnızca başlangıç olduğunu söyleyerek bunu hazırlar.",
+      "en": "After the gap: turning it into medicine took years of work; the correct option notes luck was only the beginning."
+    },
+    {
+      "id": "pc_x4_dark_sky",
+      "lv": "B2",
+      "field": "fen",
+      "text": "In and around big cities, the glow of street lights makes it almost impossible to see more than a few stars. ---- Some communities have started switching to lamps that point their light downwards, so that people can once again enjoy a sky full of stars at night.",
+      "opts": [
+        "This loss of the night sky is now being taken seriously.",
+        "Bright city lights actually make the stars easier to see.",
+        "No one cares whether the stars are visible or not.",
+        "Street lights have no effect on the night sky."
+      ],
+      "ans": 0,
+      "tr": "Boşluktan sonra 'bazı topluluklar ışığı aşağı yönlendiren lambalara geçti' geliyor. Doğru cevap, gece gökyüzünün kaybının ciddiye alınmaya başladığını söyleyerek bunu hazırlar.",
+      "en": "After the gap: communities adopt downward lamps; the correct option states the loss of the night sky is now being taken seriously."
+    },
+    {
+      "id": "pc_x4_silk_road_ideas",
+      "lv": "C1",
+      "field": "sosyal",
+      "text": "The long routes that linked East and West are remembered above all for the trade in silk and spices. ---- Travelling alongside the merchants, however, were religions, scientific ideas, and artistic styles, which spread between civilisations that might otherwise never have met.",
+      "opts": [
+        "Nothing but goods ever moved along these routes.",
+        "Their importance, though, lay in far more than the goods they carried.",
+        "The routes were used only once and then forgotten.",
+        "Merchants on these routes carried no goods at all."
+      ],
+      "ans": 1,
+      "tr": "Boşluktan sonra 'tüccarların yanında din, bilim ve sanat da yol aldı' geliyor. Doğru cevap, önemin taşınan mallardan fazlası olduğunu söyleyerek bunu hazırlar.",
+      "en": "After the gap: religions and ideas travelled too; the correct option notes their importance lay in more than goods."
+    },
+    {
+      "id": "pc_x4_brain_plasticity2",
+      "lv": "C1",
+      "field": "saglik",
+      "text": "It was once believed that the adult brain was fixed, unable to change after childhood. ---- Research now shows that even in old age the brain can form new connections, which is why people can still learn languages or recover skills after an injury.",
+      "opts": [
+        "This belief has been proven completely correct.",
+        "The brain stops working entirely in adulthood.",
+        "This view has turned out to be largely mistaken.",
+        "Children's brains are the only ones that ever change."
+      ],
+      "ans": 2,
+      "tr": "Boşluktan sonra 'yaşlılıkta bile beyin yeni bağlantı kurabilir' geliyor. Doğru cevap, eski görüşün büyük ölçüde yanlış çıktığını söyleyerek bunu hazırlar.",
+      "en": "After the gap: the brain forms new connections even in age; the correct option says the old view turned out to be largely mistaken."
+    },
+    {
+      "id": "pc_x4_renewable_intermittent",
+      "lv": "B2",
+      "field": "fen",
+      "text": "Wind and solar power are clean and increasingly cheap, but they share one awkward problem. ---- Because the wind does not always blow and the sun does not always shine, engineers must find ways to store energy for the times when neither is available.",
+      "opts": [
+        "They produce a perfectly steady amount of power at all times.",
+        "They can only be built in places that are always dark.",
+        "They are far too expensive for anyone to use.",
+        "Their output is not always there exactly when it is needed."
+      ],
+      "ans": 3,
+      "tr": "Boşluktan sonra 'rüzgâr ve güneş sürekli olmadığından enerji depolanmalı' geliyor. Doğru cevap, üretimin tam gerektiğinde her zaman var olmadığını söyleyerek bunu hazırlar.",
+      "en": "After the gap: storage is needed because wind/sun aren't constant; the correct option notes their output isn't always there when needed."
+    },
+    {
+      "id": "pc_x4_museum_education",
+      "lv": "B2",
+      "field": "saglik",
+      "text": "For a long time, museums were quiet places where visitors simply looked at objects behind glass. ---- Today, many of them invite people to touch models, try experiments, and ask questions, in the belief that we learn far more by doing than by looking alone.",
+      "opts": [
+        "The way museums teach has changed a great deal.",
+        "Museums have refused to change in any way.",
+        "Visitors are no longer allowed inside museums.",
+        "Objects are now always hidden from the public."
+      ],
+      "ans": 0,
+      "tr": "Boşluktan sonra 'bugün dokunmaya ve deney yapmaya davet ediyorlar' geliyor. Doğru cevap, müzelerin öğretme biçiminin büyük ölçüde değiştiğini söyleyerek bunu hazırlar.",
+      "en": "After the gap: museums now invite touching and experiments; the correct option states how museums teach has changed greatly."
+    },
+    {
+      "id": "pc_x4_glacier_water",
+      "lv": "C1",
+      "field": "fen",
+      "text": "High in the mountains, glaciers act like giant frozen reservoirs, storing water in winter and releasing it slowly through the dry summer months. ---- As these glaciers shrink, the rivers they feed may run full for a while but eventually fall, threatening the water supply of the millions of people who live downstream.",
+      "opts": [
+        "Glaciers have no effect on the rivers below them.",
+        "This steady release is exactly what makes them so important.",
+        "The rivers below glaciers never carry any water.",
+        "Shrinking glaciers make rivers flow forever."
+      ],
+      "ans": 1,
+      "tr": "Boşluktan sonra 'buzullar küçüldükçe besledikleri nehirler önce dolup sonra azalır' geliyor. Doğru cevap, bu istikrarlı salımın onları çok önemli kıldığını söyleyerek bunu hazırlar.",
+      "en": "After the gap: shrinking glaciers threaten downstream water; the correct option notes this steady release is what makes them so important."
+    },
+    {
+      "id": "pc_x4_writing_systems",
+      "lv": "C1",
+      "field": "sosyal",
+      "text": "The earliest forms of writing were not created to record poetry or history. ---- Instead, they grew out of the practical need of merchants and officials to keep track of grain, taxes, and debts, and only later became a tool for literature.",
+      "opts": [
+        "They were invented purely to write down great stories.",
+        "Writing has never had anything to do with trade.",
+        "Their origins were surprisingly ordinary and commercial.",
+        "The first writers cared only about poetry."
+      ],
+      "ans": 2,
+      "tr": "Boşluktan sonra 'tüccar ve memurların tahıl, vergi, borç takibinden doğdu' geliyor. Doğru cevap, kökenlerinin sıradan ve ticari olduğunu söyleyerek bunu hazırlar.",
+      "en": "After the gap: writing arose from tracking grain and taxes; the correct option notes its origins were ordinary and commercial."
+    },
+    {
+      "id": "pc_x4_microplastics",
+      "lv": "C1",
+      "field": "fen",
+      "text": "When plastic waste reaches the ocean, it does not simply disappear. ---- Instead, sunlight and waves break it into ever smaller fragments, until tiny particles spread through the water and are swallowed by fish, eventually finding their way back onto our own plates.",
+      "opts": [
+        "The plastic dissolves harmlessly within a few hours.",
+        "Fish are completely unable to swallow any plastic.",
+        "Ocean plastic has no effect on what we eat.",
+        "Rather, it begins a long and troubling journey through the food chain."
+      ],
+      "ans": 3,
+      "tr": "Boşluktan sonra 'güneş ve dalgalar onu küçük parçalara ayırır, balıklar yutar, tabağımıza döner' geliyor. Doğru cevap, plastiğin besin zincirinde uzun ve rahatsız edici bir yolculuğa başladığını söyleyerek bunu hazırlar.",
+      "en": "After the gap: plastic fragments enter the food chain and return to our plates; the correct option says it begins a long, troubling journey through the food chain."
     }
   ],
   "translate": [
@@ -43838,6 +46287,326 @@
       "ans": 2,
       "tr": "'düşünüldüğünden çok daha gelişmiş bir teknoloji' = a far more advanced technology than had been thought; doğru çeviri bunu korur. Çeldiriciler 'daha basit' ya da 'teknoloji yok' diyerek tersine çevirir.",
       "en": "'a far more advanced technology than had been thought' is kept; distractors reverse it with 'much simpler' or 'no technology'."
+    },
+    {
+      "id": "tx_x4_ai_bias",
+      "lv": "C1",
+      "field": "fen",
+      "dir": "en2tr",
+      "source": "If the data used to train an algorithm reflects past prejudice, the system is likely to repeat that prejudice in its own decisions.",
+      "opts": [
+        "Bir algoritmayı eğitmek için kullanılan veriler geçmişteki ön yargıyı yansıtıyorsa, sistemin bu ön yargıyı kendi kararlarında tekrarlaması olasıdır.",
+        "Bir algoritma ön yargısız veriyle eğitilirse mutlaka adil kararlar verir.",
+        "Algoritmalar geçmiş ön yargıdan tamamen bağımsızdır.",
+        "Veriler ne olursa olsun algoritmalar her zaman tarafsız kalır."
+      ],
+      "ans": 0,
+      "tr": "'If the data ... reflects past prejudice, the system is likely to repeat that' = veri ön yargı yansıtıyorsa sistem onu tekrarlar; doğru çeviri koşul-sonucu korur. Çeldiriciler tarafsızlık iddia eder.",
+      "en": "'if the data reflects prejudice, the system repeats it' is kept; distractors claim neutrality."
+    },
+    {
+      "id": "tx_x4_renaissance",
+      "lv": "C1",
+      "field": "sosyal",
+      "dir": "en2tr",
+      "source": "The remarkable art of the period would have been impossible without the wealthy families who paid for it.",
+      "opts": [
+        "Dönemin sanatı, varlıklı ailelerin desteğine hiçbir zaman ihtiyaç duymadı.",
+        "Dönemin olağanüstü sanatı, onun bedelini ödeyen varlıklı aileler olmasaydı mümkün olamazdı.",
+        "Varlıklı aileler, dönemin sanatını engellemeye çalışmıştır.",
+        "Dönemin sanatı tamamen yoksul halk tarafından finanse edilmiştir."
+      ],
+      "ans": 1,
+      "tr": "'would have been impossible without the wealthy families who paid for it' = bedeli ödeyen aileler olmasaydı imkânsızdı; doğru çeviri bu koşulu korur. Çeldiriciler hami rolünü reddeder.",
+      "en": "'impossible without the wealthy families who paid' is kept; distractors deny the patrons' role."
+    },
+    {
+      "id": "tx_x4_climate_adaptation",
+      "lv": "C1",
+      "field": "fen",
+      "dir": "en2tr",
+      "source": "Even if all countries met their climate targets, some degree of warming would still be unavoidable in the coming decades.",
+      "opts": [
+        "Ülkeler iklim hedeflerine ulaşırsa gelecekte hiç ısınma yaşanmaz.",
+        "Isınma yalnızca ülkeler hedeflerini tutturamazsa gerçekleşir.",
+        "Tüm ülkeler iklim hedeflerine ulaşsa bile, önümüzdeki on yıllarda belirli bir miktar ısınma yine de kaçınılmaz olurdu.",
+        "İklim hedefleri ısınmanın miktarıyla ilgisizdir."
+      ],
+      "ans": 2,
+      "tr": "'Even if all countries met their targets, some warming would still be unavoidable' = hedefler tutsa bile bir miktar ısınma kaçınılmaz; doğru çeviri bu ödün yapısını korur.",
+      "en": "'even if targets met, some warming unavoidable' keeps the concessive structure."
+    },
+    {
+      "id": "tx_x4_obesity_causes",
+      "lv": "B2",
+      "field": "saglik",
+      "dir": "en2tr",
+      "source": "Doctors say that obesity is rarely the result of a single cause; diet, lack of exercise, and stress all play a part.",
+      "opts": [
+        "Doktorlara göre obezitenin tek bir nedeni vardır: kötü beslenme.",
+        "Doktorlar, stresin obeziteyle hiçbir ilgisi olmadığını söyler.",
+        "Obezite yalnızca hareketsizlikten kaynaklanır.",
+        "Doktorlar, obezitenin nadiren tek bir nedenden kaynaklandığını söyler; beslenme, hareketsizlik ve stresin hepsi rol oynar."
+      ],
+      "ans": 3,
+      "tr": "'rarely the result of a single cause; diet, exercise, and stress all play a part' = tek nedenli değil, hepsi rol oynar; doğru çeviri çoklu nedeni korur. Çeldiriciler tek nedene indirger.",
+      "en": "'rarely a single cause; diet, exercise, stress all play a part' is kept; distractors reduce it to one cause."
+    },
+    {
+      "id": "tx_x4_endangered_species",
+      "lv": "B2",
+      "field": "fen",
+      "dir": "en2tr",
+      "source": "The hunting of these animals has been banned for years, yet their numbers continue to fall because their habitat is shrinking.",
+      "opts": [
+        "Bu hayvanların avlanması yıllardır yasak olmasına rağmen, yaşam alanları daraldığı için sayıları düşmeye devam ediyor.",
+        "Bu hayvanların sayısı, avlanma yasağı sayesinde hızla artmaktadır.",
+        "Yaşam alanlarının daralması bu hayvanlara zarar vermez.",
+        "Avlanma yasağı, hayvanların sayısını tamamen eski hâline getirmiştir."
+      ],
+      "ans": 0,
+      "tr": "'banned for years, yet their numbers continue to fall because their habitat is shrinking' = yasağa rağmen yaşam alanı daraldığından sayı düşer; doğru çeviri karşıtlık ve nedeni korur.",
+      "en": "'banned, yet numbers fall because habitat shrinks' keeps the contrast and cause."
+    },
+    {
+      "id": "tx_x4_central_bank",
+      "lv": "C1",
+      "field": "sosyal",
+      "dir": "en2tr",
+      "source": "By raising interest rates, the central bank hopes to slow inflation, even though doing so may also slow economic growth.",
+      "opts": [
+        "Merkez bankası, ekonomik büyümeyi hızlandırmak için faiz oranlarını düşürüyor.",
+        "Merkez bankası, faiz oranlarını artırarak enflasyonu yavaşlatmayı umuyor; ancak bunun ekonomik büyümeyi de yavaşlatabileceğinin farkında.",
+        "Faiz artışı enflasyonu yükseltmek amacıyla yapılır.",
+        "Faiz oranları ekonomik büyümeyi hiçbir biçimde etkilemez."
+      ],
+      "ans": 1,
+      "tr": "'raising rates ... to slow inflation, even though it may slow growth' = enflasyonu yavaşlatmak için faiz artırır, büyümeyi de yavaşlatabilir; doğru çeviri amaç-ödün dengesini korur.",
+      "en": "'raising rates to slow inflation, even though it may slow growth' keeps the aim-tradeoff."
+    },
+    {
+      "id": "tx_x4_digital_privacy",
+      "lv": "C1",
+      "field": "fen",
+      "dir": "en2tr",
+      "source": "The more conveniently a service tracks our preferences, the more personal information we quietly hand over to it.",
+      "opts": [
+        "Bir hizmet tercihlerimizi takip etse bile ona hiç kişisel bilgi vermeyiz.",
+        "Kişisel bilgilerimiz hizmetlerin işine yaramaz.",
+        "Bir hizmet tercihlerimizi ne kadar kolaylıkla takip ederse, ona o kadar çok kişisel bilgiyi farkında olmadan veririz.",
+        "Hizmetler ne kadar bilgi toplarsa o kadar az işe yararlar."
+      ],
+      "ans": 2,
+      "tr": "'The more conveniently ... tracks, the more information we hand over' = ne kadar kolay takip ederse o kadar bilgi veririz; doğru çeviri 'the more ... the more' kalıbını korur.",
+      "en": "'the more it tracks, the more we hand over' keeps the correlative structure."
+    },
+    {
+      "id": "tx_x4_marine_protected",
+      "lv": "B2",
+      "field": "fen",
+      "dir": "en2tr",
+      "source": "When fishing is forbidden in certain areas of the sea, fish populations there often recover quickly and spread to neighbouring waters.",
+      "opts": [
+        "Balıkçılık yasaklandığında balık sayısı her zaman azalır.",
+        "Balık popülasyonları yalnızca avlanma serbest olduğunda artar.",
+        "Korunan bölgelerdeki balıklar asla başka sulara geçmez.",
+        "Denizin belirli bölgelerinde balıkçılık yasaklandığında, oradaki balık popülasyonları çoğu zaman hızla toparlanır ve komşu sulara yayılır."
+      ],
+      "ans": 3,
+      "tr": "'fishing forbidden ... populations recover quickly and spread to neighbouring waters' = yasakla popülasyon toparlanıp yayılır; doğru çeviri neden-sonucu korur.",
+      "en": "'fishing forbidden, populations recover and spread' keeps the cause-effect."
+    },
+    {
+      "id": "tx_x4_education_access",
+      "lv": "B2",
+      "field": "sosyal",
+      "dir": "en2tr",
+      "source": "Online courses have made learning available to people who, only a generation ago, would never have had the chance to study.",
+      "opts": [
+        "Çevrimiçi kurslar, daha bir kuşak önce okuma fırsatı asla bulamayacak insanlar için öğrenmeyi erişilebilir kıldı.",
+        "Çevrimiçi kurslar yalnızca zaten üniversiteye gidenler için yararlıdır.",
+        "Bir kuşak önce herkesin okuma fırsatı vardı.",
+        "Çevrimiçi kurslar öğrenmeyi daha da zorlaştırmıştır."
+      ],
+      "ans": 0,
+      "tr": "'made learning available to people who ... would never have had the chance' = fırsatı olmayanlara öğrenmeyi açtı; doğru çeviri bu erişimi korur.",
+      "en": "'made learning available to people who would never have had the chance' keeps the access point."
+    },
+    {
+      "id": "tx_x4_sleep_debt",
+      "lv": "B2",
+      "field": "saglik",
+      "dir": "en2tr",
+      "source": "Many people believe they can catch up on lost sleep at the weekend, but research suggests this does not fully repair the damage.",
+      "opts": [
+        "Araştırmalar, hafta sonu uykusunun tüm zararı tamamen giderdiğini kanıtlamıştır.",
+        "Birçok kişi kaybettiği uykuyu hafta sonu telafi edebileceğine inanır, ama araştırmalar bunun zararı tam olarak gidermediğini gösteriyor.",
+        "Kimse uykusunu telafi edebileceğine inanmaz.",
+        "Kaybedilen uyku vücuda hiçbir zarar vermez."
+      ],
+      "ans": 1,
+      "tr": "'believe they can catch up ... but research suggests this does not fully repair the damage' = telafi edilebileceği sanılır ama araştırma tam onarmadığını gösterir; doğru çeviri karşıtlığı korur.",
+      "en": "'believe they can catch up, but research says it doesn't fully repair' keeps the contrast."
+    },
+    {
+      "id": "tx_x4_urban_green",
+      "lv": "C1",
+      "field": "fen",
+      "dir": "en2tr",
+      "source": "Planting trees along city streets does more than improve the view; it lowers temperatures, cleans the air, and lifts people's mood.",
+      "opts": [
+        "Şehir sokaklarına ağaç dikmek yalnızca manzarayı güzelleştirir.",
+        "Ağaçlar şehirde sıcaklığı yükseltir ve havayı kirletir.",
+        "Şehir sokaklarına ağaç dikmek manzarayı güzelleştirmekten fazlasını yapar; sıcaklığı düşürür, havayı temizler ve insanların ruh hâlini iyileştirir.",
+        "Sokak ağaçlarının insanların ruh hâliyle hiçbir ilgisi yoktur."
+      ],
+      "ans": 2,
+      "tr": "'does more than improve the view; it lowers temperatures, cleans the air, and lifts mood' = manzaradan fazlası; doğru çeviri üç yararı da korur. Çeldiriciler tek yarara indirger ya da ters çevirir.",
+      "en": "'does more than the view; lowers temperatures, cleans air, lifts mood' keeps all three benefits."
+    },
+    {
+      "id": "tx_x4_osym_archaeology2",
+      "lv": "C1",
+      "field": "sosyal",
+      "dir": "tr2en",
+      "source": "Kazılarda bulunan tahıl kalıntıları, bu topluluğun düşünüldüğünden çok daha önce yerleşik tarıma geçtiğini ortaya koymaktadır.",
+      "opts": [
+        "The grain remains show that this community never practised any farming.",
+        "The excavations found no grain remains belonging to this community.",
+        "This community took up farming much later than researchers had assumed.",
+        "The grain remains found during the excavations reveal that this community took up settled farming far earlier than had been thought."
+      ],
+      "ans": 3,
+      "tr": "'düşünüldüğünden çok daha önce yerleşik tarıma geçtiğini' = took up settled farming far earlier than had been thought; doğru çeviri bunu korur. 'much later' diyen çeldirici tersine çevirir.",
+      "en": "'took up settled farming far earlier than had been thought' is kept; 'much later' reverses it."
+    },
+    {
+      "id": "tx_x4_osym_research2",
+      "lv": "C1",
+      "field": "saglik",
+      "dir": "tr2en",
+      "source": "Araştırmacılar, ilacın işe yaradığını iddia etmeden önce sonuçların bağımsız ekiplerce doğrulanması gerektiğini vurgulamaktadır.",
+      "opts": [
+        "Researchers stress that the results must be confirmed by independent teams before any claim is made that the drug works.",
+        "Researchers claim the drug has already been proven to work by everyone.",
+        "Researchers argue that no confirmation of the results is necessary.",
+        "Researchers say the drug definitely does not work."
+      ],
+      "ans": 0,
+      "tr": "'iddia etmeden önce bağımsız ekiplerce doğrulanması gerektiğini vurgulamaktadır' = must be confirmed by independent teams before any claim; doğru çeviri koşulu korur.",
+      "en": "'must be confirmed by independent teams before any claim' keeps the condition."
+    },
+    {
+      "id": "tx_x4_osym_economy2",
+      "lv": "C1",
+      "field": "sosyal",
+      "dir": "tr2en",
+      "source": "Bir ülkenin uzun vadeli refahı, yalnızca doğal kaynaklarına değil, aynı zamanda eğitimli iş gücüne de bağlıdır.",
+      "opts": [
+        "A country's prosperity depends solely on its natural resources.",
+        "A country's long-term prosperity depends not only on its natural resources but also on its educated workforce.",
+        "An educated workforce has no effect on a country's prosperity.",
+        "Natural resources are the only thing that matters for prosperity."
+      ],
+      "ans": 1,
+      "tr": "'yalnızca ... değil, aynı zamanda ... de' = not only ... but also ...; doğru çeviri çift vurguyu korur. Çeldiriciler tek etkene indirger.",
+      "en": "'not only ... but also ...' keeps the double emphasis; distractors reduce it to one factor."
+    },
+    {
+      "id": "tx_x4_osym_technology2",
+      "lv": "C1",
+      "field": "fen",
+      "dir": "tr2en",
+      "source": "Otomasyon birçok rutin işi ortadan kaldırsa da, henüz hayal bile edemediğimiz yeni meslekler yaratabilir.",
+      "opts": [
+        "Automation will destroy jobs without ever creating any new ones.",
+        "The new professions created by automation are already well understood.",
+        "Although automation may eliminate many routine jobs, it could create new professions that we cannot yet even imagine.",
+        "Automation has no effect on the kinds of jobs available."
+      ],
+      "ans": 2,
+      "tr": "'kaldırsa da ... hayal bile edemediğimiz yeni meslekler yaratabilir' = although it eliminates ... it could create jobs we cannot yet imagine; doğru çeviri ödün yapısını korur.",
+      "en": "'although it eliminates jobs, it could create ones we cannot yet imagine' keeps the concessive structure."
+    },
+    {
+      "id": "tx_x4_osym_environment2",
+      "lv": "B2",
+      "field": "fen",
+      "dir": "tr2en",
+      "source": "Plastiğin denizlerde parçalanması yüzyıllar alabilir ve bu süre boyunca sayısız deniz canlısına zarar verir.",
+      "opts": [
+        "Plastic breaks down in the sea within a few days and harms nothing.",
+        "Marine creatures are not affected by plastic in any way.",
+        "Plastic disappears from the sea almost immediately.",
+        "Plastic can take centuries to break down in the sea, and during that time it harms countless marine creatures."
+      ],
+      "ans": 3,
+      "tr": "'parçalanması yüzyıllar alabilir ve bu süre boyunca zarar verir' = can take centuries to break down and harms during that time; doğru çeviri süre ve zararı korur.",
+      "en": "'can take centuries to break down and harms during that time' keeps the duration and harm."
+    },
+    {
+      "id": "tx_x4_osym_history2",
+      "lv": "C1",
+      "field": "sosyal",
+      "dir": "tr2en",
+      "source": "Matbaanın icadı, yalnızca kitapların değil, aynı zamanda yeni düşüncelerin de eskisinden çok daha hızlı yayılmasını sağladı.",
+      "opts": [
+        "The invention of printing allowed not only books but also new ideas to spread far faster than before.",
+        "The invention of printing slowed the spread of books and ideas.",
+        "Printing had no effect on how quickly ideas spread.",
+        "Only books, never ideas, were affected by printing."
+      ],
+      "ans": 0,
+      "tr": "'yalnızca kitapların değil, aynı zamanda yeni düşüncelerin de ... çok daha hızlı yayılmasını sağladı' = allowed not only books but also ideas to spread far faster; doğru çeviri bunu korur.",
+      "en": "'allowed not only books but also ideas to spread far faster' is kept."
+    },
+    {
+      "id": "tx_x4_osym_psychology2",
+      "lv": "C1",
+      "field": "saglik",
+      "dir": "tr2en",
+      "source": "İnsanların bir kaybın acısını, eşdeğer bir kazancın verdiği mutluluktan çok daha güçlü hissettiği gösterilmiştir.",
+      "opts": [
+        "It has been shown that people care equally about losses and gains.",
+        "It has been shown that people feel the pain of a loss far more strongly than the pleasure of an equal gain.",
+        "People feel gains far more strongly than losses, studies show.",
+        "Losses and gains have no emotional effect on people."
+      ],
+      "ans": 1,
+      "tr": "'bir kaybın acısını ... eşdeğer kazancın mutluluğundan çok daha güçlü hissettiği' = feel the pain of a loss far more strongly than the pleasure of an equal gain; doğru çeviri karşılaştırmayı korur.",
+      "en": "'feel the pain of a loss far more than the pleasure of an equal gain' keeps the comparison."
+    },
+    {
+      "id": "tx_x4_osym_sociology",
+      "lv": "B2",
+      "field": "sosyal",
+      "dir": "tr2en",
+      "source": "Büyük şehirlerde yaşayan insanlar, komşularını çoğu zaman küçük kasabalardakinden çok daha az tanır.",
+      "opts": [
+        "People in big cities always know their neighbours better than those in small towns.",
+        "People in small towns rarely know their neighbours at all.",
+        "People who live in big cities often know their neighbours far less well than those in small towns.",
+        "City and town residents know their neighbours equally well."
+      ],
+      "ans": 2,
+      "tr": "'komşularını ... küçük kasabalardakinden çok daha az tanır' = know their neighbours far less than those in small towns; doğru çeviri karşılaştırmayı korur. Çeldirici 'better' ile ters çevirir.",
+      "en": "'know their neighbours far less than those in small towns' is kept; 'better' reverses it."
+    },
+    {
+      "id": "tx_x4_osym_medicine",
+      "lv": "C1",
+      "field": "saglik",
+      "dir": "tr2en",
+      "source": "Erken teşhis, birçok hastalıkta tedavinin başarı şansını önemli ölçüde artırdığı için hayati öneme sahiptir.",
+      "opts": [
+        "Early diagnosis makes treatment less likely to succeed.",
+        "Early diagnosis has no effect on the success of treatment.",
+        "Treatment succeeds only when diagnosis is made as late as possible.",
+        "Early diagnosis is vital because, in many diseases, it significantly increases the chances that treatment will succeed."
+      ],
+      "ans": 3,
+      "tr": "'tedavinin başarı şansını önemli ölçüde artırdığı için hayati öneme sahiptir' = vital because it significantly increases the chances treatment succeeds; doğru çeviri nedeni korur.",
+      "en": "'vital because it significantly increases the chance treatment succeeds' keeps the reason."
     }
   ]
 }

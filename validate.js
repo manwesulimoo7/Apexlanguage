@@ -42,7 +42,7 @@ for (const [id, n] of seen) if (n > 1) errors.push(`Duplicate id across document
 function checkCommon(item, type) {
   const where = `${type} ${item && item.id ? item.id : '(no id)'}`;
   if (!isStr(item.id)) errors.push(`${where}: id missing/empty`);
-  else if (!item.id.includes('_x1_')) errors.push(`${where}: new id must contain "_x1_"`);
+  else if (!/_x\d+_/.test(item.id)) errors.push(`${where}: new id must contain a batch marker like "_x1_"/"_x4_"`);
   if (!LV.includes(item.lv)) errors.push(`${where}: lv must be B2/C1 (got ${JSON.stringify(item.lv)})`);
   if (!FIELD.includes(item.field)) errors.push(`${where}: field must be fen/saglik/sosyal (got ${JSON.stringify(item.field)})`);
 }
