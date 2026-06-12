@@ -6328,6 +6328,1054 @@
       "pos": "adj.",
       "tr": "öfkeli, küplere binmiş",
       "ex": "absolutely furious"
+    },
+    {
+      "id": "ext_gain",
+      "lv": "B2",
+      "w": "gain",
+      "pos": "n., v.",
+      "tr": "kazanç; kazanmak, elde etmek",
+      "ex": "She gained confidence with every speech she gave."
+    },
+    {
+      "id": "ext_gallon",
+      "lv": "C1",
+      "w": "gallon",
+      "pos": "n.",
+      "tr": "galon (yaklaşık 4,5 litre)",
+      "ex": "The tank holds about twelve gallons of fuel."
+    },
+    {
+      "id": "ext_gambling",
+      "lv": "C1",
+      "w": "gambling",
+      "pos": "n.",
+      "tr": "kumar",
+      "ex": "He lost his savings through online gambling."
+    },
+    {
+      "id": "ext_gaming",
+      "lv": "B2",
+      "w": "gaming",
+      "pos": "n.",
+      "tr": "(bilgisayar) oyun oynama; oyun sektörü",
+      "ex": "The gaming industry now earns more than cinema."
+    },
+    {
+      "id": "ext_gang",
+      "lv": "B2",
+      "w": "gang",
+      "pos": "n.",
+      "tr": "çete; (arkadaş) grup",
+      "ex": "A gang of teenagers gathered on the corner."
+    },
+    {
+      "id": "ext_gathering",
+      "lv": "C1",
+      "w": "gathering",
+      "pos": "n.",
+      "tr": "toplantı, bir araya gelme",
+      "ex": "It was a small family gathering, nothing formal."
+    },
+    {
+      "id": "ext_gay",
+      "lv": "B2",
+      "w": "gay",
+      "pos": "adj.",
+      "tr": "eşcinsel",
+      "ex": "The festival celebrates the city's gay community."
+    },
+    {
+      "id": "ext_gaze",
+      "lv": "C1",
+      "w": "gaze",
+      "pos": "n., v.",
+      "tr": "sabit bakış; gözünü dikip bakmak",
+      "ex": "She gazed out of the window at the falling snow."
+    },
+    {
+      "id": "ext_gear",
+      "lv": "C1",
+      "w": "gear",
+      "pos": "n.",
+      "tr": "vites; donanım, takım",
+      "ex": "Bring your climbing gear; the route is steep."
+    },
+    {
+      "id": "ext_gender",
+      "lv": "B2",
+      "w": "gender",
+      "pos": "n.",
+      "tr": "cinsiyet, toplumsal cinsiyet",
+      "ex": "The study found no difference between the genders."
+    },
+    {
+      "id": "ext_gene",
+      "lv": "B2",
+      "w": "gene",
+      "pos": "n.",
+      "tr": "gen",
+      "ex": "A single gene can influence many traits."
+    },
+    {
+      "id": "ext_generate",
+      "lv": "B2",
+      "w": "generate",
+      "pos": "v.",
+      "tr": "üretmek, yaratmak",
+      "ex": "Wind farms generate clean electricity for thousands of homes."
+    },
+    {
+      "id": "ext_generic",
+      "lv": "C1",
+      "w": "generic",
+      "pos": "adj.",
+      "tr": "genel, jenerik; markasız",
+      "ex": "The doctor prescribed a cheaper generic version of the drug."
+    },
+    {
+      "id": "ext_genetic",
+      "lv": "B2",
+      "w": "genetic",
+      "pos": "adj.",
+      "tr": "genetik, kalıtsal",
+      "ex": "Some diseases have a strong genetic component."
+    },
+    {
+      "id": "ext_genius",
+      "lv": "B2",
+      "w": "genius",
+      "pos": "n.",
+      "tr": "dahi; üstün yetenek",
+      "ex": "Einstein is often described as a genius."
+    },
+    {
+      "id": "ext_genocide",
+      "lv": "C1",
+      "w": "genocide",
+      "pos": "n.",
+      "tr": "soykırım",
+      "ex": "The tribunal investigated accusations of genocide."
+    },
+    {
+      "id": "ext_genre",
+      "lv": "B2",
+      "w": "genre",
+      "pos": "n.",
+      "tr": "tür (edebiyat/film/müzik)",
+      "ex": "Science fiction is her favourite genre."
+    },
+    {
+      "id": "ext_genuine",
+      "lv": "B2",
+      "w": "genuine",
+      "pos": "adj.",
+      "tr": "gerçek, hakiki; samimi",
+      "ex": "The signature turned out to be genuine."
+    },
+    {
+      "id": "ext_genuinely",
+      "lv": "B2",
+      "w": "genuinely",
+      "pos": "adv.",
+      "tr": "gerçekten, içtenlikle",
+      "ex": "He seemed genuinely surprised by the news."
+    },
+    {
+      "id": "ext_gesture",
+      "lv": "B2",
+      "w": "gesture",
+      "pos": "n.",
+      "tr": "jest, el hareketi; davranış",
+      "ex": "She raised her hand in a gesture of greeting."
+    },
+    {
+      "id": "ext_gig",
+      "lv": "B2",
+      "w": "gig",
+      "pos": "n.",
+      "tr": "konser; kısa süreli iş",
+      "ex": "The band played a small gig in a local café."
+    },
+    {
+      "id": "ext_glance",
+      "lv": "C1",
+      "w": "glance",
+      "pos": "n., v.",
+      "tr": "kısa bakış; göz atmak",
+      "ex": "He glanced at his watch and hurried out."
+    },
+    {
+      "id": "ext_glimpse",
+      "lv": "C1",
+      "w": "glimpse",
+      "pos": "n.",
+      "tr": "kısa görüş, bir anlık görme",
+      "ex": "We caught a glimpse of the sea between the hills."
+    },
+    {
+      "id": "ext_globalization",
+      "lv": "B2",
+      "w": "globalization",
+      "pos": "n.",
+      "tr": "küreselleşme",
+      "ex": "Globalization has connected markets across continents."
+    },
+    {
+      "id": "ext_globe",
+      "lv": "B2",
+      "w": "globe",
+      "pos": "n.",
+      "tr": "yerküre, dünya",
+      "ex": "Tourists from across the globe visit the ancient site."
+    },
+    {
+      "id": "ext_glorious",
+      "lv": "C1",
+      "w": "glorious",
+      "pos": "adj.",
+      "tr": "muhteşem, şanlı",
+      "ex": "We woke to a glorious sunny morning."
+    },
+    {
+      "id": "ext_glory",
+      "lv": "C1",
+      "w": "glory",
+      "pos": "n.",
+      "tr": "şan, zafer; ihtişam",
+      "ex": "The team returned home covered in glory."
+    },
+    {
+      "id": "ext_golden",
+      "lv": "B2",
+      "w": "golden",
+      "pos": "adj.",
+      "tr": "altın (rengi); altın değerinde",
+      "ex": "This is a golden opportunity you should not miss."
+    },
+    {
+      "id": "ext_goodness",
+      "lv": "B2",
+      "w": "goodness",
+      "pos": "n.",
+      "tr": "iyilik; (şaşkınlık ünlemi)",
+      "ex": "She believes in the basic goodness of people."
+    },
+    {
+      "id": "ext_gorgeous",
+      "lv": "B2",
+      "w": "gorgeous",
+      "pos": "adj.",
+      "tr": "çok güzel, göz alıcı",
+      "ex": "The bride wore a gorgeous silk dress."
+    },
+    {
+      "id": "ext_govern",
+      "lv": "B2",
+      "w": "govern",
+      "pos": "v.",
+      "tr": "yönetmek; belirlemek",
+      "ex": "Strict rules govern the use of laboratory animals."
+    },
+    {
+      "id": "ext_governance",
+      "lv": "C1",
+      "w": "governance",
+      "pos": "n.",
+      "tr": "yönetişim, yönetim biçimi",
+      "ex": "Good governance requires transparency and accountability."
+    },
+    {
+      "id": "ext_governor",
+      "lv": "B2",
+      "w": "governor",
+      "pos": "n.",
+      "tr": "vali; yönetici",
+      "ex": "The governor announced a new education budget."
+    },
+    {
+      "id": "ext_grab",
+      "lv": "B2",
+      "w": "grab",
+      "pos": "v.",
+      "tr": "kapmak, yakalamak",
+      "ex": "He grabbed his coat and ran for the bus."
+    },
+    {
+      "id": "ext_grace",
+      "lv": "C1",
+      "w": "grace",
+      "pos": "n.",
+      "tr": "zarafet; lütuf",
+      "ex": "The dancer moved with effortless grace."
+    },
+    {
+      "id": "ext_grade",
+      "lv": "B2",
+      "w": "grade",
+      "pos": "v.",
+      "tr": "notlandırmak; derecelendirmek",
+      "ex": "The teacher spent the evening grading essays."
+    },
+    {
+      "id": "ext_gradually",
+      "lv": "B2",
+      "w": "gradually",
+      "pos": "adv.",
+      "tr": "yavaş yavaş, giderek",
+      "ex": "The weather gradually improved during the week."
+    },
+    {
+      "id": "ext_grand",
+      "lv": "B2",
+      "w": "grand",
+      "pos": "adj.",
+      "tr": "görkemli, büyük",
+      "ex": "They held the reception in a grand old hotel."
+    },
+    {
+      "id": "ext_grant",
+      "lv": "B2",
+      "w": "grant",
+      "pos": "n., v.",
+      "tr": "hibe, burs; vermek, kabul etmek",
+      "ex": "The university granted her a scholarship for research."
+    },
+    {
+      "id": "ext_graphic",
+      "lv": "B2",
+      "w": "graphic",
+      "pos": "adj.",
+      "tr": "grafiksel; çok canlı/açık (tasvir)",
+      "ex": "The report contained graphic descriptions of the accident."
+    },
+    {
+      "id": "ext_graphics",
+      "lv": "B2",
+      "w": "graphics",
+      "pos": "n.",
+      "tr": "grafikler, görseller",
+      "ex": "The game's graphics are remarkably realistic."
+    },
+    {
+      "id": "ext_grasp",
+      "lv": "C1",
+      "w": "grasp",
+      "pos": "n., v.",
+      "tr": "kavrayış; kavramak, sıkıca tutmak",
+      "ex": "She quickly grasped the main idea of the lecture."
+    },
+    {
+      "id": "ext_grave",
+      "lv": "C1",
+      "w": "grave",
+      "pos": "adj., n.",
+      "tr": "ciddi, vahim; mezar",
+      "ex": "The patient's condition remains grave."
+    },
+    {
+      "id": "ext_gravity",
+      "lv": "C1",
+      "w": "gravity",
+      "pos": "n.",
+      "tr": "yer çekimi; ciddiyet",
+      "ex": "Objects fall to the ground because of gravity."
+    },
+    {
+      "id": "ext_greatly",
+      "lv": "B2",
+      "w": "greatly",
+      "pos": "adv.",
+      "tr": "büyük ölçüde, çok",
+      "ex": "Your support is greatly appreciated."
+    },
+    {
+      "id": "ext_greenhouse",
+      "lv": "B2",
+      "w": "greenhouse",
+      "pos": "n.",
+      "tr": "sera",
+      "ex": "Tomatoes grow well in a heated greenhouse."
+    },
+    {
+      "id": "ext_grid",
+      "lv": "C1",
+      "w": "grid",
+      "pos": "n.",
+      "tr": "ızgara (düzeni); elektrik şebekesi",
+      "ex": "Solar panels feed power back into the grid."
+    },
+    {
+      "id": "ext_grief",
+      "lv": "C1",
+      "w": "grief",
+      "pos": "n.",
+      "tr": "derin üzüntü, yas",
+      "ex": "Grief takes a different form in every person."
+    },
+    {
+      "id": "ext_grin",
+      "lv": "C1",
+      "w": "grin",
+      "pos": "n., v.",
+      "tr": "sırıtış; sırıtmak",
+      "ex": "He grinned when he saw the surprise cake."
+    },
+    {
+      "id": "ext_grind",
+      "lv": "C1",
+      "w": "grind",
+      "pos": "v.",
+      "tr": "öğütmek; bilemek",
+      "ex": "Grind the coffee beans just before brewing."
+    },
+    {
+      "id": "ext_grip",
+      "lv": "C1",
+      "w": "grip",
+      "pos": "n., v.",
+      "tr": "sıkı tutuş; kavramak",
+      "ex": "She tightened her grip on the railing."
+    },
+    {
+      "id": "ext_grocery",
+      "lv": "B2",
+      "w": "grocery",
+      "pos": "n.",
+      "tr": "bakkaliye; market alışverişi",
+      "ex": "I do my grocery shopping on Saturday mornings."
+    },
+    {
+      "id": "ext_gross",
+      "lv": "C1",
+      "w": "gross",
+      "pos": "adj.",
+      "tr": "brüt; kaba, iğrenç",
+      "ex": "Her gross income is higher, but taxes take a third."
+    },
+    {
+      "id": "ext_guarantee",
+      "lv": "B2",
+      "w": "guarantee",
+      "pos": "n., v.",
+      "tr": "garanti; garanti etmek",
+      "ex": "The machine comes with a two-year guarantee."
+    },
+    {
+      "id": "ext_guerrilla",
+      "lv": "C1",
+      "w": "guerrilla",
+      "pos": "n.",
+      "tr": "gerilla",
+      "ex": "The guerrillas operated from bases in the mountains."
+    },
+    {
+      "id": "ext_guidance",
+      "lv": "C1",
+      "w": "guidance",
+      "pos": "n.",
+      "tr": "rehberlik, yol gösterme",
+      "ex": "Students receive career guidance in their final year."
+    },
+    {
+      "id": "ext_guideline",
+      "lv": "B2",
+      "w": "guideline",
+      "pos": "n.",
+      "tr": "yönerge, kılavuz ilke",
+      "ex": "The ministry published new guidelines for food safety."
+    },
+    {
+      "id": "ext_guilt",
+      "lv": "C1",
+      "w": "guilt",
+      "pos": "n.",
+      "tr": "suçluluk (duygusu)",
+      "ex": "He was haunted by guilt over the broken promise."
+    },
+    {
+      "id": "ext_gut",
+      "lv": "C1",
+      "w": "gut",
+      "pos": "n.",
+      "tr": "bağırsak; (guts) cesaret",
+      "ex": "Trust your gut when something feels wrong."
+    },
+    {
+      "id": "ext_habitat",
+      "lv": "B2",
+      "w": "habitat",
+      "pos": "n.",
+      "tr": "doğal yaşam alanı",
+      "ex": "Wetlands are an important habitat for migrating birds."
+    },
+    {
+      "id": "ext_hail",
+      "lv": "C1",
+      "w": "hail",
+      "pos": "v.",
+      "tr": "selamlamak, övmek; (taksi) çevirmek",
+      "ex": "Critics hailed the film as a masterpiece."
+    },
+    {
+      "id": "ext_halfway",
+      "lv": "C1",
+      "w": "halfway",
+      "pos": "adv.",
+      "tr": "yarı yolda, ortasında",
+      "ex": "We stopped for coffee halfway through the journey."
+    },
+    {
+      "id": "ext_halt",
+      "lv": "C1",
+      "w": "halt",
+      "pos": "n., v.",
+      "tr": "duruş; durdurmak",
+      "ex": "The strike brought production to a halt."
+    },
+    {
+      "id": "ext_handful",
+      "lv": "C1",
+      "w": "handful",
+      "pos": "n.",
+      "tr": "bir avuç; az sayıda",
+      "ex": "Only a handful of people attended the meeting."
+    },
+    {
+      "id": "ext_handle",
+      "lv": "B2",
+      "w": "handle",
+      "pos": "n., v.",
+      "tr": "kulp, sap; ele almak, başa çıkmak",
+      "ex": "She handled the complaint calmly and politely."
+    },
+    {
+      "id": "ext_handling",
+      "lv": "C1",
+      "w": "handling",
+      "pos": "n.",
+      "tr": "ele alma, yönetme; taşıma",
+      "ex": "The minister was criticised for his handling of the crisis."
+    },
+    {
+      "id": "ext_handy",
+      "lv": "C1",
+      "w": "handy",
+      "pos": "adj.",
+      "tr": "kullanışlı; el altında",
+      "ex": "Keep a torch handy in case of power cuts."
+    },
+    {
+      "id": "ext_harassment",
+      "lv": "C1",
+      "w": "harassment",
+      "pos": "n.",
+      "tr": "taciz, rahatsız etme",
+      "ex": "The company has a strict policy against harassment."
+    },
+    {
+      "id": "ext_harbour",
+      "lv": "B2",
+      "w": "harbour",
+      "pos": "n.",
+      "tr": "liman",
+      "ex": "Fishing boats returned to the harbour at sunset."
+    },
+    {
+      "id": "ext_hardware",
+      "lv": "C1",
+      "w": "hardware",
+      "pos": "n.",
+      "tr": "donanım; hırdavat",
+      "ex": "The problem lies in the hardware, not the software."
+    },
+    {
+      "id": "ext_harm",
+      "lv": "B2",
+      "w": "harm",
+      "pos": "n., v.",
+      "tr": "zarar; zarar vermek",
+      "ex": "A little rain won't do any harm to the garden."
+    },
+    {
+      "id": "ext_harmful",
+      "lv": "B2",
+      "w": "harmful",
+      "pos": "adj.",
+      "tr": "zararlı",
+      "ex": "Smoking is harmful to everyone in the room."
+    },
+    {
+      "id": "ext_harmony",
+      "lv": "C1",
+      "w": "harmony",
+      "pos": "n.",
+      "tr": "uyum, ahenk",
+      "ex": "The two communities live together in harmony."
+    },
+    {
+      "id": "ext_harsh",
+      "lv": "C1",
+      "w": "harsh",
+      "pos": "adj.",
+      "tr": "sert, acımasız; haşin",
+      "ex": "The desert has a harsh climate of extremes."
+    },
+    {
+      "id": "ext_harvest",
+      "lv": "C1",
+      "w": "harvest",
+      "pos": "n., v.",
+      "tr": "hasat; hasat etmek",
+      "ex": "Farmers harvest the wheat in late summer."
+    },
+    {
+      "id": "ext_hatred",
+      "lv": "C1",
+      "w": "hatred",
+      "pos": "n.",
+      "tr": "nefret",
+      "ex": "The speech was full of hatred and fear."
+    },
+    {
+      "id": "ext_haunt",
+      "lv": "C1",
+      "w": "haunt",
+      "pos": "v.",
+      "tr": "(hayalet) musallat olmak; aklından çıkmamak",
+      "ex": "Memories of the war still haunt him."
+    },
+    {
+      "id": "ext_hazard",
+      "lv": "C1",
+      "w": "hazard",
+      "pos": "n.",
+      "tr": "tehlike, risk",
+      "ex": "Icy roads are a serious hazard for drivers."
+    },
+    {
+      "id": "ext_headquarters",
+      "lv": "B2",
+      "w": "headquarters",
+      "pos": "n.",
+      "tr": "genel merkez, karargâh",
+      "ex": "The company moved its headquarters to Berlin."
+    },
+    {
+      "id": "ext_heal",
+      "lv": "B2",
+      "w": "heal",
+      "pos": "v.",
+      "tr": "iyileşmek; iyileştirmek",
+      "ex": "The wound healed slowly over several weeks."
+    },
+    {
+      "id": "ext_healthcare",
+      "lv": "B2",
+      "w": "healthcare",
+      "pos": "n.",
+      "tr": "sağlık hizmetleri",
+      "ex": "The country provides free healthcare for children."
+    },
+    {
+      "id": "ext_hearing",
+      "lv": "B2",
+      "w": "hearing",
+      "pos": "n.",
+      "tr": "işitme; duruşma",
+      "ex": "Her hearing has worsened with age."
+    },
+    {
+      "id": "ext_heaven",
+      "lv": "B2",
+      "w": "heaven",
+      "pos": "n.",
+      "tr": "cennet; gökyüzü",
+      "ex": "The garden felt like a little piece of heaven."
+    },
+    {
+      "id": "ext_heel",
+      "lv": "B2",
+      "w": "heel",
+      "pos": "n.",
+      "tr": "topuk",
+      "ex": "These shoes have a very high heel."
+    },
+    {
+      "id": "ext_heighten",
+      "lv": "C1",
+      "w": "heighten",
+      "pos": "v.",
+      "tr": "artırmak, yoğunlaştırmak",
+      "ex": "The music heightened the tension in the final scene."
+    },
+    {
+      "id": "ext_hell",
+      "lv": "B2",
+      "w": "hell",
+      "pos": "n.",
+      "tr": "cehennem",
+      "ex": "The traffic this morning was absolute hell."
+    },
+    {
+      "id": "ext_helmet",
+      "lv": "B2",
+      "w": "helmet",
+      "pos": "n.",
+      "tr": "kask, miğfer",
+      "ex": "Always wear a helmet when you cycle."
+    },
+    {
+      "id": "ext_hence",
+      "lv": "B2",
+      "w": "hence",
+      "pos": "adv.",
+      "tr": "bu nedenle, dolayısıyla",
+      "ex": "The road was closed; hence the long delay."
+    },
+    {
+      "id": "ext_herb",
+      "lv": "B2",
+      "w": "herb",
+      "pos": "n.",
+      "tr": "şifalı/aromatik bitki, ot",
+      "ex": "She grows fresh herbs on the kitchen windowsill."
+    },
+    {
+      "id": "ext_heritage",
+      "lv": "C1",
+      "w": "heritage",
+      "pos": "n.",
+      "tr": "miras, kültürel miras",
+      "ex": "The old town is part of our national heritage."
+    },
+    {
+      "id": "ext_hesitate",
+      "lv": "B2",
+      "w": "hesitate",
+      "pos": "v.",
+      "tr": "tereddüt etmek, duraksamak",
+      "ex": "Don't hesitate to call me if you need help."
+    },
+    {
+      "id": "ext_hidden",
+      "lv": "B2",
+      "w": "hidden",
+      "pos": "adj.",
+      "tr": "gizli, saklı",
+      "ex": "The camera was hidden behind a mirror."
+    },
+    {
+      "id": "ext_hierarchy",
+      "lv": "C1",
+      "w": "hierarchy",
+      "pos": "n.",
+      "tr": "hiyerarşi, aşama düzeni",
+      "ex": "Decisions travel slowly up the company hierarchy."
+    },
+    {
+      "id": "ext_high",
+      "lv": "B2",
+      "w": "high",
+      "pos": "n.",
+      "tr": "en yüksek nokta/değer; doruk",
+      "ex": "Prices reached a record high in June."
+    },
+    {
+      "id": "ext_high_profile",
+      "lv": "C1",
+      "w": "high-profile",
+      "pos": "adj.",
+      "tr": "göz önünde olan, çok tanınan",
+      "ex": "A high-profile lawyer agreed to take the case."
+    },
+    {
+      "id": "ext_highway",
+      "lv": "B2",
+      "w": "highway",
+      "pos": "n.",
+      "tr": "otoyol, karayolu",
+      "ex": "The new highway cuts the journey time in half."
+    },
+    {
+      "id": "ext_hilarious",
+      "lv": "B2",
+      "w": "hilarious",
+      "pos": "adj.",
+      "tr": "çok komik",
+      "ex": "Her impression of the manager was hilarious."
+    },
+    {
+      "id": "ext_hint",
+      "lv": "C1",
+      "w": "hint",
+      "pos": "n., v.",
+      "tr": "ipucu, ima; ima etmek",
+      "ex": "He hinted that an announcement was coming soon."
+    },
+    {
+      "id": "ext_hip",
+      "lv": "B2",
+      "w": "hip",
+      "pos": "n.",
+      "tr": "kalça",
+      "ex": "She stood with her hands on her hips."
+    },
+    {
+      "id": "ext_hire",
+      "lv": "B2",
+      "w": "hire",
+      "pos": "n.",
+      "tr": "kiralama; işe alma",
+      "ex": "Bike hire is available next to the station."
+    },
+    {
+      "id": "ext_historian",
+      "lv": "B2",
+      "w": "historian",
+      "pos": "n.",
+      "tr": "tarihçi",
+      "ex": "Historians still argue about the causes of the war."
+    },
+    {
+      "id": "ext_hold",
+      "lv": "B2",
+      "w": "hold",
+      "pos": "n.",
+      "tr": "tutma, tutuş; (gemi) ambar",
+      "ex": "He kept a firm hold on the rope."
+    },
+    {
+      "id": "ext_hollow",
+      "lv": "B2",
+      "w": "hollow",
+      "pos": "adj.",
+      "tr": "içi boş; anlamsız, sahte",
+      "ex": "The old tree trunk was completely hollow."
+    },
+    {
+      "id": "ext_holy",
+      "lv": "B2",
+      "w": "holy",
+      "pos": "adj.",
+      "tr": "kutsal",
+      "ex": "The city is holy to three religions."
+    },
+    {
+      "id": "ext_homeland",
+      "lv": "C1",
+      "w": "homeland",
+      "pos": "n.",
+      "tr": "anavatan, yurt",
+      "ex": "After thirty years abroad, she returned to her homeland."
+    },
+    {
+      "id": "ext_homeless",
+      "lv": "B2",
+      "w": "homeless",
+      "pos": "adj.",
+      "tr": "evsiz",
+      "ex": "The charity provides meals for homeless people."
+    },
+    {
+      "id": "ext_honesty",
+      "lv": "B2",
+      "w": "honesty",
+      "pos": "n.",
+      "tr": "dürüstlük",
+      "ex": "I value honesty above all other qualities."
+    },
+    {
+      "id": "ext_honour",
+      "lv": "B2",
+      "w": "honour",
+      "pos": "n., v.",
+      "tr": "onur, şeref; onurlandırmak",
+      "ex": "The ceremony was held to honour the retiring teacher."
+    },
+    {
+      "id": "ext_hook",
+      "lv": "B2",
+      "w": "hook",
+      "pos": "n., v.",
+      "tr": "kanca, çengel; takmak",
+      "ex": "Hang your coat on the hook behind the door."
+    },
+    {
+      "id": "ext_hopeful",
+      "lv": "C1",
+      "w": "hopeful",
+      "pos": "adj.",
+      "tr": "umutlu, umut verici",
+      "ex": "We remain hopeful that an agreement can be reached."
+    },
+    {
+      "id": "ext_hopefully",
+      "lv": "B2",
+      "w": "hopefully",
+      "pos": "adv.",
+      "tr": "umarım, inşallah; umutla",
+      "ex": "Hopefully the rain will stop before the match."
+    },
+    {
+      "id": "ext_horizon",
+      "lv": "C1",
+      "w": "horizon",
+      "pos": "n.",
+      "tr": "ufuk",
+      "ex": "A ship appeared slowly on the horizon."
+    },
+    {
+      "id": "ext_horn",
+      "lv": "C1",
+      "w": "horn",
+      "pos": "n.",
+      "tr": "korna; boynuz",
+      "ex": "The driver behind us kept sounding his horn."
+    },
+    {
+      "id": "ext_host",
+      "lv": "B2",
+      "w": "host",
+      "pos": "v.",
+      "tr": "ev sahipliği yapmak",
+      "ex": "The city will host the games next summer."
+    },
+    {
+      "id": "ext_hostage",
+      "lv": "C1",
+      "w": "hostage",
+      "pos": "n.",
+      "tr": "rehine",
+      "ex": "The gunman released the hostages after six hours."
+    },
+    {
+      "id": "ext_hostile",
+      "lv": "C1",
+      "w": "hostile",
+      "pos": "adj.",
+      "tr": "düşmanca; karşıt",
+      "ex": "The proposal met a hostile reaction from residents."
+    },
+    {
+      "id": "ext_hostility",
+      "lv": "C1",
+      "w": "hostility",
+      "pos": "n.",
+      "tr": "düşmanlık, husumet",
+      "ex": "There was open hostility between the two groups."
+    },
+    {
+      "id": "ext_house",
+      "lv": "B2",
+      "w": "house",
+      "pos": "v.",
+      "tr": "barındırmak, yerleştirmek",
+      "ex": "The museum houses a famous collection of paintings."
+    },
+    {
+      "id": "ext_household",
+      "lv": "B2",
+      "w": "household",
+      "pos": "n.",
+      "tr": "hane, ev halkı",
+      "ex": "The average household now owns several screens."
+    },
+    {
+      "id": "ext_housing",
+      "lv": "B2",
+      "w": "housing",
+      "pos": "n.",
+      "tr": "konut; barınma",
+      "ex": "The city faces a serious shortage of affordable housing."
+    },
+    {
+      "id": "ext_humanitarian",
+      "lv": "C1",
+      "w": "humanitarian",
+      "pos": "adj.",
+      "tr": "insani (yardım)",
+      "ex": "Humanitarian aid reached the flooded villages by boat."
+    },
+    {
+      "id": "ext_humanity",
+      "lv": "C1",
+      "w": "humanity",
+      "pos": "n.",
+      "tr": "insanlık; insancıllık",
+      "ex": "The discovery could benefit all of humanity."
+    },
+    {
+      "id": "ext_humble",
+      "lv": "C1",
+      "w": "humble",
+      "pos": "adj.",
+      "tr": "alçakgönüllü; mütevazı",
+      "ex": "Despite her fame, she remained remarkably humble."
+    },
+    {
+      "id": "ext_humorous",
+      "lv": "B2",
+      "w": "humorous",
+      "pos": "adj.",
+      "tr": "esprili, mizahi",
+      "ex": "He gave a humorous account of his first day at work."
+    },
+    {
+      "id": "ext_humour",
+      "lv": "B2",
+      "w": "humour",
+      "pos": "n.",
+      "tr": "mizah; espri anlayışı",
+      "ex": "She has a wonderful sense of humour."
+    },
+    {
+      "id": "ext_hunger",
+      "lv": "B2",
+      "w": "hunger",
+      "pos": "n.",
+      "tr": "açlık; şiddetli istek",
+      "ex": "Millions of people still suffer from hunger."
+    },
+    {
+      "id": "ext_hunt",
+      "lv": "B2",
+      "w": "hunt",
+      "pos": "n.",
+      "tr": "av; arama",
+      "ex": "The hunt for the missing climbers continued at dawn."
+    },
+    {
+      "id": "ext_hunting",
+      "lv": "B2",
+      "w": "hunting",
+      "pos": "n.",
+      "tr": "avcılık",
+      "ex": "Hunting is strictly controlled in the national park."
+    },
+    {
+      "id": "ext_hurt",
+      "lv": "B2",
+      "w": "hurt",
+      "pos": "n.",
+      "tr": "incinme, kırgınlık",
+      "ex": "The hurt in her voice was impossible to miss."
+    },
+    {
+      "id": "ext_hydrogen",
+      "lv": "C1",
+      "w": "hydrogen",
+      "pos": "n.",
+      "tr": "hidrojen",
+      "ex": "Hydrogen may one day fuel our cars."
+    },
+    {
+      "id": "ext_hypothesis",
+      "lv": "B2",
+      "w": "hypothesis",
+      "pos": "n.",
+      "tr": "hipotez, varsayım",
+      "ex": "The experiment was designed to test a simple hypothesis."
     }
   ],
   "articles": [
