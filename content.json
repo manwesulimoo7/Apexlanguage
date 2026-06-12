@@ -37528,6 +37528,2310 @@
       "pos": "n.",
       "tr": "gençlik; genç",
       "ex": "He spent his youth in a small town."
+    },
+    {
+      "id": "ext_abandon",
+      "lv": "B2",
+      "w": "abandon",
+      "pos": "v.",
+      "tr": "terk etmek, vazgeçmek",
+      "ex": "The crew abandoned the sinking ship."
+    },
+    {
+      "id": "ext_absolute",
+      "lv": "B2",
+      "w": "absolute",
+      "pos": "adj.",
+      "tr": "mutlak, kesin",
+      "ex": "The room was in absolute silence."
+    },
+    {
+      "id": "ext_abundance",
+      "lv": "C1",
+      "w": "abundance",
+      "pos": "n.",
+      "tr": "bolluk",
+      "ex": "The island has an abundance of fresh fruit."
+    },
+    {
+      "id": "ext_accelerate",
+      "lv": "C1",
+      "w": "accelerate",
+      "pos": "v.",
+      "tr": "hızlan(dır)mak",
+      "ex": "The car accelerated onto the motorway."
+    },
+    {
+      "id": "ext_accent",
+      "lv": "B2",
+      "w": "accent",
+      "pos": "n.",
+      "tr": "aksan, şive",
+      "ex": "She speaks English with a French accent."
+    },
+    {
+      "id": "ext_acceptable",
+      "lv": "B2",
+      "w": "acceptable",
+      "pos": "adj.",
+      "tr": "kabul edilebilir",
+      "ex": "Such behaviour is not acceptable here."
+    },
+    {
+      "id": "ext_accompany",
+      "lv": "B2",
+      "w": "accompany",
+      "pos": "v.",
+      "tr": "eşlik etmek",
+      "ex": "Children must be accompanied by an adult."
+    },
+    {
+      "id": "ext_accordance",
+      "lv": "C1",
+      "w": "accordance",
+      "pos": "n.",
+      "tr": "uyum (in accordance with)",
+      "ex": "Act in accordance with the safety rules."
+    },
+    {
+      "id": "ext_accurate",
+      "lv": "B2",
+      "w": "accurate",
+      "pos": "adj.",
+      "tr": "doğru, isabetli, kesin",
+      "ex": "The report gives an accurate picture of events."
+    },
+    {
+      "id": "ext_accuse",
+      "lv": "B2",
+      "w": "accuse",
+      "pos": "v.",
+      "tr": "suçlamak",
+      "ex": "They accused him of stealing the money."
+    },
+    {
+      "id": "ext_acknowledge",
+      "lv": "B2",
+      "w": "acknowledge",
+      "pos": "v.",
+      "tr": "kabul etmek, teslim etmek; alındığını bildirmek",
+      "ex": "She acknowledged that she had been wrong."
+    },
+    {
+      "id": "ext_acquire",
+      "lv": "B2",
+      "w": "acquire",
+      "pos": "v.",
+      "tr": "edinmek, kazanmak",
+      "ex": "He acquired a taste for olives abroad."
+    },
+    {
+      "id": "ext_actual",
+      "lv": "B2",
+      "w": "actual",
+      "pos": "adj.",
+      "tr": "gerçek, asıl",
+      "ex": "The actual cost was higher than the estimate."
+    },
+    {
+      "id": "ext_adapt",
+      "lv": "B2",
+      "w": "adapt",
+      "pos": "v.",
+      "tr": "uyum sağlamak; uyarlamak",
+      "ex": "Animals adapt to their environment."
+    },
+    {
+      "id": "ext_additional",
+      "lv": "B2",
+      "w": "additional",
+      "pos": "adj.",
+      "tr": "ek, ilave",
+      "ex": "There is an additional charge for luggage."
+    },
+    {
+      "id": "ext_administration",
+      "lv": "B2",
+      "w": "administration",
+      "pos": "n.",
+      "tr": "yönetim, idare",
+      "ex": "The new administration promised reforms."
+    },
+    {
+      "id": "ext_adopt",
+      "lv": "B2",
+      "w": "adopt",
+      "pos": "v.",
+      "tr": "benimsemek; evlat edinmek",
+      "ex": "The school adopted a new teaching method."
+    },
+    {
+      "id": "ext_advance",
+      "lv": "B2",
+      "w": "advance",
+      "pos": "adj., n., v.",
+      "tr": "ilerleme(k); önceden (in advance)",
+      "ex": "Book your tickets in advance."
+    },
+    {
+      "id": "ext_affair",
+      "lv": "B2",
+      "w": "affair",
+      "pos": "n.",
+      "tr": "mesele, iş; ilişki",
+      "ex": "The wedding was a quiet family affair."
+    },
+    {
+      "id": "ext_afterwards",
+      "lv": "B2",
+      "w": "afterwards",
+      "pos": "adv.",
+      "tr": "sonrasında, daha sonra",
+      "ex": "We watched the film and went for pizza afterwards."
+    },
+    {
+      "id": "ext_agency",
+      "lv": "B2",
+      "w": "agency",
+      "pos": "n.",
+      "tr": "ajans, acente; kurum",
+      "ex": "She works for a travel agency."
+    },
+    {
+      "id": "ext_agenda",
+      "lv": "B2",
+      "w": "agenda",
+      "pos": "n.",
+      "tr": "gündem",
+      "ex": "The first item on the agenda is the budget."
+    },
+    {
+      "id": "ext_aggressive",
+      "lv": "B2",
+      "w": "aggressive",
+      "pos": "adj.",
+      "tr": "saldırgan; agresif",
+      "ex": "The dog became aggressive towards strangers."
+    },
+    {
+      "id": "ext_aid",
+      "lv": "B2",
+      "w": "aid",
+      "pos": "n., v.",
+      "tr": "yardım (etmek)",
+      "ex": "The charity sends aid to flood victims."
+    },
+    {
+      "id": "ext_aircraft",
+      "lv": "B2",
+      "w": "aircraft",
+      "pos": "n.",
+      "tr": "hava taşıtı, uçak",
+      "ex": "The aircraft landed safely despite the fog."
+    },
+    {
+      "id": "ext_albeit",
+      "lv": "C1",
+      "w": "albeit",
+      "pos": "conj.",
+      "tr": "gerçi, her ne kadar",
+      "ex": "He accepted the offer, albeit with some doubts."
+    },
+    {
+      "id": "ext_alter",
+      "lv": "B2",
+      "w": "alter",
+      "pos": "v.",
+      "tr": "değiştirmek",
+      "ex": "We had to alter our travel plans."
+    },
+    {
+      "id": "ext_aluminium",
+      "lv": "C1",
+      "w": "aluminium",
+      "pos": "n.",
+      "tr": "alüminyum",
+      "ex": "The frame is made of light aluminium."
+    },
+    {
+      "id": "ext_ambulance",
+      "lv": "B2",
+      "w": "ambulance",
+      "pos": "n.",
+      "tr": "ambulans",
+      "ex": "The ambulance arrived within minutes."
+    },
+    {
+      "id": "ext_angel",
+      "lv": "C1",
+      "w": "angel",
+      "pos": "n.",
+      "tr": "melek",
+      "ex": "The child sang like an angel."
+    },
+    {
+      "id": "ext_anger",
+      "lv": "B2",
+      "w": "anger",
+      "pos": "n.",
+      "tr": "öfke, kızgınlık",
+      "ex": "He could not hide his anger."
+    },
+    {
+      "id": "ext_angle",
+      "lv": "B2",
+      "w": "angle",
+      "pos": "n.",
+      "tr": "açı",
+      "ex": "Look at the problem from a different angle."
+    },
+    {
+      "id": "ext_anniversary",
+      "lv": "B2",
+      "w": "anniversary",
+      "pos": "n.",
+      "tr": "yıl dönümü",
+      "ex": "Today is their tenth wedding anniversary."
+    },
+    {
+      "id": "ext_annual",
+      "lv": "B2",
+      "w": "annual",
+      "pos": "adj.",
+      "tr": "yıllık",
+      "ex": "The annual meeting takes place in May."
+    },
+    {
+      "id": "ext_anxious",
+      "lv": "B2",
+      "w": "anxious",
+      "pos": "adj.",
+      "tr": "kaygılı, endişeli",
+      "ex": "She felt anxious before the results came out."
+    },
+    {
+      "id": "ext_apparent",
+      "lv": "B2",
+      "w": "apparent",
+      "pos": "adj.",
+      "tr": "görünen, açık, belirgin",
+      "ex": "The reason for the delay soon became apparent."
+    },
+    {
+      "id": "ext_apparently",
+      "lv": "B2",
+      "w": "apparently",
+      "pos": "adv.",
+      "tr": "görünüşe göre, anlaşılan",
+      "ex": "Apparently, the meeting has been cancelled."
+    },
+    {
+      "id": "ext_appeal",
+      "lv": "B2",
+      "w": "appeal",
+      "pos": "n., v.",
+      "tr": "çekicilik; çağrı; temyiz; cazip gelmek",
+      "ex": "The idea of working abroad appeals to me."
+    },
+    {
+      "id": "ext_approach",
+      "lv": "B2",
+      "w": "approach",
+      "pos": "n., v.",
+      "tr": "yaklaşım; yaklaşmak",
+      "ex": "We need a fresh approach to the problem."
+    },
+    {
+      "id": "ext_appropriate",
+      "lv": "B2",
+      "w": "appropriate",
+      "pos": "adj.",
+      "tr": "uygun, yerinde",
+      "ex": "Wear clothes appropriate for the weather."
+    },
+    {
+      "id": "ext_approval",
+      "lv": "B2",
+      "w": "approval",
+      "pos": "n.",
+      "tr": "onay",
+      "ex": "The plan needs the committee's approval."
+    },
+    {
+      "id": "ext_approve",
+      "lv": "B2",
+      "w": "approve",
+      "pos": "v.",
+      "tr": "onaylamak; uygun bulmak",
+      "ex": "Her parents approved of her choice."
+    },
+    {
+      "id": "ext_arguably",
+      "lv": "C1",
+      "w": "arguably",
+      "pos": "adv.",
+      "tr": "tartışmasız denebilecek şekilde, muhtemelen",
+      "ex": "He is arguably the best player of his generation."
+    },
+    {
+      "id": "ext_arise",
+      "lv": "B2",
+      "w": "arise",
+      "pos": "v.",
+      "tr": "ortaya çıkmak, doğmak",
+      "ex": "Problems arise when people don't communicate."
+    },
+    {
+      "id": "ext_armed",
+      "lv": "B2",
+      "w": "armed",
+      "pos": "adj.",
+      "tr": "silahlı",
+      "ex": "Armed guards stood at the entrance."
+    },
+    {
+      "id": "ext_arms",
+      "lv": "B2",
+      "w": "arms",
+      "pos": "n.",
+      "tr": "silahlar",
+      "ex": "The treaty limits the sale of arms."
+    },
+    {
+      "id": "ext_artificial",
+      "lv": "B2",
+      "w": "artificial",
+      "pos": "adj.",
+      "tr": "yapay",
+      "ex": "The drink contains no artificial colours."
+    },
+    {
+      "id": "ext_artistic",
+      "lv": "B2",
+      "w": "artistic",
+      "pos": "adj.",
+      "tr": "sanatsal; sanatçı ruhlu",
+      "ex": "The film is an artistic success."
+    },
+    {
+      "id": "ext_ashamed",
+      "lv": "B2",
+      "w": "ashamed",
+      "pos": "adj.",
+      "tr": "utanmış, mahcup",
+      "ex": "He was ashamed of his rude behaviour."
+    },
+    {
+      "id": "ext_aside",
+      "lv": "B2",
+      "w": "aside",
+      "pos": "adv.",
+      "tr": "bir kenara",
+      "ex": "She set some money aside for the holidays."
+    },
+    {
+      "id": "ext_aspect",
+      "lv": "B2",
+      "w": "aspect",
+      "pos": "n.",
+      "tr": "yön, boyut, açı",
+      "ex": "Cost is only one aspect of the problem."
+    },
+    {
+      "id": "ext_assess",
+      "lv": "B2",
+      "w": "assess",
+      "pos": "v.",
+      "tr": "değerlendirmek",
+      "ex": "Teachers assess students' progress each term."
+    },
+    {
+      "id": "ext_assessment",
+      "lv": "B2",
+      "w": "assessment",
+      "pos": "n.",
+      "tr": "değerlendirme",
+      "ex": "The doctor made a quick assessment of the injury."
+    },
+    {
+      "id": "ext_associate",
+      "lv": "B2",
+      "w": "associate",
+      "pos": "v.",
+      "tr": "ilişkilendirmek, bağdaştırmak",
+      "ex": "People associate summer with holidays."
+    },
+    {
+      "id": "ext_associated",
+      "lv": "B2",
+      "w": "associated",
+      "pos": "adj.",
+      "tr": "ilişkili, bağlantılı",
+      "ex": "Smoking is associated with many diseases."
+    },
+    {
+      "id": "ext_association",
+      "lv": "B2",
+      "w": "association",
+      "pos": "n.",
+      "tr": "dernek, birlik; çağrışım",
+      "ex": "She joined the local tennis association."
+    },
+    {
+      "id": "ext_assume",
+      "lv": "B2",
+      "w": "assume",
+      "pos": "v.",
+      "tr": "varsaymak; üstlenmek",
+      "ex": "I assumed you knew about the change."
+    },
+    {
+      "id": "ext_attempt",
+      "lv": "B2",
+      "w": "attempt",
+      "pos": "n., v.",
+      "tr": "girişim, deneme; kalkışmak",
+      "ex": "His first attempt at skiing ended in a fall."
+    },
+    {
+      "id": "ext_attorney",
+      "lv": "C1",
+      "w": "attorney",
+      "pos": "n.",
+      "tr": "avukat (Amerikan İng.)",
+      "ex": "The attorney advised her client to remain silent."
+    },
+    {
+      "id": "ext_automatic",
+      "lv": "B2",
+      "w": "automatic",
+      "pos": "adj.",
+      "tr": "otomatik",
+      "ex": "The doors are automatic."
+    },
+    {
+      "id": "ext_automatically",
+      "lv": "B2",
+      "w": "automatically",
+      "pos": "adv.",
+      "tr": "otomatik olarak; kendiliğinden",
+      "ex": "The lights turn off automatically at midnight."
+    },
+    {
+      "id": "ext_bacteria",
+      "lv": "B2",
+      "w": "bacteria",
+      "pos": "n.",
+      "tr": "bakteriler",
+      "ex": "Some bacteria are good for digestion."
+    },
+    {
+      "id": "ext_balloon",
+      "lv": "B2",
+      "w": "balloon",
+      "pos": "n.",
+      "tr": "balon",
+      "ex": "The children let go of their balloons."
+    },
+    {
+      "id": "ext_barrier",
+      "lv": "B2",
+      "w": "barrier",
+      "pos": "n.",
+      "tr": "bariyer, engel",
+      "ex": "Language is no longer a barrier for her."
+    },
+    {
+      "id": "ext_basically",
+      "lv": "B2",
+      "w": "basically",
+      "pos": "adv.",
+      "tr": "temel olarak, esasen",
+      "ex": "Basically, we have two choices."
+    },
+    {
+      "id": "ext_beg",
+      "lv": "B2",
+      "w": "beg",
+      "pos": "v.",
+      "tr": "yalvarmak; dilenmek",
+      "ex": "The boy begged his parents for a dog."
+    },
+    {
+      "id": "ext_being",
+      "lv": "B2",
+      "w": "being",
+      "pos": "n.",
+      "tr": "varlık; olma",
+      "ex": "Human beings need each other."
+    },
+    {
+      "id": "ext_bent",
+      "lv": "B2",
+      "w": "bent",
+      "pos": "adj.",
+      "tr": "eğri, bükülmüş",
+      "ex": "The old fork is bent."
+    },
+    {
+      "id": "ext_bet",
+      "lv": "B2",
+      "w": "bet",
+      "pos": "n., v.",
+      "tr": "bahis; bahse girmek",
+      "ex": "I bet it will rain tomorrow."
+    },
+    {
+      "id": "ext_beyond",
+      "lv": "B2",
+      "w": "beyond",
+      "pos": "adv., prep.",
+      "tr": "ötesinde, ötede",
+      "ex": "The village lies just beyond the hills."
+    },
+    {
+      "id": "ext_bitter",
+      "lv": "B2",
+      "w": "bitter",
+      "pos": "adj.",
+      "tr": "acı (tat); küskün; sert (soğuk)",
+      "ex": "The coffee has a bitter taste."
+    },
+    {
+      "id": "ext_blame",
+      "lv": "B2",
+      "w": "blame",
+      "pos": "n., v.",
+      "tr": "suçlamak; suç, kabahat",
+      "ex": "Don't blame me for the mistake."
+    },
+    {
+      "id": "ext_blind",
+      "lv": "B2",
+      "w": "blind",
+      "pos": "adj.",
+      "tr": "kör, görme engelli",
+      "ex": "The charity trains dogs for blind people."
+    },
+    {
+      "id": "ext_bond",
+      "lv": "B2",
+      "w": "bond",
+      "pos": "n.",
+      "tr": "bağ; tahvil",
+      "ex": "There is a strong bond between the twins."
+    },
+    {
+      "id": "ext_breast",
+      "lv": "B2",
+      "w": "breast",
+      "pos": "n.",
+      "tr": "göğüs, meme",
+      "ex": "Doctors recommend regular breast checks."
+    },
+    {
+      "id": "ext_brief",
+      "lv": "B2",
+      "w": "brief",
+      "pos": "adj.",
+      "tr": "kısa, öz",
+      "ex": "We had a brief meeting before lunch."
+    },
+    {
+      "id": "ext_broad",
+      "lv": "B2",
+      "w": "broad",
+      "pos": "adj.",
+      "tr": "geniş",
+      "ex": "He has broad shoulders."
+    },
+    {
+      "id": "ext_broadcast",
+      "lv": "B2",
+      "w": "broadcast",
+      "pos": "n., v.",
+      "tr": "yayın(lamak)",
+      "ex": "The match will be broadcast live."
+    },
+    {
+      "id": "ext_budget",
+      "lv": "B2",
+      "w": "budget",
+      "pos": "n.",
+      "tr": "bütçe",
+      "ex": "We planned the trip on a small budget."
+    },
+    {
+      "id": "ext_bullet",
+      "lv": "B2",
+      "w": "bullet",
+      "pos": "n.",
+      "tr": "kurşun, mermi",
+      "ex": "The bullet hit the wall."
+    },
+    {
+      "id": "ext_bunch",
+      "lv": "B2",
+      "w": "bunch",
+      "pos": "n.",
+      "tr": "demet, salkım; grup",
+      "ex": "He bought a bunch of flowers."
+    },
+    {
+      "id": "ext_bush",
+      "lv": "B2",
+      "w": "bush",
+      "pos": "n.",
+      "tr": "çalı(lık)",
+      "ex": "A rabbit hid under the bush."
+    },
+    {
+      "id": "ext_cable",
+      "lv": "B2",
+      "w": "cable",
+      "pos": "n.",
+      "tr": "kablo",
+      "ex": "The cable connects the screen to the computer."
+    },
+    {
+      "id": "ext_calculate",
+      "lv": "B2",
+      "w": "calculate",
+      "pos": "v.",
+      "tr": "hesaplamak",
+      "ex": "Calculate the total cost of the trip."
+    },
+    {
+      "id": "ext_cancel",
+      "lv": "B2",
+      "w": "cancel",
+      "pos": "v.",
+      "tr": "iptal etmek",
+      "ex": "The flight was cancelled because of snow."
+    },
+    {
+      "id": "ext_cancer",
+      "lv": "B2",
+      "w": "cancer",
+      "pos": "n.",
+      "tr": "kanser",
+      "ex": "Early treatment of cancer saves lives."
+    },
+    {
+      "id": "ext_capable",
+      "lv": "B2",
+      "w": "capable",
+      "pos": "adj.",
+      "tr": "yetenekli, yapabilir",
+      "ex": "She is capable of solving this alone."
+    },
+    {
+      "id": "ext_capacity",
+      "lv": "B2",
+      "w": "capacity",
+      "pos": "n.",
+      "tr": "kapasite",
+      "ex": "The hall has a capacity of five hundred."
+    },
+    {
+      "id": "ext_capture",
+      "lv": "B2",
+      "w": "capture",
+      "pos": "n., v.",
+      "tr": "yakalamak, ele geçirmek",
+      "ex": "The photo captures the beauty of the lake."
+    },
+    {
+      "id": "ext_cast",
+      "lv": "B2",
+      "w": "cast",
+      "pos": "n., v.",
+      "tr": "oyuncu kadrosu; atmak; (oy) kullanmak",
+      "ex": "The film has a brilliant cast."
+    },
+    {
+      "id": "ext_catalogue",
+      "lv": "C1",
+      "w": "catalogue",
+      "pos": "n.",
+      "tr": "katalog",
+      "ex": "The museum published a catalogue of the exhibition."
+    },
+    {
+      "id": "ext_cell",
+      "lv": "B2",
+      "w": "cell",
+      "pos": "n.",
+      "tr": "hücre",
+      "ex": "The human body has trillions of cells."
+    },
+    {
+      "id": "ext_certificate",
+      "lv": "B2",
+      "w": "certificate",
+      "pos": "n.",
+      "tr": "sertifika, belge",
+      "ex": "She received a certificate at the end of the course."
+    },
+    {
+      "id": "ext_chairman",
+      "lv": "B2",
+      "w": "chairman",
+      "pos": "n.",
+      "tr": "başkan (kurul)",
+      "ex": "The chairman opened the meeting."
+    },
+    {
+      "id": "ext_characteristic",
+      "lv": "B2",
+      "w": "characteristic",
+      "pos": "adj., n.",
+      "tr": "özellik; karakteristik",
+      "ex": "Patience is a characteristic of good teachers."
+    },
+    {
+      "id": "ext_chief",
+      "lv": "B2",
+      "w": "chief",
+      "pos": "adj., n.",
+      "tr": "baş, ana; şef",
+      "ex": "The chief reason for moving was the job."
+    },
+    {
+      "id": "ext_circumstance",
+      "lv": "B2",
+      "w": "circumstance",
+      "pos": "n.",
+      "tr": "koşul, durum",
+      "ex": "Under no circumstances open this door."
+    },
+    {
+      "id": "ext_cite",
+      "lv": "B2",
+      "w": "cite",
+      "pos": "v.",
+      "tr": "alıntılamak; örnek göstermek",
+      "ex": "The author cites several recent studies."
+    },
+    {
+      "id": "ext_citizen",
+      "lv": "B2",
+      "w": "citizen",
+      "pos": "n.",
+      "tr": "vatandaş, yurttaş",
+      "ex": "Every citizen has the right to vote."
+    },
+    {
+      "id": "ext_civil",
+      "lv": "B2",
+      "w": "civil",
+      "pos": "adj.",
+      "tr": "sivil; medeni; nazik",
+      "ex": "The country suffered a long civil war."
+    },
+    {
+      "id": "ext_classic",
+      "lv": "B2",
+      "w": "classic",
+      "pos": "adj., n.",
+      "tr": "klasik",
+      "ex": "The film is a classic of cinema."
+    },
+    {
+      "id": "ext_clerk",
+      "lv": "B2",
+      "w": "clerk",
+      "pos": "n.",
+      "tr": "memur, kâtip",
+      "ex": "The clerk stamped my documents."
+    },
+    {
+      "id": "ext_closely",
+      "lv": "B2",
+      "w": "closely",
+      "pos": "adv.",
+      "tr": "yakından; sıkı sıkıya",
+      "ex": "The police watched the building closely."
+    },
+    {
+      "id": "ext_collapse",
+      "lv": "B2",
+      "w": "collapse",
+      "pos": "n., v.",
+      "tr": "çökmek; çöküş",
+      "ex": "The old bridge collapsed in the flood."
+    },
+    {
+      "id": "ext_colourful",
+      "lv": "B2",
+      "w": "colourful",
+      "pos": "adj.",
+      "tr": "renkli, rengârenk",
+      "ex": "The market is full of colourful stalls."
+    },
+    {
+      "id": "ext_combination",
+      "lv": "B2",
+      "w": "combination",
+      "pos": "n.",
+      "tr": "kombinasyon, birleşim",
+      "ex": "The dish is a combination of rice and spices."
+    },
+    {
+      "id": "ext_comfort",
+      "lv": "B2",
+      "w": "comfort",
+      "pos": "n., v.",
+      "tr": "konfor, rahatlık; teselli etmek",
+      "ex": "She comforted the crying child."
+    },
+    {
+      "id": "ext_command",
+      "lv": "B2",
+      "w": "command",
+      "pos": "n., v.",
+      "tr": "komut(a etmek), emir",
+      "ex": "The general gave the command to advance."
+    },
+    {
+      "id": "ext_commission",
+      "lv": "B2",
+      "w": "commission",
+      "pos": "n., v.",
+      "tr": "komisyon; sipariş etmek",
+      "ex": "The artist was commissioned to paint a portrait."
+    },
+    {
+      "id": "ext_commitment",
+      "lv": "B2",
+      "w": "commitment",
+      "pos": "n.",
+      "tr": "bağlılık, taahhüt",
+      "ex": "Learning a language requires commitment."
+    },
+    {
+      "id": "ext_committee",
+      "lv": "B2",
+      "w": "committee",
+      "pos": "n.",
+      "tr": "komite, kurul",
+      "ex": "The committee meets every Tuesday."
+    },
+    {
+      "id": "ext_commonly",
+      "lv": "B2",
+      "w": "commonly",
+      "pos": "adv.",
+      "tr": "yaygın olarak",
+      "ex": "This plant is commonly found near rivers."
+    },
+    {
+      "id": "ext_complicated",
+      "lv": "B2",
+      "w": "complicated",
+      "pos": "adj.",
+      "tr": "karmaşık",
+      "ex": "The instructions are too complicated."
+    },
+    {
+      "id": "ext_component",
+      "lv": "B2",
+      "w": "component",
+      "pos": "n.",
+      "tr": "bileşen, parça",
+      "ex": "Trust is a key component of friendship."
+    },
+    {
+      "id": "ext_concentration",
+      "lv": "B2",
+      "w": "concentration",
+      "pos": "n.",
+      "tr": "konsantrasyon, yoğunlaşma",
+      "ex": "Chess requires deep concentration."
+    },
+    {
+      "id": "ext_concept",
+      "lv": "B2",
+      "w": "concept",
+      "pos": "n.",
+      "tr": "kavram",
+      "ex": "The concept of time is hard to explain."
+    },
+    {
+      "id": "ext_concern",
+      "lv": "B2",
+      "w": "concern",
+      "pos": "n., v.",
+      "tr": "endişe; ilgilendirmek",
+      "ex": "Safety is our main concern."
+    },
+    {
+      "id": "ext_concerned",
+      "lv": "B2",
+      "w": "concerned",
+      "pos": "adj.",
+      "tr": "endişeli; ilgili",
+      "ex": "Parents are concerned about screen time."
+    },
+    {
+      "id": "ext_conduct",
+      "lv": "B2",
+      "w": "conduct",
+      "pos": "n., v.",
+      "tr": "yürütmek; davranış",
+      "ex": "The scientists conducted a series of tests."
+    },
+    {
+      "id": "ext_confidence",
+      "lv": "B2",
+      "w": "confidence",
+      "pos": "n.",
+      "tr": "güven, özgüven",
+      "ex": "Practice gives you confidence."
+    },
+    {
+      "id": "ext_conflict",
+      "lv": "B2",
+      "w": "conflict",
+      "pos": "n., v.",
+      "tr": "çatışma; çelişmek",
+      "ex": "The conflict lasted for years."
+    },
+    {
+      "id": "ext_confusing",
+      "lv": "B2",
+      "w": "confusing",
+      "pos": "adj.",
+      "tr": "kafa karıştırıcı",
+      "ex": "The map was confusing, so we got lost."
+    },
+    {
+      "id": "ext_conscious",
+      "lv": "B2",
+      "w": "conscious",
+      "pos": "adj.",
+      "tr": "bilinçli; farkında",
+      "ex": "He was conscious of being watched."
+    },
+    {
+      "id": "ext_consequently",
+      "lv": "B2",
+      "w": "consequently",
+      "pos": "adv.",
+      "tr": "sonuç olarak, bu nedenle",
+      "ex": "He missed the bus and consequently arrived late."
+    },
+    {
+      "id": "ext_conservative",
+      "lv": "B2",
+      "w": "conservative",
+      "pos": "adj., n.",
+      "tr": "muhafazakâr; temkinli",
+      "ex": "The town has very conservative tastes."
+    },
+    {
+      "id": "ext_consideration",
+      "lv": "B2",
+      "w": "consideration",
+      "pos": "n.",
+      "tr": "değerlendirme; düşüncelilik",
+      "ex": "After careful consideration, we accepted."
+    },
+    {
+      "id": "ext_consistent",
+      "lv": "B2",
+      "w": "consistent",
+      "pos": "adj.",
+      "tr": "tutarlı, istikrarlı",
+      "ex": "Her work is always of consistent quality."
+    },
+    {
+      "id": "ext_constant",
+      "lv": "B2",
+      "w": "constant",
+      "pos": "adj.",
+      "tr": "sürekli, sabit",
+      "ex": "The machine needs constant attention."
+    },
+    {
+      "id": "ext_constantly",
+      "lv": "B2",
+      "w": "constantly",
+      "pos": "adv.",
+      "tr": "sürekli olarak",
+      "ex": "Technology is constantly changing."
+    },
+    {
+      "id": "ext_constituency",
+      "lv": "C1",
+      "w": "constituency",
+      "pos": "n.",
+      "tr": "seçim bölgesi",
+      "ex": "The MP visited her constituency at the weekend."
+    },
+    {
+      "id": "ext_construct",
+      "lv": "B2",
+      "w": "construct",
+      "pos": "v.",
+      "tr": "inşa etmek, kurmak",
+      "ex": "The bridge was constructed in record time."
+    },
+    {
+      "id": "ext_construction",
+      "lv": "B2",
+      "w": "construction",
+      "pos": "n.",
+      "tr": "inşaat, yapım",
+      "ex": "The road is closed for construction."
+    },
+    {
+      "id": "ext_contemporary",
+      "lv": "B2",
+      "w": "contemporary",
+      "pos": "adj.",
+      "tr": "çağdaş, güncel",
+      "ex": "The gallery shows contemporary art."
+    },
+    {
+      "id": "ext_contest",
+      "lv": "B2",
+      "w": "contest",
+      "pos": "n., v.",
+      "tr": "yarışma; itiraz etmek",
+      "ex": "She entered a national singing contest."
+    },
+    {
+      "id": "ext_contract",
+      "lv": "B2",
+      "w": "contract",
+      "pos": "n., v.",
+      "tr": "sözleşme; daralmak",
+      "ex": "He signed a two-year contract."
+    },
+    {
+      "id": "ext_contribute",
+      "lv": "B2",
+      "w": "contribute",
+      "pos": "v.",
+      "tr": "katkıda bulunmak",
+      "ex": "Everyone contributed ideas to the project."
+    },
+    {
+      "id": "ext_contribution",
+      "lv": "B2",
+      "w": "contribution",
+      "pos": "n.",
+      "tr": "katkı",
+      "ex": "She made a huge contribution to the team."
+    },
+    {
+      "id": "ext_convert",
+      "lv": "B2",
+      "w": "convert",
+      "pos": "v.",
+      "tr": "dönüştürmek",
+      "ex": "They converted the barn into a house."
+    },
+    {
+      "id": "ext_convinced",
+      "lv": "B2",
+      "w": "convinced",
+      "pos": "adj.",
+      "tr": "ikna olmuş, emin",
+      "ex": "I'm convinced that he is telling the truth."
+    },
+    {
+      "id": "ext_core",
+      "lv": "B2",
+      "w": "core",
+      "pos": "adj., n.",
+      "tr": "çekirdek, öz; temel",
+      "ex": "Maths is a core subject at school."
+    },
+    {
+      "id": "ext_corporate",
+      "lv": "B2",
+      "w": "corporate",
+      "pos": "adj.",
+      "tr": "kurumsal, şirketle ilgili",
+      "ex": "He left his corporate job to teach."
+    },
+    {
+      "id": "ext_corporation",
+      "lv": "B2",
+      "w": "corporation",
+      "pos": "n.",
+      "tr": "büyük şirket",
+      "ex": "The corporation employs thousands worldwide."
+    },
+    {
+      "id": "ext_council",
+      "lv": "B2",
+      "w": "council",
+      "pos": "n.",
+      "tr": "belediye meclisi; konsey",
+      "ex": "The council plans to build a new park."
+    },
+    {
+      "id": "ext_councillor",
+      "lv": "C1",
+      "w": "councillor",
+      "pos": "n.",
+      "tr": "meclis üyesi",
+      "ex": "The councillor listened to residents' complaints."
+    },
+    {
+      "id": "ext_counselling",
+      "lv": "C1",
+      "w": "counselling",
+      "pos": "n.",
+      "tr": "psikolojik danışmanlık",
+      "ex": "The school offers free counselling to students."
+    },
+    {
+      "id": "ext_counsellor",
+      "lv": "C1",
+      "w": "counsellor",
+      "pos": "n.",
+      "tr": "danışman",
+      "ex": "She spoke to a counsellor about her stress."
+    },
+    {
+      "id": "ext_county",
+      "lv": "B2",
+      "w": "county",
+      "pos": "n.",
+      "tr": "ilçe, kontluk",
+      "ex": "The county has many small farms."
+    },
+    {
+      "id": "ext_courage",
+      "lv": "B2",
+      "w": "courage",
+      "pos": "n.",
+      "tr": "cesaret, yüreklilik",
+      "ex": "It takes courage to admit a mistake."
+    },
+    {
+      "id": "ext_crash",
+      "lv": "B2",
+      "w": "crash",
+      "pos": "n., v.",
+      "tr": "kaza; çarpmak; çökmek",
+      "ex": "The car crashed into a tree."
+    },
+    {
+      "id": "ext_creation",
+      "lv": "B2",
+      "w": "creation",
+      "pos": "n.",
+      "tr": "yaratım, oluşturma",
+      "ex": "The chef showed us his latest creation."
+    },
+    {
+      "id": "ext_creature",
+      "lv": "B2",
+      "w": "creature",
+      "pos": "n.",
+      "tr": "yaratık, canlı",
+      "ex": "The deep sea is full of strange creatures."
+    },
+    {
+      "id": "ext_crew",
+      "lv": "B2",
+      "w": "crew",
+      "pos": "n.",
+      "tr": "mürettebat, ekip",
+      "ex": "The crew welcomed us aboard."
+    },
+    {
+      "id": "ext_crisis",
+      "lv": "B2",
+      "w": "crisis",
+      "pos": "n.",
+      "tr": "kriz, buhran",
+      "ex": "The country faced an energy crisis."
+    },
+    {
+      "id": "ext_criterion",
+      "lv": "B2",
+      "w": "criterion",
+      "pos": "n.",
+      "tr": "ölçüt, kriter",
+      "ex": "Price is not the only criterion."
+    },
+    {
+      "id": "ext_critic",
+      "lv": "B2",
+      "w": "critic",
+      "pos": "n.",
+      "tr": "eleştirmen",
+      "ex": "The critics loved her new film."
+    },
+    {
+      "id": "ext_critical",
+      "lv": "B2",
+      "w": "critical",
+      "pos": "adj.",
+      "tr": "eleştirel; kritik",
+      "ex": "The next few days are critical for the patient."
+    },
+    {
+      "id": "ext_criticism",
+      "lv": "B2",
+      "w": "criticism",
+      "pos": "n.",
+      "tr": "eleştiri",
+      "ex": "Try to accept fair criticism."
+    },
+    {
+      "id": "ext_criticize",
+      "lv": "B2",
+      "w": "criticize",
+      "pos": "v.",
+      "tr": "eleştirmek",
+      "ex": "The plan was criticized for its cost."
+    },
+    {
+      "id": "ext_crop",
+      "lv": "B2",
+      "w": "crop",
+      "pos": "n.",
+      "tr": "ekin, mahsul",
+      "ex": "The rain saved this year's crops."
+    },
+    {
+      "id": "ext_crucial",
+      "lv": "B2",
+      "w": "crucial",
+      "pos": "adj.",
+      "tr": "çok önemli, hayati",
+      "ex": "Sleep is crucial for learning."
+    },
+    {
+      "id": "ext_cure",
+      "lv": "B2",
+      "w": "cure",
+      "pos": "n., v.",
+      "tr": "tedavi (etmek), çare",
+      "ex": "There is still no cure for the common cold."
+    },
+    {
+      "id": "ext_curve",
+      "lv": "B2",
+      "w": "curve",
+      "pos": "n., v.",
+      "tr": "eğri; kıvrılmak",
+      "ex": "The road curves around the lake."
+    },
+    {
+      "id": "ext_curved",
+      "lv": "B2",
+      "w": "curved",
+      "pos": "adj.",
+      "tr": "kavisli, eğri",
+      "ex": "The bridge has a curved design."
+    },
+    {
+      "id": "ext_debate",
+      "lv": "B2",
+      "w": "debate",
+      "pos": "n., v.",
+      "tr": "tartışma; tartışmak, müzakere etmek",
+      "ex": "The class debated the use of phones in school."
+    },
+    {
+      "id": "ext_debt",
+      "lv": "B2",
+      "w": "debt",
+      "pos": "n.",
+      "tr": "borç",
+      "ex": "He finally paid off all his debts."
+    },
+    {
+      "id": "ext_decent",
+      "lv": "B2",
+      "w": "decent",
+      "pos": "adj.",
+      "tr": "düzgün, makul; saygın",
+      "ex": "The hotel serves a decent breakfast."
+    },
+    {
+      "id": "ext_declare",
+      "lv": "B2",
+      "w": "declare",
+      "pos": "v.",
+      "tr": "ilan etmek, beyan etmek",
+      "ex": "The mayor declared the festival open."
+    },
+    {
+      "id": "ext_decline",
+      "lv": "B2",
+      "w": "decline",
+      "pos": "n., v.",
+      "tr": "düşüş; azalmak; reddetmek",
+      "ex": "Sales declined sharply in winter."
+    },
+    {
+      "id": "ext_decoration",
+      "lv": "B2",
+      "w": "decoration",
+      "pos": "n.",
+      "tr": "dekorasyon, süs(leme)",
+      "ex": "The decorations made the hall look festive."
+    },
+    {
+      "id": "ext_decrease",
+      "lv": "B2",
+      "w": "decrease",
+      "pos": "n., v.",
+      "tr": "azal(t)ma(k), düşüş",
+      "ex": "Traffic noise decreased after the new road opened."
+    },
+    {
+      "id": "ext_deeply",
+      "lv": "B2",
+      "w": "deeply",
+      "pos": "adv.",
+      "tr": "derinden; son derece",
+      "ex": "She was deeply moved by the letter."
+    },
+    {
+      "id": "ext_defeat",
+      "lv": "B2",
+      "w": "defeat",
+      "pos": "n., v.",
+      "tr": "yenilgi; yenmek",
+      "ex": "The team suffered a heavy defeat."
+    },
+    {
+      "id": "ext_defence",
+      "lv": "B2",
+      "w": "defence",
+      "pos": "n.",
+      "tr": "savunma",
+      "ex": "The body's defence against illness is strong."
+    },
+    {
+      "id": "ext_defend",
+      "lv": "B2",
+      "w": "defend",
+      "pos": "v.",
+      "tr": "savunmak, korumak",
+      "ex": "She defended her ideas with confidence."
+    },
+    {
+      "id": "ext_delay",
+      "lv": "B2",
+      "w": "delay",
+      "pos": "n., v.",
+      "tr": "gecikme; ertelemek, geciktirmek",
+      "ex": "Fog delayed all morning flights."
+    },
+    {
+      "id": "ext_deliberate",
+      "lv": "B2",
+      "w": "deliberate",
+      "pos": "adj.",
+      "tr": "kasıtlı, bilinçli",
+      "ex": "It was a deliberate attempt to mislead us."
+    },
+    {
+      "id": "ext_deliberately",
+      "lv": "B2",
+      "w": "deliberately",
+      "pos": "adv.",
+      "tr": "kasten, bile bile",
+      "ex": "He deliberately left the door open."
+    },
+    {
+      "id": "ext_delight",
+      "lv": "B2",
+      "w": "delight",
+      "pos": "n., v.",
+      "tr": "büyük keyif; sevindirmek",
+      "ex": "The garden is a delight in spring."
+    },
+    {
+      "id": "ext_delivery",
+      "lv": "B2",
+      "w": "delivery",
+      "pos": "n.",
+      "tr": "teslimat",
+      "ex": "Delivery takes three to five days."
+    },
+    {
+      "id": "ext_demand",
+      "lv": "B2",
+      "w": "demand",
+      "pos": "n., v.",
+      "tr": "talep (etmek)",
+      "ex": "There is a high demand for nurses."
+    },
+    {
+      "id": "ext_demonstrate",
+      "lv": "B2",
+      "w": "demonstrate",
+      "pos": "v.",
+      "tr": "göstermek, kanıtlamak; gösteri yapmak",
+      "ex": "The teacher demonstrated the experiment."
+    },
+    {
+      "id": "ext_deny",
+      "lv": "B2",
+      "w": "deny",
+      "pos": "v.",
+      "tr": "inkâr etmek; reddetmek",
+      "ex": "He denied breaking the window."
+    },
+    {
+      "id": "ext_depressed",
+      "lv": "B2",
+      "w": "depressed",
+      "pos": "adj.",
+      "tr": "depresyonda, çökkün",
+      "ex": "She felt depressed after losing her job."
+    },
+    {
+      "id": "ext_depressing",
+      "lv": "B2",
+      "w": "depressing",
+      "pos": "adj.",
+      "tr": "iç karartıcı",
+      "ex": "The news these days is depressing."
+    },
+    {
+      "id": "ext_depth",
+      "lv": "B2",
+      "w": "depth",
+      "pos": "n.",
+      "tr": "derinlik",
+      "ex": "The lake has a depth of forty metres."
+    },
+    {
+      "id": "ext_deserve",
+      "lv": "B2",
+      "w": "deserve",
+      "pos": "v.",
+      "tr": "hak etmek",
+      "ex": "You deserve a holiday after all that work."
+    },
+    {
+      "id": "ext_desire",
+      "lv": "B2",
+      "w": "desire",
+      "pos": "n., v.",
+      "tr": "arzu (etmek), istek",
+      "ex": "She had a strong desire to travel."
+    },
+    {
+      "id": "ext_desperate",
+      "lv": "B2",
+      "w": "desperate",
+      "pos": "adj.",
+      "tr": "çaresiz; umutsuz; şiddetle isteyen",
+      "ex": "He was desperate for a job, any job."
+    },
+    {
+      "id": "ext_detailed",
+      "lv": "B2",
+      "w": "detailed",
+      "pos": "adj.",
+      "tr": "ayrıntılı",
+      "ex": "The book gives detailed instructions."
+    },
+    {
+      "id": "ext_detect",
+      "lv": "B2",
+      "w": "detect",
+      "pos": "v.",
+      "tr": "tespit etmek, saptamak",
+      "ex": "The device detects smoke very quickly."
+    },
+    {
+      "id": "ext_dig",
+      "lv": "B2",
+      "w": "dig",
+      "pos": "v.",
+      "tr": "kazmak",
+      "ex": "The dog dug a hole in the garden."
+    },
+    {
+      "id": "ext_disc",
+      "lv": "B2",
+      "w": "disc",
+      "pos": "n.",
+      "tr": "disk",
+      "ex": "The data is stored on a disc."
+    },
+    {
+      "id": "ext_discipline",
+      "lv": "B2",
+      "w": "discipline",
+      "pos": "n.",
+      "tr": "disiplin; bilim dalı",
+      "ex": "Learning an instrument teaches discipline."
+    },
+    {
+      "id": "ext_dishonest",
+      "lv": "B2",
+      "w": "dishonest",
+      "pos": "adj.",
+      "tr": "sahtekâr, dürüst olmayan",
+      "ex": "It was dishonest of him to hide the truth."
+    },
+    {
+      "id": "ext_disk",
+      "lv": "B2",
+      "w": "disk",
+      "pos": "n.",
+      "tr": "disk (bilgisayar)",
+      "ex": "Save the files to an external disk."
+    },
+    {
+      "id": "ext_dismiss",
+      "lv": "B2",
+      "w": "dismiss",
+      "pos": "v.",
+      "tr": "işten çıkarmak; (fikri) reddetmek",
+      "ex": "She dismissed the idea as impossible."
+    },
+    {
+      "id": "ext_display",
+      "lv": "B2",
+      "w": "display",
+      "pos": "n., v.",
+      "tr": "sergi(lemek); ekran",
+      "ex": "The museum displays old coins."
+    },
+    {
+      "id": "ext_distribute",
+      "lv": "B2",
+      "w": "distribute",
+      "pos": "v.",
+      "tr": "dağıtmak",
+      "ex": "Volunteers distributed food to the families."
+    },
+    {
+      "id": "ext_distribution",
+      "lv": "B2",
+      "w": "distribution",
+      "pos": "n.",
+      "tr": "dağıtım, dağılım",
+      "ex": "The distribution of water is a big problem."
+    },
+    {
+      "id": "ext_district",
+      "lv": "B2",
+      "w": "district",
+      "pos": "n.",
+      "tr": "semt, bölge",
+      "ex": "They live in a quiet district of the city."
+    },
+    {
+      "id": "ext_division",
+      "lv": "B2",
+      "w": "division",
+      "pos": "n.",
+      "tr": "bölme, bölünme; bölüm",
+      "ex": "The division of the money caused an argument."
+    },
+    {
+      "id": "ext_domestic",
+      "lv": "B2",
+      "w": "domestic",
+      "pos": "adj.",
+      "tr": "yurt içi; evcil; ev ile ilgili",
+      "ex": "Domestic flights leave from terminal one."
+    },
+    {
+      "id": "ext_dominate",
+      "lv": "B2",
+      "w": "dominate",
+      "pos": "v.",
+      "tr": "hâkim olmak, egemen olmak",
+      "ex": "One team dominated the whole match."
+    },
+    {
+      "id": "ext_downtown",
+      "lv": "B2",
+      "w": "downtown",
+      "pos": "adj., adv., n.",
+      "tr": "şehir merkezi(nde)",
+      "ex": "We had dinner downtown."
+    },
+    {
+      "id": "ext_downwards",
+      "lv": "B2",
+      "w": "downwards",
+      "pos": "adv.",
+      "tr": "aşağı doğru",
+      "ex": "The path slopes downwards to the river."
+    },
+    {
+      "id": "ext_dozen",
+      "lv": "B2",
+      "w": "dozen",
+      "pos": "det., n.",
+      "tr": "düzine",
+      "ex": "She bought a dozen eggs."
+    },
+    {
+      "id": "ext_draft",
+      "lv": "B2",
+      "w": "draft",
+      "pos": "n., v.",
+      "tr": "taslak (hazırlamak)",
+      "ex": "Write a first draft of your essay."
+    },
+    {
+      "id": "ext_drag",
+      "lv": "B2",
+      "w": "drag",
+      "pos": "v.",
+      "tr": "sürüklemek",
+      "ex": "He dragged the heavy box across the floor."
+    },
+    {
+      "id": "ext_dramatic",
+      "lv": "B2",
+      "w": "dramatic",
+      "pos": "adj.",
+      "tr": "çarpıcı, köklü; dramatik",
+      "ex": "There was a dramatic change in the weather."
+    },
+    {
+      "id": "ext_edit",
+      "lv": "B2",
+      "w": "edit",
+      "pos": "v.",
+      "tr": "düzenlemek (metin/video)",
+      "ex": "Edit your essay before sending it."
+    },
+    {
+      "id": "ext_edition",
+      "lv": "B2",
+      "w": "edition",
+      "pos": "n.",
+      "tr": "baskı, sürüm",
+      "ex": "I have the first edition of this novel."
+    },
+    {
+      "id": "ext_efficient",
+      "lv": "B2",
+      "w": "efficient",
+      "pos": "adj.",
+      "tr": "verimli, etkin",
+      "ex": "The new heating system is very efficient."
+    },
+    {
+      "id": "ext_elderly",
+      "lv": "B2",
+      "w": "elderly",
+      "pos": "adj.",
+      "tr": "yaşlı",
+      "ex": "An elderly couple sat by the window."
+    },
+    {
+      "id": "ext_elect",
+      "lv": "B2",
+      "w": "elect",
+      "pos": "v.",
+      "tr": "seçmek (oyla)",
+      "ex": "The class elected a new president."
+    },
+    {
+      "id": "ext_elsewhere",
+      "lv": "B2",
+      "w": "elsewhere",
+      "pos": "adv.",
+      "tr": "başka yer(ler)de",
+      "ex": "The shop was closed, so we went elsewhere."
+    },
+    {
+      "id": "ext_emerge",
+      "lv": "B2",
+      "w": "emerge",
+      "pos": "v.",
+      "tr": "ortaya çıkmak, belirmek",
+      "ex": "The sun emerged from behind the clouds."
+    },
+    {
+      "id": "ext_emotional",
+      "lv": "B2",
+      "w": "emotional",
+      "pos": "adj.",
+      "tr": "duygusal",
+      "ex": "It was an emotional farewell at the airport."
+    },
+    {
+      "id": "ext_emphasis",
+      "lv": "B2",
+      "w": "emphasis",
+      "pos": "n.",
+      "tr": "vurgu",
+      "ex": "The school puts emphasis on languages."
+    },
+    {
+      "id": "ext_emphasize",
+      "lv": "B2",
+      "w": "emphasize",
+      "pos": "v.",
+      "tr": "vurgulamak",
+      "ex": "The doctor emphasized the need for rest."
+    },
+    {
+      "id": "ext_enable",
+      "lv": "B2",
+      "w": "enable",
+      "pos": "v.",
+      "tr": "olanak sağlamak",
+      "ex": "The app enables you to track your runs."
+    },
+    {
+      "id": "ext_encounter",
+      "lv": "B2",
+      "w": "encounter",
+      "pos": "n., v.",
+      "tr": "karşılaşma(k)",
+      "ex": "We encountered several problems early on."
+    },
+    {
+      "id": "ext_endeavour",
+      "lv": "C1",
+      "w": "endeavour",
+      "pos": "n.",
+      "tr": "çaba, girişim",
+      "ex": "Despite our best endeavours, the plan failed."
+    },
+    {
+      "id": "ext_engage",
+      "lv": "B2",
+      "w": "engage",
+      "pos": "v.",
+      "tr": "meşgul etmek; (ilgisini) çekmek; katılmak",
+      "ex": "Good teachers engage their students."
+    },
+    {
+      "id": "ext_enhance",
+      "lv": "B2",
+      "w": "enhance",
+      "pos": "v.",
+      "tr": "artırmak, iyileştirmek",
+      "ex": "Spices enhance the flavour of the dish."
+    },
+    {
+      "id": "ext_enquire",
+      "lv": "C1",
+      "w": "enquire",
+      "pos": "v.",
+      "tr": "sormak, bilgi istemek",
+      "ex": "She enquired about the train times."
+    },
+    {
+      "id": "ext_enquiry",
+      "lv": "B2",
+      "w": "enquiry",
+      "pos": "n.",
+      "tr": "soru, bilgi talebi",
+      "ex": "We received many enquiries about the course."
+    },
+    {
+      "id": "ext_enrol",
+      "lv": "C1",
+      "w": "enrol",
+      "pos": "v.",
+      "tr": "kaydolmak",
+      "ex": "He enrolled on a cooking course."
+    },
+    {
+      "id": "ext_ensure",
+      "lv": "B2",
+      "w": "ensure",
+      "pos": "v.",
+      "tr": "sağlamak, garanti etmek",
+      "ex": "Please ensure all windows are closed."
+    },
+    {
+      "id": "ext_enthusiasm",
+      "lv": "B2",
+      "w": "enthusiasm",
+      "pos": "n.",
+      "tr": "coşku, heves",
+      "ex": "The students showed great enthusiasm."
+    },
+    {
+      "id": "ext_enthusiastic",
+      "lv": "B2",
+      "w": "enthusiastic",
+      "pos": "adj.",
+      "tr": "hevesli, istekli",
+      "ex": "She is enthusiastic about the new project."
+    },
+    {
+      "id": "ext_entire",
+      "lv": "B2",
+      "w": "entire",
+      "pos": "adj.",
+      "tr": "tüm, bütün",
+      "ex": "We spent the entire day in the garden."
+    },
+    {
+      "id": "ext_entirely",
+      "lv": "B2",
+      "w": "entirely",
+      "pos": "adv.",
+      "tr": "tamamen",
+      "ex": "That is an entirely different question."
+    },
+    {
+      "id": "ext_entrepreneur",
+      "lv": "B2",
+      "w": "entrepreneur",
+      "pos": "n.",
+      "tr": "girişimci",
+      "ex": "The young entrepreneur opened two cafés."
+    },
+    {
+      "id": "ext_establish",
+      "lv": "B2",
+      "w": "establish",
+      "pos": "v.",
+      "tr": "kurmak; saptamak",
+      "ex": "The company was established in 1990."
+    },
+    {
+      "id": "ext_estate",
+      "lv": "B2",
+      "w": "estate",
+      "pos": "n.",
+      "tr": "arazi, mülk; site",
+      "ex": "They live on a quiet housing estate."
+    },
+    {
+      "id": "ext_estimate",
+      "lv": "B2",
+      "w": "estimate",
+      "pos": "n., v.",
+      "tr": "tahmin (etmek)",
+      "ex": "We estimate the journey will take two hours."
+    },
+    {
+      "id": "ext_ethical",
+      "lv": "B2",
+      "w": "ethical",
+      "pos": "adj.",
+      "tr": "etik, ahlaki",
+      "ex": "The shop sells ethical products."
+    },
+    {
+      "id": "ext_evaluate",
+      "lv": "B2",
+      "w": "evaluate",
+      "pos": "v.",
+      "tr": "değerlendirmek",
+      "ex": "Teachers evaluate students' work each term."
+    },
+    {
+      "id": "ext_evil",
+      "lv": "B2",
+      "w": "evil",
+      "pos": "adj., n.",
+      "tr": "kötü(lük)",
+      "ex": "The story is about good and evil."
+    },
+    {
+      "id": "ext_examination",
+      "lv": "B2",
+      "w": "examination",
+      "pos": "n.",
+      "tr": "sınav; inceleme, muayene",
+      "ex": "The final examination is in June."
+    },
+    {
+      "id": "ext_excuse",
+      "lv": "B2",
+      "w": "excuse",
+      "pos": "n., v.",
+      "tr": "mazeret; affetmek",
+      "ex": "He had no excuse for being late."
+    },
+    {
+      "id": "ext_executive",
+      "lv": "B2",
+      "w": "executive",
+      "pos": "adj., n.",
+      "tr": "yönetici",
+      "ex": "She is a senior executive at the bank."
+    },
+    {
+      "id": "ext_exhibit",
+      "lv": "B2",
+      "w": "exhibit",
+      "pos": "n., v.",
+      "tr": "sergilemek; sergi parçası",
+      "ex": "The gallery exhibits local artists' work."
+    },
+    {
+      "id": "ext_existence",
+      "lv": "B2",
+      "w": "existence",
+      "pos": "n.",
+      "tr": "varlık, var oluş",
+      "ex": "The letters prove the existence of the village."
+    },
+    {
+      "id": "ext_exit",
+      "lv": "B2",
+      "w": "exit",
+      "pos": "n., v.",
+      "tr": "çıkış; çıkmak",
+      "ex": "The emergency exit is at the back."
+    },
+    {
+      "id": "ext_exotic",
+      "lv": "B2",
+      "w": "exotic",
+      "pos": "adj.",
+      "tr": "egzotik",
+      "ex": "The garden is full of exotic plants."
+    },
+    {
+      "id": "ext_expectation",
+      "lv": "B2",
+      "w": "expectation",
+      "pos": "n.",
+      "tr": "beklenti",
+      "ex": "The trip exceeded all our expectations."
+    },
+    {
+      "id": "ext_expense",
+      "lv": "B2",
+      "w": "expense",
+      "pos": "n.",
+      "tr": "masraf, gider",
+      "ex": "Travel expenses are paid by the company."
+    },
+    {
+      "id": "ext_exploration",
+      "lv": "B2",
+      "w": "exploration",
+      "pos": "n.",
+      "tr": "keşif, araştırma",
+      "ex": "Space exploration costs billions."
+    },
+    {
+      "id": "ext_expose",
+      "lv": "B2",
+      "w": "expose",
+      "pos": "v.",
+      "tr": "maruz bırakmak; ifşa etmek",
+      "ex": "Don't expose your skin to the midday sun."
+    },
+    {
+      "id": "ext_extend",
+      "lv": "B2",
+      "w": "extend",
+      "pos": "v.",
+      "tr": "uzatmak; genişletmek",
+      "ex": "They extended their stay by a week."
+    },
+    {
+      "id": "ext_extent",
+      "lv": "B2",
+      "w": "extent",
+      "pos": "n.",
+      "tr": "ölçü, derece, boyut",
+      "ex": "To some extent, I agree with you."
+    },
+    {
+      "id": "ext_external",
+      "lv": "B2",
+      "w": "external",
+      "pos": "adj.",
+      "tr": "dış, harici",
+      "ex": "The external walls need painting."
+    },
+    {
+      "id": "ext_extraordinary",
+      "lv": "B2",
+      "w": "extraordinary",
+      "pos": "adj.",
+      "tr": "olağanüstü",
+      "ex": "She has an extraordinary memory."
+    },
+    {
+      "id": "ext_facility",
+      "lv": "B2",
+      "w": "facility",
+      "pos": "n.",
+      "tr": "tesis, olanak",
+      "ex": "The hotel has excellent sports facilities."
+    },
+    {
+      "id": "ext_failure",
+      "lv": "B2",
+      "w": "failure",
+      "pos": "n.",
+      "tr": "başarısızlık; arıza",
+      "ex": "The plan ended in failure."
+    },
+    {
+      "id": "ext_faith",
+      "lv": "B2",
+      "w": "faith",
+      "pos": "n.",
+      "tr": "inanç; güven",
+      "ex": "She has great faith in her team."
+    },
+    {
+      "id": "ext_fault",
+      "lv": "B2",
+      "w": "fault",
+      "pos": "n.",
+      "tr": "kusur, hata; arıza",
+      "ex": "The accident was not your fault."
+    },
+    {
+      "id": "ext_favourable",
+      "lv": "C1",
+      "w": "favourable",
+      "pos": "adj.",
+      "tr": "olumlu, elverişli",
+      "ex": "The film received favourable reviews."
+    },
+    {
+      "id": "ext_feather",
+      "lv": "B2",
+      "w": "feather",
+      "pos": "n.",
+      "tr": "tüy (kuş)",
+      "ex": "The bird lost a feather."
+    },
+    {
+      "id": "ext_federal",
+      "lv": "B2",
+      "w": "federal",
+      "pos": "adj.",
+      "tr": "federal",
+      "ex": "The decision was made at the federal level."
+    },
+    {
+      "id": "ext_fee",
+      "lv": "B2",
+      "w": "fee",
+      "pos": "n.",
+      "tr": "ücret (hizmet)",
+      "ex": "The entrance fee is five pounds."
+    },
+    {
+      "id": "ext_feedback",
+      "lv": "B2",
+      "w": "feedback",
+      "pos": "n.",
+      "tr": "geri bildirim",
+      "ex": "The teacher gave us helpful feedback."
+    },
+    {
+      "id": "ext_fellow",
+      "lv": "B2",
+      "w": "fellow",
+      "pos": "adj.",
+      "tr": "diğer, hemcins (fellow students)",
+      "ex": "She gets on well with her fellow workers."
+    },
+    {
+      "id": "ext_fever",
+      "lv": "B2",
+      "w": "fever",
+      "pos": "n.",
+      "tr": "ateş (hastalık)",
+      "ex": "The child has a high fever."
+    },
+    {
+      "id": "ext_fibre",
+      "lv": "C1",
+      "w": "fibre",
+      "pos": "n.",
+      "tr": "lif; fiber",
+      "ex": "Vegetables are rich in fibre."
+    },
+    {
+      "id": "ext_film_maker",
+      "lv": "C1",
+      "w": "film-maker",
+      "pos": "n.",
+      "tr": "film yapımcısı, sinemacı",
+      "ex": "The young film-maker won an award."
+    },
+    {
+      "id": "ext_finance",
+      "lv": "B2",
+      "w": "finance",
+      "pos": "n., v.",
+      "tr": "finans(man); finanse etmek",
+      "ex": "The project is financed by the city."
+    },
+    {
+      "id": "ext_finding",
+      "lv": "B2",
+      "w": "finding",
+      "pos": "n.",
+      "tr": "bulgu",
+      "ex": "The study's findings surprised everyone."
+    },
+    {
+      "id": "ext_fixture",
+      "lv": "C1",
+      "w": "fixture",
+      "pos": "n.",
+      "tr": "fikstür (maç); sabit demirbaş",
+      "ex": "The next fixture is against the champions."
+    },
+    {
+      "id": "ext_flame",
+      "lv": "B2",
+      "w": "flame",
+      "pos": "n.",
+      "tr": "alev",
+      "ex": "The candle's flame danced in the wind."
+    },
+    {
+      "id": "ext_flash",
+      "lv": "B2",
+      "w": "flash",
+      "pos": "n., v.",
+      "tr": "parlama; flaş; çakmak",
+      "ex": "A flash of lightning lit the sky."
+    },
+    {
+      "id": "ext_flavour",
+      "lv": "B2",
+      "w": "flavour",
+      "pos": "n.",
+      "tr": "tat, lezzet, aroma",
+      "ex": "Which flavour of ice cream do you want?"
+    },
+    {
+      "id": "ext_flexible",
+      "lv": "B2",
+      "w": "flexible",
+      "pos": "adj.",
+      "tr": "esnek",
+      "ex": "My working hours are quite flexible."
+    },
+    {
+      "id": "ext_float",
+      "lv": "B2",
+      "w": "float",
+      "pos": "v.",
+      "tr": "yüzmek (suda), batmamak",
+      "ex": "Wood floats on water."
+    },
+    {
+      "id": "ext_folding",
+      "lv": "B2",
+      "w": "folding",
+      "pos": "adj.",
+      "tr": "katlanır",
+      "ex": "We took folding chairs to the beach."
+    },
+    {
+      "id": "ext_forgive",
+      "lv": "B2",
+      "w": "forgive",
+      "pos": "v.",
+      "tr": "affetmek, bağışlamak",
+      "ex": "She forgave him for forgetting her birthday."
+    },
+    {
+      "id": "ext_former",
+      "lv": "B2",
+      "w": "former",
+      "pos": "adj.",
+      "tr": "eski, önceki",
+      "ex": "The former teacher now writes books."
+    },
+    {
+      "id": "ext_fortune",
+      "lv": "B2",
+      "w": "fortune",
+      "pos": "n.",
+      "tr": "servet; talih",
+      "ex": "He made a fortune selling computers."
+    },
+    {
+      "id": "ext_found",
+      "lv": "B2",
+      "w": "found",
+      "pos": "v.",
+      "tr": "kurmak (kuruluş)",
+      "ex": "The school was founded a century ago."
+    },
+    {
+      "id": "ext_freedom",
+      "lv": "B2",
+      "w": "freedom",
+      "pos": "n.",
+      "tr": "özgürlük",
+      "ex": "Freedom of speech is a basic right."
+    },
+    {
+      "id": "ext_frequency",
+      "lv": "B2",
+      "w": "frequency",
+      "pos": "n.",
+      "tr": "sıklık; frekans",
+      "ex": "The frequency of storms has increased."
+    },
+    {
+      "id": "ext_fulfil",
+      "lv": "B2",
+      "w": "fulfil",
+      "pos": "v.",
+      "tr": "yerine getirmek; gerçekleştirmek",
+      "ex": "She fulfilled her dream of becoming a pilot."
+    },
+    {
+      "id": "ext_fully",
+      "lv": "B2",
+      "w": "fully",
+      "pos": "adv.",
+      "tr": "tamamen, bütünüyle",
+      "ex": "I fully understand your concerns."
+    },
+    {
+      "id": "ext_fund",
+      "lv": "B2",
+      "w": "fund",
+      "pos": "n., v.",
+      "tr": "fon; finanse etmek",
+      "ex": "The research is funded by the government."
+    },
+    {
+      "id": "ext_fundamental",
+      "lv": "B2",
+      "w": "fundamental",
+      "pos": "adj.",
+      "tr": "temel, esaslı",
+      "ex": "There is a fundamental difference between the two plans."
+    },
+    {
+      "id": "ext_funding",
+      "lv": "B2",
+      "w": "funding",
+      "pos": "n.",
+      "tr": "finansman, kaynak",
+      "ex": "The library lost its funding."
+    },
+    {
+      "id": "ext_furthermore",
+      "lv": "B2",
+      "w": "furthermore",
+      "pos": "adv.",
+      "tr": "ayrıca, dahası",
+      "ex": "The flat is small; furthermore, it is far from the centre."
     }
   ],
   "articles": [
