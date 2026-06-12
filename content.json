@@ -7376,6 +7376,1406 @@
       "pos": "n.",
       "tr": "hipotez, varsayım",
       "ex": "The experiment was designed to test a simple hypothesis."
+    },
+    {
+      "id": "ext_icon",
+      "lv": "B2",
+      "w": "icon",
+      "pos": "n.",
+      "tr": "simge, ikon",
+      "ex": "She became a fashion icon of her generation."
+    },
+    {
+      "id": "ext_id",
+      "lv": "B2",
+      "w": "id",
+      "pos": "n.",
+      "tr": "kimlik (belgesi)",
+      "ex": "You'll need to show some ID at the entrance."
+    },
+    {
+      "id": "ext_ideal",
+      "lv": "B2",
+      "w": "ideal",
+      "pos": "n.",
+      "tr": "ideal, ülkü",
+      "ex": "Equality before the law is a fundamental ideal."
+    },
+    {
+      "id": "ext_identical",
+      "lv": "B2",
+      "w": "identical",
+      "pos": "adj.",
+      "tr": "tıpatıp aynı, özdeş",
+      "ex": "The twins wore identical blue jackets."
+    },
+    {
+      "id": "ext_identification",
+      "lv": "C1",
+      "w": "identification",
+      "pos": "n.",
+      "tr": "kimlik tespiti; özdeşleşme",
+      "ex": "The police asked for identification before letting us in."
+    },
+    {
+      "id": "ext_ideological",
+      "lv": "C1",
+      "w": "ideological",
+      "pos": "adj.",
+      "tr": "ideolojik",
+      "ex": "The split in the party was ideological, not personal."
+    },
+    {
+      "id": "ext_ideology",
+      "lv": "C1",
+      "w": "ideology",
+      "pos": "n.",
+      "tr": "ideoloji",
+      "ex": "The movement was driven by a strict political ideology."
+    },
+    {
+      "id": "ext_idiot",
+      "lv": "C1",
+      "w": "idiot",
+      "pos": "n.",
+      "tr": "aptal, salak",
+      "ex": "I felt like an idiot when I forgot my own number."
+    },
+    {
+      "id": "ext_ignorance",
+      "lv": "C1",
+      "w": "ignorance",
+      "pos": "n.",
+      "tr": "cehalet, bilgisizlik",
+      "ex": "Fear often grows out of ignorance."
+    },
+    {
+      "id": "ext_illusion",
+      "lv": "B2",
+      "w": "illusion",
+      "pos": "n.",
+      "tr": "yanılsama, illüzyon",
+      "ex": "The mirror creates an illusion of space."
+    },
+    {
+      "id": "ext_illustrate",
+      "lv": "B2",
+      "w": "illustrate",
+      "pos": "v.",
+      "tr": "örneklerle açıklamak; resimlemek",
+      "ex": "A simple chart illustrates the trend clearly."
+    },
+    {
+      "id": "ext_illustration",
+      "lv": "B2",
+      "w": "illustration",
+      "pos": "n.",
+      "tr": "resimleme, illüstrasyon; örnek",
+      "ex": "The book contains beautiful hand-drawn illustrations."
+    },
+    {
+      "id": "ext_imagery",
+      "lv": "C1",
+      "w": "imagery",
+      "pos": "n.",
+      "tr": "imgeler, betimleme",
+      "ex": "The poem is rich in imagery of the sea."
+    },
+    {
+      "id": "ext_imagination",
+      "lv": "B2",
+      "w": "imagination",
+      "pos": "n.",
+      "tr": "hayal gücü",
+      "ex": "Children's games are powered by pure imagination."
+    },
+    {
+      "id": "ext_immense",
+      "lv": "C1",
+      "w": "immense",
+      "pos": "adj.",
+      "tr": "çok büyük, muazzam",
+      "ex": "The project required an immense amount of work."
+    },
+    {
+      "id": "ext_immigration",
+      "lv": "B2",
+      "w": "immigration",
+      "pos": "n.",
+      "tr": "göç (içe); göçmenlik işlemleri",
+      "ex": "Immigration has shaped the culture of the city."
+    },
+    {
+      "id": "ext_imminent",
+      "lv": "C1",
+      "w": "imminent",
+      "pos": "adj.",
+      "tr": "an meselesi, eli kulağında",
+      "ex": "Dark clouds warned of an imminent storm."
+    },
+    {
+      "id": "ext_immune",
+      "lv": "B2",
+      "w": "immune",
+      "pos": "adj.",
+      "tr": "bağışık; etkilenmez",
+      "ex": "Vaccinated people are largely immune to the disease."
+    },
+    {
+      "id": "ext_impatient",
+      "lv": "B2",
+      "w": "impatient",
+      "pos": "adj.",
+      "tr": "sabırsız",
+      "ex": "The passengers grew impatient as the delay continued."
+    },
+    {
+      "id": "ext_implement",
+      "lv": "B2",
+      "w": "implement",
+      "pos": "v.",
+      "tr": "uygulamak, yürürlüğe koymak",
+      "ex": "The school implemented a new attendance policy."
+    },
+    {
+      "id": "ext_implementation",
+      "lv": "C1",
+      "w": "implementation",
+      "pos": "n.",
+      "tr": "uygulama, yürürlüğe koyma",
+      "ex": "The implementation of the plan took two years."
+    },
+    {
+      "id": "ext_implication",
+      "lv": "B2",
+      "w": "implication",
+      "pos": "n.",
+      "tr": "ima; (olası) sonuç, etki",
+      "ex": "The new law has serious implications for small firms."
+    },
+    {
+      "id": "ext_imply",
+      "lv": "B2",
+      "w": "imply",
+      "pos": "v.",
+      "tr": "ima etmek; anlamına gelmek",
+      "ex": "Her silence seemed to imply agreement."
+    },
+    {
+      "id": "ext_impose",
+      "lv": "B2",
+      "w": "impose",
+      "pos": "v.",
+      "tr": "dayatmak, (vergi/ceza) koymak",
+      "ex": "The court imposed a heavy fine on the company."
+    },
+    {
+      "id": "ext_impress",
+      "lv": "B2",
+      "w": "impress",
+      "pos": "v.",
+      "tr": "etkilemek, hayran bırakmak",
+      "ex": "The candidate impressed everyone with her answers."
+    },
+    {
+      "id": "ext_impressed",
+      "lv": "B2",
+      "w": "impressed",
+      "pos": "adj.",
+      "tr": "etkilenmiş",
+      "ex": "I was impressed by how calm he stayed."
+    },
+    {
+      "id": "ext_imprison",
+      "lv": "C1",
+      "w": "imprison",
+      "pos": "v.",
+      "tr": "hapsetmek",
+      "ex": "The journalist was imprisoned for two years."
+    },
+    {
+      "id": "ext_imprisonment",
+      "lv": "C1",
+      "w": "imprisonment",
+      "pos": "n.",
+      "tr": "hapis (cezası)",
+      "ex": "He faces ten years of imprisonment if convicted."
+    },
+    {
+      "id": "ext_inability",
+      "lv": "C1",
+      "w": "inability",
+      "pos": "n.",
+      "tr": "yapamama, yetersizlik",
+      "ex": "His inability to delegate slowed the whole team."
+    },
+    {
+      "id": "ext_inadequate",
+      "lv": "C1",
+      "w": "inadequate",
+      "pos": "adj.",
+      "tr": "yetersiz",
+      "ex": "The flood defences proved completely inadequate."
+    },
+    {
+      "id": "ext_inappropriate",
+      "lv": "C1",
+      "w": "inappropriate",
+      "pos": "adj.",
+      "tr": "uygunsuz, yakışıksız",
+      "ex": "His joke was inappropriate for a funeral."
+    },
+    {
+      "id": "ext_incentive",
+      "lv": "B2",
+      "w": "incentive",
+      "pos": "n.",
+      "tr": "teşvik, özendirici",
+      "ex": "Tax cuts give firms an incentive to invest."
+    },
+    {
+      "id": "ext_inch",
+      "lv": "B2",
+      "w": "inch",
+      "pos": "n.",
+      "tr": "inç (2,54 cm)",
+      "ex": "The water rose several inches overnight."
+    },
+    {
+      "id": "ext_incidence",
+      "lv": "C1",
+      "w": "incidence",
+      "pos": "n.",
+      "tr": "görülme sıklığı, yaygınlık",
+      "ex": "The incidence of the disease falls in summer."
+    },
+    {
+      "id": "ext_incident",
+      "lv": "B2",
+      "w": "incident",
+      "pos": "n.",
+      "tr": "olay, hadise",
+      "ex": "Police are investigating an incident at the station."
+    },
+    {
+      "id": "ext_inclined",
+      "lv": "C1",
+      "w": "inclined",
+      "pos": "adj.",
+      "tr": "eğilimli; meyilli",
+      "ex": "I'm inclined to agree with your analysis."
+    },
+    {
+      "id": "ext_inclusion",
+      "lv": "C1",
+      "w": "inclusion",
+      "pos": "n.",
+      "tr": "dahil etme/edilme; kapsayıcılık",
+      "ex": "The inclusion of her name on the list surprised everyone."
+    },
+    {
+      "id": "ext_income",
+      "lv": "B2",
+      "w": "income",
+      "pos": "n.",
+      "tr": "gelir",
+      "ex": "Families on a low income receive extra support."
+    },
+    {
+      "id": "ext_incorporate",
+      "lv": "B2",
+      "w": "incorporate",
+      "pos": "v.",
+      "tr": "bünyesine katmak, dahil etmek",
+      "ex": "The design incorporates several safety features."
+    },
+    {
+      "id": "ext_incorrect",
+      "lv": "B2",
+      "w": "incorrect",
+      "pos": "adj.",
+      "tr": "yanlış, hatalı",
+      "ex": "The address on the parcel was incorrect."
+    },
+    {
+      "id": "ext_increasingly",
+      "lv": "B2",
+      "w": "increasingly",
+      "pos": "adv.",
+      "tr": "giderek daha fazla",
+      "ex": "Shoppers are increasingly turning to second-hand goods."
+    },
+    {
+      "id": "ext_incur",
+      "lv": "C1",
+      "w": "incur",
+      "pos": "v.",
+      "tr": "(masraf/zarar) maruz kalmak, üstlenmek",
+      "ex": "Late payments incur an extra charge."
+    },
+    {
+      "id": "ext_independence",
+      "lv": "B2",
+      "w": "independence",
+      "pos": "n.",
+      "tr": "bağımsızlık",
+      "ex": "The colony gained its independence in 1960."
+    },
+    {
+      "id": "ext_index",
+      "lv": "B2",
+      "w": "index",
+      "pos": "n.",
+      "tr": "dizin, indeks; gösterge",
+      "ex": "Look the term up in the index at the back."
+    },
+    {
+      "id": "ext_indication",
+      "lv": "B2",
+      "w": "indication",
+      "pos": "n.",
+      "tr": "belirti, işaret",
+      "ex": "There was no indication that anything was wrong."
+    },
+    {
+      "id": "ext_indicator",
+      "lv": "C1",
+      "w": "indicator",
+      "pos": "n.",
+      "tr": "gösterge",
+      "ex": "Unemployment is a key indicator of economic health."
+    },
+    {
+      "id": "ext_indictment",
+      "lv": "C1",
+      "w": "indictment",
+      "pos": "n.",
+      "tr": "iddianame; (bir şeyin kötülüğünün) kanıtı",
+      "ex": "The empty playgrounds are a sad indictment of our times."
+    },
+    {
+      "id": "ext_indigenous",
+      "lv": "C1",
+      "w": "indigenous",
+      "pos": "adj.",
+      "tr": "yerli, o topraklara özgü",
+      "ex": "The park protects plants indigenous to the region."
+    },
+    {
+      "id": "ext_induce",
+      "lv": "C1",
+      "w": "induce",
+      "pos": "v.",
+      "tr": "yol açmak; ikna etmek; (doğum) başlatmak",
+      "ex": "Stress can induce headaches in some people."
+    },
+    {
+      "id": "ext_indulge",
+      "lv": "C1",
+      "w": "indulge",
+      "pos": "v.",
+      "tr": "kendini şımartmak; (isteğe) boyun eğmek",
+      "ex": "At weekends she indulges in long, lazy breakfasts."
+    },
+    {
+      "id": "ext_industrial",
+      "lv": "B2",
+      "w": "industrial",
+      "pos": "adj.",
+      "tr": "endüstriyel, sanayi ile ilgili",
+      "ex": "The industrial zone lies east of the river."
+    },
+    {
+      "id": "ext_inequality",
+      "lv": "C1",
+      "w": "inequality",
+      "pos": "n.",
+      "tr": "eşitsizlik",
+      "ex": "Income inequality has widened over the decade."
+    },
+    {
+      "id": "ext_inevitable",
+      "lv": "B2",
+      "w": "inevitable",
+      "pos": "adj.",
+      "tr": "kaçınılmaz",
+      "ex": "After such losses, change was inevitable."
+    },
+    {
+      "id": "ext_inevitably",
+      "lv": "B2",
+      "w": "inevitably",
+      "pos": "adv.",
+      "tr": "kaçınılmaz olarak",
+      "ex": "Inevitably, the cheaper model sold out first."
+    },
+    {
+      "id": "ext_infamous",
+      "lv": "C1",
+      "w": "infamous",
+      "pos": "adj.",
+      "tr": "adı çıkmış, kötü şöhretli",
+      "ex": "The area was once infamous for its crime."
+    },
+    {
+      "id": "ext_infant",
+      "lv": "C1",
+      "w": "infant",
+      "pos": "n.",
+      "tr": "bebek, küçük çocuk",
+      "ex": "The clinic monitors the growth of infants."
+    },
+    {
+      "id": "ext_infect",
+      "lv": "C1",
+      "w": "infect",
+      "pos": "v.",
+      "tr": "bulaştırmak, enfekte etmek",
+      "ex": "One sick passenger can infect many others."
+    },
+    {
+      "id": "ext_infection",
+      "lv": "B2",
+      "w": "infection",
+      "pos": "n.",
+      "tr": "enfeksiyon",
+      "ex": "Wash the cut carefully to prevent infection."
+    },
+    {
+      "id": "ext_infer",
+      "lv": "B2",
+      "w": "infer",
+      "pos": "v.",
+      "tr": "sonuç çıkarmak, anlam çıkarmak",
+      "ex": "From her tone, I inferred that she was annoyed."
+    },
+    {
+      "id": "ext_inflation",
+      "lv": "B2",
+      "w": "inflation",
+      "pos": "n.",
+      "tr": "enflasyon",
+      "ex": "Inflation rose sharply after the oil shock."
+    },
+    {
+      "id": "ext_inflict",
+      "lv": "C1",
+      "w": "inflict",
+      "pos": "v.",
+      "tr": "(acı/zarar) vermek, yaşatmak",
+      "ex": "The storm inflicted severe damage on the coast."
+    },
+    {
+      "id": "ext_influential",
+      "lv": "C1",
+      "w": "influential",
+      "pos": "adj.",
+      "tr": "etkili, sözü geçen",
+      "ex": "She is one of the most influential voices in science."
+    },
+    {
+      "id": "ext_info",
+      "lv": "B2",
+      "w": "info",
+      "pos": "n.",
+      "tr": "bilgi (kısa kullanım)",
+      "ex": "Check the website for more info about tickets."
+    },
+    {
+      "id": "ext_inform",
+      "lv": "B2",
+      "w": "inform",
+      "pos": "v.",
+      "tr": "bilgilendirmek, haber vermek",
+      "ex": "Please inform us of any change of address."
+    },
+    {
+      "id": "ext_infrastructure",
+      "lv": "B2",
+      "w": "infrastructure",
+      "pos": "n.",
+      "tr": "altyapı",
+      "ex": "The country is investing heavily in transport infrastructure."
+    },
+    {
+      "id": "ext_inhabitant",
+      "lv": "B2",
+      "w": "inhabitant",
+      "pos": "n.",
+      "tr": "sakin, oturan",
+      "ex": "The island has fewer than a hundred inhabitants."
+    },
+    {
+      "id": "ext_inherent",
+      "lv": "C1",
+      "w": "inherent",
+      "pos": "adj.",
+      "tr": "doğasında olan, içkin",
+      "ex": "Risk is inherent in every investment."
+    },
+    {
+      "id": "ext_inherit",
+      "lv": "B2",
+      "w": "inherit",
+      "pos": "v.",
+      "tr": "miras almak",
+      "ex": "She inherited the farm from her grandfather."
+    },
+    {
+      "id": "ext_inhibit",
+      "lv": "C1",
+      "w": "inhibit",
+      "pos": "v.",
+      "tr": "engellemek, ketlemek",
+      "ex": "Fear of failure can inhibit creativity."
+    },
+    {
+      "id": "ext_initial",
+      "lv": "B2",
+      "w": "initial",
+      "pos": "adj.",
+      "tr": "ilk, başlangıçtaki",
+      "ex": "My initial reaction was disbelief."
+    },
+    {
+      "id": "ext_initially",
+      "lv": "B2",
+      "w": "initially",
+      "pos": "adv.",
+      "tr": "başlangıçta, ilk olarak",
+      "ex": "Initially the plan seemed too expensive."
+    },
+    {
+      "id": "ext_initiate",
+      "lv": "C1",
+      "w": "initiate",
+      "pos": "v.",
+      "tr": "başlatmak",
+      "ex": "The ministry initiated an inquiry into the accident."
+    },
+    {
+      "id": "ext_initiative",
+      "lv": "B2",
+      "w": "initiative",
+      "pos": "n.",
+      "tr": "girişim; inisiyatif",
+      "ex": "She showed great initiative in solving the problem."
+    },
+    {
+      "id": "ext_inject",
+      "lv": "C1",
+      "w": "inject",
+      "pos": "v.",
+      "tr": "enjekte etmek; (para/canlılık) katmak",
+      "ex": "The nurse injected the vaccine into his arm."
+    },
+    {
+      "id": "ext_injection",
+      "lv": "C1",
+      "w": "injection",
+      "pos": "n.",
+      "tr": "iğne, enjeksiyon",
+      "ex": "The injection protects against three diseases."
+    },
+    {
+      "id": "ext_injustice",
+      "lv": "C1",
+      "w": "injustice",
+      "pos": "n.",
+      "tr": "adaletsizlik, haksızlık",
+      "ex": "They campaigned against injustice in the courts."
+    },
+    {
+      "id": "ext_ink",
+      "lv": "B2",
+      "w": "ink",
+      "pos": "n.",
+      "tr": "mürekkep",
+      "ex": "The printer has run out of ink again."
+    },
+    {
+      "id": "ext_inmate",
+      "lv": "C1",
+      "w": "inmate",
+      "pos": "n.",
+      "tr": "mahkûm, (kurum) sakini",
+      "ex": "The prison offers education classes for inmates."
+    },
+    {
+      "id": "ext_inner",
+      "lv": "B2",
+      "w": "inner",
+      "pos": "adj.",
+      "tr": "iç, içteki",
+      "ex": "The inner rooms of the palace were cool and dark."
+    },
+    {
+      "id": "ext_innovation",
+      "lv": "B2",
+      "w": "innovation",
+      "pos": "n.",
+      "tr": "yenilik, inovasyon",
+      "ex": "The prize rewards innovation in green technology."
+    },
+    {
+      "id": "ext_innovative",
+      "lv": "B2",
+      "w": "innovative",
+      "pos": "adj.",
+      "tr": "yenilikçi",
+      "ex": "The firm is known for its innovative designs."
+    },
+    {
+      "id": "ext_input",
+      "lv": "B2",
+      "w": "input",
+      "pos": "n.",
+      "tr": "girdi; katkı",
+      "ex": "We'd value your input on the new plan."
+    },
+    {
+      "id": "ext_inquiry",
+      "lv": "B2",
+      "w": "inquiry",
+      "pos": "n.",
+      "tr": "soruşturma; bilgi talebi",
+      "ex": "The crash led to a public inquiry."
+    },
+    {
+      "id": "ext_insert",
+      "lv": "B2",
+      "w": "insert",
+      "pos": "v.",
+      "tr": "sokmak, yerleştirmek, eklemek",
+      "ex": "Insert the card and enter your code."
+    },
+    {
+      "id": "ext_insertion",
+      "lv": "C1",
+      "w": "insertion",
+      "pos": "n.",
+      "tr": "ekleme, yerleştirme",
+      "ex": "The insertion of a new clause delayed the contract."
+    },
+    {
+      "id": "ext_insider",
+      "lv": "C1",
+      "w": "insider",
+      "pos": "n.",
+      "tr": "içeriden biri, kurum içi kişi",
+      "ex": "According to one insider, the deal is nearly done."
+    },
+    {
+      "id": "ext_insight",
+      "lv": "B2",
+      "w": "insight",
+      "pos": "n.",
+      "tr": "içgörü, kavrayış",
+      "ex": "The book offers fresh insight into ancient trade."
+    },
+    {
+      "id": "ext_insist",
+      "lv": "B2",
+      "w": "insist",
+      "pos": "v.",
+      "tr": "ısrar etmek",
+      "ex": "He insisted on paying for everyone's dinner."
+    },
+    {
+      "id": "ext_inspect",
+      "lv": "C1",
+      "w": "inspect",
+      "pos": "v.",
+      "tr": "denetlemek, incelemek",
+      "ex": "Officials inspected the factory after the complaints."
+    },
+    {
+      "id": "ext_inspection",
+      "lv": "C1",
+      "w": "inspection",
+      "pos": "n.",
+      "tr": "denetim, muayene",
+      "ex": "The bridge passed its annual safety inspection."
+    },
+    {
+      "id": "ext_inspector",
+      "lv": "B2",
+      "w": "inspector",
+      "pos": "n.",
+      "tr": "müfettiş, denetmen",
+      "ex": "A ticket inspector boarded the train at noon."
+    },
+    {
+      "id": "ext_inspiration",
+      "lv": "C1",
+      "w": "inspiration",
+      "pos": "n.",
+      "tr": "ilham, esin",
+      "ex": "The mountains were the inspiration for her paintings."
+    },
+    {
+      "id": "ext_inspire",
+      "lv": "B2",
+      "w": "inspire",
+      "pos": "v.",
+      "tr": "ilham vermek; cesaretlendirmek",
+      "ex": "Her courage inspired the whole team."
+    },
+    {
+      "id": "ext_install",
+      "lv": "B2",
+      "w": "install",
+      "pos": "v.",
+      "tr": "kurmak, monte etmek",
+      "ex": "We installed solar panels on the roof."
+    },
+    {
+      "id": "ext_installation",
+      "lv": "B2",
+      "w": "installation",
+      "pos": "n.",
+      "tr": "kurulum; tesis",
+      "ex": "The installation of the new system took a day."
+    },
+    {
+      "id": "ext_instance",
+      "lv": "B2",
+      "w": "instance",
+      "pos": "n.",
+      "tr": "örnek, durum",
+      "ex": "In most instances, the symptoms disappear quickly."
+    },
+    {
+      "id": "ext_instant",
+      "lv": "B2",
+      "w": "instant",
+      "pos": "adj.",
+      "tr": "anında olan, ani",
+      "ex": "The film was an instant success."
+    },
+    {
+      "id": "ext_instantly",
+      "lv": "B2",
+      "w": "instantly",
+      "pos": "adv.",
+      "tr": "anında, derhal",
+      "ex": "She recognised his voice instantly."
+    },
+    {
+      "id": "ext_instinct",
+      "lv": "C1",
+      "w": "instinct",
+      "pos": "n.",
+      "tr": "içgüdü",
+      "ex": "Birds build nests by instinct, not by learning."
+    },
+    {
+      "id": "ext_institute",
+      "lv": "B2",
+      "w": "institute",
+      "pos": "n.",
+      "tr": "enstitü",
+      "ex": "She works at a research institute in Geneva."
+    },
+    {
+      "id": "ext_institution",
+      "lv": "B2",
+      "w": "institution",
+      "pos": "n.",
+      "tr": "kurum, kuruluş",
+      "ex": "Universities are among our oldest institutions."
+    },
+    {
+      "id": "ext_institutional",
+      "lv": "C1",
+      "w": "institutional",
+      "pos": "adj.",
+      "tr": "kurumsal",
+      "ex": "The report criticised institutional resistance to change."
+    },
+    {
+      "id": "ext_instruct",
+      "lv": "C1",
+      "w": "instruct",
+      "pos": "v.",
+      "tr": "talimat vermek; öğretmek",
+      "ex": "The guards were instructed to check every bag."
+    },
+    {
+      "id": "ext_instrumental",
+      "lv": "C1",
+      "w": "instrumental",
+      "pos": "adj.",
+      "tr": "etkili, önemli rol oynayan; enstrümantal",
+      "ex": "She was instrumental in setting up the charity."
+    },
+    {
+      "id": "ext_insufficient",
+      "lv": "C1",
+      "w": "insufficient",
+      "pos": "adj.",
+      "tr": "yetersiz",
+      "ex": "The project failed because of insufficient funding."
+    },
+    {
+      "id": "ext_insult",
+      "lv": "C1",
+      "w": "insult",
+      "pos": "n., v.",
+      "tr": "hakaret; hakaret etmek",
+      "ex": "He took the remark as a personal insult."
+    },
+    {
+      "id": "ext_insurance",
+      "lv": "B2",
+      "w": "insurance",
+      "pos": "n.",
+      "tr": "sigorta",
+      "ex": "Travel insurance covered the cost of the lost bag."
+    },
+    {
+      "id": "ext_intact",
+      "lv": "C1",
+      "w": "intact",
+      "pos": "adj.",
+      "tr": "sağlam, bozulmamış, el değmemiş",
+      "ex": "Amazingly, the vase survived the move intact."
+    },
+    {
+      "id": "ext_intake",
+      "lv": "C1",
+      "w": "intake",
+      "pos": "n.",
+      "tr": "alım (gıda/öğrenci/hava)",
+      "ex": "Doctors advised him to reduce his salt intake."
+    },
+    {
+      "id": "ext_integral",
+      "lv": "C1",
+      "w": "integral",
+      "pos": "adj.",
+      "tr": "ayrılmaz, asli",
+      "ex": "Music is an integral part of the ceremony."
+    },
+    {
+      "id": "ext_integrate",
+      "lv": "B2",
+      "w": "integrate",
+      "pos": "v.",
+      "tr": "bütünleştirmek; uyum sağlamak",
+      "ex": "The app integrates maps with public transport times."
+    },
+    {
+      "id": "ext_integrated",
+      "lv": "C1",
+      "w": "integrated",
+      "pos": "adj.",
+      "tr": "entegre, bütünleşik",
+      "ex": "The city has an integrated network of buses and trams."
+    },
+    {
+      "id": "ext_integration",
+      "lv": "C1",
+      "w": "integration",
+      "pos": "n.",
+      "tr": "bütünleşme, entegrasyon",
+      "ex": "The course supports the integration of new arrivals."
+    },
+    {
+      "id": "ext_integrity",
+      "lv": "C1",
+      "w": "integrity",
+      "pos": "n.",
+      "tr": "dürüstlük; bütünlük",
+      "ex": "No one ever questioned her integrity."
+    },
+    {
+      "id": "ext_intellectual",
+      "lv": "B2",
+      "w": "intellectual",
+      "pos": "adj., n.",
+      "tr": "entelektüel, zihinsel; aydın",
+      "ex": "Chess is a demanding intellectual game."
+    },
+    {
+      "id": "ext_intended",
+      "lv": "B2",
+      "w": "intended",
+      "pos": "adj.",
+      "tr": "amaçlanan, kasıtlı",
+      "ex": "The message reached a far wider audience than intended."
+    },
+    {
+      "id": "ext_intense",
+      "lv": "B2",
+      "w": "intense",
+      "pos": "adj.",
+      "tr": "yoğun, şiddetli",
+      "ex": "The heat at midday was intense."
+    },
+    {
+      "id": "ext_intensify",
+      "lv": "C1",
+      "w": "intensify",
+      "pos": "v.",
+      "tr": "yoğunlaştırmak, şiddetlenmek",
+      "ex": "The search intensified as night fell."
+    },
+    {
+      "id": "ext_intensity",
+      "lv": "C1",
+      "w": "intensity",
+      "pos": "n.",
+      "tr": "yoğunluk, şiddet",
+      "ex": "The intensity of the storm surprised forecasters."
+    },
+    {
+      "id": "ext_intensive",
+      "lv": "C1",
+      "w": "intensive",
+      "pos": "adj.",
+      "tr": "yoğun(laştırılmış)",
+      "ex": "She took an intensive course in Spanish."
+    },
+    {
+      "id": "ext_intent",
+      "lv": "C1",
+      "w": "intent",
+      "pos": "n.",
+      "tr": "niyet, kasıt",
+      "ex": "He denied any intent to deceive the buyers."
+    },
+    {
+      "id": "ext_interact",
+      "lv": "B2",
+      "w": "interact",
+      "pos": "v.",
+      "tr": "etkileşimde bulunmak",
+      "ex": "The nursery lets children interact with animals safely."
+    },
+    {
+      "id": "ext_interaction",
+      "lv": "B2",
+      "w": "interaction",
+      "pos": "n.",
+      "tr": "etkileşim",
+      "ex": "Face-to-face interaction is hard to replace."
+    },
+    {
+      "id": "ext_interactive",
+      "lv": "C1",
+      "w": "interactive",
+      "pos": "adj.",
+      "tr": "etkileşimli, interaktif",
+      "ex": "The museum is full of interactive exhibits."
+    },
+    {
+      "id": "ext_interface",
+      "lv": "C1",
+      "w": "interface",
+      "pos": "n.",
+      "tr": "arayüz",
+      "ex": "The app's interface is clean and easy to learn."
+    },
+    {
+      "id": "ext_interfere",
+      "lv": "C1",
+      "w": "interfere",
+      "pos": "v.",
+      "tr": "karışmak, müdahale etmek",
+      "ex": "Don't let work interfere with your sleep."
+    },
+    {
+      "id": "ext_interference",
+      "lv": "C1",
+      "w": "interference",
+      "pos": "n.",
+      "tr": "müdahale; parazit",
+      "ex": "The referee complained about interference from the crowd."
+    },
+    {
+      "id": "ext_interim",
+      "lv": "C1",
+      "w": "interim",
+      "pos": "adj.",
+      "tr": "geçici, ara (dönem)",
+      "ex": "An interim manager will run the office until June."
+    },
+    {
+      "id": "ext_interior",
+      "lv": "C1",
+      "w": "interior",
+      "pos": "adj., n.",
+      "tr": "iç; iç mekân",
+      "ex": "The car's interior smelled of new leather."
+    },
+    {
+      "id": "ext_intermediate",
+      "lv": "C1",
+      "w": "intermediate",
+      "pos": "adj.",
+      "tr": "orta düzey(de)",
+      "ex": "The class is aimed at intermediate learners."
+    },
+    {
+      "id": "ext_internal",
+      "lv": "B2",
+      "w": "internal",
+      "pos": "adj.",
+      "tr": "iç, dahili",
+      "ex": "The report was for internal use only."
+    },
+    {
+      "id": "ext_interpret",
+      "lv": "B2",
+      "w": "interpret",
+      "pos": "v.",
+      "tr": "yorumlamak; çevirmenlik yapmak",
+      "ex": "Each reader interprets the poem differently."
+    },
+    {
+      "id": "ext_interpretation",
+      "lv": "B2",
+      "w": "interpretation",
+      "pos": "n.",
+      "tr": "yorum(lama)",
+      "ex": "The law is open to more than one interpretation."
+    },
+    {
+      "id": "ext_interrupt",
+      "lv": "B2",
+      "w": "interrupt",
+      "pos": "v.",
+      "tr": "sözünü kesmek, yarıda kesmek",
+      "ex": "Please don't interrupt while she's explaining."
+    },
+    {
+      "id": "ext_interval",
+      "lv": "B2",
+      "w": "interval",
+      "pos": "n.",
+      "tr": "aralık; ara",
+      "ex": "Trains leave at twenty-minute intervals."
+    },
+    {
+      "id": "ext_intervene",
+      "lv": "C1",
+      "w": "intervene",
+      "pos": "v.",
+      "tr": "araya girmek, müdahale etmek",
+      "ex": "A teacher intervened to stop the argument."
+    },
+    {
+      "id": "ext_intervention",
+      "lv": "C1",
+      "w": "intervention",
+      "pos": "n.",
+      "tr": "müdahale",
+      "ex": "Early intervention can prevent serious illness."
+    },
+    {
+      "id": "ext_intimate",
+      "lv": "C1",
+      "w": "intimate",
+      "pos": "adj.",
+      "tr": "samimi, yakın; mahrem",
+      "ex": "The restaurant has a quiet, intimate atmosphere."
+    },
+    {
+      "id": "ext_intriguing",
+      "lv": "C1",
+      "w": "intriguing",
+      "pos": "adj.",
+      "tr": "merak uyandıran, ilginç",
+      "ex": "The letter contained an intriguing suggestion."
+    },
+    {
+      "id": "ext_invade",
+      "lv": "B2",
+      "w": "invade",
+      "pos": "v.",
+      "tr": "istila etmek; (mahremiyete) izinsiz girmek",
+      "ex": "The army invaded the neighbouring country at dawn."
+    },
+    {
+      "id": "ext_invasion",
+      "lv": "B2",
+      "w": "invasion",
+      "pos": "n.",
+      "tr": "istila, işgal",
+      "ex": "The invasion was condemned around the world."
+    },
+    {
+      "id": "ext_investigation",
+      "lv": "B2",
+      "w": "investigation",
+      "pos": "n.",
+      "tr": "soruşturma, araştırma",
+      "ex": "The investigation lasted nearly three years."
+    },
+    {
+      "id": "ext_investigator",
+      "lv": "C1",
+      "w": "investigator",
+      "pos": "n.",
+      "tr": "soruşturmacı, müfettiş",
+      "ex": "Investigators examined the wreckage for clues."
+    },
+    {
+      "id": "ext_investment",
+      "lv": "B2",
+      "w": "investment",
+      "pos": "n.",
+      "tr": "yatırım",
+      "ex": "Education is the best investment a country can make."
+    },
+    {
+      "id": "ext_investor",
+      "lv": "B2",
+      "w": "investor",
+      "pos": "n.",
+      "tr": "yatırımcı",
+      "ex": "Small investors lost money when the bank failed."
+    },
+    {
+      "id": "ext_invisible",
+      "lv": "C1",
+      "w": "invisible",
+      "pos": "adj.",
+      "tr": "görünmez",
+      "ex": "The gas is invisible but highly dangerous."
+    },
+    {
+      "id": "ext_invoke",
+      "lv": "C1",
+      "w": "invoke",
+      "pos": "v.",
+      "tr": "(yasa/hak) dayanak göstermek; çağırmak",
+      "ex": "The lawyer invoked an old law to defend her client."
+    },
+    {
+      "id": "ext_involvement",
+      "lv": "C1",
+      "w": "involvement",
+      "pos": "n.",
+      "tr": "katılım, dahil olma",
+      "ex": "He denied any involvement in the robbery."
+    },
+    {
+      "id": "ext_ironic",
+      "lv": "C1",
+      "w": "ironic",
+      "pos": "adj.",
+      "tr": "ironik, alaycı",
+      "ex": "It's ironic that the fire station burned down."
+    },
+    {
+      "id": "ext_ironically",
+      "lv": "C1",
+      "w": "ironically",
+      "pos": "adv.",
+      "tr": "ironik biçimde",
+      "ex": "Ironically, the diet book made her hungrier."
+    },
+    {
+      "id": "ext_irony",
+      "lv": "C1",
+      "w": "irony",
+      "pos": "n.",
+      "tr": "ironi",
+      "ex": "The irony of his remark was lost on no one."
+    },
+    {
+      "id": "ext_irrelevant",
+      "lv": "C1",
+      "w": "irrelevant",
+      "pos": "adj.",
+      "tr": "konu dışı, alakasız",
+      "ex": "Personal taste is irrelevant to the legal question."
+    },
+    {
+      "id": "ext_isolate",
+      "lv": "B2",
+      "w": "isolate",
+      "pos": "v.",
+      "tr": "yalıtmak, izole etmek; ayırmak",
+      "ex": "Scientists isolated the virus within weeks."
+    },
+    {
+      "id": "ext_isolated",
+      "lv": "B2",
+      "w": "isolated",
+      "pos": "adj.",
+      "tr": "ücra, yalıtılmış; münferit",
+      "ex": "They live in an isolated farmhouse in the hills."
+    },
+    {
+      "id": "ext_isolation",
+      "lv": "C1",
+      "w": "isolation",
+      "pos": "n.",
+      "tr": "yalıtılmışlık, yalnızlık; izolasyon",
+      "ex": "Working from home can lead to social isolation."
+    },
+    {
+      "id": "ext_issue",
+      "lv": "B2",
+      "w": "issue",
+      "pos": "v.",
+      "tr": "yayımlamak, vermek, çıkarmak",
+      "ex": "The ministry issued a warning about the heatwave."
+    },
+    {
+      "id": "ext_jail",
+      "lv": "B2",
+      "w": "jail",
+      "pos": "n., v.",
+      "tr": "hapishane; hapse atmak",
+      "ex": "He spent three months in jail for fraud."
+    },
+    {
+      "id": "ext_jet",
+      "lv": "B2",
+      "w": "jet",
+      "pos": "n.",
+      "tr": "jet (uçağı); fıskiye",
+      "ex": "The team travelled by private jet."
+    },
+    {
+      "id": "ext_joint",
+      "lv": "B2",
+      "w": "joint",
+      "pos": "adj., n.",
+      "tr": "ortak; eklem",
+      "ex": "The project is a joint effort between two universities."
+    },
+    {
+      "id": "ext_journalism",
+      "lv": "B2",
+      "w": "journalism",
+      "pos": "n.",
+      "tr": "gazetecilik",
+      "ex": "She studied journalism before joining the paper."
+    },
+    {
+      "id": "ext_joy",
+      "lv": "B2",
+      "w": "joy",
+      "pos": "n.",
+      "tr": "sevinç, neşe",
+      "ex": "The birth of the baby brought great joy."
+    },
+    {
+      "id": "ext_judgement",
+      "lv": "B2",
+      "w": "judgement",
+      "pos": "n.",
+      "tr": "yargı, karar; muhakeme",
+      "ex": "Use your own judgement when choosing a route."
+    },
+    {
+      "id": "ext_judicial",
+      "lv": "C1",
+      "w": "judicial",
+      "pos": "adj.",
+      "tr": "yargısal, adli",
+      "ex": "The case is now under judicial review."
+    },
+    {
+      "id": "ext_junction",
+      "lv": "C1",
+      "w": "junction",
+      "pos": "n.",
+      "tr": "kavşak",
+      "ex": "Turn left at the next junction."
+    },
+    {
+      "id": "ext_junior",
+      "lv": "B2",
+      "w": "junior",
+      "pos": "adj.",
+      "tr": "kıdemsiz; genç",
+      "ex": "She started as a junior reporter on a local paper."
+    },
+    {
+      "id": "ext_jurisdiction",
+      "lv": "C1",
+      "w": "jurisdiction",
+      "pos": "n.",
+      "tr": "yargı yetkisi",
+      "ex": "The court has no jurisdiction over foreign companies."
+    },
+    {
+      "id": "ext_jury",
+      "lv": "B2",
+      "w": "jury",
+      "pos": "n.",
+      "tr": "jüri",
+      "ex": "The jury reached a verdict in two hours."
+    },
+    {
+      "id": "ext_just",
+      "lv": "C1",
+      "w": "just",
+      "pos": "adj.",
+      "tr": "adil, haklı",
+      "ex": "It was a just punishment for such a crime."
+    },
+    {
+      "id": "ext_justice",
+      "lv": "B2",
+      "w": "justice",
+      "pos": "n.",
+      "tr": "adalet",
+      "ex": "The families are still waiting for justice."
+    },
+    {
+      "id": "ext_justification",
+      "lv": "C1",
+      "w": "justification",
+      "pos": "n.",
+      "tr": "gerekçe, haklı neden",
+      "ex": "There is no justification for such cruelty."
+    },
+    {
+      "id": "ext_justify",
+      "lv": "B2",
+      "w": "justify",
+      "pos": "v.",
+      "tr": "haklı çıkarmak, gerekçelendirmek",
+      "ex": "How can you justify spending so much on shoes?"
+    },
+    {
+      "id": "ext_kidnap",
+      "lv": "C1",
+      "w": "kidnap",
+      "pos": "v.",
+      "tr": "(adam) kaçırmak",
+      "ex": "The gang planned to kidnap a wealthy businessman."
+    },
+    {
+      "id": "ext_kidney",
+      "lv": "C1",
+      "w": "kidney",
+      "pos": "n.",
+      "tr": "böbrek",
+      "ex": "He donated a kidney to his brother."
+    },
+    {
+      "id": "ext_kingdom",
+      "lv": "C1",
+      "w": "kingdom",
+      "pos": "n.",
+      "tr": "krallık; âlem",
+      "ex": "The kingdom was ruled by a young queen."
+    },
+    {
+      "id": "ext_kit",
+      "lv": "B2",
+      "w": "kit",
+      "pos": "n.",
+      "tr": "takım, set; donanım",
+      "ex": "Keep a first-aid kit in the car."
     }
   ],
   "articles": [
