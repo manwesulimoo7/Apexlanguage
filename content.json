@@ -1,5 +1,5 @@
 {
-  "_readme": "ApexFlow icerigi. Oxford 3000+5000 (A1-C1, 4979 kelime) + YDS/YOKDIL bankalari (cloze, restate, oddout, dialogue, paracomp, translate) + Learn modulleri (articles, listening, grammar, writing) + yeni tipler (errorhunt, paraphrase, toeflint). id benzersiz; lv A1-C2; ans 0dan baslar.",
+  "_readme": "ApexFlow icerigi. Oxford 3000+5000 (A1-C1, 4979 kelime) + YDS/YOKDIL bankalari (cloze, restate, oddout, dialogue, paracomp, translate) + Learn modulleri (articles 19, listening 21, grammar 21, writing 23) + ek tipler (errorhunt, paraphrase, toeflint). id benzersiz; lv A1-C2; ans 0dan baslar.",
   "vocab": [
     {
       "id": "ext_resilient",
@@ -40413,6 +40413,684 @@
           "en": "The 'bargain' means communities accept a serious risk in exchange for valuable benefits."
         }
       ]
+    },
+    {
+      "id": "art_x5_lost_languages",
+      "lv": "B2",
+      "field": "sosyal",
+      "title": "When a Language Falls Silent",
+      "body": "Of the roughly seven thousand languages spoken today, experts believe that nearly half may disappear before the end of this century. A language is usually considered safe only while children are still learning it at home. Once parents begin to raise their children in a more powerful national language instead, the older tongue can vanish within a single generation.\n\nWhy should this matter? Each language is far more than a list of words. It carries a unique way of describing the world, along with stories, songs, and knowledge built up over centuries. When the last fluent speaker of a language dies, much of that knowledge dies too, and it can almost never be fully recovered.\n\nAround the world, communities are now fighting to keep their languages alive. Some record their elders so that future generations can hear how words were spoken. Others create schools where lessons are taught in the local tongue, or build apps and dictionaries to help young learners. These efforts do not always succeed, but they show a growing awareness of what is at stake.\n\nProtecting a language is difficult and slow work, and it cannot be done by outsiders alone. In the end, a language survives only if its own community chooses to speak it. Yet the wider world can help, by treating small languages not as obstacles to progress but as treasures worth keeping.",
+      "items": [
+        {
+          "q": "According to the text, when is a language usually considered safe?",
+          "opts": [
+            "While children are still learning it at home",
+            "When it has a written dictionary",
+            "When governments make it official",
+            "When it is taught to outsiders"
+          ],
+          "ans": 0,
+          "tr": "Bir dil, çocuklar onu evde öğrenmeye devam ettiği sürece güvende sayılır.",
+          "en": "A language is considered safe while children are still learning it at home."
+        },
+        {
+          "q": "Why does the writer say losing a language matters?",
+          "opts": [
+            "It makes travel more difficult",
+            "It carries unique knowledge that can rarely be recovered",
+            "It lowers the value of dictionaries",
+            "It confuses national governments"
+          ],
+          "ans": 1,
+          "tr": "Her dil, neredeyse geri kazanılamayan özgün bilgi taşıdığı için kaybı önemlidir.",
+          "en": "A language carries unique knowledge that can almost never be recovered."
+        },
+        {
+          "q": "What is one method communities use to protect their languages?",
+          "opts": [
+            "Banning the national language",
+            "Refusing to teach children",
+            "Recording elders and creating local-language schools",
+            "Closing their dictionaries"
+          ],
+          "ans": 2,
+          "tr": "Topluluklar, yaşlıları kaydetmek ve yerel dilde okullar kurmak gibi yöntemler kullanır.",
+          "en": "Communities record elders and create schools that teach in the local language."
+        },
+        {
+          "q": "What does the writer say is essential for a language to survive?",
+          "opts": [
+            "Help from outsiders only",
+            "A large number of words",
+            "A powerful national government",
+            "That its own community chooses to speak it"
+          ],
+          "ans": 3,
+          "tr": "Bir dil ancak kendi topluluğu onu konuşmayı seçerse hayatta kalır.",
+          "en": "A language survives only if its own community chooses to speak it."
+        },
+        {
+          "q": "What is the writer's overall attitude towards small languages?",
+          "opts": [
+            "They are treasures worth protecting",
+            "They are obstacles to progress",
+            "They should be replaced quickly",
+            "They are impossible to record"
+          ],
+          "ans": 0,
+          "tr": "Yazar küçük dilleri korunmaya değer hazineler olarak görür.",
+          "en": "The writer regards small languages as treasures worth keeping."
+        }
+      ]
+    },
+    {
+      "id": "art_x5_honeybee_dance",
+      "lv": "B2",
+      "field": "fen",
+      "title": "The Dancing Language of Bees",
+      "body": "When a honeybee finds a rich patch of flowers, it faces a problem: how can it tell the rest of the hive where the food is? Bees cannot speak, and the inside of a hive is completely dark. Yet somehow a single bee can send hundreds of others straight to a meal that may be kilometres away.\n\nThe answer, discovered by a curious scientist almost a century ago, is a kind of dance. Back at the hive, the successful bee moves in a tight figure-of-eight pattern, shaking its body as it goes. The direction of this 'waggle' tells the other bees which way to fly in relation to the sun, while the length of the dance signals how far they must travel.\n\nWhat makes this so remarkable is that the bees are communicating abstract information, not simply reacting to what is in front of them. A dancing bee is, in effect, describing a place that the others cannot see. For a long time, many people assumed that such behaviour was unique to humans.\n\nScientists are still studying exactly how the watching bees read the dance in the dark, perhaps by feeling its movements and listening to tiny sounds. Whatever the full explanation, the discovery changed the way we think about animal minds, reminding us that intelligence in nature can take forms we never expected.",
+      "items": [
+        {
+          "q": "What problem does a honeybee face after finding flowers?",
+          "opts": [
+            "It cannot fly back to the hive",
+            "It must tell other bees where the food is without speaking",
+            "It cannot eat the food alone",
+            "It forgets the way home"
+          ],
+          "ans": 1,
+          "tr": "Arı, konuşmadan diğerlerine yiyeceğin yerini anlatmak zorundadır.",
+          "en": "The bee must tell others where the food is without being able to speak."
+        },
+        {
+          "q": "What does the direction of the waggle dance tell other bees?",
+          "opts": [
+            "How sweet the flowers are",
+            "How many bees should go",
+            "Which way to fly in relation to the sun",
+            "What colour the flowers are"
+          ],
+          "ans": 2,
+          "tr": "'Waggle' dansının yönü, güneşe göre hangi yöne uçacaklarını gösterir.",
+          "en": "The direction of the waggle shows which way to fly relative to the sun."
+        },
+        {
+          "q": "Why does the writer find the dance so remarkable?",
+          "opts": [
+            "It is very beautiful to watch",
+            "It happens only at night",
+            "It uses no movement at all",
+            "The bees communicate about a place they cannot see"
+          ],
+          "ans": 3,
+          "tr": "Arılar göremedikleri bir yer hakkında soyut bilgi ilettiği için dans dikkat çekicidir.",
+          "en": "The bees communicate abstract information about a place they cannot see."
+        },
+        {
+          "q": "What was once widely assumed about this kind of behaviour?",
+          "opts": [
+            "That it was unique to humans",
+            "That it was impossible",
+            "That only birds could do it",
+            "That it had no purpose"
+          ],
+          "ans": 0,
+          "tr": "Uzun süre böyle bir davranışın yalnızca insanlara özgü olduğu sanıldı.",
+          "en": "It was long assumed that such behaviour was unique to humans."
+        },
+        {
+          "q": "What does the discovery suggest about intelligence in nature?",
+          "opts": [
+            "It exists only in large animals",
+            "It can take forms we never expected",
+            "It is the same in every species",
+            "It cannot be studied"
+          ],
+          "ans": 1,
+          "tr": "Keşif, doğadaki zekânın beklemediğimiz biçimler alabileceğini gösterir.",
+          "en": "It suggests intelligence in nature can take forms we never expected."
+        }
+      ]
+    },
+    {
+      "id": "art_x5_sourdough",
+      "lv": "B1",
+      "field": "saglik",
+      "title": "The Oldest Way to Make Bread",
+      "body": "Long before anyone sold packets of yeast in shops, people made bread rise using something much simpler: a mixture of flour and water left out in the open air. This mixture, known as a sourdough starter, catches tiny living things called wild yeast and friendly bacteria that float all around us.\n\nLeft for a few days and fed with fresh flour, the starter begins to bubble and grow. When a baker mixes some of it into dough, these tiny organisms produce gas, and that gas makes the bread rise. They also create the slightly sour taste that gives this kind of bread its name.\n\nMaking sourdough takes patience. The starter must be fed regularly, almost like a small pet, and the bread itself needs many hours to rise. For this reason, many people gave it up when faster methods appeared. In recent years, however, sourdough has become popular again, partly because people enjoy making things slowly with their own hands.\n\nThere may be health reasons too. Some studies suggest that the long, slow rise makes the bread easier for the body to digest. Whether or not that is true, sourdough connects us to one of the oldest skills in human history, a skill that needs nothing more than flour, water, time, and a little care.",
+      "items": [
+        {
+          "q": "What is a sourdough starter made from?",
+          "opts": [
+            "Shop-bought yeast and sugar",
+            "Milk and eggs",
+            "Flour and water left in the open air",
+            "Salt and oil"
+          ],
+          "ans": 2,
+          "tr": "Ekşi maya başlangıcı, açık havada bırakılan un ve sudan yapılır.",
+          "en": "A sourdough starter is made from flour and water left in the open air."
+        },
+        {
+          "q": "What makes sourdough bread rise?",
+          "opts": [
+            "Heat from the oven alone",
+            "Added sugar",
+            "Stirring it quickly",
+            "Gas produced by tiny living organisms"
+          ],
+          "ans": 3,
+          "tr": "Ekşi maya ekmeğini, minik canlıların ürettiği gaz kabartır.",
+          "en": "Gas produced by the tiny living organisms makes the bread rise."
+        },
+        {
+          "q": "Why did many people stop making sourdough?",
+          "opts": [
+            "Faster methods appeared",
+            "It tasted bad",
+            "Flour became expensive",
+            "It was banned"
+          ],
+          "ans": 0,
+          "tr": "Daha hızlı yöntemler çıkınca birçok kişi ekşi mayayı bıraktı.",
+          "en": "Many people gave it up when faster methods appeared."
+        },
+        {
+          "q": "Why has sourdough become popular again?",
+          "opts": [
+            "It needs no flour",
+            "People enjoy making things slowly by hand",
+            "It is the cheapest bread",
+            "It rises in minutes"
+          ],
+          "ans": 1,
+          "tr": "İnsanlar bir şeyi yavaşça elleriyle yapmaktan keyif aldığı için ekşi maya yeniden popüler oldu.",
+          "en": "It is popular again partly because people enjoy making things slowly by hand."
+        },
+        {
+          "q": "What possible health benefit does the text mention?",
+          "opts": [
+            "It contains no calories",
+            "It cures illnesses",
+            "The slow rise may make it easier to digest",
+            "It removes the need for vegetables"
+          ],
+          "ans": 2,
+          "tr": "Metin, yavaş kabarmanın ekmeği sindirmesi daha kolay hale getirebileceğinden söz eder.",
+          "en": "The text mentions the slow rise may make the bread easier to digest."
+        }
+      ]
+    },
+    {
+      "id": "art_x5_clock_time",
+      "lv": "C1",
+      "field": "sosyal",
+      "title": "How the Clock Changed the World",
+      "body": "For most of human history, people measured time by the sun, the seasons, and the natural rhythms of the body. A task took as long as it took, and few people needed to know the exact hour. The mechanical clock, which spread through Europe from the medieval period onward, slowly and quietly transformed this way of life.\n\nAt first, clocks were enormous machines housed in church and town towers, ringing bells to mark the hours for everyone within hearing. As they became smaller and cheaper, they moved into homes and, eventually, into pockets. With them came a new idea: that time was something fixed and divisible, the same for everyone, to be measured and not merely felt.\n\nThis change had effects that reached far beyond convenience. Factories could now demand that workers arrive at a precise minute and labour for an exact number of hours. Trains could run to shared timetables, and business could be coordinated across great distances. In countless ways, the clock made the modern, tightly organised world possible.\n\nYet some thinkers argue that we paid a price for this precision. By turning time into something to be counted and saved, we may have made ourselves its servants, forever rushing and forever short of it. The clock gave us extraordinary order, but it also taught us, perhaps too well, to feel that time is always running out.",
+      "items": [
+        {
+          "q": "How did most people measure time before mechanical clocks?",
+          "opts": [
+            "By precise hours and minutes",
+            "By factory timetables",
+            "By ringing their own bells",
+            "By the sun, seasons, and natural rhythms"
+          ],
+          "ans": 3,
+          "tr": "İnsanlar çoğunlukla zamanı güneş, mevsimler ve doğal ritimlerle ölçerdi.",
+          "en": "Most people measured time by the sun, the seasons, and natural rhythms."
+        },
+        {
+          "q": "What new idea about time did clocks bring?",
+          "opts": [
+            "That time was fixed, divisible, and the same for everyone",
+            "That time could be felt but not measured",
+            "That time did not exist",
+            "That only churches owned time"
+          ],
+          "ans": 0,
+          "tr": "Saatler, zamanın sabit, bölünebilir ve herkes için aynı olduğu fikrini getirdi.",
+          "en": "Clocks brought the idea that time was fixed, divisible, and the same for everyone."
+        },
+        {
+          "q": "What does the writer say clocks made possible?",
+          "opts": [
+            "The end of all factories",
+            "The modern, tightly organised world",
+            "A return to natural rhythms",
+            "The disappearance of trains"
+          ],
+          "ans": 1,
+          "tr": "Yazara göre saatler modern, sıkı örgütlenmiş dünyayı mümkün kıldı.",
+          "en": "The writer says clocks made the modern, tightly organised world possible."
+        },
+        {
+          "q": "What 'price' do some thinkers say we paid?",
+          "opts": [
+            "Clocks became too expensive",
+            "We forgot how to build towers",
+            "We became servants of time, always rushing",
+            "Trains stopped running on time"
+          ],
+          "ans": 2,
+          "tr": "Bazı düşünürlere göre, sürekli koşturarak zamanın hizmetkârı haline geldik.",
+          "en": "Some thinkers say we became servants of time, forever rushing."
+        },
+        {
+          "q": "What is the main idea of the final paragraph?",
+          "opts": [
+            "Clocks have no effect on daily life",
+            "Everyone should throw away their clocks",
+            "Time cannot be measured at all",
+            "Clocks brought order but also a sense of time running out"
+          ],
+          "ans": 3,
+          "tr": "Son paragrafın ana fikri, saatlerin düzen getirirken bir yandan zamanın tükendiği hissini de yarattığıdır.",
+          "en": "The final paragraph's main idea is that clocks brought order but also a sense that time is running out."
+        }
+      ]
+    },
+    {
+      "id": "art_x5_tardigrade",
+      "lv": "C1",
+      "field": "fen",
+      "title": "The Toughest Animal on Earth",
+      "body": "It is smaller than a grain of sand, lives in the moss on garden walls, and may be the most indestructible creature ever studied. The tardigrade, sometimes called the water bear, looks almost comical under a microscope, plodding along on eight stubby legs. Yet this tiny animal can survive conditions that would kill almost anything else.\n\nWhen its watery home dries out, the tardigrade performs an extraordinary trick. It pulls in its legs, expels most of the water from its body, and curls into a dry, lifeless-looking ball. In this state, its inner workings almost completely stop. It can remain this way for years, and then, when water returns, it slowly comes back to life as though nothing had happened.\n\nIn this dried-out form, tardigrades have endured tests that sound like science fiction. They have survived being frozen to nearly the coldness of outer space, heated above the boiling point of water, and even exposed to the vacuum and radiation of space itself. Few, if any, other animals could withstand such extremes.\n\nScientists are fascinated not just by the toughness of these creatures but by how they achieve it. Understanding the special substances that protect a tardigrade's cells could one day help us store medicines without refrigeration, or protect human tissue from damage. The humble water bear, it turns out, may have lessons to teach us all.",
+      "items": [
+        {
+          "q": "What does a tardigrade do when its home dries out?",
+          "opts": [
+            "It curls into a dry ball and nearly stops functioning",
+            "It lays eggs and dies",
+            "It grows larger legs",
+            "It swims to a new pond"
+          ],
+          "ans": 0,
+          "tr": "Su kuruyunca tardigrad kuru bir top haline gelir ve işlevleri neredeyse durur.",
+          "en": "It curls into a dry ball and its inner workings almost completely stop."
+        },
+        {
+          "q": "What happens when water returns to a dried tardigrade?",
+          "opts": [
+            "It stays lifeless forever",
+            "It slowly comes back to life",
+            "It explodes",
+            "It turns into another animal"
+          ],
+          "ans": 1,
+          "tr": "Su geri geldiğinde tardigrad yavaşça yeniden canlanır.",
+          "en": "When water returns, it slowly comes back to life."
+        },
+        {
+          "q": "Which extreme condition have tardigrades survived?",
+          "opts": [
+            "Being eaten by fish",
+            "A thousand years of sunlight",
+            "The vacuum and radiation of space",
+            "Living without any moss"
+          ],
+          "ans": 2,
+          "tr": "Tardigradlar uzayın boşluğu ve radyasyonu gibi koşullara dayanmıştır.",
+          "en": "Tardigrades have survived the vacuum and radiation of space."
+        },
+        {
+          "q": "Why are scientists interested in how tardigrades survive?",
+          "opts": [
+            "To make them larger",
+            "To teach them to swim",
+            "To remove them from gardens",
+            "It could help store medicines without refrigeration"
+          ],
+          "ans": 3,
+          "tr": "Bilim insanları, bunun ilaçları soğutmadan saklamaya yardımcı olabileceği için ilgileniyor.",
+          "en": "Understanding it could help store medicines without refrigeration."
+        },
+        {
+          "q": "What is the writer's tone towards the tardigrade?",
+          "opts": [
+            "Admiring and curious",
+            "Fearful and disgusted",
+            "Bored and dismissive",
+            "Angry and worried"
+          ],
+          "ans": 0,
+          "tr": "Yazarın tardigrada karşı tutumu hayranlık ve merak doludur.",
+          "en": "The writer's tone is admiring and curious."
+        }
+      ]
+    },
+    {
+      "id": "art_x5_public_library",
+      "lv": "B2",
+      "field": "sosyal",
+      "title": "More Than a Room of Books",
+      "body": "Ask most people what a library is for, and they will say borrowing books. That answer was never quite complete, and today it is more incomplete than ever. The modern public library has quietly become one of the most useful, and most underrated, spaces in any town.\n\nLibraries have always offered something rare: a warm, quiet place that anyone may enter without being asked to buy a thing. For a student with no quiet room at home, a job-seeker who needs the internet, or an older person living alone, this open door can matter enormously. In a world where most public spaces expect us to spend money, the library asks for nothing.\n\nMany libraries now lend far more than books. Visitors can borrow tools, musical instruments, or even seeds for their gardens. They run classes in everything from computer skills to local history, and they offer a meeting place for clubs and community groups. For new arrivals to a country, the library is often the first place to find help in their own language.\n\nNone of this means that books no longer matter; they remain at the heart of what a library is. But it does mean that those who measure a library only by the number of books it lends are missing the point. A good library lends opportunity, and that is far harder to count.",
+      "items": [
+        {
+          "q": "What does the writer say is special about libraries?",
+          "opts": [
+            "They are the cheapest shops",
+            "Anyone may enter without being asked to buy anything",
+            "They only allow students",
+            "They are always noisy"
+          ],
+          "ans": 1,
+          "tr": "Kütüphanelerin özelliği, kimsenin bir şey satın alması beklenmeden girebilmesidir.",
+          "en": "Anyone may enter a library without being asked to buy anything."
+        },
+        {
+          "q": "Who is given as an example of someone the open door helps?",
+          "opts": [
+            "A wealthy shop owner",
+            "A famous writer",
+            "A job-seeker who needs the internet",
+            "A factory manager"
+          ],
+          "ans": 2,
+          "tr": "Açık kapının yardımcı olduğu örneklerden biri, internete ihtiyaç duyan bir iş arayandır.",
+          "en": "A job-seeker who needs the internet is given as an example."
+        },
+        {
+          "q": "What can visitors borrow from many modern libraries besides books?",
+          "opts": [
+            "Cars and houses",
+            "Food and clothes",
+            "Money",
+            "Tools, instruments, or seeds"
+          ],
+          "ans": 3,
+          "tr": "Birçok modern kütüphaneden kitap dışında alet, çalgı ya da tohum ödünç alınabilir.",
+          "en": "Visitors can borrow tools, instruments, or seeds besides books."
+        },
+        {
+          "q": "What does the writer mean by 'a good library lends opportunity'?",
+          "opts": [
+            "A library's value goes beyond the number of books lent",
+            "Libraries should charge money",
+            "Books are no longer important",
+            "Libraries should stop lending books"
+          ],
+          "ans": 0,
+          "tr": "Bu ifade, bir kütüphanenin değerinin ödünç verdiği kitap sayısının ötesine geçtiğini anlatır.",
+          "en": "It means a library's value goes beyond the number of books it lends."
+        },
+        {
+          "q": "What does the writer think of judging libraries only by book numbers?",
+          "opts": [
+            "It is the correct measure",
+            "It misses the point",
+            "It is the kindest view",
+            "It helps libraries grow"
+          ],
+          "ans": 1,
+          "tr": "Yazara göre kütüphaneleri yalnızca kitap sayısıyla değerlendirmek konuyu kaçırmaktır.",
+          "en": "The writer thinks judging libraries only by book numbers misses the point."
+        }
+      ]
+    },
+    {
+      "id": "art_x5_circadian",
+      "lv": "C1",
+      "field": "saglik",
+      "title": "The Clock Inside Us",
+      "body": "Hidden deep within the brain lies a tiny cluster of cells that acts like a master clock, quietly setting the rhythm of nearly everything our bodies do. This internal clock, known as the circadian system, runs on a cycle of roughly twenty-four hours, telling us when to feel awake, when to grow sleepy, and even when to feel hungry.\n\nLeft entirely alone, this clock would drift slightly out of step with the real day. To keep it accurate, the body relies on signals from the outside world, the most powerful of which is light. When morning light reaches the eyes, it tells the brain that the day has begun, helping the inner clock to reset itself and stay in time with the sun.\n\nProblems arise when our behaviour and our inner clock fall out of agreement. Travelling quickly across time zones produces the familiar misery of jet lag. Working through the night, or staring at bright screens long after dark, can confuse the system in similar ways, leaving people tired during the day and wide awake at night.\n\nResearchers increasingly believe that a disturbed clock is not merely unpleasant but harmful, linked to poor concentration and a range of health problems. The good news is that the same clock that is so easily upset can also be gently guided. By seeking out daylight in the morning and dimming our screens at night, we can help our inner clock do the job it has been doing for millions of years.",
+      "items": [
+        {
+          "q": "What does the circadian system do?",
+          "opts": [
+            "It controls only hunger",
+            "It replaces sleep",
+            "It sets the rhythm of nearly everything the body does",
+            "It measures temperature only"
+          ],
+          "ans": 2,
+          "tr": "Sirkadiyen sistem, bedenin yaptığı neredeyse her şeyin ritmini ayarlar.",
+          "en": "The circadian system sets the rhythm of nearly everything the body does."
+        },
+        {
+          "q": "What is the most powerful signal that keeps the inner clock accurate?",
+          "opts": [
+            "Noise",
+            "Food",
+            "Exercise",
+            "Light"
+          ],
+          "ans": 3,
+          "tr": "İç saati doğru tutan en güçlü dış sinyal ışıktır.",
+          "en": "Light is the most powerful signal keeping the inner clock accurate."
+        },
+        {
+          "q": "What causes jet lag, according to the text?",
+          "opts": [
+            "Behaviour and the inner clock falling out of agreement",
+            "Eating too much on a plane",
+            "Sleeping for too long",
+            "Bright morning light"
+          ],
+          "ans": 0,
+          "tr": "Jet lag, davranış ile iç saatin uyumsuz hale gelmesinden kaynaklanır.",
+          "en": "Jet lag is caused by behaviour and the inner clock falling out of step."
+        },
+        {
+          "q": "Why do bright screens at night cause problems?",
+          "opts": [
+            "They use too much electricity",
+            "They can confuse the circadian system",
+            "They improve concentration",
+            "They reset the clock perfectly"
+          ],
+          "ans": 1,
+          "tr": "Gece parlak ekranlar sirkadiyen sistemi şaşırtabildiği için sorun yaratır.",
+          "en": "Bright screens at night can confuse the circadian system."
+        },
+        {
+          "q": "What practical advice does the writer give?",
+          "opts": [
+            "Avoid all daylight",
+            "Sleep only during the day",
+            "Seek morning light and dim screens at night",
+            "Stare at screens before bed"
+          ],
+          "ans": 2,
+          "tr": "Yazar, sabah gün ışığı almayı ve geceleri ekranları kısmayı önerir.",
+          "en": "The writer advises seeking morning daylight and dimming screens at night."
+        }
+      ]
+    },
+    {
+      "id": "art_x5_concrete",
+      "lv": "B2",
+      "field": "fen",
+      "title": "The Material That Built the Modern World",
+      "body": "Look around almost any city and you will see it everywhere: in pavements, bridges, tunnels, and towers. Concrete is so common that we barely notice it, yet it is the most widely used building material on Earth after water. Its story stretches back thousands of years and reaches right into the problems of our own age.\n\nThe secret of concrete is surprisingly simple. When a grey powder called cement is mixed with water, sand, and stones, a chemical reaction begins that turns the soft, wet mixture into something as hard as rock. Because it can be poured into almost any shape before it sets, concrete lets builders create forms that would be impossible with cut stone alone.\n\nThe ancient Romans were masters of this material, and some of their concrete structures still stand after two thousand years. Strangely, the knowledge of how to make such durable concrete was largely lost for centuries, and only rediscovered and improved in the modern age. Today, enormous quantities are produced every year to house a growing and increasingly urban population.\n\nThis success comes at a cost. Making cement releases large amounts of carbon dioxide, so concrete is now a significant contributor to climate change. Scientists are racing to develop greener versions, and even concrete that can repair its own cracks. The challenge is to keep the benefits of this remarkable material while reducing the harm it does to the planet.",
+      "items": [
+        {
+          "q": "How common is concrete, according to the text?",
+          "opts": [
+            "It is rarely used today",
+            "It is used only in bridges",
+            "It is less common than stone",
+            "It is the most used building material after water"
+          ],
+          "ans": 3,
+          "tr": "Metne göre beton, sudan sonra en çok kullanılan yapı malzemesidir.",
+          "en": "Concrete is the most widely used building material after water."
+        },
+        {
+          "q": "Why is concrete so useful to builders?",
+          "opts": [
+            "It can be poured into almost any shape before it sets",
+            "It is completely free",
+            "It never gets hard",
+            "It needs no water"
+          ],
+          "ans": 0,
+          "tr": "Beton, sertleşmeden önce neredeyse her şekle dökülebildiği için çok kullanışlıdır.",
+          "en": "It can be poured into almost any shape before it sets."
+        },
+        {
+          "q": "What is surprising about ancient Roman concrete?",
+          "opts": [
+            "It was never used",
+            "The knowledge to make such durable concrete was largely lost",
+            "It was stronger than diamond",
+            "It was made without cement"
+          ],
+          "ans": 1,
+          "tr": "Şaşırtıcı olan, böyle dayanıklı beton yapma bilgisinin büyük ölçüde kaybolmasıdır.",
+          "en": "The knowledge of making such durable concrete was largely lost for centuries."
+        },
+        {
+          "q": "What is the environmental problem with concrete?",
+          "opts": [
+            "It uses too much wood",
+            "It cannot be poured",
+            "Making cement releases large amounts of carbon dioxide",
+            "It is too light"
+          ],
+          "ans": 2,
+          "tr": "Sorun, çimento üretiminin büyük miktarda karbondioksit salmasıdır.",
+          "en": "Making cement releases large amounts of carbon dioxide."
+        },
+        {
+          "q": "What are scientists trying to develop?",
+          "opts": [
+            "Concrete that is heavier",
+            "A way to stop using concrete entirely",
+            "Concrete made only of stone",
+            "Greener concrete that can even repair its own cracks"
+          ],
+          "ans": 3,
+          "tr": "Bilim insanları, kendi çatlaklarını bile onarabilen daha çevreci beton geliştirmeye çalışıyor.",
+          "en": "Scientists are developing greener concrete that can even repair its own cracks."
+        }
+      ]
+    },
+    {
+      "id": "art_x5_storytelling",
+      "lv": "B1",
+      "field": "sosyal",
+      "title": "Why We Tell Stories",
+      "body": "Every known human society, from the largest city to the smallest village, tells stories. Long before writing existed, people sat around fires and shared tales of heroes, animals, and faraway places. Storytelling is so old and so universal that many scientists believe it is a basic part of being human.\n\nBut why do we do it? One reason is that stories help us learn. A story about a child who wanders too far and meets danger teaches a lesson far more powerfully than a simple warning ever could. Through stories, each generation passes on what it has learned about the world.\n\nStories also bring people together. When we share a tale, we share feelings, and for a short time we see the world through someone else's eyes. This may help explain why we care so deeply about characters who do not even exist. A good story can make us laugh, cry, or hold our breath, all while we sit perfectly still.\n\nToday we tell stories in new ways, through films, games, and screens of every kind, but the basic activity has not changed. We are still doing what our ancestors did around the fire: making sense of our lives by turning them into stories, and sharing those stories with one another.",
+      "items": [
+        {
+          "q": "What does the writer say about storytelling across societies?",
+          "opts": [
+            "Every known human society tells stories",
+            "Only modern societies tell stories",
+            "Stories began with writing",
+            "Villages do not tell stories"
+          ],
+          "ans": 0,
+          "tr": "Yazara göre bilinen her insan toplumu hikâye anlatır.",
+          "en": "Every known human society tells stories."
+        },
+        {
+          "q": "How do stories help us learn?",
+          "opts": [
+            "They replace all schools",
+            "They teach lessons more powerfully than simple warnings",
+            "They are always written down",
+            "They give exact instructions"
+          ],
+          "ans": 1,
+          "tr": "Hikâyeler, dersleri basit bir uyarıdan çok daha güçlü biçimde öğretir.",
+          "en": "Stories teach lessons more powerfully than a simple warning could."
+        },
+        {
+          "q": "Why does the writer say we care about characters who don't exist?",
+          "opts": [
+            "Because the characters are real",
+            "Because we are forced to",
+            "Because stories let us see the world through someone else's eyes",
+            "Because stories are boring"
+          ],
+          "ans": 2,
+          "tr": "Hikâyeler dünyayı başkasının gözünden görmemizi sağladığı için var olmayan karakterleri umursarız.",
+          "en": "Stories let us see the world through someone else's eyes."
+        },
+        {
+          "q": "What does the writer say about modern storytelling?",
+          "opts": [
+            "It has completely disappeared",
+            "It no longer brings people together",
+            "It is only done in writing",
+            "The basic activity has not changed"
+          ],
+          "ans": 3,
+          "tr": "Yazara göre biçim değişse de hikâye anlatmanın özü değişmedi.",
+          "en": "The basic activity of storytelling has not changed."
+        }
+      ]
+    },
+    {
+      "id": "art_x5_invasive_species",
+      "lv": "C1",
+      "field": "fen",
+      "title": "When a Newcomer Takes Over",
+      "body": "Sometimes a plant or animal is carried, by accident or on purpose, to a part of the world where it has never lived before. Most such travellers simply fail to survive. A few, however, find their new home so welcoming that they spread out of control, and these are what scientists call invasive species.\n\nThe danger comes from the absence of limits. In its original home, a species is held in check by the predators, diseases, and competitors it evolved alongside. Carried to a new land without any of these, it may multiply with astonishing speed, crowding out native plants and animals that have no defence against it.\n\nThe results can be severe. A single introduced fish can empty a lake of the species that lived there for thousands of years. An imported insect can destroy forests across an entire continent. Beyond the harm to nature, invasive species cost the world's economies enormous sums each year in lost crops and damaged waterways.\n\nDealing with them is notoriously difficult. Once a species is firmly established, removing it completely is often impossible, and the methods used can themselves cause harm. For this reason, experts stress that prevention is far cheaper and more effective than cure. Stopping a newcomer before it arrives is, almost always, the wisest course of all.",
+      "items": [
+        {
+          "q": "What is an invasive species?",
+          "opts": [
+            "A species that spreads out of control in a new home",
+            "Any animal that migrates",
+            "A species that quickly dies out",
+            "A plant grown in gardens"
+          ],
+          "ans": 0,
+          "tr": "İstilacı tür, yeni bir yurtta kontrolsüz biçimde yayılan türdür.",
+          "en": "An invasive species spreads out of control in a new home."
+        },
+        {
+          "q": "Why can an invasive species multiply so fast?",
+          "opts": [
+            "It is fed by humans",
+            "It has no predators or competitors in the new land",
+            "It needs no food",
+            "It is always larger"
+          ],
+          "ans": 1,
+          "tr": "İstilacı tür, yeni topraklarda kendisini sınırlayan avcı veya rakibi olmadığı için hızla çoğalır.",
+          "en": "It multiplies fast because it has no predators or competitors in the new land."
+        },
+        {
+          "q": "What example of severe harm does the text give?",
+          "opts": [
+            "A garden flower spreading slowly",
+            "A bird singing too loudly",
+            "One introduced fish emptying a lake",
+            "A plant growing taller"
+          ],
+          "ans": 2,
+          "tr": "Metin, tek bir yabancı balığın bir gölü boşaltabileceği örneğini verir.",
+          "en": "The text gives the example of one introduced fish emptying a lake."
+        },
+        {
+          "q": "Why is dealing with invasive species difficult?",
+          "opts": [
+            "They are too small to see",
+            "They are protected by law everywhere",
+            "They never cause any harm",
+            "Once established, removing them completely is often impossible"
+          ],
+          "ans": 3,
+          "tr": "Bir tür iyice yerleştiğinde tamamen kaldırmak çoğu zaman imkânsız olduğu için baş etmek zordur.",
+          "en": "Once established, removing them completely is often impossible."
+        },
+        {
+          "q": "What do experts say is the wisest approach?",
+          "opts": [
+            "Prevention rather than cure",
+            "Ignoring the problem",
+            "Introducing more species",
+            "Waiting many years"
+          ],
+          "ans": 0,
+          "tr": "Uzmanlar, tedaviden çok önlemenin en akıllıca yol olduğunu vurgular.",
+          "en": "Experts say prevention is wiser and more effective than cure."
+        }
+      ]
     }
   ],
   "listening": [
@@ -40907,6 +41585,466 @@
             "Not to leave baggage unattended",
             "To keep their boarding passes",
             "To check their passports"
+          ],
+          "ans": 0
+        }
+      ]
+    },
+    {
+      "id": "lst_x5_restaurant_booking",
+      "lv": "B1",
+      "field": "sosyal",
+      "accent": "en-US",
+      "title": "Booking a table",
+      "script": "Good evening, Bella's Kitchen, how can I help? — Hi, I'd like to book a table for Saturday night. — Of course. For how many people? — There will be six of us. — And what time would you like? — Around eight o'clock, if possible. — Let me check... I'm afraid eight is fully booked, but I can offer you a table at half past eight. — That works for us, thank you. — Wonderful. Can I take a name and a phone number? — Yes, it's Daniel Brooks. I'll text you the number now. — Perfect, Mr Brooks. We'll see you on Saturday at half past eight. One last thing: do you have any allergies we should know about? — One of us can't eat nuts. — Thank you, I'll make a note of that.",
+      "items": [
+        {
+          "q": "How many people is the table for?",
+          "opts": [
+            "Six",
+            "Four",
+            "Eight"
+          ],
+          "ans": 0
+        },
+        {
+          "q": "What time is finally booked?",
+          "opts": [
+            "Eight o'clock",
+            "Half past eight",
+            "Half past seven"
+          ],
+          "ans": 1
+        },
+        {
+          "q": "What does the restaurant ask for besides a name?",
+          "opts": [
+            "An email address",
+            "A home address",
+            "A phone number"
+          ],
+          "ans": 2
+        },
+        {
+          "q": "What does the caller mention at the end?",
+          "opts": [
+            "One guest cannot eat nuts",
+            "They will arrive late",
+            "They want a window seat"
+          ],
+          "ans": 0
+        }
+      ]
+    },
+    {
+      "id": "lst_x5_pharmacy_advice",
+      "lv": "B2",
+      "field": "saglik",
+      "accent": "en-GB",
+      "title": "Advice at the pharmacy",
+      "script": "Hello, how can I help you today? — Hi, I've had a sore throat and a cough for about three days. — I see. Do you have a high temperature at all? — No, I don't think so. I feel a bit tired, but that's all. — That sounds like a common cold rather than anything serious. I'd suggest these lozenges for your throat, and plenty of warm drinks. — Should I take antibiotics? — No, antibiotics won't help with a cold, because it's caused by a virus, not bacteria. They'd do more harm than good. — All right. How often should I use the lozenges? — One every three or four hours, but no more than six in a day. — And how long before I feel better? — Most people recover within a week. But if your temperature rises or the cough lasts more than ten days, please see your doctor.",
+      "items": [
+        {
+          "q": "How long has the customer had symptoms?",
+          "opts": [
+            "About one week",
+            "About three days",
+            "About ten days"
+          ],
+          "ans": 1
+        },
+        {
+          "q": "Why does the pharmacist say antibiotics won't help?",
+          "opts": [
+            "They are too expensive",
+            "The customer is too tired",
+            "A cold is caused by a virus, not bacteria"
+          ],
+          "ans": 2
+        },
+        {
+          "q": "How many lozenges a day is the limit?",
+          "opts": [
+            "Six",
+            "Three",
+            "Ten"
+          ],
+          "ans": 0
+        },
+        {
+          "q": "When should the customer see a doctor?",
+          "opts": [
+            "If they feel a little tired",
+            "If the temperature rises or the cough lasts over ten days",
+            "After one day"
+          ],
+          "ans": 1
+        }
+      ]
+    },
+    {
+      "id": "lst_x5_train_delay",
+      "lv": "B1",
+      "field": "sosyal",
+      "accent": "en-GB",
+      "title": "A station announcement",
+      "script": "Good afternoon, ladies and gentlemen. This is an announcement for passengers waiting on platform two. We are sorry to inform you that the two fifteen service to Oxford has been delayed by approximately twenty minutes. This is due to a signalling problem further down the line. The train is now expected to arrive at around twenty-five to three. Passengers travelling to Reading should note that this train will no longer stop at Reading; instead, please take the later service from platform four at three o'clock. We apologise for the inconvenience this may cause. If you require assistance, a member of staff is available at the ticket office near the main entrance. Refreshments can be bought at the café on platform one. Thank you for your patience, and we wish you a pleasant journey.",
+      "items": [
+        {
+          "q": "How long is the Oxford train delayed?",
+          "opts": [
+            "About ten minutes",
+            "About an hour",
+            "About twenty minutes"
+          ],
+          "ans": 2
+        },
+        {
+          "q": "What caused the delay?",
+          "opts": [
+            "A signalling problem",
+            "Bad weather",
+            "A broken train door"
+          ],
+          "ans": 0
+        },
+        {
+          "q": "What should passengers for Reading do?",
+          "opts": [
+            "Wait on platform two",
+            "Take the later train from platform four",
+            "Leave the station"
+          ],
+          "ans": 1
+        },
+        {
+          "q": "Where can passengers get help?",
+          "opts": [
+            "On the train",
+            "At platform four",
+            "At the ticket office near the main entrance"
+          ],
+          "ans": 2
+        }
+      ]
+    },
+    {
+      "id": "lst_x5_nutrition_talk",
+      "lv": "C1",
+      "field": "saglik",
+      "accent": "en-US",
+      "title": "A talk about healthy eating",
+      "script": "Welcome, everyone. Today I want to clear up a common misunderstanding about healthy eating. Many people believe that the secret is simply to eat less of everything, but that approach often fails, and here's why. When we cut our food too sharply, the body responds by slowing down and making us feel hungry, so most people give up within a few weeks. A better strategy is not to eat less, but to eat differently. Try filling half your plate with vegetables, choosing whole grains over white bread, and keeping sugary drinks for special occasions rather than every day. Notice that none of this asks you to go hungry. Another point worth remembering is that no single food is magic, and no single food is poison. It's the overall pattern, repeated over months and years, that shapes your health, not what you happen to eat on any one afternoon. So be patient with yourself, make small changes you can keep, and let those changes add up.",
+      "items": [
+        {
+          "q": "What common misunderstanding does the speaker want to correct?",
+          "opts": [
+            "That healthy eating means simply eating less of everything",
+            "That vegetables are unhealthy",
+            "That breakfast is unnecessary"
+          ],
+          "ans": 0
+        },
+        {
+          "q": "Why does eating much less often fail?",
+          "opts": [
+            "Food becomes too expensive",
+            "The body slows down and makes us feel hungry",
+            "It is against the law"
+          ],
+          "ans": 1
+        },
+        {
+          "q": "What does the speaker suggest doing with half your plate?",
+          "opts": [
+            "Leaving it empty",
+            "Filling it with white bread",
+            "Filling it with vegetables"
+          ],
+          "ans": 2
+        },
+        {
+          "q": "What shapes your health, according to the speaker?",
+          "opts": [
+            "The overall pattern over months and years",
+            "What you eat on a single afternoon",
+            "One magic food"
+          ],
+          "ans": 0
+        }
+      ]
+    },
+    {
+      "id": "lst_x5_bike_repair",
+      "lv": "B2",
+      "field": "fen",
+      "accent": "en-GB",
+      "title": "At the bike repair shop",
+      "script": "Morning. What seems to be the trouble with your bike? — The back wheel keeps making a clicking noise, and the brakes feel a bit weak. — Let's have a look. Could you lift the back wheel and turn the pedals for me? — Like this? — That's it. Ah, I can hear it. One of the spokes is loose, that's the clicking. I can tighten that in a few minutes. — Great. And the brakes? — The brake pads are quite worn, so I'd recommend replacing them. The old ones are almost down to the metal. — How much would all that cost? — The spoke is free, really, but new brake pads are twelve pounds fitted. — That's fine. How long will it take? — Give me about half an hour. If you want, there's a coffee shop just across the road. — Perfect, I'll wait there. Thank you.",
+      "items": [
+        {
+          "q": "What is causing the clicking noise?",
+          "opts": [
+            "A flat tyre",
+            "A loose spoke",
+            "A broken pedal"
+          ],
+          "ans": 1
+        },
+        {
+          "q": "What does the mechanic recommend for the brakes?",
+          "opts": [
+            "Buying a new bike",
+            "Removing the brakes",
+            "Replacing the worn brake pads"
+          ],
+          "ans": 2
+        },
+        {
+          "q": "How much will the new brake pads cost, fitted?",
+          "opts": [
+            "Twelve pounds",
+            "Two pounds",
+            "Twenty pounds"
+          ],
+          "ans": 0
+        },
+        {
+          "q": "What will the customer do while waiting?",
+          "opts": [
+            "Repair the bike himself",
+            "Go to the coffee shop across the road",
+            "Catch a bus home"
+          ],
+          "ans": 1
+        }
+      ]
+    },
+    {
+      "id": "lst_x5_water_cycle",
+      "lv": "C1",
+      "field": "fen",
+      "accent": "en-GB",
+      "title": "A lesson on the water cycle",
+      "script": "In today's lesson, we'll follow a single drop of water on its endless journey around our planet. Let's start in the ocean. When the sun heats the surface of the sea, water turns into an invisible gas called water vapour and rises into the air. This process is known as evaporation. As the vapour climbs higher, the air around it grows colder, and the vapour cools and gathers into tiny droplets, forming the clouds we see overhead. We call this stage condensation. When those droplets join together and become heavy enough, they fall back to the ground as rain or, in colder places, as snow. Some of this water soaks into the soil and is taken up by plants; some flows into rivers that carry it, eventually, all the way back to the sea. And then the whole cycle begins again. The important thing to remember is that no new water is created or destroyed. The very same water has been moving around the Earth for billions of years.",
+      "items": [
+        {
+          "q": "What happens during evaporation?",
+          "opts": [
+            "Rain falls to the ground",
+            "Clouds turn into ice",
+            "Water turns into vapour and rises into the air"
+          ],
+          "ans": 2
+        },
+        {
+          "q": "What forms the clouds?",
+          "opts": [
+            "Vapour cooling into tiny droplets",
+            "Rivers flowing uphill",
+            "Heat from the soil"
+          ],
+          "ans": 0
+        },
+        {
+          "q": "What does some rainwater do after it reaches the ground?",
+          "opts": [
+            "It disappears completely",
+            "It soaks into the soil and is taken up by plants",
+            "It turns into vapour at once"
+          ],
+          "ans": 1
+        },
+        {
+          "q": "What is the key point about the amount of water on Earth?",
+          "opts": [
+            "New water is made every year",
+            "Water is slowly running out",
+            "No new water is created or destroyed"
+          ],
+          "ans": 2
+        }
+      ]
+    },
+    {
+      "id": "lst_x5_gym_class",
+      "lv": "B1",
+      "field": "saglik",
+      "accent": "en-US",
+      "title": "Signing up for a class",
+      "script": "Hi, I saw a poster about yoga classes. Can you tell me more? — Sure! We run beginner yoga on Mondays and Wednesdays. — What time are the classes? — The Monday class is at six in the evening, and the Wednesday one is at half past nine in the morning. — The morning one sounds good. Do I need to bring anything? — Just comfortable clothes and a bottle of water. We provide the mats. — How much does it cost? — It's eight dollars per class, or you can buy ten classes for seventy dollars. — I'll start with a single class first, I think. — No problem. The instructor's name is Maria, and she's very friendly with beginners. Just arrive about ten minutes early so you can find a space. — Great, I'll be there on Wednesday. Thank you so much!",
+      "items": [
+        {
+          "q": "When is the morning yoga class?",
+          "opts": [
+            "Half past nine on Wednesday",
+            "Six on Monday",
+            "Ten on Wednesday"
+          ],
+          "ans": 0
+        },
+        {
+          "q": "What does the customer need to bring?",
+          "opts": [
+            "A yoga mat",
+            "Comfortable clothes and water",
+            "Special shoes"
+          ],
+          "ans": 1
+        },
+        {
+          "q": "How much do ten classes cost?",
+          "opts": [
+            "Eight dollars",
+            "Eighty dollars",
+            "Seventy dollars"
+          ],
+          "ans": 2
+        },
+        {
+          "q": "What is the customer advised to do?",
+          "opts": [
+            "Arrive about ten minutes early",
+            "Bring a friend",
+            "Pay in advance for a year"
+          ],
+          "ans": 0
+        }
+      ]
+    },
+    {
+      "id": "lst_x5_science_museum",
+      "lv": "B2",
+      "field": "fen",
+      "accent": "en-US",
+      "title": "A science museum tour",
+      "script": "Welcome to the Hall of Energy, everyone. Please gather round, and mind the step. The exhibit in front of you shows how a simple steam engine works, the kind that powered the first factories and trains. Notice the large wheel on the left: when steam pushes the piston back and forth, that motion is turned into the spinning of the wheel. If you press the green button on the rail, you'll see the whole thing move. Go ahead, try it. As we walk on, you'll see how engineers gradually made these machines smaller and far more efficient. Our next room is all about electricity, and there's a popular demonstration there that makes your hair stand on end, quite literally, so it's a favourite with children. Photography is allowed throughout the museum, but please don't touch the older, more delicate machines. We'll meet again by the gift shop at four o'clock. Until then, feel free to explore at your own pace.",
+      "items": [
+        {
+          "q": "What does the first exhibit show?",
+          "opts": [
+            "How to build a car",
+            "How a simple steam engine works",
+            "How electricity is sold"
+          ],
+          "ans": 1
+        },
+        {
+          "q": "What happens if you press the green button?",
+          "opts": [
+            "The lights go out",
+            "A door opens",
+            "The exhibit moves"
+          ],
+          "ans": 2
+        },
+        {
+          "q": "What does the demonstration in the next room do?",
+          "opts": [
+            "It makes your hair stand on end",
+            "It produces rain",
+            "It plays music"
+          ],
+          "ans": 0
+        },
+        {
+          "q": "What are visitors asked NOT to do?",
+          "opts": [
+            "Take any photographs",
+            "Touch the older, delicate machines",
+            "Talk to the guide"
+          ],
+          "ans": 1
+        }
+      ]
+    },
+    {
+      "id": "lst_x5_university_openday",
+      "lv": "B2",
+      "field": "sosyal",
+      "accent": "en-US",
+      "title": "A university open day",
+      "script": "Good morning, and thank you all for coming to our open day. My name is Professor Hale, and I'd like to give you a quick idea of how the day will run. In a few minutes, we'll split into smaller groups for a tour of the main campus, including the library and the science labs. The tour lasts about an hour. After that, at half past eleven, there will be short talks from each department in the lecture halls upstairs, so you can learn about the courses that interest you most. Lunch is provided free of charge in the dining hall from one o'clock. In the afternoon, current students will be around to answer your questions honestly, away from us staff, which many visitors find the most useful part of the day. Finally, if you're thinking of applying, please pick up an information pack from the desk by the entrance before you leave. Now, if you'll follow the guides outside, we'll begin the tours.",
+      "items": [
+        {
+          "q": "What happens first on the open day?",
+          "opts": [
+            "A free lunch",
+            "Talks from departments",
+            "A tour of the main campus"
+          ],
+          "ans": 2
+        },
+        {
+          "q": "When are the department talks?",
+          "opts": [
+            "At half past eleven",
+            "At one o'clock",
+            "At nine in the morning"
+          ],
+          "ans": 0
+        },
+        {
+          "q": "Which part do many visitors find most useful?",
+          "opts": [
+            "The free lunch",
+            "Talking to current students",
+            "The opening speech"
+          ],
+          "ans": 1
+        },
+        {
+          "q": "What should visitors do before leaving if they want to apply?",
+          "opts": [
+            "Pay a fee",
+            "Email the professor",
+            "Pick up an information pack from the desk"
+          ],
+          "ans": 2
+        }
+      ]
+    },
+    {
+      "id": "lst_x5_first_aid_radio",
+      "lv": "B2",
+      "field": "saglik",
+      "accent": "en-GB",
+      "title": "A first-aid radio segment",
+      "script": "And now for our weekly health segment. Today we're talking about a simple skill that everyone should know: what to do if someone burns their hand in the kitchen. The first and most important step is to cool the burn under cool running water for at least twenty minutes. I'll say that again, because people often stop too soon: twenty minutes of cool, not freezing, running water. While you do this, gently remove any rings or watches from the area before it begins to swell. Whatever you do, don't put ice directly on the skin, and don't use butter or toothpaste, despite what you may have heard, as these can make things worse. After cooling, cover the burn loosely with clean kitchen film or a clean plastic bag. For anything larger than the size of your hand, or any burn on the face, always seek medical help straight away. A few calm minutes of the right action can make a real difference to how well a burn heals.",
+      "items": [
+        {
+          "q": "What is the most important first step for a burn?",
+          "opts": [
+            "Cool it under running water for at least twenty minutes",
+            "Cover it with butter",
+            "Put ice on it at once"
+          ],
+          "ans": 0
+        },
+        {
+          "q": "What should you remove from the area early?",
+          "opts": [
+            "Your gloves",
+            "Rings or watches",
+            "Nothing at all"
+          ],
+          "ans": 1
+        },
+        {
+          "q": "What does the speaker warn against?",
+          "opts": [
+            "Cooling the burn",
+            "Calling a doctor",
+            "Using butter or toothpaste on the burn"
+          ],
+          "ans": 2
+        },
+        {
+          "q": "When should you always seek medical help?",
+          "opts": [
+            "For a burn larger than your hand or on the face",
+            "For any small burn",
+            "Only after a week"
           ],
           "ans": 0
         }
@@ -41631,6 +42769,686 @@
           "tr": "Belirli geçmiş 'yesterday' -> past simple 'saw'."
         }
       ]
+    },
+    {
+      "id": "gr_x5_quantifiers",
+      "lv": "B1",
+      "title": "Quantifiers (much / many / few / little)",
+      "exp": "Sayılabilen isimlerle 'many, (a) few, a number of'; sayılamayanlarla 'much, (a) little, an amount of' kullanılır. 'a few/a little' = biraz (olumlu); 'few/little' = neredeyse hiç (olumsuz vurgu). 'some' olumlu cümlede, 'any' olumsuz ve soruda gelir. Tuzak: 'much' çoğunlukla olumsuz/soru cümlesinde kullanılır; olumlu cümlede 'a lot of' tercih edilir.",
+      "items": [
+        {
+          "q": "How ___ sugar do you take in your coffee?",
+          "opts": [
+            "much",
+            "many",
+            "few"
+          ],
+          "ans": 0,
+          "tr": "'sugar' sayılamaz -> much."
+        },
+        {
+          "q": "There are too ___ cars in the city centre.",
+          "opts": [
+            "much",
+            "many",
+            "little"
+          ],
+          "ans": 1,
+          "tr": "'cars' sayılabilir çoğul -> many."
+        },
+        {
+          "q": "I have only a ___ minutes, so let's be quick.",
+          "opts": [
+            "little",
+            "much",
+            "few"
+          ],
+          "ans": 2,
+          "tr": "'minutes' sayılabilir + biraz -> a few."
+        },
+        {
+          "q": "She has very ___ patience with lazy people.",
+          "opts": [
+            "little",
+            "few",
+            "many"
+          ],
+          "ans": 0,
+          "tr": "'patience' sayılamaz + neredeyse yok -> little."
+        },
+        {
+          "q": "Would you like ___ tea?",
+          "opts": [
+            "any",
+            "some",
+            "many"
+          ],
+          "ans": 1,
+          "tr": "Kibar teklif/olumlu -> some."
+        },
+        {
+          "q": "We didn't have ___ money left after the trip.",
+          "opts": [
+            "many",
+            "a lot",
+            "much"
+          ],
+          "ans": 2,
+          "tr": "Olumsuz + sayılamaz -> much."
+        }
+      ]
+    },
+    {
+      "id": "gr_x5_linking_devices",
+      "lv": "B1",
+      "title": "Linking Devices (and / but / so / because)",
+      "exp": "Bağlaçlar cümleler arasında ilişki kurar: 'and' ekleme, 'but' karşıtlık, 'so' sonuç, 'because' neden, 'although' ödün, 'or' seçenek bildirir. Tuzak: 'because' nedeni, 'so' sonucu gösterir; karıştırma. 'although' ile 'but' aynı cümlede birlikte kullanılmaz.",
+      "items": [
+        {
+          "q": "It was raining, ___ we stayed at home.",
+          "opts": [
+            "so",
+            "because",
+            "but"
+          ],
+          "ans": 0,
+          "tr": "Sonuç -> so."
+        },
+        {
+          "q": "I was tired ___ I had worked all day.",
+          "opts": [
+            "so",
+            "because",
+            "or"
+          ],
+          "ans": 1,
+          "tr": "Neden -> because."
+        },
+        {
+          "q": "She is rich ___ she is not happy.",
+          "opts": [
+            "so",
+            "because",
+            "but"
+          ],
+          "ans": 2,
+          "tr": "Karşıtlık -> but."
+        },
+        {
+          "q": "___ it was cold, we went swimming.",
+          "opts": [
+            "Although",
+            "Because",
+            "So"
+          ],
+          "ans": 0,
+          "tr": "Ödün/karşıtlık -> Although."
+        },
+        {
+          "q": "Would you like tea ___ coffee?",
+          "opts": [
+            "and",
+            "or",
+            "so"
+          ],
+          "ans": 1,
+          "tr": "Seçenek -> or."
+        },
+        {
+          "q": "He studied hard, ___ he passed the exam.",
+          "opts": [
+            "because",
+            "but",
+            "and"
+          ],
+          "ans": 2,
+          "tr": "Ekleme/sıralı sonuç -> and."
+        }
+      ]
+    },
+    {
+      "id": "gr_x5_future_perfect",
+      "lv": "B1",
+      "title": "Future Perfect (will have done)",
+      "exp": "Gelecekte belirli bir andan ÖNCE tamamlanmış olacak eylemler için 'will have + V3' kullanılır: By 2030, they will have finished the bridge. Genellikle 'by + zaman' veya 'by the time ...' ifadeleriyle gelir. Tuzak: 'by the time' yan cümlesinde gelecek değil GENİŞ zaman kullanılır (By the time you arrive, I will have left).",
+      "items": [
+        {
+          "q": "By next June, I ___ my degree.",
+          "opts": [
+            "will have finished",
+            "will finish",
+            "finish"
+          ],
+          "ans": 0,
+          "tr": "Gelecekte bir andan önce tamamlanır -> will have finished."
+        },
+        {
+          "q": "By the time you ___ home, we will have eaten.",
+          "opts": [
+            "will get",
+            "get",
+            "got"
+          ],
+          "ans": 1,
+          "tr": "'by the time' yan cümlesi geniş zaman -> get."
+        },
+        {
+          "q": "They ___ the report by Friday.",
+          "opts": [
+            "will write",
+            "have written",
+            "will have written"
+          ],
+          "ans": 2,
+          "tr": "'by Friday' + tamamlanmışlık -> will have written."
+        },
+        {
+          "q": "In two hours, the train ___ the city.",
+          "opts": [
+            "will have reached",
+            "reaches",
+            "is reaching"
+          ],
+          "ans": 0,
+          "tr": "Belirli andan önce tamamlanır -> will have reached."
+        },
+        {
+          "q": "By the end of the year, she ___ here for a decade.",
+          "opts": [
+            "will work",
+            "will have worked",
+            "works"
+          ],
+          "ans": 1,
+          "tr": "Bir noktaya kadar süregelmiş -> will have worked."
+        },
+        {
+          "q": "By midnight, they ___ all the tickets.",
+          "opts": [
+            "sell",
+            "sold",
+            "will have sold"
+          ],
+          "ans": 2,
+          "tr": "Gece yarısından önce tamamlanmış -> will have sold."
+        }
+      ]
+    },
+    {
+      "id": "gr_x5_causatives",
+      "lv": "B2",
+      "title": "Causatives (have / get something done)",
+      "exp": "Bir işi başkasına yaptırmayı anlatmak için 'have/get + nesne + V3' kullanılır: I had my car repaired (arabamı tamir ettirdim). 'get' daha gündelik. Kişiye yaptırma için 'have somebody do' veya 'get somebody to do' kalıbı vardır. Tuzak: 'I repaired my car' kendin yaptın demektir; başkasına yaptırdıysan 'had it repaired' de.",
+      "items": [
+        {
+          "q": "I'm going to ___ my hair cut tomorrow.",
+          "opts": [
+            "have",
+            "make",
+            "do"
+          ],
+          "ans": 0,
+          "tr": "Yaptırma -> have ... cut."
+        },
+        {
+          "q": "She had the kitchen ___ last month.",
+          "opts": [
+            "paint",
+            "painted",
+            "painting"
+          ],
+          "ans": 1,
+          "tr": "have + nesne + V3 -> painted."
+        },
+        {
+          "q": "We need to get the windows ___.",
+          "opts": [
+            "clean",
+            "cleaning",
+            "cleaned"
+          ],
+          "ans": 2,
+          "tr": "get + nesne + V3 -> cleaned."
+        },
+        {
+          "q": "He had the mechanic ___ the engine.",
+          "opts": [
+            "check",
+            "to check",
+            "checked"
+          ],
+          "ans": 0,
+          "tr": "have somebody do -> check (yalın)."
+        },
+        {
+          "q": "They got an expert ___ the painting.",
+          "opts": [
+            "examine",
+            "to examine",
+            "examined"
+          ],
+          "ans": 1,
+          "tr": "get somebody to do -> to examine."
+        },
+        {
+          "q": "I must have these documents ___ today.",
+          "opts": [
+            "sign",
+            "signing",
+            "signed"
+          ],
+          "ans": 2,
+          "tr": "have + nesne + V3 -> signed."
+        }
+      ]
+    },
+    {
+      "id": "gr_x5_modals_deduction",
+      "lv": "B2",
+      "title": "Modals of Deduction (must / might / can't)",
+      "exp": "Çıkarım yaparken: kesin olumlu -> 'must' (He must be tired); olası -> 'might/may/could'; kesin olumsuz -> 'can't' (She can't be at home). Geçmiş için 'must have / might have / can't have + V3'. Tuzak: olumsuz kesin çıkarımda 'mustn't' değil 'can't' kullanılır (He can't be the thief).",
+      "items": [
+        {
+          "q": "The lights are off; they ___ be asleep.",
+          "opts": [
+            "must",
+            "can't",
+            "might not"
+          ],
+          "ans": 0,
+          "tr": "Kesin olumlu çıkarım -> must."
+        },
+        {
+          "q": "She isn't answering; she ___ be busy.",
+          "opts": [
+            "can't",
+            "might",
+            "mustn't"
+          ],
+          "ans": 1,
+          "tr": "Olasılık -> might."
+        },
+        {
+          "q": "You ___ be serious! That's impossible.",
+          "opts": [
+            "must",
+            "may",
+            "can't"
+          ],
+          "ans": 2,
+          "tr": "Kesin olumsuz çıkarım -> can't."
+        },
+        {
+          "q": "He ___ have missed the bus; that's why he's late.",
+          "opts": [
+            "must",
+            "can't",
+            "might"
+          ],
+          "ans": 0,
+          "tr": "Geçmiş kesin çıkarım -> must have."
+        },
+        {
+          "q": "They ___ have heard the news yet; they look calm.",
+          "opts": [
+            "must",
+            "can't",
+            "should"
+          ],
+          "ans": 1,
+          "tr": "Geçmiş kesin olumsuz -> can't have."
+        },
+        {
+          "q": "Nobody answered. They ___ have gone out.",
+          "opts": [
+            "can't",
+            "mustn't",
+            "might"
+          ],
+          "ans": 2,
+          "tr": "Geçmiş olasılık -> might have."
+        }
+      ]
+    },
+    {
+      "id": "gr_x5_noun_clauses",
+      "lv": "B2",
+      "title": "Noun Clauses (that / wh- / if-whether)",
+      "exp": "İsim cümlecikleri özne ya da nesne yerine geçer: I know that he is right. Soru sözcükleriyle gelenlerde DÜZ diziliş kullanılır (I don't know where she lives, 'does she live' değil). Evet/hayır soruları 'if/whether' ile aktarılır. Tuzak: gömülü soruda yardımcı fiil-özne devrik olmaz.",
+      "items": [
+        {
+          "q": "Do you know ___ the museum opens?",
+          "opts": [
+            "when",
+            "when does",
+            "what time does"
+          ],
+          "ans": 0,
+          "tr": "Gömülü soru düz diziliş -> when (+ özne + fiil)."
+        },
+        {
+          "q": "I'm not sure ___ he will come or not.",
+          "opts": [
+            "that",
+            "whether",
+            "what"
+          ],
+          "ans": 1,
+          "tr": "Evet/hayır gömülü soru -> whether."
+        },
+        {
+          "q": "She told me ___ she was tired.",
+          "opts": [
+            "what",
+            "if",
+            "that"
+          ],
+          "ans": 2,
+          "tr": "Bildirme cümleciği -> that."
+        },
+        {
+          "q": "Can you tell me where ___?",
+          "opts": [
+            "the station is",
+            "is the station",
+            "does the station"
+          ],
+          "ans": 0,
+          "tr": "Gömülü soru -> the station is (düz)."
+        },
+        {
+          "q": "___ he said surprised everyone.",
+          "opts": [
+            "That",
+            "What",
+            "If"
+          ],
+          "ans": 1,
+          "tr": "Özne işlevli isim cümleciği -> What."
+        },
+        {
+          "q": "I wonder ___ the test will be difficult.",
+          "opts": [
+            "that",
+            "what",
+            "whether"
+          ],
+          "ans": 2,
+          "tr": "Belirsiz evet/hayır -> whether."
+        }
+      ]
+    },
+    {
+      "id": "gr_x5_participle_clauses",
+      "lv": "C1",
+      "title": "Participle Clauses",
+      "exp": "İki cümleyi kısaltmak için ortaç kullanılır. Etken/eşzamanlı için '-ing' (Opening the door, she smiled = As she opened ...). Edilgen/önce biten için '-ed/V3' (Built in 1900, the house ...). Neden de gösterebilir (Feeling tired, he left). Tuzak: ortacın öznesi ana cümlenin öznesiyle AYNI olmalı; aksi halde 'dangling' hata olur.",
+      "items": [
+        {
+          "q": "___ the letter, she began to cry.",
+          "opts": [
+            "Reading",
+            "Read",
+            "To read"
+          ],
+          "ans": 0,
+          "tr": "Etken eşzamanlı -> Reading (= As she read)."
+        },
+        {
+          "q": "___ in 1920, the bridge is still in use.",
+          "opts": [
+            "Building",
+            "Built",
+            "To build"
+          ],
+          "ans": 1,
+          "tr": "Edilgen/önce biten -> Built."
+        },
+        {
+          "q": "___ tired, he went straight to bed.",
+          "opts": [
+            "Felt",
+            "To feel",
+            "Feeling"
+          ],
+          "ans": 2,
+          "tr": "Neden, etken -> Feeling."
+        },
+        {
+          "q": "The man ___ in the corner is my uncle.",
+          "opts": [
+            "sitting",
+            "sat",
+            "to sit"
+          ],
+          "ans": 0,
+          "tr": "Etken, ismi niteler -> sitting."
+        },
+        {
+          "q": "___ by the noise, the baby woke up.",
+          "opts": [
+            "Disturbing",
+            "Disturbed",
+            "Disturb"
+          ],
+          "ans": 1,
+          "tr": "Edilgen -> Disturbed."
+        },
+        {
+          "q": "___ what to say, she stayed silent.",
+          "opts": [
+            "Not known",
+            "Don't know",
+            "Not knowing"
+          ],
+          "ans": 2,
+          "tr": "Etken olumsuz ortaç -> Not knowing."
+        }
+      ]
+    },
+    {
+      "id": "gr_x5_cleft_sentences",
+      "lv": "B2",
+      "title": "Cleft Sentences (It is / What ...)",
+      "exp": "Bir ögeyi vurgulamak için cümle ikiye bölünür. 'It + be + vurgulanan + that/who ...' (It was John who broke it). 'What + cümle + be ...' (What I need is a holiday). Tuzak: 'It was ... that' kalıbında vurgulanan nesne de olsa 'that' kullanılır; özneyse 'who' de olabilir.",
+      "items": [
+        {
+          "q": "___ John who solved the problem.",
+          "opts": [
+            "It was",
+            "There was",
+            "That was"
+          ],
+          "ans": 0,
+          "tr": "Vurgu kalıbı -> It was ... who."
+        },
+        {
+          "q": "___ I really want is some peace and quiet.",
+          "opts": [
+            "That",
+            "What",
+            "It"
+          ],
+          "ans": 1,
+          "tr": "'What' yarık cümle -> What I want is ..."
+        },
+        {
+          "q": "It was in Paris ___ they first met.",
+          "opts": [
+            "what",
+            "which",
+            "that"
+          ],
+          "ans": 2,
+          "tr": "It + be + yer + that -> that."
+        },
+        {
+          "q": "___ surprised me was his honesty.",
+          "opts": [
+            "What",
+            "It",
+            "That"
+          ],
+          "ans": 0,
+          "tr": "Özne vurgusu -> What ... was."
+        },
+        {
+          "q": "It is the climate ___ attracts tourists here.",
+          "opts": [
+            "who",
+            "that",
+            "what"
+          ],
+          "ans": 1,
+          "tr": "Nesne/şey vurgusu -> that."
+        },
+        {
+          "q": "What she did ___ call the police immediately.",
+          "opts": [
+            "was",
+            "did",
+            "was to"
+          ],
+          "ans": 2,
+          "tr": "'What ... was to + V1' kalıbı -> was to."
+        }
+      ]
+    },
+    {
+      "id": "gr_x5_mixed_conditionals",
+      "lv": "C1",
+      "title": "Mixed Conditionals",
+      "exp": "Karma koşul cümleleri farklı zamanları birleştirir. Geçmişteki bir koşulun ŞİMDİKİ sonucu: If + had + V3, would + V1 (If I had studied medicine, I would be a doctor now). Şimdiki bir durumun GEÇMİŞTEKİ sonucu: If + past, would have + V3 (If I were brave, I would have told her). Tuzak: zaman göstergelerine (now, today / then, yesterday) dikkat ederek doğru yapıyı seç.",
+      "items": [
+        {
+          "q": "If I had saved money, I ___ rich now.",
+          "opts": [
+            "would be",
+            "would have been",
+            "am"
+          ],
+          "ans": 0,
+          "tr": "Geçmiş koşul + şimdiki sonuç -> would be."
+        },
+        {
+          "q": "If she were more careful, she ___ that mistake yesterday.",
+          "opts": [
+            "wouldn't make",
+            "wouldn't have made",
+            "didn't make"
+          ],
+          "ans": 1,
+          "tr": "Şimdiki durum + geçmiş sonuç -> wouldn't have made."
+        },
+        {
+          "q": "If he hadn't missed the train, he ___ here by now.",
+          "opts": [
+            "would have been",
+            "will be",
+            "would be"
+          ],
+          "ans": 2,
+          "tr": "Geçmiş koşul + şimdiki sonuç -> would be."
+        },
+        {
+          "q": "If I didn't love this job, I ___ it years ago.",
+          "opts": [
+            "would have left",
+            "would leave",
+            "left"
+          ],
+          "ans": 0,
+          "tr": "Şimdiki durum + geçmiş sonuç -> would have left."
+        },
+        {
+          "q": "If they had taken the map, they ___ lost now.",
+          "opts": [
+            "wouldn't have been",
+            "wouldn't be",
+            "aren't"
+          ],
+          "ans": 1,
+          "tr": "Geçmiş koşul + şimdiki sonuç -> wouldn't be."
+        },
+        {
+          "q": "If she spoke German, she ___ the job in Berlin last month.",
+          "opts": [
+            "would get",
+            "got",
+            "would have got"
+          ],
+          "ans": 2,
+          "tr": "Şimdiki yeti + geçmiş sonuç -> would have got."
+        }
+      ]
+    },
+    {
+      "id": "gr_x5_subjunctive",
+      "lv": "C1",
+      "title": "The Subjunctive (suggest / insist that ...)",
+      "exp": "Öneri, talep, ısrar bildiren fiil ve sıfatlardan sonra (suggest, insist, demand, recommend, essential, important) 'that' cümleciğinde fiilin YALIN hâli (base form) kullanılır, özne ne olursa olsun: I suggest that he be present. Olumsuzda 'that he not go'. Tuzak: 'he is/goes' değil, kişide bile 'be/go' yalın biçim gelir.",
+      "items": [
+        {
+          "q": "The teacher insisted that he ___ on time.",
+          "opts": [
+            "be",
+            "is",
+            "was"
+          ],
+          "ans": 0,
+          "tr": "insist + that + yalın fiil -> be."
+        },
+        {
+          "q": "It is essential that she ___ the rules.",
+          "opts": [
+            "follows",
+            "follow",
+            "followed"
+          ],
+          "ans": 1,
+          "tr": "essential that + yalın -> follow."
+        },
+        {
+          "q": "I recommend that he ___ a doctor.",
+          "opts": [
+            "sees",
+            "saw",
+            "see"
+          ],
+          "ans": 2,
+          "tr": "recommend that + yalın -> see."
+        },
+        {
+          "q": "They demanded that the report ___ ready by noon.",
+          "opts": [
+            "be",
+            "is",
+            "will be"
+          ],
+          "ans": 0,
+          "tr": "demand that + yalın 'be'."
+        },
+        {
+          "q": "The doctor advised that he ___ not smoke.",
+          "opts": [
+            "does",
+            "do",
+            "did"
+          ],
+          "ans": 1,
+          "tr": "Olumsuz subjunctive -> (do) not smoke; yalın 'do'."
+        },
+        {
+          "q": "It is important that everyone ___ the form.",
+          "opts": [
+            "signs",
+            "signed",
+            "sign"
+          ],
+          "ans": 2,
+          "tr": "important that + yalın -> sign."
+        }
+      ]
     }
   ],
   "writing": [
@@ -41790,6 +43608,126 @@
       "prompt": "Governments should ban single-use plastics in order to protect the environment. To what extent do you agree? Support your position with reasons and examples.",
       "tips": "Açık bir tez belirle. Güçlü argümanlarını kanıt ve örneklerle destekle, en az bir karşı argümana yanıt vererek çürüt. Resmî, tutarlı ve akademik bir ton kullan; sonuçta bir öneri ya da çağrıyla kapat.",
       "structure": "Giriş (tez) -> argüman 1 + kanıt -> argüman 2 + kanıt -> karşı argüman + çürütme -> sonuç."
+    },
+    {
+      "id": "wr_x5_thankyou_email",
+      "lv": "B1",
+      "exam": [
+        "GENEL"
+      ],
+      "type": "Teşekkür E-postası",
+      "minWords": 80,
+      "prompt": "A friend helped you move into your new flat last weekend. Write a short email to thank them and invite them for dinner.",
+      "tips": "Samimi bir selamlamayla başla (Hi / Dear). Tam olarak ne için teşekkür ettiğini belirt, yardımın sana nasıl iyi geldiğini söyle, küçük bir karşılık (akşam yemeği daveti) sun ve sıcak bir kapanış yaz.",
+      "structure": "Selamlama -> teşekkür + neden -> kısa duygu/yorum -> davet -> sıcak kapanış."
+    },
+    {
+      "id": "wr_x5_apology_letter",
+      "lv": "B1",
+      "exam": [
+        "GENEL"
+      ],
+      "type": "Özür Mektubu",
+      "minWords": 100,
+      "prompt": "You missed your friend's birthday party. Write a letter to apologise, explain why you could not come, and suggest meeting soon.",
+      "tips": "Özrünü açıkça ve içtenlikle ifade et (I'm really sorry ...). Gelememe nedenini kısaca açıkla, üzüldüğünü belirt ve telafi için somut bir öneri (buluşma) sun. Nazik bir kapanışla bitir.",
+      "structure": "Selamlama -> özür -> açıklama (neden) -> üzüntü ifadesi -> telafi önerisi -> kapanış."
+    },
+    {
+      "id": "wr_x5_event_announcement",
+      "lv": "B1",
+      "exam": [
+        "GENEL"
+      ],
+      "type": "Etkinlik Duyurusu",
+      "minWords": 80,
+      "prompt": "Your class is organising a charity book sale at school. Write a short announcement to inform other students about it.",
+      "tips": "Net bir başlıkla başla. Etkinliğin ne olduğunu, tarihini, yerini ve saatini açıkça yaz. İnsanları neden katılmaya çağırdığını belirt (iyi bir amaç). Kısa, açık ve davetkâr bir dil kullan.",
+      "structure": "Başlık -> etkinlik nedir -> tarih/yer/saat -> neden katılmalı -> kapanış çağrısı."
+    },
+    {
+      "id": "wr_x5_advice_email",
+      "lv": "B1",
+      "exam": [
+        "GENEL"
+      ],
+      "type": "Tavsiye E-postası",
+      "minWords": 100,
+      "prompt": "A friend from abroad is going to visit your city for three days and asks what to do. Write an email giving advice.",
+      "tips": "Selamlamadan sonra arkadaşını mutlu et (I'm so excited ...). Görülecek iki-üç yer öner, neden tavsiye ettiğini kısaca açıkla, pratik bir ipucu (hava, ulaşım) ekle ve görüşmeyi dört gözle beklediğini söyle.",
+      "structure": "Selamlama -> heyecan ifadesi -> öneri 1-2-3 + kısa neden -> pratik ipucu -> sıcak kapanış."
+    },
+    {
+      "id": "wr_x5_blog_post",
+      "lv": "B2",
+      "exam": [
+        "GENEL"
+      ],
+      "type": "Blog Yazısı",
+      "minWords": 150,
+      "prompt": "Write a blog post about a hobby that has changed your life, explaining what it is and why you recommend it to others.",
+      "tips": "Okuru çeken bir girişle başla. Hobiyi tanıt, sana neler kattığını somut örneklerle anlat, başkalarının da neden denemesi gerektiğini söyle. Samimi ama düzenli bir ton kullan; okuyucuya doğrudan seslen.",
+      "structure": "İlgi çekici giriş -> hobi nedir -> sana etkisi + örnek -> okuyucuya öneri -> kapanış sorusu/çağrısı."
+    },
+    {
+      "id": "wr_x5_advantages_essay",
+      "lv": "B2",
+      "exam": [
+        "IELTS"
+      ],
+      "type": "Avantaj-Dezavantaj Denemesi",
+      "minWords": 250,
+      "prompt": "More and more people are working from home rather than in an office. Do the advantages of this development outweigh the disadvantages?",
+      "tips": "Giriş'te konuyu parafraz et ve duruşunu belirt. Bir gövde paragrafında avantajları, diğerinde dezavantajları örneklerle sun. Sonuçta hangisinin ağır bastığına dair net bir yargı ver. Akademik bağlaçlar (on the one hand, however) kullan.",
+      "structure": "Giriş (parafraz + tez) -> avantajlar + örnek -> dezavantajlar + örnek -> tartılı sonuç."
+    },
+    {
+      "id": "wr_x5_ielts_process",
+      "lv": "B2",
+      "exam": [
+        "IELTS"
+      ],
+      "type": "IELTS Task 1 Süreç Betimleme",
+      "minWords": 150,
+      "prompt": "The diagram below shows how paper is recycled. Summarise the information by describing the main stages of the process.",
+      "tips": "Giriş'te süreci kendi cümlenle tanıt ve kaç aşamadan oluştuğunu söyle. Aşamaları sırayla ve edilgen yapıyla anlat (is collected, is cleaned). Sıra bağlaçları kullan (first, then, after that, finally). Görüş ekleme; yalnızca betimle.",
+      "structure": "Giriş (sürecin tanıtımı) -> genel bakış (kaç aşama) -> aşamalar sırayla -> son ürün/kapanış."
+    },
+    {
+      "id": "wr_x5_formal_report",
+      "lv": "C1",
+      "exam": [
+        "GENEL"
+      ],
+      "type": "Biçimsel Rapor",
+      "minWords": 200,
+      "prompt": "Your manager has asked you to assess the staff canteen and suggest improvements. Write a formal report with findings and recommendations.",
+      "tips": "Başlık ve kısa bir amaç cümlesiyle başla. Bulguları başlıklar altında nesnel biçimde sun (yemek kalitesi, fiyat, ortam). Her bulguyu somut gözleme dayandır ve net, uygulanabilir öneriler ver. Resmî, kişisellikten uzak bir dil kullan.",
+      "structure": "Başlık + amaç -> bulgular (alt başlıklarla) -> değerlendirme -> öneriler -> kısa kapanış."
+    },
+    {
+      "id": "wr_x5_problem_solution",
+      "lv": "C1",
+      "exam": [
+        "IELTS"
+      ],
+      "type": "IELTS Task 2 Problem-Çözüm Denemesi",
+      "minWords": 250,
+      "prompt": "Traffic congestion is becoming a serious problem in many large cities. What are the causes of this problem, and what measures could be taken to solve it?",
+      "tips": "Giriş'te sorunu parafraz et ve denemenin yapısını ima et. Bir gövde paragrafında nedenleri, diğerinde çözümleri ele al; her çözümü olası sonucuyla birlikte açıkla. Sonuçta en etkili çözümü vurgula. Resmî ve tutarlı bir ton koru.",
+      "structure": "Giriş (parafraz) -> nedenler + açıklama -> çözümler + olası sonuç -> sonuç."
+    },
+    {
+      "id": "wr_x5_toefl_preference",
+      "lv": "C1",
+      "exam": [
+        "TOEFL"
+      ],
+      "type": "TOEFL Bağımsız Deneme (Tercih)",
+      "minWords": 250,
+      "prompt": "Some people prefer to plan their activities for their free time very carefully. Others choose not to make any plans at all. Which do you prefer, and why?",
+      "tips": "Net bir tercih belirterek başla. İki-üç güçlü gerekçeyi ayrı paragraflarda örneklerle geliştir; kişisel deneyim örnekleri kabul edilir. Karşı tercihi kısaca kabul edip neden seninkini yeğlediğini açıkla. Sonuçta tercihini yinele.",
+      "structure": "Giriş (tercih) -> gerekçe 1 + örnek -> gerekçe 2 + örnek -> karşı tercihe kısa değini -> sonuç."
     }
   ],
   "cloze": [

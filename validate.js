@@ -147,7 +147,7 @@ const EXAMS = ['GENEL', 'IELTS', 'TOEFL'];
 // Items in these modules carry their own ids ("_x2_"). Validate only the
 // batch-2 records, identified by the "_x2_" marker in their id, so the
 // original example records (ext_*) are left untouched.
-const isB2id = (id) => typeof id === 'string' && id.includes('_x2_');
+const isB2id = (id) => typeof id === 'string' && /_x\d+_/.test(id);
 
 function checkItemOptsAns(item, optsLen, ansMax, where) {
   if (!Array.isArray(item.opts) || item.opts.length !== optsLen) errors.push(`${where}: opts must be array of length ${optsLen} (got ${Array.isArray(item.opts) ? item.opts.length : typeof item.opts})`);
@@ -158,7 +158,7 @@ function checkItemOptsAns(item, optsLen, ansMax, where) {
 // --- articles (opts length 4, items carry tr/en, body needs paragraph break) ---
 (content.articles || []).filter((it) => isB2id(it.id)).forEach((it) => {
   const where = `article ${it.id}`;
-  if (!it.id.includes('_x2_')) errors.push(`${where}: id must contain "_x2_"`);
+  if (!/_x\d+_/.test(it.id)) errors.push(`${where}: id must contain a batch marker like "_x2_"/"_x5_"`);
   if (!LV2.includes(it.lv)) errors.push(`${where}: lv must be B1/B2/C1 (got ${JSON.stringify(it.lv)})`);
   if (!FIELD.includes(it.field)) errors.push(`${where}: field must be fen/saglik/sosyal (got ${JSON.stringify(it.field)})`);
   if (!isStr(it.title)) errors.push(`${where}: title missing`);
@@ -177,7 +177,7 @@ function checkItemOptsAns(item, optsLen, ansMax, where) {
 // --- listening (opts length 3, accent constrained, items have no tr/en) ---
 (content.listening || []).filter((it) => isB2id(it.id)).forEach((it) => {
   const where = `listening ${it.id}`;
-  if (!it.id.includes('_x2_')) errors.push(`${where}: id must contain "_x2_"`);
+  if (!/_x\d+_/.test(it.id)) errors.push(`${where}: id must contain a batch marker like "_x2_"/"_x5_"`);
   if (!LV2.includes(it.lv)) errors.push(`${where}: lv must be B1/B2/C1 (got ${JSON.stringify(it.lv)})`);
   if (!FIELD.includes(it.field)) errors.push(`${where}: field must be fen/saglik/sosyal (got ${JSON.stringify(it.field)})`);
   if (!ACCENTS.includes(it.accent)) errors.push(`${where}: accent must be en-GB/en-US (got ${JSON.stringify(it.accent)})`);
@@ -194,7 +194,7 @@ function checkItemOptsAns(item, optsLen, ansMax, where) {
 // --- grammar (opts length 3, items carry tr; no field) ---
 (content.grammar || []).filter((it) => isB2id(it.id)).forEach((it) => {
   const where = `grammar ${it.id}`;
-  if (!it.id.includes('_x2_')) errors.push(`${where}: id must contain "_x2_"`);
+  if (!/_x\d+_/.test(it.id)) errors.push(`${where}: id must contain a batch marker like "_x2_"/"_x5_"`);
   if (!LV2.includes(it.lv)) errors.push(`${where}: lv must be B1/B2/C1 (got ${JSON.stringify(it.lv)})`);
   if (!isStr(it.title)) errors.push(`${where}: title missing`);
   if (!isStr(it.exp)) errors.push(`${where}: exp missing`);
@@ -210,7 +210,7 @@ function checkItemOptsAns(item, optsLen, ansMax, where) {
 // --- writing (exam labels constrained; no items) ---
 (content.writing || []).filter((it) => isB2id(it.id)).forEach((it) => {
   const where = `writing ${it.id}`;
-  if (!it.id.includes('_x2_')) errors.push(`${where}: id must contain "_x2_"`);
+  if (!/_x\d+_/.test(it.id)) errors.push(`${where}: id must contain a batch marker like "_x2_"/"_x5_"`);
   if (!LV2.includes(it.lv)) errors.push(`${where}: lv must be B1/B2/C1 (got ${JSON.stringify(it.lv)})`);
   if (!Array.isArray(it.exam) || it.exam.length < 1) errors.push(`${where}: exam must be a non-empty array`);
   else if (!it.exam.every((e) => EXAMS.includes(e))) errors.push(`${where}: exam values must be in {GENEL,IELTS,TOEFL} (got ${JSON.stringify(it.exam)})`);
