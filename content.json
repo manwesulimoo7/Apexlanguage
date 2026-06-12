@@ -13216,6 +13216,3854 @@
       "pos": "n.",
       "tr": "bulmaca; bilmece, muamma",
       "ex": "The cause of the illness remains a puzzle."
+    },
+    {
+      "id": "ext_query",
+      "lv": "C1",
+      "w": "query",
+      "pos": "n.",
+      "tr": "sorgu, soru",
+      "ex": "Send any queries to the support team."
+    },
+    {
+      "id": "ext_quest",
+      "lv": "C1",
+      "w": "quest",
+      "pos": "n.",
+      "tr": "arayış, macera",
+      "ex": "The book follows a knight's quest for a lost crown."
+    },
+    {
+      "id": "ext_questionnaire",
+      "lv": "B2",
+      "w": "questionnaire",
+      "pos": "n.",
+      "tr": "anket (formu)",
+      "ex": "Guests fill in a short questionnaire at checkout."
+    },
+    {
+      "id": "ext_quota",
+      "lv": "C1",
+      "w": "quota",
+      "pos": "n.",
+      "tr": "kota",
+      "ex": "The boat had already caught its weekly quota of fish."
+    },
+    {
+      "id": "ext_racial",
+      "lv": "B2",
+      "w": "racial",
+      "pos": "adj.",
+      "tr": "ırksal, ırkla ilgili",
+      "ex": "The city has a long history of racial diversity."
+    },
+    {
+      "id": "ext_racism",
+      "lv": "B2",
+      "w": "racism",
+      "pos": "n.",
+      "tr": "ırkçılık",
+      "ex": "The club banned fans found guilty of racism."
+    },
+    {
+      "id": "ext_racist",
+      "lv": "B2",
+      "w": "racist",
+      "pos": "adj., n.",
+      "tr": "ırkçı",
+      "ex": "Racist comments were removed from the forum."
+    },
+    {
+      "id": "ext_radar",
+      "lv": "C1",
+      "w": "radar",
+      "pos": "n.",
+      "tr": "radar",
+      "ex": "The storm appeared suddenly on the radar."
+    },
+    {
+      "id": "ext_radiation",
+      "lv": "B2",
+      "w": "radiation",
+      "pos": "n.",
+      "tr": "radyasyon, ışınım",
+      "ex": "The suit protects workers from radiation."
+    },
+    {
+      "id": "ext_radical",
+      "lv": "C1",
+      "w": "radical",
+      "pos": "adj.",
+      "tr": "köklü, radikal",
+      "ex": "The plan needs radical changes before approval."
+    },
+    {
+      "id": "ext_rage",
+      "lv": "C1",
+      "w": "rage",
+      "pos": "n.",
+      "tr": "öfke, hiddet",
+      "ex": "He slammed the door in a fit of rage."
+    },
+    {
+      "id": "ext_raid",
+      "lv": "C1",
+      "w": "raid",
+      "pos": "n., v.",
+      "tr": "baskın; baskın yapmak",
+      "ex": "Police raided the warehouse at dawn."
+    },
+    {
+      "id": "ext_rail",
+      "lv": "B2",
+      "w": "rail",
+      "pos": "n.",
+      "tr": "ray; demiryolu; korkuluk",
+      "ex": "The goods travel by rail to the coast."
+    },
+    {
+      "id": "ext_rally",
+      "lv": "C1",
+      "w": "rally",
+      "pos": "n., v.",
+      "tr": "miting; ralli; toparlanmak",
+      "ex": "Thousands attended a rally for peace."
+    },
+    {
+      "id": "ext_random",
+      "lv": "B2",
+      "w": "random",
+      "pos": "adj.",
+      "tr": "rastgele",
+      "ex": "The winners are chosen at random."
+    },
+    {
+      "id": "ext_range",
+      "lv": "B2",
+      "w": "range",
+      "pos": "v.",
+      "tr": "(arasında) değişmek; uzanmak",
+      "ex": "Prices range from ten to fifty pounds."
+    },
+    {
+      "id": "ext_rank",
+      "lv": "B2",
+      "w": "rank",
+      "pos": "n., v.",
+      "tr": "rütbe, sıra; sıralamak",
+      "ex": "She rose to the rank of captain."
+    },
+    {
+      "id": "ext_ranking",
+      "lv": "C1",
+      "w": "ranking",
+      "pos": "n.",
+      "tr": "sıralama",
+      "ex": "The university improved its world ranking."
+    },
+    {
+      "id": "ext_rape",
+      "lv": "C1",
+      "w": "rape",
+      "pos": "n., v.",
+      "tr": "tecavüz; tecavüz etmek",
+      "ex": "He was convicted of rape and imprisoned."
+    },
+    {
+      "id": "ext_rapid",
+      "lv": "B2",
+      "w": "rapid",
+      "pos": "adj.",
+      "tr": "hızlı, süratli",
+      "ex": "The patient made a rapid recovery."
+    },
+    {
+      "id": "ext_rapidly",
+      "lv": "B2",
+      "w": "rapidly",
+      "pos": "adv.",
+      "tr": "hızla",
+      "ex": "The fire spread rapidly through the dry forest."
+    },
+    {
+      "id": "ext_rat",
+      "lv": "B2",
+      "w": "rat",
+      "pos": "n.",
+      "tr": "sıçan",
+      "ex": "Rats had gnawed through the cables."
+    },
+    {
+      "id": "ext_rate",
+      "lv": "B2",
+      "w": "rate",
+      "pos": "v.",
+      "tr": "değerlendirmek, derecelendirmek",
+      "ex": "Viewers rated the show nine out of ten."
+    },
+    {
+      "id": "ext_rating",
+      "lv": "B2",
+      "w": "rating",
+      "pos": "n.",
+      "tr": "derecelendirme, puan",
+      "ex": "The hotel has a five-star rating."
+    },
+    {
+      "id": "ext_ratio",
+      "lv": "C1",
+      "w": "ratio",
+      "pos": "n.",
+      "tr": "oran",
+      "ex": "The school has a low student-teacher ratio."
+    },
+    {
+      "id": "ext_rational",
+      "lv": "C1",
+      "w": "rational",
+      "pos": "adj.",
+      "tr": "akılcı, mantıklı",
+      "ex": "There must be a rational explanation for the noise."
+    },
+    {
+      "id": "ext_raw",
+      "lv": "B2",
+      "w": "raw",
+      "pos": "adj.",
+      "tr": "çiğ; işlenmemiş, ham",
+      "ex": "The dish is made with raw fish."
+    },
+    {
+      "id": "ext_ray",
+      "lv": "C1",
+      "w": "ray",
+      "pos": "n.",
+      "tr": "ışın",
+      "ex": "A ray of sunlight broke through the clouds."
+    },
+    {
+      "id": "ext_reach",
+      "lv": "B2",
+      "w": "reach",
+      "pos": "n.",
+      "tr": "erişim, ulaşma mesafesi",
+      "ex": "Keep medicines out of the reach of children."
+    },
+    {
+      "id": "ext_readily",
+      "lv": "C1",
+      "w": "readily",
+      "pos": "adv.",
+      "tr": "kolayca; gönüllüce",
+      "ex": "The information is readily available online."
+    },
+    {
+      "id": "ext_realistic",
+      "lv": "B2",
+      "w": "realistic",
+      "pos": "adj.",
+      "tr": "gerçekçi",
+      "ex": "Set yourself realistic goals for the year."
+    },
+    {
+      "id": "ext_realization",
+      "lv": "C1",
+      "w": "realization",
+      "pos": "n.",
+      "tr": "farkına varma; gerçekleştirme",
+      "ex": "The realization that he was lost came slowly."
+    },
+    {
+      "id": "ext_realm",
+      "lv": "C1",
+      "w": "realm",
+      "pos": "n.",
+      "tr": "alan, diyar",
+      "ex": "Such speeds remain in the realm of fantasy."
+    },
+    {
+      "id": "ext_rear",
+      "lv": "C1",
+      "w": "rear",
+      "pos": "adj., n.",
+      "tr": "arka",
+      "ex": "The engine sits at the rear of the car."
+    },
+    {
+      "id": "ext_reasonable",
+      "lv": "B2",
+      "w": "reasonable",
+      "pos": "adj.",
+      "tr": "makul, mantıklı",
+      "ex": "The shop sells good shoes at reasonable prices."
+    },
+    {
+      "id": "ext_reasonably",
+      "lv": "B2",
+      "w": "reasonably",
+      "pos": "adv.",
+      "tr": "makul ölçüde; oldukça",
+      "ex": "The team played reasonably well in the first half."
+    },
+    {
+      "id": "ext_reasoning",
+      "lv": "C1",
+      "w": "reasoning",
+      "pos": "n.",
+      "tr": "akıl yürütme, muhakeme",
+      "ex": "Explain the reasoning behind your decision."
+    },
+    {
+      "id": "ext_reassure",
+      "lv": "C1",
+      "w": "reassure",
+      "pos": "v.",
+      "tr": "içini rahatlatmak, güven vermek",
+      "ex": "The pilot reassured passengers about the noise."
+    },
+    {
+      "id": "ext_rebel",
+      "lv": "C1",
+      "w": "rebel",
+      "pos": "n.",
+      "tr": "asi, isyancı",
+      "ex": "The rebels controlled the mountain passes."
+    },
+    {
+      "id": "ext_rebellion",
+      "lv": "C1",
+      "w": "rebellion",
+      "pos": "n.",
+      "tr": "isyan, ayaklanma",
+      "ex": "The rebellion was crushed within a month."
+    },
+    {
+      "id": "ext_rebuild",
+      "lv": "B2",
+      "w": "rebuild",
+      "pos": "v.",
+      "tr": "yeniden inşa etmek",
+      "ex": "The town was rebuilt after the earthquake."
+    },
+    {
+      "id": "ext_recall",
+      "lv": "B2",
+      "w": "recall",
+      "pos": "v.",
+      "tr": "hatırlamak; geri çağırmak",
+      "ex": "I don't recall meeting her before."
+    },
+    {
+      "id": "ext_receiver",
+      "lv": "B2",
+      "w": "receiver",
+      "pos": "n.",
+      "tr": "alıcı; ahize",
+      "ex": "He picked up the receiver and dialled."
+    },
+    {
+      "id": "ext_recession",
+      "lv": "B2",
+      "w": "recession",
+      "pos": "n.",
+      "tr": "durgunluk, resesyon",
+      "ex": "Many shops closed during the recession."
+    },
+    {
+      "id": "ext_recipient",
+      "lv": "C1",
+      "w": "recipient",
+      "pos": "n.",
+      "tr": "alıcı (kişi)",
+      "ex": "She was the youngest recipient of the prize."
+    },
+    {
+      "id": "ext_reckon",
+      "lv": "B2",
+      "w": "reckon",
+      "pos": "v.",
+      "tr": "sanmak, tahmin etmek; hesaplamak",
+      "ex": "I reckon it'll rain before evening."
+    },
+    {
+      "id": "ext_recognition",
+      "lv": "B2",
+      "w": "recognition",
+      "pos": "n.",
+      "tr": "tanıma; takdir",
+      "ex": "Her work finally received international recognition."
+    },
+    {
+      "id": "ext_reconstruction",
+      "lv": "C1",
+      "w": "reconstruction",
+      "pos": "n.",
+      "tr": "yeniden inşa; canlandırma",
+      "ex": "The programme showed a reconstruction of the crime."
+    },
+    {
+      "id": "ext_recount",
+      "lv": "C1",
+      "w": "recount",
+      "pos": "v.",
+      "tr": "anlatmak, nakletmek",
+      "ex": "He recounted his adventures in the desert."
+    },
+    {
+      "id": "ext_recover",
+      "lv": "B2",
+      "w": "recover",
+      "pos": "v.",
+      "tr": "iyileşmek; geri kazanmak",
+      "ex": "She is recovering well after the operation."
+    },
+    {
+      "id": "ext_recovery",
+      "lv": "B2",
+      "w": "recovery",
+      "pos": "n.",
+      "tr": "iyileşme; geri kazanım",
+      "ex": "Doctors expect a full recovery."
+    },
+    {
+      "id": "ext_recruit",
+      "lv": "B2",
+      "w": "recruit",
+      "pos": "n., v.",
+      "tr": "acemi (asker), yeni eleman; işe almak",
+      "ex": "The army recruits thousands of young people yearly."
+    },
+    {
+      "id": "ext_recruitment",
+      "lv": "B2",
+      "w": "recruitment",
+      "pos": "n.",
+      "tr": "işe alım",
+      "ex": "The hospital launched a nurse recruitment drive."
+    },
+    {
+      "id": "ext_reduction",
+      "lv": "B2",
+      "w": "reduction",
+      "pos": "n.",
+      "tr": "azaltma, indirim",
+      "ex": "Members get a reduction on all tickets."
+    },
+    {
+      "id": "ext_referee",
+      "lv": "B2",
+      "w": "referee",
+      "pos": "n.",
+      "tr": "hakem",
+      "ex": "The referee showed him a yellow card."
+    },
+    {
+      "id": "ext_referendum",
+      "lv": "C1",
+      "w": "referendum",
+      "pos": "n.",
+      "tr": "referandum, halk oylaması",
+      "ex": "The change was approved in a national referendum."
+    },
+    {
+      "id": "ext_reflection",
+      "lv": "C1",
+      "w": "reflection",
+      "pos": "n.",
+      "tr": "yansıma; derin düşünme",
+      "ex": "She studied her reflection in the shop window."
+    },
+    {
+      "id": "ext_reform",
+      "lv": "C1",
+      "w": "reform",
+      "pos": "n., v.",
+      "tr": "reform; ıslah etmek",
+      "ex": "The new law reforms the tax system."
+    },
+    {
+      "id": "ext_refuge",
+      "lv": "C1",
+      "w": "refuge",
+      "pos": "n.",
+      "tr": "sığınak, barınak",
+      "ex": "The walkers took refuge from the storm in a barn."
+    },
+    {
+      "id": "ext_refugee",
+      "lv": "B2",
+      "w": "refugee",
+      "pos": "n.",
+      "tr": "mülteci, sığınmacı",
+      "ex": "The camp shelters thousands of refugees."
+    },
+    {
+      "id": "ext_refusal",
+      "lv": "C1",
+      "w": "refusal",
+      "pos": "n.",
+      "tr": "ret, kabul etmeme",
+      "ex": "His refusal to apologise made things worse."
+    },
+    {
+      "id": "ext_regain",
+      "lv": "C1",
+      "w": "regain",
+      "pos": "v.",
+      "tr": "yeniden kazanmak",
+      "ex": "She slowly regained her strength."
+    },
+    {
+      "id": "ext_regard",
+      "lv": "B2",
+      "w": "regard",
+      "pos": "n., v.",
+      "tr": "saygı; bakımdan; olarak görmek",
+      "ex": "I regard her as my closest friend."
+    },
+    {
+      "id": "ext_regardless",
+      "lv": "C1",
+      "w": "regardless",
+      "pos": "adv.",
+      "tr": "ne olursa olsun, aldırmadan",
+      "ex": "They continued the match regardless of the rain."
+    },
+    {
+      "id": "ext_regime",
+      "lv": "C1",
+      "w": "regime",
+      "pos": "n.",
+      "tr": "rejim; düzen",
+      "ex": "The old regime collapsed almost overnight."
+    },
+    {
+      "id": "ext_regional",
+      "lv": "B2",
+      "w": "regional",
+      "pos": "adj.",
+      "tr": "bölgesel",
+      "ex": "The regional dialect is hard for outsiders."
+    },
+    {
+      "id": "ext_register",
+      "lv": "B2",
+      "w": "register",
+      "pos": "n., v.",
+      "tr": "kayıt; kaydolmak, kaydetmek",
+      "ex": "Students must register for exams by Friday."
+    },
+    {
+      "id": "ext_registration",
+      "lv": "B2",
+      "w": "registration",
+      "pos": "n.",
+      "tr": "kayıt (işlemi)",
+      "ex": "Registration opens at nine o'clock."
+    },
+    {
+      "id": "ext_regret",
+      "lv": "B2",
+      "w": "regret",
+      "pos": "n., v.",
+      "tr": "pişmanlık; pişman olmak",
+      "ex": "He regrets selling his grandfather's watch."
+    },
+    {
+      "id": "ext_regulate",
+      "lv": "B2",
+      "w": "regulate",
+      "pos": "v.",
+      "tr": "düzenlemek, denetlemek",
+      "ex": "The valve regulates the flow of water."
+    },
+    {
+      "id": "ext_regulation",
+      "lv": "B2",
+      "w": "regulation",
+      "pos": "n.",
+      "tr": "yönetmelik, düzenleme",
+      "ex": "New regulations limit noise after midnight."
+    },
+    {
+      "id": "ext_regulator",
+      "lv": "C1",
+      "w": "regulator",
+      "pos": "n.",
+      "tr": "düzenleyici (kurum)",
+      "ex": "The energy regulator capped household prices."
+    },
+    {
+      "id": "ext_regulatory",
+      "lv": "C1",
+      "w": "regulatory",
+      "pos": "adj.",
+      "tr": "düzenleyici (mevzuata ilişkin)",
+      "ex": "The drug awaits regulatory approval."
+    },
+    {
+      "id": "ext_rehabilitation",
+      "lv": "C1",
+      "w": "rehabilitation",
+      "pos": "n.",
+      "tr": "rehabilitasyon, iyileştirme",
+      "ex": "The centre offers rehabilitation after injury."
+    },
+    {
+      "id": "ext_reign",
+      "lv": "C1",
+      "w": "reign",
+      "pos": "n., v.",
+      "tr": "saltanat, hükümdarlık (dönemi); hüküm sürmek",
+      "ex": "The castle was built during her reign."
+    },
+    {
+      "id": "ext_reinforce",
+      "lv": "B2",
+      "w": "reinforce",
+      "pos": "v.",
+      "tr": "güçlendirmek, pekiştirmek",
+      "ex": "Steel bars reinforce the concrete walls."
+    },
+    {
+      "id": "ext_rejection",
+      "lv": "C1",
+      "w": "rejection",
+      "pos": "n.",
+      "tr": "ret, reddedilme",
+      "ex": "She kept every rejection letter from publishers."
+    },
+    {
+      "id": "ext_relatively",
+      "lv": "B2",
+      "w": "relatively",
+      "pos": "adv.",
+      "tr": "nispeten, görece",
+      "ex": "The test is relatively easy to pass."
+    },
+    {
+      "id": "ext_relevance",
+      "lv": "C1",
+      "w": "relevance",
+      "pos": "n.",
+      "tr": "ilgililik, geçerlilik",
+      "ex": "The old map has little relevance today."
+    },
+    {
+      "id": "ext_relevant",
+      "lv": "B2",
+      "w": "relevant",
+      "pos": "adj.",
+      "tr": "ilgili, konuyla alakalı",
+      "ex": "Include only the relevant details in your report."
+    },
+    {
+      "id": "ext_reliability",
+      "lv": "C1",
+      "w": "reliability",
+      "pos": "n.",
+      "tr": "güvenilirlik",
+      "ex": "The engine is famous for its reliability."
+    },
+    {
+      "id": "ext_relief",
+      "lv": "B2",
+      "w": "relief",
+      "pos": "n.",
+      "tr": "rahatlama; yardım (afet)",
+      "ex": "It was a relief to hear they were safe."
+    },
+    {
+      "id": "ext_relieve",
+      "lv": "B2",
+      "w": "relieve",
+      "pos": "v.",
+      "tr": "hafifletmek, rahatlatmak",
+      "ex": "A warm bath relieves tired muscles."
+    },
+    {
+      "id": "ext_relieved",
+      "lv": "B2",
+      "w": "relieved",
+      "pos": "adj.",
+      "tr": "rahatlamış",
+      "ex": "She felt relieved when the results came back clear."
+    },
+    {
+      "id": "ext_reluctant",
+      "lv": "C1",
+      "w": "reluctant",
+      "pos": "adj.",
+      "tr": "isteksiz, gönülsüz",
+      "ex": "He was reluctant to lend his new bike."
+    },
+    {
+      "id": "ext_rely",
+      "lv": "B2",
+      "w": "rely",
+      "pos": "v.",
+      "tr": "güvenmek, bel bağlamak",
+      "ex": "The village relies on tourism for income."
+    },
+    {
+      "id": "ext_remainder",
+      "lv": "C1",
+      "w": "remainder",
+      "pos": "n.",
+      "tr": "geri kalan, bakiye",
+      "ex": "She spent the remainder of the day reading."
+    },
+    {
+      "id": "ext_remains",
+      "lv": "C1",
+      "w": "remains",
+      "pos": "n.",
+      "tr": "kalıntılar",
+      "ex": "The remains of a Roman villa were found here."
+    },
+    {
+      "id": "ext_remark",
+      "lv": "B2",
+      "w": "remark",
+      "pos": "n., v.",
+      "tr": "söz, yorum; belirtmek",
+      "ex": "He made a kind remark about her cooking."
+    },
+    {
+      "id": "ext_remarkable",
+      "lv": "B2",
+      "w": "remarkable",
+      "pos": "adj.",
+      "tr": "dikkate değer, olağanüstü",
+      "ex": "The child shows remarkable musical talent."
+    },
+    {
+      "id": "ext_remarkably",
+      "lv": "B2",
+      "w": "remarkably",
+      "pos": "adv.",
+      "tr": "şaşılacak derecede",
+      "ex": "The weather stayed remarkably mild all winter."
+    },
+    {
+      "id": "ext_remedy",
+      "lv": "C1",
+      "w": "remedy",
+      "pos": "n.",
+      "tr": "çare, deva",
+      "ex": "Honey and lemon is an old remedy for coughs."
+    },
+    {
+      "id": "ext_reminder",
+      "lv": "C1",
+      "w": "reminder",
+      "pos": "n.",
+      "tr": "hatırlatma, hatırlatıcı",
+      "ex": "The app sends a reminder before each meeting."
+    },
+    {
+      "id": "ext_removal",
+      "lv": "C1",
+      "w": "removal",
+      "pos": "n.",
+      "tr": "kaldırma, çıkarma; taşınma",
+      "ex": "The removal of the old bridge took a week."
+    },
+    {
+      "id": "ext_render",
+      "lv": "C1",
+      "w": "render",
+      "pos": "v.",
+      "tr": "hâline getirmek; sunmak",
+      "ex": "The flood rendered the road impassable."
+    },
+    {
+      "id": "ext_renew",
+      "lv": "C1",
+      "w": "renew",
+      "pos": "v.",
+      "tr": "yenilemek, uzatmak",
+      "ex": "Remember to renew your passport in time."
+    },
+    {
+      "id": "ext_renowned",
+      "lv": "C1",
+      "w": "renowned",
+      "pos": "adj.",
+      "tr": "ünlü, tanınmış",
+      "ex": "The region is renowned for its olive oil."
+    },
+    {
+      "id": "ext_rental",
+      "lv": "C1",
+      "w": "rental",
+      "pos": "n.",
+      "tr": "kiralama (ücreti)",
+      "ex": "Car rental is cheaper if booked early."
+    },
+    {
+      "id": "ext_replacement",
+      "lv": "C1",
+      "w": "replacement",
+      "pos": "n.",
+      "tr": "yedek; yerine geçen kişi/şey",
+      "ex": "The shop sent a replacement for the broken cup."
+    },
+    {
+      "id": "ext_reportedly",
+      "lv": "C1",
+      "w": "reportedly",
+      "pos": "adv.",
+      "tr": "iddiaya göre, bildirildiğine göre",
+      "ex": "The singer is reportedly working on a new album."
+    },
+    {
+      "id": "ext_reporting",
+      "lv": "B2",
+      "w": "reporting",
+      "pos": "n.",
+      "tr": "habercilik, raporlama",
+      "ex": "The paper won awards for its war reporting."
+    },
+    {
+      "id": "ext_representation",
+      "lv": "C1",
+      "w": "representation",
+      "pos": "n.",
+      "tr": "temsil; gösterim",
+      "ex": "Workers demanded representation on the board."
+    },
+    {
+      "id": "ext_representative",
+      "lv": "B2",
+      "w": "representative",
+      "pos": "adj., n.",
+      "tr": "temsilci; temsili",
+      "ex": "A sales representative will call you back."
+    },
+    {
+      "id": "ext_reproduce",
+      "lv": "C1",
+      "w": "reproduce",
+      "pos": "v.",
+      "tr": "çoğalmak; kopyalamak",
+      "ex": "The virus reproduces inside living cells."
+    },
+    {
+      "id": "ext_reproduction",
+      "lv": "C1",
+      "w": "reproduction",
+      "pos": "n.",
+      "tr": "üreme; reprodüksiyon",
+      "ex": "The painting is a reproduction, not an original."
+    },
+    {
+      "id": "ext_republic",
+      "lv": "C1",
+      "w": "republic",
+      "pos": "n.",
+      "tr": "cumhuriyet",
+      "ex": "The country became a republic in 1923."
+    },
+    {
+      "id": "ext_reputation",
+      "lv": "B2",
+      "w": "reputation",
+      "pos": "n.",
+      "tr": "itibar, ün",
+      "ex": "The restaurant has a reputation for slow service."
+    },
+    {
+      "id": "ext_requirement",
+      "lv": "B2",
+      "w": "requirement",
+      "pos": "n.",
+      "tr": "gereklilik, şart",
+      "ex": "A degree is a requirement for this post."
+    },
+    {
+      "id": "ext_rescue",
+      "lv": "B2",
+      "w": "rescue",
+      "pos": "n., v.",
+      "tr": "kurtarma; kurtarmak",
+      "ex": "Helicopters rescued the sailors from the rocks."
+    },
+    {
+      "id": "ext_resemble",
+      "lv": "C1",
+      "w": "resemble",
+      "pos": "v.",
+      "tr": "benzemek",
+      "ex": "The fruit resembles a small orange."
+    },
+    {
+      "id": "ext_reserve",
+      "lv": "B2",
+      "w": "reserve",
+      "pos": "n., v.",
+      "tr": "rezerv; yedek; ayırtmak",
+      "ex": "We reserved a table for eight o'clock."
+    },
+    {
+      "id": "ext_reside",
+      "lv": "C1",
+      "w": "reside",
+      "pos": "v.",
+      "tr": "ikamet etmek",
+      "ex": "The family resides in the capital."
+    },
+    {
+      "id": "ext_residence",
+      "lv": "C1",
+      "w": "residence",
+      "pos": "n.",
+      "tr": "konut, ikametgâh",
+      "ex": "The palace is the president's official residence."
+    },
+    {
+      "id": "ext_resident",
+      "lv": "B2",
+      "w": "resident",
+      "pos": "adj., n.",
+      "tr": "sakin, oturan",
+      "ex": "Residents complained about the construction noise."
+    },
+    {
+      "id": "ext_residential",
+      "lv": "C1",
+      "w": "residential",
+      "pos": "adj.",
+      "tr": "konutlara ait, yerleşim-",
+      "ex": "The factory is too close to a residential area."
+    },
+    {
+      "id": "ext_residue",
+      "lv": "C1",
+      "w": "residue",
+      "pos": "n.",
+      "tr": "kalıntı, tortu",
+      "ex": "Rinse the cloth to remove any soap residue."
+    },
+    {
+      "id": "ext_resign",
+      "lv": "B2",
+      "w": "resign",
+      "pos": "v.",
+      "tr": "istifa etmek",
+      "ex": "The coach resigned after the defeat."
+    },
+    {
+      "id": "ext_resignation",
+      "lv": "C1",
+      "w": "resignation",
+      "pos": "n.",
+      "tr": "istifa; boyun eğme",
+      "ex": "The minister announced her resignation."
+    },
+    {
+      "id": "ext_resist",
+      "lv": "B2",
+      "w": "resist",
+      "pos": "v.",
+      "tr": "direnmek, karşı koymak",
+      "ex": "I couldn't resist a second slice of cake."
+    },
+    {
+      "id": "ext_resistance",
+      "lv": "C1",
+      "w": "resistance",
+      "pos": "n.",
+      "tr": "direniş, direnç",
+      "ex": "The plan met fierce resistance from staff."
+    },
+    {
+      "id": "ext_resolution",
+      "lv": "B2",
+      "w": "resolution",
+      "pos": "n.",
+      "tr": "karar; çözüm; çözünürlük",
+      "ex": "She made a resolution to exercise daily."
+    },
+    {
+      "id": "ext_resolve",
+      "lv": "B2",
+      "w": "resolve",
+      "pos": "v.",
+      "tr": "çözmek; karar vermek",
+      "ex": "The dispute was resolved without a strike."
+    },
+    {
+      "id": "ext_resort",
+      "lv": "B2",
+      "w": "resort",
+      "pos": "n.",
+      "tr": "tatil beldesi; (son) çare",
+      "ex": "They spent a week at a seaside resort."
+    },
+    {
+      "id": "ext_respective",
+      "lv": "C1",
+      "w": "respective",
+      "pos": "adj.",
+      "tr": "kendi, sırasıyla ait",
+      "ex": "After dinner we returned to our respective rooms."
+    },
+    {
+      "id": "ext_respectively",
+      "lv": "C1",
+      "w": "respectively",
+      "pos": "adv.",
+      "tr": "sırasıyla",
+      "ex": "The brothers are six and nine, respectively."
+    },
+    {
+      "id": "ext_restoration",
+      "lv": "C1",
+      "w": "restoration",
+      "pos": "n.",
+      "tr": "restorasyon; geri getirme",
+      "ex": "The church reopened after years of restoration."
+    },
+    {
+      "id": "ext_restore",
+      "lv": "B2",
+      "w": "restore",
+      "pos": "v.",
+      "tr": "onarmak; geri getirmek",
+      "ex": "Power was restored within a few hours."
+    },
+    {
+      "id": "ext_restraint",
+      "lv": "C1",
+      "w": "restraint",
+      "pos": "n.",
+      "tr": "kısıtlama; özdenetim",
+      "ex": "He showed great restraint despite the insults."
+    },
+    {
+      "id": "ext_restrict",
+      "lv": "B2",
+      "w": "restrict",
+      "pos": "v.",
+      "tr": "kısıtlamak, sınırlamak",
+      "ex": "The new rules restrict parking in the centre."
+    },
+    {
+      "id": "ext_restriction",
+      "lv": "B2",
+      "w": "restriction",
+      "pos": "n.",
+      "tr": "kısıtlama",
+      "ex": "Speed restrictions apply near schools."
+    },
+    {
+      "id": "ext_resume",
+      "lv": "C1",
+      "w": "resume",
+      "pos": "v.",
+      "tr": "yeniden başlamak, kaldığı yerden sürdürmek",
+      "ex": "Talks will resume after the holidays."
+    },
+    {
+      "id": "ext_retail",
+      "lv": "B2",
+      "w": "retail",
+      "pos": "n.",
+      "tr": "perakende (satış)",
+      "ex": "She has worked in retail for ten years."
+    },
+    {
+      "id": "ext_retain",
+      "lv": "B2",
+      "w": "retain",
+      "pos": "v.",
+      "tr": "korumak, elde tutmak",
+      "ex": "The town retains much of its old charm."
+    },
+    {
+      "id": "ext_retirement",
+      "lv": "B2",
+      "w": "retirement",
+      "pos": "n.",
+      "tr": "emeklilik",
+      "ex": "He took up painting after retirement."
+    },
+    {
+      "id": "ext_retreat",
+      "lv": "C1",
+      "w": "retreat",
+      "pos": "n., v.",
+      "tr": "geri çekilme; inziva; geri çekilmek",
+      "ex": "The army retreated across the river."
+    },
+    {
+      "id": "ext_retrieve",
+      "lv": "C1",
+      "w": "retrieve",
+      "pos": "v.",
+      "tr": "geri almak, kurtarmak; (bilgi) çekmek",
+      "ex": "The dog retrieved the ball from the lake."
+    },
+    {
+      "id": "ext_reveal",
+      "lv": "B2",
+      "w": "reveal",
+      "pos": "v.",
+      "tr": "açığa çıkarmak, ifşa etmek",
+      "ex": "The survey revealed a surprising trend."
+    },
+    {
+      "id": "ext_revelation",
+      "lv": "C1",
+      "w": "revelation",
+      "pos": "n.",
+      "tr": "ifşa; beklenmedik gerçek",
+      "ex": "The diary's revelations shocked the family."
+    },
+    {
+      "id": "ext_revenge",
+      "lv": "C1",
+      "w": "revenge",
+      "pos": "n.",
+      "tr": "intikam, öç",
+      "ex": "He swore revenge on those who betrayed him."
+    },
+    {
+      "id": "ext_revenue",
+      "lv": "B2",
+      "w": "revenue",
+      "pos": "n.",
+      "tr": "gelir, hasılat",
+      "ex": "Advertising provides most of the site's revenue."
+    },
+    {
+      "id": "ext_reverse",
+      "lv": "C1",
+      "w": "reverse",
+      "pos": "adj., n., v.",
+      "tr": "ters; tersine çevirmek; geri gitmek",
+      "ex": "The court reversed its earlier decision."
+    },
+    {
+      "id": "ext_revision",
+      "lv": "B2",
+      "w": "revision",
+      "pos": "n.",
+      "tr": "gözden geçirme; (sınav) tekrar",
+      "ex": "The plan needs one final revision."
+    },
+    {
+      "id": "ext_revival",
+      "lv": "C1",
+      "w": "revival",
+      "pos": "n.",
+      "tr": "canlanma, yeniden doğuş",
+      "ex": "The craft is enjoying an unexpected revival."
+    },
+    {
+      "id": "ext_revive",
+      "lv": "C1",
+      "w": "revive",
+      "pos": "v.",
+      "tr": "canlandırmak; ayıltmak",
+      "ex": "A cup of coffee revived me after the long drive."
+    },
+    {
+      "id": "ext_revolution",
+      "lv": "B2",
+      "w": "revolution",
+      "pos": "n.",
+      "tr": "devrim",
+      "ex": "The revolution toppled the monarchy."
+    },
+    {
+      "id": "ext_revolutionary",
+      "lv": "C1",
+      "w": "revolutionary",
+      "pos": "adj.",
+      "tr": "devrimci; çığır açan",
+      "ex": "The printing press was a revolutionary invention."
+    },
+    {
+      "id": "ext_reward",
+      "lv": "B2",
+      "w": "reward",
+      "pos": "n., v.",
+      "tr": "ödül; ödüllendirmek",
+      "ex": "A reward was offered for the missing dog."
+    },
+    {
+      "id": "ext_rhetoric",
+      "lv": "C1",
+      "w": "rhetoric",
+      "pos": "n.",
+      "tr": "retorik, söz sanatı; boş laf",
+      "ex": "His speech was all rhetoric and no substance."
+    },
+    {
+      "id": "ext_rhythm",
+      "lv": "B2",
+      "w": "rhythm",
+      "pos": "n.",
+      "tr": "ritim",
+      "ex": "The drummer kept a steady rhythm."
+    },
+    {
+      "id": "ext_rid",
+      "lv": "B2",
+      "w": "rid",
+      "pos": "v.",
+      "tr": "kurtarmak, arındırmak (get rid of)",
+      "ex": "We finally got rid of the old sofa."
+    },
+    {
+      "id": "ext_ridiculous",
+      "lv": "B2",
+      "w": "ridiculous",
+      "pos": "adj.",
+      "tr": "gülünç, saçma",
+      "ex": "It's ridiculous to pay so much for water."
+    },
+    {
+      "id": "ext_rifle",
+      "lv": "C1",
+      "w": "rifle",
+      "pos": "n.",
+      "tr": "tüfek",
+      "ex": "The soldiers cleaned their rifles in silence."
+    },
+    {
+      "id": "ext_riot",
+      "lv": "C1",
+      "w": "riot",
+      "pos": "n.",
+      "tr": "ayaklanma, kargaşa",
+      "ex": "Prices sparked riots in several cities."
+    },
+    {
+      "id": "ext_rip",
+      "lv": "C1",
+      "w": "rip",
+      "pos": "v.",
+      "tr": "yırtmak",
+      "ex": "He ripped the letter in half."
+    },
+    {
+      "id": "ext_risky",
+      "lv": "B2",
+      "w": "risky",
+      "pos": "adj.",
+      "tr": "riskli",
+      "ex": "Lending money to friends can be risky."
+    },
+    {
+      "id": "ext_ritual",
+      "lv": "C1",
+      "w": "ritual",
+      "pos": "n.",
+      "tr": "ritüel, ayin",
+      "ex": "Morning coffee is a daily ritual for many."
+    },
+    {
+      "id": "ext_rival",
+      "lv": "B2",
+      "w": "rival",
+      "pos": "adj., n.",
+      "tr": "rakip",
+      "ex": "The two rival teams share a stadium."
+    },
+    {
+      "id": "ext_rob",
+      "lv": "B2",
+      "w": "rob",
+      "pos": "v.",
+      "tr": "soymak, gasp etmek",
+      "ex": "Two men robbed the bank in broad daylight."
+    },
+    {
+      "id": "ext_robbery",
+      "lv": "B2",
+      "w": "robbery",
+      "pos": "n.",
+      "tr": "soygun",
+      "ex": "The robbery took less than three minutes."
+    },
+    {
+      "id": "ext_robust",
+      "lv": "C1",
+      "w": "robust",
+      "pos": "adj.",
+      "tr": "sağlam, gürbüz, dayanıklı",
+      "ex": "The bridge has a robust steel frame."
+    },
+    {
+      "id": "ext_rock",
+      "lv": "C1",
+      "w": "rock",
+      "pos": "v.",
+      "tr": "sallamak, sarsmak",
+      "ex": "The scandal rocked the entire industry."
+    },
+    {
+      "id": "ext_rocket",
+      "lv": "B2",
+      "w": "rocket",
+      "pos": "n.",
+      "tr": "roket",
+      "ex": "The rocket carried two satellites into orbit."
+    },
+    {
+      "id": "ext_rod",
+      "lv": "C1",
+      "w": "rod",
+      "pos": "n.",
+      "tr": "çubuk; olta kamışı",
+      "ex": "He spent the morning fishing with his new rod."
+    },
+    {
+      "id": "ext_romance",
+      "lv": "B2",
+      "w": "romance",
+      "pos": "n.",
+      "tr": "romantizm, aşk ilişkisi; aşk romanı",
+      "ex": "Their romance began on a train to Vienna."
+    },
+    {
+      "id": "ext_root",
+      "lv": "B2",
+      "w": "root",
+      "pos": "n.",
+      "tr": "kök; köken",
+      "ex": "The problem has its roots in poor planning."
+    },
+    {
+      "id": "ext_rose",
+      "lv": "B2",
+      "w": "rose",
+      "pos": "n.",
+      "tr": "gül",
+      "ex": "He brought her a single red rose."
+    },
+    {
+      "id": "ext_rotate",
+      "lv": "C1",
+      "w": "rotate",
+      "pos": "v.",
+      "tr": "dönmek; dönüşümlü çalışmak",
+      "ex": "The blades rotate at high speed."
+    },
+    {
+      "id": "ext_rotation",
+      "lv": "C1",
+      "w": "rotation",
+      "pos": "n.",
+      "tr": "dönme; rotasyon",
+      "ex": "The earth completes one rotation every day."
+    },
+    {
+      "id": "ext_roughly",
+      "lv": "B2",
+      "w": "roughly",
+      "pos": "adv.",
+      "tr": "kabaca, yaklaşık",
+      "ex": "The journey takes roughly two hours."
+    },
+    {
+      "id": "ext_round",
+      "lv": "B2",
+      "w": "round",
+      "pos": "n.",
+      "tr": "tur, raunt; devriye",
+      "ex": "She was knocked out in the second round."
+    },
+    {
+      "id": "ext_routine",
+      "lv": "B2",
+      "w": "routine",
+      "pos": "adj.",
+      "tr": "rutin, olağan",
+      "ex": "The fault was found during a routine check."
+    },
+    {
+      "id": "ext_rub",
+      "lv": "B2",
+      "w": "rub",
+      "pos": "v.",
+      "tr": "ovmak, sürtmek",
+      "ex": "He rubbed his hands to warm them."
+    },
+    {
+      "id": "ext_rubber",
+      "lv": "B2",
+      "w": "rubber",
+      "pos": "adj., n.",
+      "tr": "kauçuk, lastik; silgi",
+      "ex": "Wear rubber gloves when using bleach."
+    },
+    {
+      "id": "ext_ruin",
+      "lv": "B2",
+      "w": "ruin",
+      "pos": "n., v.",
+      "tr": "yıkıntı; mahvetmek",
+      "ex": "Rain ruined our plans for the picnic."
+    },
+    {
+      "id": "ext_ruling",
+      "lv": "C1",
+      "w": "ruling",
+      "pos": "n.",
+      "tr": "hüküm, karar (mahkeme)",
+      "ex": "The court's ruling surprised legal experts."
+    },
+    {
+      "id": "ext_rumour",
+      "lv": "C1",
+      "w": "rumour",
+      "pos": "n.",
+      "tr": "söylenti, dedikodu",
+      "ex": "Rumours of a merger pushed the shares up."
+    },
+    {
+      "id": "ext_rural",
+      "lv": "B2",
+      "w": "rural",
+      "pos": "adj.",
+      "tr": "kırsal",
+      "ex": "Rural schools often struggle to find teachers."
+    },
+    {
+      "id": "ext_rush",
+      "lv": "B2",
+      "w": "rush",
+      "pos": "n., v.",
+      "tr": "acele; koşuşturma; acele etmek",
+      "ex": "There's no rush; take your time."
+    },
+    {
+      "id": "ext_sack",
+      "lv": "C1",
+      "w": "sack",
+      "pos": "v.",
+      "tr": "işten atmak, kovmak",
+      "ex": "He was sacked for repeatedly arriving late."
+    },
+    {
+      "id": "ext_sacred",
+      "lv": "C1",
+      "w": "sacred",
+      "pos": "adj.",
+      "tr": "kutsal",
+      "ex": "The spring is sacred to the local people."
+    },
+    {
+      "id": "ext_sacrifice",
+      "lv": "C1",
+      "w": "sacrifice",
+      "pos": "n., v.",
+      "tr": "fedakârlık, kurban; feda etmek",
+      "ex": "She sacrificed her weekends to finish the project."
+    },
+    {
+      "id": "ext_saint",
+      "lv": "C1",
+      "w": "saint",
+      "pos": "n.",
+      "tr": "aziz, ermiş",
+      "ex": "The church is named after a local saint."
+    },
+    {
+      "id": "ext_sake",
+      "lv": "C1",
+      "w": "sake",
+      "pos": "n.",
+      "tr": "hatır, uğur (for the sake of)",
+      "ex": "They stayed together for the sake of the children."
+    },
+    {
+      "id": "ext_sample",
+      "lv": "B2",
+      "w": "sample",
+      "pos": "v.",
+      "tr": "tatmak, denemek; örneklem almak",
+      "ex": "Visitors can sample the local cheeses for free."
+    },
+    {
+      "id": "ext_sanction",
+      "lv": "C1",
+      "w": "sanction",
+      "pos": "n.",
+      "tr": "yaptırım; onay",
+      "ex": "The council imposed sanctions on the company."
+    },
+    {
+      "id": "ext_satellite",
+      "lv": "B2",
+      "w": "satellite",
+      "pos": "n.",
+      "tr": "uydu",
+      "ex": "The satellite sends back images of the storm."
+    },
+    {
+      "id": "ext_satisfaction",
+      "lv": "B2",
+      "w": "satisfaction",
+      "pos": "n.",
+      "tr": "memnuniyet, tatmin",
+      "ex": "She looked at the finished wall with satisfaction."
+    },
+    {
+      "id": "ext_satisfied",
+      "lv": "B2",
+      "w": "satisfied",
+      "pos": "adj.",
+      "tr": "memnun, tatmin olmuş",
+      "ex": "The inspector was satisfied with the repairs."
+    },
+    {
+      "id": "ext_satisfy",
+      "lv": "B2",
+      "w": "satisfy",
+      "pos": "v.",
+      "tr": "tatmin etmek; (şartı) karşılamak",
+      "ex": "The answer did not satisfy the examiner."
+    },
+    {
+      "id": "ext_saving",
+      "lv": "B2",
+      "w": "saving",
+      "pos": "n.",
+      "tr": "tasarruf, birikim",
+      "ex": "Buying in bulk means a real saving."
+    },
+    {
+      "id": "ext_say",
+      "lv": "C1",
+      "w": "say",
+      "pos": "n.",
+      "tr": "söz hakkı",
+      "ex": "Workers want more say in how the firm is run."
+    },
+    {
+      "id": "ext_scale",
+      "lv": "B2",
+      "w": "scale",
+      "pos": "n.",
+      "tr": "ölçek; terazi; pul (balık)",
+      "ex": "The scale of the damage became clear at dawn."
+    },
+    {
+      "id": "ext_scandal",
+      "lv": "B2",
+      "w": "scandal",
+      "pos": "n.",
+      "tr": "skandal",
+      "ex": "The scandal forced two ministers to resign."
+    },
+    {
+      "id": "ext_scare",
+      "lv": "B2",
+      "w": "scare",
+      "pos": "n., v.",
+      "tr": "korku, panik; korkutmak",
+      "ex": "The sudden noise scared the horses."
+    },
+    {
+      "id": "ext_scattered",
+      "lv": "C1",
+      "w": "scattered",
+      "pos": "adj.",
+      "tr": "dağınık, saçılmış",
+      "ex": "Scattered showers are expected in the west."
+    },
+    {
+      "id": "ext_scenario",
+      "lv": "B2",
+      "w": "scenario",
+      "pos": "n.",
+      "tr": "senaryo, olasılık",
+      "ex": "In the worst scenario, the river floods the town."
+    },
+    {
+      "id": "ext_sceptical",
+      "lv": "C1",
+      "w": "sceptical",
+      "pos": "adj.",
+      "tr": "şüpheci, kuşkulu",
+      "ex": "Experts remain sceptical about the claims."
+    },
+    {
+      "id": "ext_schedule",
+      "lv": "B2",
+      "w": "schedule",
+      "pos": "v.",
+      "tr": "planlamak, programa koymak",
+      "ex": "The meeting is scheduled for Monday morning."
+    },
+    {
+      "id": "ext_scheme",
+      "lv": "B2",
+      "w": "scheme",
+      "pos": "n.",
+      "tr": "plan, program; düzen (entrika)",
+      "ex": "The city runs a bicycle-sharing scheme."
+    },
+    {
+      "id": "ext_scholar",
+      "lv": "B2",
+      "w": "scholar",
+      "pos": "n.",
+      "tr": "bilim insanı, âlim",
+      "ex": "Scholars disagree about the poem's author."
+    },
+    {
+      "id": "ext_scholarship",
+      "lv": "B2",
+      "w": "scholarship",
+      "pos": "n.",
+      "tr": "burs; ilim",
+      "ex": "She won a scholarship to study music."
+    },
+    {
+      "id": "ext_scope",
+      "lv": "C1",
+      "w": "scope",
+      "pos": "n.",
+      "tr": "kapsam; fırsat alanı",
+      "ex": "The question is beyond the scope of this lesson."
+    },
+    {
+      "id": "ext_scratch",
+      "lv": "B2",
+      "w": "scratch",
+      "pos": "n., v.",
+      "tr": "çizik; kaşımak, çizmek",
+      "ex": "The cat scratched the new sofa."
+    },
+    {
+      "id": "ext_scream",
+      "lv": "B2",
+      "w": "scream",
+      "pos": "n., v.",
+      "tr": "çığlık; çığlık atmak",
+      "ex": "She screamed when the lights went out."
+    },
+    {
+      "id": "ext_screen",
+      "lv": "B2",
+      "w": "screen",
+      "pos": "v.",
+      "tr": "taramak (sağlık); gösterime sokmak; perdelemek",
+      "ex": "All passengers are screened before boarding."
+    },
+    {
+      "id": "ext_screening",
+      "lv": "B2",
+      "w": "screening",
+      "pos": "n.",
+      "tr": "tarama (sağlık); gösterim",
+      "ex": "Regular screening can catch the disease early."
+    },
+    {
+      "id": "ext_screw",
+      "lv": "C1",
+      "w": "screw",
+      "pos": "n., v.",
+      "tr": "vida; vidalamak",
+      "ex": "Tighten the screws on the door hinge."
+    },
+    {
+      "id": "ext_scrutiny",
+      "lv": "C1",
+      "w": "scrutiny",
+      "pos": "n.",
+      "tr": "inceleme, didik didik etme",
+      "ex": "The accounts came under close scrutiny."
+    },
+    {
+      "id": "ext_seal",
+      "lv": "C1",
+      "w": "seal",
+      "pos": "n., v.",
+      "tr": "mühür; fok; mühürlemek, sızdırmaz yapmak",
+      "ex": "Seal the envelope before posting it."
+    },
+    {
+      "id": "ext_seat",
+      "lv": "B2",
+      "w": "seat",
+      "pos": "v.",
+      "tr": "oturtmak; (kapasite) almak",
+      "ex": "The hall seats four hundred people."
+    },
+    {
+      "id": "ext_sector",
+      "lv": "B2",
+      "w": "sector",
+      "pos": "n.",
+      "tr": "sektör, kesim",
+      "ex": "She moved from banking to the public sector."
+    },
+    {
+      "id": "ext_secular",
+      "lv": "C1",
+      "w": "secular",
+      "pos": "adj.",
+      "tr": "laik, dünyevi",
+      "ex": "The school provides a secular education."
+    },
+    {
+      "id": "ext_secure",
+      "lv": "B2",
+      "w": "secure",
+      "pos": "adj., v.",
+      "tr": "güvenli; sağlamak, güvence altına almak",
+      "ex": "The team secured a place in the final."
+    },
+    {
+      "id": "ext_seek",
+      "lv": "B2",
+      "w": "seek",
+      "pos": "v.",
+      "tr": "aramak, çabalamak",
+      "ex": "Thousands seek work in the city every year."
+    },
+    {
+      "id": "ext_seeker",
+      "lv": "B2",
+      "w": "seeker",
+      "pos": "n.",
+      "tr": "arayan kişi",
+      "ex": "The library helps job seekers write applications."
+    },
+    {
+      "id": "ext_seemingly",
+      "lv": "C1",
+      "w": "seemingly",
+      "pos": "adv.",
+      "tr": "görünüşe göre",
+      "ex": "The seemingly simple task took all day."
+    },
+    {
+      "id": "ext_segment",
+      "lv": "C1",
+      "w": "segment",
+      "pos": "n.",
+      "tr": "bölüm, dilim, kesim",
+      "ex": "The airline targets the budget segment of the market."
+    },
+    {
+      "id": "ext_seize",
+      "lv": "C1",
+      "w": "seize",
+      "pos": "v.",
+      "tr": "ele geçirmek; yakalamak (fırsat)",
+      "ex": "Customs officers seized the smuggled goods."
+    },
+    {
+      "id": "ext_seldom",
+      "lv": "C1",
+      "w": "seldom",
+      "pos": "adv.",
+      "tr": "nadiren",
+      "ex": "He seldom speaks about his childhood."
+    },
+    {
+      "id": "ext_select",
+      "lv": "B2",
+      "w": "select",
+      "pos": "v.",
+      "tr": "seçmek",
+      "ex": "Select the strongest seedlings for planting."
+    },
+    {
+      "id": "ext_selection",
+      "lv": "B2",
+      "w": "selection",
+      "pos": "n.",
+      "tr": "seçim; seçki",
+      "ex": "The shop offers a wide selection of teas."
+    },
+    {
+      "id": "ext_selective",
+      "lv": "C1",
+      "w": "selective",
+      "pos": "adj.",
+      "tr": "seçici",
+      "ex": "The school is highly selective about admissions."
+    },
+    {
+      "id": "ext_self",
+      "lv": "B2",
+      "w": "self",
+      "pos": "n.",
+      "tr": "benlik, öz",
+      "ex": "She was her usual cheerful self again."
+    },
+    {
+      "id": "ext_seminar",
+      "lv": "B2",
+      "w": "seminar",
+      "pos": "n.",
+      "tr": "seminer",
+      "ex": "The seminar covered new teaching methods."
+    },
+    {
+      "id": "ext_senator",
+      "lv": "C1",
+      "w": "senator",
+      "pos": "n.",
+      "tr": "senatör",
+      "ex": "The senator promised to oppose the bill."
+    },
+    {
+      "id": "ext_senior",
+      "lv": "B2",
+      "w": "senior",
+      "pos": "adj.",
+      "tr": "kıdemli; yaşça büyük",
+      "ex": "She is a senior engineer at the plant."
+    },
+    {
+      "id": "ext_sensation",
+      "lv": "C1",
+      "w": "sensation",
+      "pos": "n.",
+      "tr": "his, duyum; olay yaratan şey",
+      "ex": "A tingling sensation spread through his fingers."
+    },
+    {
+      "id": "ext_sense",
+      "lv": "B2",
+      "w": "sense",
+      "pos": "v.",
+      "tr": "sezmek, hissetmek",
+      "ex": "The dog sensed the storm before we did."
+    },
+    {
+      "id": "ext_sensitive",
+      "lv": "B2",
+      "w": "sensitive",
+      "pos": "adj.",
+      "tr": "hassas, duyarlı",
+      "ex": "The topic is too sensitive for a public debate."
+    },
+    {
+      "id": "ext_sensitivity",
+      "lv": "C1",
+      "w": "sensitivity",
+      "pos": "n.",
+      "tr": "duyarlılık, hassasiyet",
+      "ex": "Handle the matter with great sensitivity."
+    },
+    {
+      "id": "ext_sentence",
+      "lv": "B2",
+      "w": "sentence",
+      "pos": "v.",
+      "tr": "mahkûm etmek, ceza vermek",
+      "ex": "The judge sentenced him to five years."
+    },
+    {
+      "id": "ext_sentiment",
+      "lv": "C1",
+      "w": "sentiment",
+      "pos": "n.",
+      "tr": "duygu, kanı",
+      "ex": "Public sentiment turned against the war."
+    },
+    {
+      "id": "ext_separation",
+      "lv": "C1",
+      "w": "separation",
+      "pos": "n.",
+      "tr": "ayrılık, ayrılma",
+      "ex": "The separation of powers protects democracy."
+    },
+    {
+      "id": "ext_sequence",
+      "lv": "B2",
+      "w": "sequence",
+      "pos": "n.",
+      "tr": "dizi, sıralama",
+      "ex": "Enter the numbers in the correct sequence."
+    },
+    {
+      "id": "ext_serial",
+      "lv": "C1",
+      "w": "serial",
+      "pos": "adj.",
+      "tr": "seri (halinde olan)",
+      "ex": "Police linked the cases to a serial offender."
+    },
+    {
+      "id": "ext_session",
+      "lv": "B2",
+      "w": "session",
+      "pos": "n.",
+      "tr": "oturum, seans",
+      "ex": "The morning session ends at noon."
+    },
+    {
+      "id": "ext_set_up",
+      "lv": "C1",
+      "w": "set-up",
+      "pos": "n.",
+      "tr": "düzen, yapı; kuruluş",
+      "ex": "The studio's set-up takes an hour to arrange."
+    },
+    {
+      "id": "ext_settle",
+      "lv": "B2",
+      "w": "settle",
+      "pos": "v.",
+      "tr": "yerleşmek; halletmek; durulmak",
+      "ex": "The family settled in a quiet coastal town."
+    },
+    {
+      "id": "ext_settlement",
+      "lv": "C1",
+      "w": "settlement",
+      "pos": "n.",
+      "tr": "yerleşim; uzlaşma",
+      "ex": "The two firms reached an out-of-court settlement."
+    },
+    {
+      "id": "ext_settler",
+      "lv": "B2",
+      "w": "settler",
+      "pos": "n.",
+      "tr": "yerleşimci",
+      "ex": "The first settlers built homes near the river."
+    },
+    {
+      "id": "ext_severe",
+      "lv": "B2",
+      "w": "severe",
+      "pos": "adj.",
+      "tr": "şiddetli, ağır; sert",
+      "ex": "The region suffered a severe drought."
+    },
+    {
+      "id": "ext_severely",
+      "lv": "B2",
+      "w": "severely",
+      "pos": "adv.",
+      "tr": "ciddi biçimde, ağır şekilde",
+      "ex": "The storm severely damaged the pier."
+    },
+    {
+      "id": "ext_sexuality",
+      "lv": "C1",
+      "w": "sexuality",
+      "pos": "n.",
+      "tr": "cinsellik, cinsel yönelim",
+      "ex": "The novel explores identity and sexuality."
+    },
+    {
+      "id": "ext_sexy",
+      "lv": "B2",
+      "w": "sexy",
+      "pos": "adj.",
+      "tr": "seksi, çekici",
+      "ex": "The car has a sexy, streamlined design."
+    },
+    {
+      "id": "ext_shade",
+      "lv": "B2",
+      "w": "shade",
+      "pos": "n.",
+      "tr": "gölge (serinlik); ton",
+      "ex": "We ate lunch in the shade of an oak."
+    },
+    {
+      "id": "ext_shadow",
+      "lv": "B2",
+      "w": "shadow",
+      "pos": "n.",
+      "tr": "gölge (siluet)",
+      "ex": "The tower cast a long shadow across the square."
+    },
+    {
+      "id": "ext_shallow",
+      "lv": "B2",
+      "w": "shallow",
+      "pos": "adj.",
+      "tr": "sığ; yüzeysel",
+      "ex": "Children played in the shallow end of the pool."
+    },
+    {
+      "id": "ext_shame",
+      "lv": "B2",
+      "w": "shame",
+      "pos": "n.",
+      "tr": "utanç; yazık",
+      "ex": "It's a shame the museum was closed."
+    },
+    {
+      "id": "ext_shape",
+      "lv": "B2",
+      "w": "shape",
+      "pos": "v.",
+      "tr": "biçimlendirmek, şekillendirmek",
+      "ex": "Childhood experiences shape our adult habits."
+    },
+    {
+      "id": "ext_shaped",
+      "lv": "B2",
+      "w": "shaped",
+      "pos": "adj.",
+      "tr": "biçimli, şeklinde",
+      "ex": "The pool is shaped like a guitar."
+    },
+    {
+      "id": "ext_shareholder",
+      "lv": "C1",
+      "w": "shareholder",
+      "pos": "n.",
+      "tr": "hissedar",
+      "ex": "Shareholders approved the merger at the meeting."
+    },
+    {
+      "id": "ext_shatter",
+      "lv": "C1",
+      "w": "shatter",
+      "pos": "v.",
+      "tr": "paramparça etmek/olmak",
+      "ex": "The blast shattered windows across the street."
+    },
+    {
+      "id": "ext_shed",
+      "lv": "C1",
+      "w": "shed",
+      "pos": "v.",
+      "tr": "dökmek (yaprak/gözyaşı); kurtulmak; ışık tutmak",
+      "ex": "The report sheds light on the bank's losses."
+    },
+    {
+      "id": "ext_sheer",
+      "lv": "C1",
+      "w": "sheer",
+      "pos": "adj.",
+      "tr": "katıksız, salt; sarp",
+      "ex": "They won through sheer determination."
+    },
+    {
+      "id": "ext_shelter",
+      "lv": "B2",
+      "w": "shelter",
+      "pos": "n., v.",
+      "tr": "barınak, sığınak; barındırmak",
+      "ex": "We sheltered from the rain under a bridge."
+    },
+    {
+      "id": "ext_shift",
+      "lv": "B2",
+      "w": "shift",
+      "pos": "v.",
+      "tr": "kaydırmak, değişmek",
+      "ex": "Public opinion has shifted towards reform."
+    },
+    {
+      "id": "ext_ship",
+      "lv": "B2",
+      "w": "ship",
+      "pos": "v.",
+      "tr": "sevk etmek, göndermek",
+      "ex": "The order ships within two working days."
+    },
+    {
+      "id": "ext_shipping",
+      "lv": "C1",
+      "w": "shipping",
+      "pos": "n.",
+      "tr": "denizcilik, nakliye",
+      "ex": "The canal is open to international shipping."
+    },
+    {
+      "id": "ext_shock",
+      "lv": "B2",
+      "w": "shock",
+      "pos": "n., v.",
+      "tr": "şok; sarsmak",
+      "ex": "The news of the closure shocked the staff."
+    },
+    {
+      "id": "ext_shocked",
+      "lv": "B2",
+      "w": "shocked",
+      "pos": "adj.",
+      "tr": "şok olmuş, sarsılmış",
+      "ex": "Shocked residents surveyed the flood damage."
+    },
+    {
+      "id": "ext_shocking",
+      "lv": "B2",
+      "w": "shocking",
+      "pos": "adj.",
+      "tr": "şok edici, sarsıcı",
+      "ex": "The documentary contains some shocking scenes."
+    },
+    {
+      "id": "ext_shoot",
+      "lv": "C1",
+      "w": "shoot",
+      "pos": "n.",
+      "tr": "filiz, sürgün; çekim",
+      "ex": "Green shoots appeared a week after sowing."
+    },
+    {
+      "id": "ext_shooting",
+      "lv": "B2",
+      "w": "shooting",
+      "pos": "n.",
+      "tr": "silahlı saldırı; çekim (film)",
+      "ex": "Police are investigating a shooting in the suburb."
+    },
+    {
+      "id": "ext_shore",
+      "lv": "B2",
+      "w": "shore",
+      "pos": "n.",
+      "tr": "kıyı, sahil",
+      "ex": "Waves crashed against the rocky shore."
+    },
+    {
+      "id": "ext_short_term",
+      "lv": "B2",
+      "w": "short-term",
+      "pos": "adj.",
+      "tr": "kısa vadeli",
+      "ex": "The job is short-term, just for the summer."
+    },
+    {
+      "id": "ext_shortage",
+      "lv": "B2",
+      "w": "shortage",
+      "pos": "n.",
+      "tr": "kıtlık, eksiklik",
+      "ex": "The hospital faces a shortage of nurses."
+    },
+    {
+      "id": "ext_shortly",
+      "lv": "B2",
+      "w": "shortly",
+      "pos": "adv.",
+      "tr": "kısa süre içinde, birazdan",
+      "ex": "The doctor will see you shortly."
+    },
+    {
+      "id": "ext_shot",
+      "lv": "B2",
+      "w": "shot",
+      "pos": "n.",
+      "tr": "atış; deneme; (fotoğraf) kare; aşı",
+      "ex": "His second shot hit the target."
+    },
+    {
+      "id": "ext_shrink",
+      "lv": "C1",
+      "w": "shrink",
+      "pos": "v.",
+      "tr": "küçülmek, çekmek; daralmak",
+      "ex": "The sweater shrank in the wash."
+    },
+    {
+      "id": "ext_shrug",
+      "lv": "C1",
+      "w": "shrug",
+      "pos": "v.",
+      "tr": "omuz silkmek",
+      "ex": "She shrugged and turned back to her book."
+    },
+    {
+      "id": "ext_sibling",
+      "lv": "B2",
+      "w": "sibling",
+      "pos": "n.",
+      "tr": "kardeş",
+      "ex": "He has three younger siblings."
+    },
+    {
+      "id": "ext_sigh",
+      "lv": "C1",
+      "w": "sigh",
+      "pos": "n., v.",
+      "tr": "iç çekiş; iç çekmek",
+      "ex": "He sighed and started the report again."
+    },
+    {
+      "id": "ext_signature",
+      "lv": "B2",
+      "w": "signature",
+      "pos": "n.",
+      "tr": "imza",
+      "ex": "The form needs your signature at the bottom."
+    },
+    {
+      "id": "ext_significance",
+      "lv": "B2",
+      "w": "significance",
+      "pos": "n.",
+      "tr": "önem, anlam",
+      "ex": "The discovery's significance was clear at once."
+    },
+    {
+      "id": "ext_significant",
+      "lv": "B2",
+      "w": "significant",
+      "pos": "adj.",
+      "tr": "önemli, kayda değer",
+      "ex": "There has been a significant drop in crime."
+    },
+    {
+      "id": "ext_significantly",
+      "lv": "B2",
+      "w": "significantly",
+      "pos": "adv.",
+      "tr": "önemli ölçüde",
+      "ex": "Prices vary significantly between regions."
+    },
+    {
+      "id": "ext_silence",
+      "lv": "B2",
+      "w": "silence",
+      "pos": "n.",
+      "tr": "sessizlik",
+      "ex": "A minute's silence was held for the victims."
+    },
+    {
+      "id": "ext_silk",
+      "lv": "B2",
+      "w": "silk",
+      "pos": "n.",
+      "tr": "ipek",
+      "ex": "The scarf is made of pure silk."
+    },
+    {
+      "id": "ext_simulate",
+      "lv": "C1",
+      "w": "simulate",
+      "pos": "v.",
+      "tr": "benzetimini yapmak, taklit etmek",
+      "ex": "The software simulates the flow of traffic."
+    },
+    {
+      "id": "ext_simulation",
+      "lv": "C1",
+      "w": "simulation",
+      "pos": "n.",
+      "tr": "simülasyon, benzetim",
+      "ex": "Pilots train for emergencies in a simulation."
+    },
+    {
+      "id": "ext_simultaneously",
+      "lv": "C1",
+      "w": "simultaneously",
+      "pos": "adv.",
+      "tr": "aynı anda, eşzamanlı olarak",
+      "ex": "The film opened simultaneously in forty countries."
+    },
+    {
+      "id": "ext_sin",
+      "lv": "C1",
+      "w": "sin",
+      "pos": "n.",
+      "tr": "günah",
+      "ex": "He confessed his sins to the priest."
+    },
+    {
+      "id": "ext_sincere",
+      "lv": "B2",
+      "w": "sincere",
+      "pos": "adj.",
+      "tr": "içten, samimi",
+      "ex": "Please accept my sincere apologies."
+    },
+    {
+      "id": "ext_situated",
+      "lv": "C1",
+      "w": "situated",
+      "pos": "adj.",
+      "tr": "konumlanmış, yer alan",
+      "ex": "The hotel is situated beside the lake."
+    },
+    {
+      "id": "ext_sketch",
+      "lv": "C1",
+      "w": "sketch",
+      "pos": "n.",
+      "tr": "eskiz, taslak; skeç",
+      "ex": "She drew a quick sketch of the harbour."
+    },
+    {
+      "id": "ext_skilled",
+      "lv": "B2",
+      "w": "skilled",
+      "pos": "adj.",
+      "tr": "becerikli, vasıflı",
+      "ex": "The repair needs a skilled electrician."
+    },
+    {
+      "id": "ext_skip",
+      "lv": "C1",
+      "w": "skip",
+      "pos": "v.",
+      "tr": "atlamak, es geçmek; sekmek",
+      "ex": "Don't skip breakfast before the exam."
+    },
+    {
+      "id": "ext_skull",
+      "lv": "B2",
+      "w": "skull",
+      "pos": "n.",
+      "tr": "kafatası",
+      "ex": "The helmet protects the skull from impact."
+    },
+    {
+      "id": "ext_slam",
+      "lv": "C1",
+      "w": "slam",
+      "pos": "v.",
+      "tr": "çarpmak, hızla kapatmak",
+      "ex": "He slammed the door behind him."
+    },
+    {
+      "id": "ext_slap",
+      "lv": "C1",
+      "w": "slap",
+      "pos": "v.",
+      "tr": "tokat atmak; şaplak vurmak",
+      "ex": "She slapped the table to get attention."
+    },
+    {
+      "id": "ext_slash",
+      "lv": "C1",
+      "w": "slash",
+      "pos": "v.",
+      "tr": "kesmek (derin); büyük ölçüde indirmek",
+      "ex": "The store slashed prices for the sale."
+    },
+    {
+      "id": "ext_slave",
+      "lv": "B2",
+      "w": "slave",
+      "pos": "n.",
+      "tr": "köle",
+      "ex": "Slaves built many of the ancient monuments."
+    },
+    {
+      "id": "ext_slavery",
+      "lv": "C1",
+      "w": "slavery",
+      "pos": "n.",
+      "tr": "kölelik",
+      "ex": "The museum traces the history of slavery."
+    },
+    {
+      "id": "ext_slide",
+      "lv": "B2",
+      "w": "slide",
+      "pos": "n., v.",
+      "tr": "kaydırak; slayt; kaymak",
+      "ex": "The children took turns on the slide."
+    },
+    {
+      "id": "ext_slight",
+      "lv": "B2",
+      "w": "slight",
+      "pos": "adj.",
+      "tr": "hafif, az; narin",
+      "ex": "There's a slight chance of snow tonight."
+    },
+    {
+      "id": "ext_slip",
+      "lv": "B2",
+      "w": "slip",
+      "pos": "v.",
+      "tr": "kaymak; sıvışmak; düşmek (hafifçe)",
+      "ex": "She slipped on the wet floor."
+    },
+    {
+      "id": "ext_slogan",
+      "lv": "B2",
+      "w": "slogan",
+      "pos": "n.",
+      "tr": "slogan",
+      "ex": "The campaign needs a catchy slogan."
+    },
+    {
+      "id": "ext_slope",
+      "lv": "B2",
+      "w": "slope",
+      "pos": "n., v.",
+      "tr": "yokuş, eğim; eğimli olmak",
+      "ex": "The garden slopes gently down to the river."
+    },
+    {
+      "id": "ext_slot",
+      "lv": "C1",
+      "w": "slot",
+      "pos": "n.",
+      "tr": "yuva, delik; zaman dilimi",
+      "ex": "The dentist has a free slot at three."
+    },
+    {
+      "id": "ext_smash",
+      "lv": "C1",
+      "w": "smash",
+      "pos": "v.",
+      "tr": "parçalamak; çarpmak",
+      "ex": "The ball smashed the kitchen window."
+    },
+    {
+      "id": "ext_snap",
+      "lv": "C1",
+      "w": "snap",
+      "pos": "v.",
+      "tr": "kırılmak (çıt diye); parlamak (öfke); fotoğraf çekmek",
+      "ex": "The branch snapped under his weight."
+    },
+    {
+      "id": "ext_so_called",
+      "lv": "B2",
+      "w": "so-called",
+      "pos": "adj.",
+      "tr": "sözde, sözüm ona",
+      "ex": "The so-called expert had never seen a real case."
+    },
+    {
+      "id": "ext_soak",
+      "lv": "C1",
+      "w": "soak",
+      "pos": "v.",
+      "tr": "ıslatmak; suda bekletmek",
+      "ex": "Soak the beans overnight before cooking."
+    },
+    {
+      "id": "ext_soar",
+      "lv": "C1",
+      "w": "soar",
+      "pos": "v.",
+      "tr": "fırlamak (fiyat); süzülmek",
+      "ex": "Ticket prices soared after the announcement."
+    },
+    {
+      "id": "ext_socialist",
+      "lv": "C1",
+      "w": "socialist",
+      "pos": "adj.",
+      "tr": "sosyalist",
+      "ex": "The party follows a broadly socialist programme."
+    },
+    {
+      "id": "ext_solar",
+      "lv": "B2",
+      "w": "solar",
+      "pos": "adj.",
+      "tr": "güneşle ilgili, güneş-",
+      "ex": "Solar panels cover the school's roof."
+    },
+    {
+      "id": "ext_sole",
+      "lv": "C1",
+      "w": "sole",
+      "pos": "adj.",
+      "tr": "tek, yegâne",
+      "ex": "She is the sole owner of the company."
+    },
+    {
+      "id": "ext_solely",
+      "lv": "C1",
+      "w": "solely",
+      "pos": "adv.",
+      "tr": "yalnızca, sadece",
+      "ex": "The decision rests solely with the board."
+    },
+    {
+      "id": "ext_solicitor",
+      "lv": "C1",
+      "w": "solicitor",
+      "pos": "n.",
+      "tr": "avukat (danışman, İng.)",
+      "ex": "A solicitor handled the house purchase."
+    },
+    {
+      "id": "ext_solidarity",
+      "lv": "C1",
+      "w": "solidarity",
+      "pos": "n.",
+      "tr": "dayanışma",
+      "ex": "Workers struck in solidarity with the miners."
+    },
+    {
+      "id": "ext_solo",
+      "lv": "C1",
+      "w": "solo",
+      "pos": "adj., n.",
+      "tr": "solo, tek başına",
+      "ex": "She flew her first solo flight at nineteen."
+    },
+    {
+      "id": "ext_somehow",
+      "lv": "B2",
+      "w": "somehow",
+      "pos": "adv.",
+      "tr": "bir şekilde, her nasılsa",
+      "ex": "Somehow the cat opened the cupboard."
+    },
+    {
+      "id": "ext_sometime",
+      "lv": "B2",
+      "w": "sometime",
+      "pos": "adv.",
+      "tr": "(gelecekte/geçmişte) bir ara",
+      "ex": "Let's meet for lunch sometime next week."
+    },
+    {
+      "id": "ext_somewhat",
+      "lv": "B2",
+      "w": "somewhat",
+      "pos": "adv.",
+      "tr": "biraz, bir ölçüde",
+      "ex": "The results were somewhat better than feared."
+    },
+    {
+      "id": "ext_sophisticated",
+      "lv": "B2",
+      "w": "sophisticated",
+      "pos": "adj.",
+      "tr": "sofistike, gelişmiş; incelikli",
+      "ex": "The lab uses highly sophisticated equipment."
+    },
+    {
+      "id": "ext_soul",
+      "lv": "B2",
+      "w": "soul",
+      "pos": "n.",
+      "tr": "ruh, can",
+      "ex": "The old town is the soul of the city."
+    },
+    {
+      "id": "ext_sound",
+      "lv": "C1",
+      "w": "sound",
+      "pos": "adj.",
+      "tr": "sağlam, sağlıklı; makul",
+      "ex": "The bridge is structurally sound."
+    },
+    {
+      "id": "ext_sovereignty",
+      "lv": "C1",
+      "w": "sovereignty",
+      "pos": "n.",
+      "tr": "egemenlik",
+      "ex": "The treaty respects each nation's sovereignty."
+    },
+    {
+      "id": "ext_spam",
+      "lv": "C1",
+      "w": "spam",
+      "pos": "n.",
+      "tr": "istenmeyen e-posta",
+      "ex": "My inbox is full of spam this morning."
+    },
+    {
+      "id": "ext_span",
+      "lv": "C1",
+      "w": "span",
+      "pos": "n., v.",
+      "tr": "süre, açıklık; yayılmak, kapsamak",
+      "ex": "Her career spanned five decades."
+    },
+    {
+      "id": "ext_spare",
+      "lv": "B2",
+      "w": "spare",
+      "pos": "adj., v.",
+      "tr": "yedek; ayırmak; esirgemek",
+      "ex": "Can you spare ten minutes for a quick call?"
+    },
+    {
+      "id": "ext_spark",
+      "lv": "C1",
+      "w": "spark",
+      "pos": "v.",
+      "tr": "ateşlemek, tetiklemek",
+      "ex": "The decision sparked a wave of protests."
+    },
+    {
+      "id": "ext_specialist",
+      "lv": "B2",
+      "w": "specialist",
+      "pos": "adj., n.",
+      "tr": "uzman",
+      "ex": "A heart specialist examined the patient."
+    },
+    {
+      "id": "ext_specialize",
+      "lv": "B2",
+      "w": "specialize",
+      "pos": "v.",
+      "tr": "uzmanlaşmak",
+      "ex": "The firm specializes in maritime law."
+    },
+    {
+      "id": "ext_specialized",
+      "lv": "C1",
+      "w": "specialized",
+      "pos": "adj.",
+      "tr": "özelleşmiş, uzmanlaşmış",
+      "ex": "The task requires specialized equipment."
+    },
+    {
+      "id": "ext_species",
+      "lv": "B2",
+      "w": "species",
+      "pos": "n.",
+      "tr": "tür (canlı)",
+      "ex": "The island hosts several rare bird species."
+    },
+    {
+      "id": "ext_specification",
+      "lv": "C1",
+      "w": "specification",
+      "pos": "n.",
+      "tr": "teknik özellik, şartname",
+      "ex": "The parts must meet strict specifications."
+    },
+    {
+      "id": "ext_specify",
+      "lv": "B2",
+      "w": "specify",
+      "pos": "v.",
+      "tr": "belirtmek, açıkça tanımlamak",
+      "ex": "The recipe doesn't specify the oven temperature."
+    },
+    {
+      "id": "ext_specimen",
+      "lv": "C1",
+      "w": "specimen",
+      "pos": "n.",
+      "tr": "örnek, numune",
+      "ex": "The museum displays a perfect specimen of quartz."
+    },
+    {
+      "id": "ext_spectacle",
+      "lv": "C1",
+      "w": "spectacle",
+      "pos": "n.",
+      "tr": "görkemli gösteri/manzara",
+      "ex": "The fireworks were a spectacular spectacle."
+    },
+    {
+      "id": "ext_spectacular",
+      "lv": "B2",
+      "w": "spectacular",
+      "pos": "adj.",
+      "tr": "muhteşem, görkemli",
+      "ex": "The road offers spectacular views of the coast."
+    },
+    {
+      "id": "ext_spectator",
+      "lv": "B2",
+      "w": "spectator",
+      "pos": "n.",
+      "tr": "seyirci",
+      "ex": "Thousands of spectators lined the route."
+    },
+    {
+      "id": "ext_spectrum",
+      "lv": "C1",
+      "w": "spectrum",
+      "pos": "n.",
+      "tr": "spektrum, yelpaze",
+      "ex": "The plan drew support from across the political spectrum."
+    },
+    {
+      "id": "ext_speculate",
+      "lv": "B2",
+      "w": "speculate",
+      "pos": "v.",
+      "tr": "tahmin yürütmek; spekülasyon yapmak",
+      "ex": "Reporters speculated about the singer's next move."
+    },
+    {
+      "id": "ext_speculation",
+      "lv": "B2",
+      "w": "speculation",
+      "pos": "n.",
+      "tr": "spekülasyon, tahmin",
+      "ex": "Speculation about a merger drove up the shares."
+    },
+    {
+      "id": "ext_speed",
+      "lv": "B2",
+      "w": "speed",
+      "pos": "v.",
+      "tr": "hızla gitmek; hızlandırmak",
+      "ex": "The ambulance sped through the empty streets."
+    },
+    {
+      "id": "ext_spell",
+      "lv": "C1",
+      "w": "spell",
+      "pos": "n.",
+      "tr": "dönem, süre; büyü",
+      "ex": "We enjoyed a spell of warm weather."
+    },
+    {
+      "id": "ext_sphere",
+      "lv": "C1",
+      "w": "sphere",
+      "pos": "n.",
+      "tr": "küre; alan, çevre",
+      "ex": "She is well known in academic spheres."
+    },
+    {
+      "id": "ext_spice",
+      "lv": "B2",
+      "w": "spice",
+      "pos": "n.",
+      "tr": "baharat",
+      "ex": "The market sells spices from all over the world."
+    },
+    {
+      "id": "ext_spill",
+      "lv": "B2",
+      "w": "spill",
+      "pos": "v.",
+      "tr": "dökmek, dökülmek",
+      "ex": "He spilled coffee all over the keyboard."
+    },
+    {
+      "id": "ext_spin",
+      "lv": "C1",
+      "w": "spin",
+      "pos": "n., v.",
+      "tr": "dönüş; döndürmek; (haberi) çarpıtma",
+      "ex": "The dancer spun gracefully on one foot."
+    },
+    {
+      "id": "ext_spine",
+      "lv": "C1",
+      "w": "spine",
+      "pos": "n.",
+      "tr": "omurga; (kitap) sırt",
+      "ex": "Lifting badly can injure your spine."
+    },
+    {
+      "id": "ext_spiritual",
+      "lv": "B2",
+      "w": "spiritual",
+      "pos": "adj.",
+      "tr": "manevi, ruhsal",
+      "ex": "The retreat offers rest and spiritual renewal."
+    },
+    {
+      "id": "ext_spite",
+      "lv": "B2",
+      "w": "spite",
+      "pos": "n.",
+      "tr": "inat, garez (in spite of: rağmen)",
+      "ex": "They went sailing in spite of the wind."
+    },
+    {
+      "id": "ext_split",
+      "lv": "B2",
+      "w": "split",
+      "pos": "n., v.",
+      "tr": "bölünme; bölmek, ayrılmak",
+      "ex": "The profits are split equally between partners."
+    },
+    {
+      "id": "ext_spoil",
+      "lv": "B2",
+      "w": "spoil",
+      "pos": "v.",
+      "tr": "bozmak, mahvetmek; şımartmak",
+      "ex": "Don't let one mistake spoil your day."
+    },
+    {
+      "id": "ext_spokesman",
+      "lv": "B2",
+      "w": "spokesman",
+      "pos": "n.",
+      "tr": "sözcü (erkek)",
+      "ex": "A company spokesman confirmed the closure."
+    },
+    {
+      "id": "ext_spokesperson",
+      "lv": "B2",
+      "w": "spokesperson",
+      "pos": "n.",
+      "tr": "sözcü",
+      "ex": "The spokesperson declined to comment further."
+    },
+    {
+      "id": "ext_spokeswoman",
+      "lv": "B2",
+      "w": "spokeswoman",
+      "pos": "n.",
+      "tr": "sözcü (kadın)",
+      "ex": "A police spokeswoman gave a short statement."
+    },
+    {
+      "id": "ext_sponsor",
+      "lv": "B2",
+      "w": "sponsor",
+      "pos": "n., v.",
+      "tr": "sponsor; desteklemek",
+      "ex": "A local bank sponsors the youth team."
+    },
+    {
+      "id": "ext_sponsorship",
+      "lv": "B2",
+      "w": "sponsorship",
+      "pos": "n.",
+      "tr": "sponsorluk",
+      "ex": "The festival depends on corporate sponsorship."
+    },
+    {
+      "id": "ext_sporting",
+      "lv": "B2",
+      "w": "sporting",
+      "pos": "adj.",
+      "tr": "sporla ilgili; centilmence",
+      "ex": "It was the city's biggest sporting event."
+    },
+    {
+      "id": "ext_spot",
+      "lv": "B2",
+      "w": "spot",
+      "pos": "v.",
+      "tr": "fark etmek, gözüne çarpmak",
+      "ex": "She spotted an error in the contract."
+    },
+    {
+      "id": "ext_spotlight",
+      "lv": "C1",
+      "w": "spotlight",
+      "pos": "n.",
+      "tr": "spot ışığı; ilgi odağı",
+      "ex": "The scandal put the ministry in the spotlight."
+    },
+    {
+      "id": "ext_spouse",
+      "lv": "C1",
+      "w": "spouse",
+      "pos": "n.",
+      "tr": "eş",
+      "ex": "Employees may bring their spouses to the dinner."
+    },
+    {
+      "id": "ext_spread",
+      "lv": "B2",
+      "w": "spread",
+      "pos": "n.",
+      "tr": "yayılma; sürme (yiyecek)",
+      "ex": "The spread of the disease slowed in spring."
+    },
+    {
+      "id": "ext_spring",
+      "lv": "B2",
+      "w": "spring",
+      "pos": "v.",
+      "tr": "sıçramak, fırlamak",
+      "ex": "The cat sprang onto the windowsill."
+    },
+    {
+      "id": "ext_spy",
+      "lv": "C1",
+      "w": "spy",
+      "pos": "n., v.",
+      "tr": "casus; casusluk etmek",
+      "ex": "The spy passed secrets to a foreign power."
+    },
+    {
+      "id": "ext_squad",
+      "lv": "C1",
+      "w": "squad",
+      "pos": "n.",
+      "tr": "ekip, tim; kadro",
+      "ex": "The bomb squad cleared the building."
+    },
+    {
+      "id": "ext_squeeze",
+      "lv": "C1",
+      "w": "squeeze",
+      "pos": "v.",
+      "tr": "sıkmak; sıkıştırmak",
+      "ex": "Squeeze a little lemon over the fish."
+    },
+    {
+      "id": "ext_stab",
+      "lv": "C1",
+      "w": "stab",
+      "pos": "v.",
+      "tr": "bıçaklamak",
+      "ex": "The victim was stabbed twice in the arm."
+    },
+    {
+      "id": "ext_stability",
+      "lv": "C1",
+      "w": "stability",
+      "pos": "n.",
+      "tr": "istikrar, denge",
+      "ex": "Children need stability at home to thrive."
+    },
+    {
+      "id": "ext_stabilize",
+      "lv": "C1",
+      "w": "stabilize",
+      "pos": "v.",
+      "tr": "istikrara kavuş(tur)mak",
+      "ex": "Doctors worked to stabilize the patient."
+    },
+    {
+      "id": "ext_stable",
+      "lv": "B2",
+      "w": "stable",
+      "pos": "adj.",
+      "tr": "istikrarlı, dengeli; sabit",
+      "ex": "The patient is now in a stable condition."
+    },
+    {
+      "id": "ext_stage",
+      "lv": "B2",
+      "w": "stage",
+      "pos": "v.",
+      "tr": "sahnelemek; düzenlemek",
+      "ex": "Workers staged a one-day strike."
+    },
+    {
+      "id": "ext_stake",
+      "lv": "C1",
+      "w": "stake",
+      "pos": "n.",
+      "tr": "pay, hisse; risk altındaki şey",
+      "ex": "She owns a forty per cent stake in the firm."
+    },
+    {
+      "id": "ext_stall",
+      "lv": "B2",
+      "w": "stall",
+      "pos": "n.",
+      "tr": "tezgâh, stant",
+      "ex": "The market stall sells homemade jam."
+    },
+    {
+      "id": "ext_stance",
+      "lv": "B2",
+      "w": "stance",
+      "pos": "n.",
+      "tr": "tutum, duruş",
+      "ex": "The party softened its stance on taxes."
+    },
+    {
+      "id": "ext_stand",
+      "lv": "B2",
+      "w": "stand",
+      "pos": "n.",
+      "tr": "stant; duruş; tribün",
+      "ex": "Our company has a stand at the trade fair."
+    },
+    {
+      "id": "ext_standing",
+      "lv": "C1",
+      "w": "standing",
+      "pos": "adj.",
+      "tr": "sürekli, daimi; ayakta",
+      "ex": "The committee has a standing invitation to visit."
+    },
+    {
+      "id": "ext_stare",
+      "lv": "B2",
+      "w": "stare",
+      "pos": "v.",
+      "tr": "dik dik bakmak",
+      "ex": "It's rude to stare at strangers."
+    },
+    {
+      "id": "ext_stark",
+      "lv": "C1",
+      "w": "stark",
+      "pos": "adj.",
+      "tr": "çıplak, sert (gerçek); keskin (karşıtlık)",
+      "ex": "The report paints a stark picture of poverty."
+    },
+    {
+      "id": "ext_starve",
+      "lv": "B2",
+      "w": "starve",
+      "pos": "v.",
+      "tr": "açlıktan ölmek/kıvranmak",
+      "ex": "Without rain, the cattle would starve."
+    },
+    {
+      "id": "ext_statistical",
+      "lv": "C1",
+      "w": "statistical",
+      "pos": "adj.",
+      "tr": "istatistiksel",
+      "ex": "The difference is not statistically significant."
+    },
+    {
+      "id": "ext_status",
+      "lv": "B2",
+      "w": "status",
+      "pos": "n.",
+      "tr": "statü, durum",
+      "ex": "Check the status of your order online."
+    },
+    {
+      "id": "ext_steadily",
+      "lv": "B2",
+      "w": "steadily",
+      "pos": "adv.",
+      "tr": "istikrarlı biçimde, düzenli olarak",
+      "ex": "Sales have grown steadily since spring."
+    },
+    {
+      "id": "ext_steady",
+      "lv": "B2",
+      "w": "steady",
+      "pos": "adj.",
+      "tr": "sabit, düzenli; sarsılmaz",
+      "ex": "Keep the camera steady while filming."
+    },
+    {
+      "id": "ext_steam",
+      "lv": "B2",
+      "w": "steam",
+      "pos": "n.",
+      "tr": "buhar",
+      "ex": "Steam rose from the hot springs."
+    },
+    {
+      "id": "ext_steel",
+      "lv": "B2",
+      "w": "steel",
+      "pos": "n.",
+      "tr": "çelik",
+      "ex": "The frame is made of stainless steel."
+    },
+    {
+      "id": "ext_steep",
+      "lv": "B2",
+      "w": "steep",
+      "pos": "adj.",
+      "tr": "dik (yokuş); keskin (artış)",
+      "ex": "The path up the cliff is very steep."
+    },
+    {
+      "id": "ext_steer",
+      "lv": "C1",
+      "w": "steer",
+      "pos": "v.",
+      "tr": "yönlendirmek; direksiyon kullanmak",
+      "ex": "He steered the boat into the harbour."
+    },
+    {
+      "id": "ext_stem",
+      "lv": "C1",
+      "w": "stem",
+      "pos": "n., v.",
+      "tr": "sap, gövde; kaynaklanmak; durdurmak",
+      "ex": "Most complaints stem from late deliveries."
+    },
+    {
+      "id": "ext_step",
+      "lv": "B2",
+      "w": "step",
+      "pos": "v.",
+      "tr": "adım atmak, basmak",
+      "ex": "Please step away from the closing doors."
+    },
+    {
+      "id": "ext_stereotype",
+      "lv": "C1",
+      "w": "stereotype",
+      "pos": "n.",
+      "tr": "basmakalıp yargı, klişe",
+      "ex": "The film avoids the usual stereotypes about teenagers."
+    },
+    {
+      "id": "ext_sticky",
+      "lv": "B2",
+      "w": "sticky",
+      "pos": "adj.",
+      "tr": "yapışkan; çetrefilli",
+      "ex": "The jam left a sticky mess on the table."
+    },
+    {
+      "id": "ext_stiff",
+      "lv": "B2",
+      "w": "stiff",
+      "pos": "adj.",
+      "tr": "sert, katı; tutulmuş (kas)",
+      "ex": "My neck is stiff from sleeping badly."
+    },
+    {
+      "id": "ext_stimulate",
+      "lv": "B2",
+      "w": "stimulate",
+      "pos": "v.",
+      "tr": "teşvik etmek, uyarmak, canlandırmak",
+      "ex": "Lower taxes may stimulate the economy."
+    },
+    {
+      "id": "ext_stimulus",
+      "lv": "C1",
+      "w": "stimulus",
+      "pos": "n.",
+      "tr": "uyarıcı, teşvik",
+      "ex": "The plants respond to light as a stimulus."
+    },
+    {
+      "id": "ext_stir",
+      "lv": "C1",
+      "w": "stir",
+      "pos": "v.",
+      "tr": "karıştırmak; kıpırdamak; (duygu) uyandırmak",
+      "ex": "Stir the soup until it thickens."
+    },
+    {
+      "id": "ext_stock",
+      "lv": "B2",
+      "w": "stock",
+      "pos": "n.",
+      "tr": "stok; hisse senedi",
+      "ex": "The shop has a large stock of spare parts."
+    },
+    {
+      "id": "ext_storage",
+      "lv": "C1",
+      "w": "storage",
+      "pos": "n.",
+      "tr": "depolama, saklama",
+      "ex": "The flat has plenty of storage space."
+    },
+    {
+      "id": "ext_straightforward",
+      "lv": "C1",
+      "w": "straightforward",
+      "pos": "adj.",
+      "tr": "basit, dolambaçsız; dobra",
+      "ex": "The instructions are short and straightforward."
+    },
+    {
+      "id": "ext_strain",
+      "lv": "C1",
+      "w": "strain",
+      "pos": "n.",
+      "tr": "zorlanma, gerginlik; tür (mikrop)",
+      "ex": "The extra work put a strain on the whole team."
+    },
+    {
+      "id": "ext_strand",
+      "lv": "C1",
+      "w": "strand",
+      "pos": "n.",
+      "tr": "tel, iplik; öğe (hikâye)",
+      "ex": "A strand of hair fell across her face."
+    },
+    {
+      "id": "ext_strategic",
+      "lv": "C1",
+      "w": "strategic",
+      "pos": "adj.",
+      "tr": "stratejik",
+      "ex": "The port has great strategic importance."
+    },
+    {
+      "id": "ext_stream",
+      "lv": "B2",
+      "w": "stream",
+      "pos": "n.",
+      "tr": "dere; akış, akım",
+      "ex": "A small stream runs behind the house."
+    },
+    {
+      "id": "ext_strengthen",
+      "lv": "B2",
+      "w": "strengthen",
+      "pos": "v.",
+      "tr": "güçlendirmek",
+      "ex": "Exercise strengthens the heart."
+    },
+    {
+      "id": "ext_stretch",
+      "lv": "B2",
+      "w": "stretch",
+      "pos": "n., v.",
+      "tr": "esneme; uzanmak; germek",
+      "ex": "Stretch your legs before the long drive."
+    },
+    {
+      "id": "ext_strict",
+      "lv": "B2",
+      "w": "strict",
+      "pos": "adj.",
+      "tr": "katı, sıkı",
+      "ex": "The school has strict rules about phones."
+    },
+    {
+      "id": "ext_strictly",
+      "lv": "B2",
+      "w": "strictly",
+      "pos": "adv.",
+      "tr": "kesinlikle; tam anlamıyla",
+      "ex": "Smoking is strictly forbidden indoors."
+    },
+    {
+      "id": "ext_strike",
+      "lv": "B2",
+      "w": "strike",
+      "pos": "n., v.",
+      "tr": "grev; vuruş; çarpmak; grev yapmak",
+      "ex": "Train drivers will strike on Friday."
+    },
+    {
+      "id": "ext_striking",
+      "lv": "C1",
+      "w": "striking",
+      "pos": "adj.",
+      "tr": "çarpıcı, dikkat çekici",
+      "ex": "There is a striking similarity between the twins."
+    },
+    {
+      "id": "ext_strip",
+      "lv": "C1",
+      "w": "strip",
+      "pos": "n., v.",
+      "tr": "şerit; soymak, sökmek",
+      "ex": "Workers stripped the old paint from the door."
+    },
+    {
+      "id": "ext_strive",
+      "lv": "C1",
+      "w": "strive",
+      "pos": "v.",
+      "tr": "çabalamak, gayret etmek",
+      "ex": "The school strives to include every child."
+    },
+    {
+      "id": "ext_stroke",
+      "lv": "B2",
+      "w": "stroke",
+      "pos": "n.",
+      "tr": "felç, inme; vuruş; okşama",
+      "ex": "He never fully recovered from the stroke."
+    },
+    {
+      "id": "ext_structural",
+      "lv": "C1",
+      "w": "structural",
+      "pos": "adj.",
+      "tr": "yapısal",
+      "ex": "The survey found no structural damage."
+    },
+    {
+      "id": "ext_structure",
+      "lv": "B2",
+      "w": "structure",
+      "pos": "v.",
+      "tr": "yapılandırmak",
+      "ex": "Structure your essay around three main points."
+    },
+    {
+      "id": "ext_struggle",
+      "lv": "B2",
+      "w": "struggle",
+      "pos": "n., v.",
+      "tr": "mücadele; çabalamak",
+      "ex": "Many families struggle to pay the rent."
+    },
+    {
+      "id": "ext_stuff",
+      "lv": "B2",
+      "w": "stuff",
+      "pos": "v.",
+      "tr": "tıkıştırmak, doldurmak",
+      "ex": "He stuffed the papers into his bag and ran."
+    },
+    {
+      "id": "ext_stumble",
+      "lv": "C1",
+      "w": "stumble",
+      "pos": "v.",
+      "tr": "tökezlemek; (upon) rastlamak",
+      "ex": "She stumbled on the uneven pavement."
+    },
+    {
+      "id": "ext_stun",
+      "lv": "C1",
+      "w": "stun",
+      "pos": "v.",
+      "tr": "afallatmak; sersemletmek",
+      "ex": "The verdict stunned the courtroom."
+    },
+    {
+      "id": "ext_stunning",
+      "lv": "B2",
+      "w": "stunning",
+      "pos": "adj.",
+      "tr": "çarpıcı, nefes kesici",
+      "ex": "The terrace offers a stunning view of the bay."
+    },
+    {
+      "id": "ext_subject",
+      "lv": "B2",
+      "w": "subject",
+      "pos": "adj.",
+      "tr": "tabi, maruz (subject to)",
+      "ex": "Flights are subject to delay in bad weather."
+    },
+    {
+      "id": "ext_submission",
+      "lv": "C1",
+      "w": "submission",
+      "pos": "n.",
+      "tr": "teslim (etme); boyun eğme",
+      "ex": "The deadline for submissions is Friday noon."
+    },
+    {
+      "id": "ext_submit",
+      "lv": "B2",
+      "w": "submit",
+      "pos": "v.",
+      "tr": "sunmak, teslim etmek; boyun eğmek",
+      "ex": "Submit your application before the deadline."
+    },
+    {
+      "id": "ext_subscriber",
+      "lv": "C1",
+      "w": "subscriber",
+      "pos": "n.",
+      "tr": "abone",
+      "ex": "The channel has two million subscribers."
+    },
+    {
+      "id": "ext_subscription",
+      "lv": "C1",
+      "w": "subscription",
+      "pos": "n.",
+      "tr": "abonelik",
+      "ex": "I cancelled my magazine subscription."
+    },
+    {
+      "id": "ext_subsequent",
+      "lv": "B2",
+      "w": "subsequent",
+      "pos": "adj.",
+      "tr": "sonraki, müteakip",
+      "ex": "Subsequent events proved her right."
+    },
+    {
+      "id": "ext_subsequently",
+      "lv": "B2",
+      "w": "subsequently",
+      "pos": "adv.",
+      "tr": "daha sonra, akabinde",
+      "ex": "He was arrested and subsequently released."
+    },
+    {
+      "id": "ext_subsidy",
+      "lv": "C1",
+      "w": "subsidy",
+      "pos": "n.",
+      "tr": "sübvansiyon, devlet desteği",
+      "ex": "Farmers receive subsidies for green projects."
+    },
+    {
+      "id": "ext_substantial",
+      "lv": "C1",
+      "w": "substantial",
+      "pos": "adj.",
+      "tr": "önemli ölçüde, hatırı sayılır",
+      "ex": "She inherited a substantial sum of money."
+    },
+    {
+      "id": "ext_substantially",
+      "lv": "C1",
+      "w": "substantially",
+      "pos": "adv.",
+      "tr": "önemli ölçüde",
+      "ex": "Costs have risen substantially this year."
+    },
+    {
+      "id": "ext_substitute",
+      "lv": "C1",
+      "w": "substitute",
+      "pos": "n., v.",
+      "tr": "yedek; ikame; yerine koymak",
+      "ex": "You can substitute honey for sugar in this recipe."
+    },
+    {
+      "id": "ext_substitution",
+      "lv": "C1",
+      "w": "substitution",
+      "pos": "n.",
+      "tr": "yerine koyma; oyuncu değişikliği",
+      "ex": "The coach made two substitutions at half-time."
+    },
+    {
+      "id": "ext_subtle",
+      "lv": "C1",
+      "w": "subtle",
+      "pos": "adj.",
+      "tr": "ince, belli belirsiz; kurnazca",
+      "ex": "There's a subtle difference between the two shades."
+    },
+    {
+      "id": "ext_suburb",
+      "lv": "B2",
+      "w": "suburb",
+      "pos": "n.",
+      "tr": "banliyö, dış mahalle",
+      "ex": "They moved to a quiet suburb with good schools."
+    },
+    {
+      "id": "ext_suburban",
+      "lv": "C1",
+      "w": "suburban",
+      "pos": "adj.",
+      "tr": "banliyöye özgü",
+      "ex": "The train passes through endless suburban streets."
+    },
+    {
+      "id": "ext_succession",
+      "lv": "C1",
+      "w": "succession",
+      "pos": "n.",
+      "tr": "art arda geliş; veraset",
+      "ex": "A succession of storms battered the coast."
+    },
+    {
+      "id": "ext_successive",
+      "lv": "C1",
+      "w": "successive",
+      "pos": "adj.",
+      "tr": "ardışık, art arda gelen",
+      "ex": "The team won three successive titles."
+    },
+    {
+      "id": "ext_successor",
+      "lv": "C1",
+      "w": "successor",
+      "pos": "n.",
+      "tr": "halef, ardıl",
+      "ex": "The director named her successor before retiring."
+    },
+    {
+      "id": "ext_suck",
+      "lv": "C1",
+      "w": "suck",
+      "pos": "v.",
+      "tr": "emmek",
+      "ex": "The baby sucked its thumb quietly."
+    },
+    {
+      "id": "ext_sue",
+      "lv": "C1",
+      "w": "sue",
+      "pos": "v.",
+      "tr": "dava etmek",
+      "ex": "The actor sued the paper for libel."
+    },
+    {
+      "id": "ext_suffering",
+      "lv": "B2",
+      "w": "suffering",
+      "pos": "n.",
+      "tr": "acı, ıstırap",
+      "ex": "The new drug reduces suffering in late illness."
+    },
+    {
+      "id": "ext_sufficient",
+      "lv": "B2",
+      "w": "sufficient",
+      "pos": "adj.",
+      "tr": "yeterli",
+      "ex": "Make sure you allow sufficient time for the journey."
+    },
+    {
+      "id": "ext_sufficiently",
+      "lv": "B2",
+      "w": "sufficiently",
+      "pos": "adv.",
+      "tr": "yeterince",
+      "ex": "The water is not sufficiently clean to drink."
+    },
+    {
+      "id": "ext_suicide",
+      "lv": "C1",
+      "w": "suicide",
+      "pos": "n.",
+      "tr": "intihar",
+      "ex": "The charity runs a suicide prevention line."
+    },
+    {
+      "id": "ext_suite",
+      "lv": "C1",
+      "w": "suite",
+      "pos": "n.",
+      "tr": "suit (oda takımı); takım",
+      "ex": "They booked the hotel's largest suite."
+    },
+    {
+      "id": "ext_sum",
+      "lv": "B2",
+      "w": "sum",
+      "pos": "n., v.",
+      "tr": "toplam, meblağ; özetlemek (sum up)",
+      "ex": "A large sum of money went missing."
+    },
+    {
+      "id": "ext_summit",
+      "lv": "C1",
+      "w": "summit",
+      "pos": "n.",
+      "tr": "zirve (dağ/diplomasi)",
+      "ex": "World leaders met at a climate summit."
+    },
+    {
+      "id": "ext_super",
+      "lv": "B2",
+      "w": "super",
+      "pos": "adj.",
+      "tr": "süper, harika",
+      "ex": "The kids had a super time at the fair."
+    },
+    {
+      "id": "ext_superb",
+      "lv": "C1",
+      "w": "superb",
+      "pos": "adj.",
+      "tr": "mükemmel, enfes",
+      "ex": "The restaurant serves superb seafood."
+    },
+    {
+      "id": "ext_superior",
+      "lv": "C1",
+      "w": "superior",
+      "pos": "adj.",
+      "tr": "üstün; üst (rütbece)",
+      "ex": "The new model is clearly superior to the old."
+    },
+    {
+      "id": "ext_supervise",
+      "lv": "C1",
+      "w": "supervise",
+      "pos": "v.",
+      "tr": "denetlemek, gözetmek",
+      "ex": "A lifeguard supervises the pool at all times."
+    },
+    {
+      "id": "ext_supervision",
+      "lv": "C1",
+      "w": "supervision",
+      "pos": "n.",
+      "tr": "denetim, gözetim",
+      "ex": "Children may swim only under adult supervision."
+    },
+    {
+      "id": "ext_supervisor",
+      "lv": "C1",
+      "w": "supervisor",
+      "pos": "n.",
+      "tr": "süpervizör, amir; danışman",
+      "ex": "Report any faults to your supervisor."
+    },
+    {
+      "id": "ext_supplement",
+      "lv": "C1",
+      "w": "supplement",
+      "pos": "n., v.",
+      "tr": "takviye, ek; takviye etmek",
+      "ex": "She supplements her income by giving lessons."
+    },
+    {
+      "id": "ext_supportive",
+      "lv": "C1",
+      "w": "supportive",
+      "pos": "adj.",
+      "tr": "destekleyici",
+      "ex": "Her colleagues were supportive during her illness."
+    },
+    {
+      "id": "ext_supposedly",
+      "lv": "C1",
+      "w": "supposedly",
+      "pos": "adv.",
+      "tr": "güya, sözde",
+      "ex": "The castle is supposedly haunted."
+    },
+    {
+      "id": "ext_suppress",
+      "lv": "C1",
+      "w": "suppress",
+      "pos": "v.",
+      "tr": "bastırmak",
+      "ex": "He struggled to suppress a laugh."
+    },
+    {
+      "id": "ext_supreme",
+      "lv": "C1",
+      "w": "supreme",
+      "pos": "adj.",
+      "tr": "en yüksek, yüce",
+      "ex": "The case went to the supreme court."
+    },
+    {
+      "id": "ext_surge",
+      "lv": "C1",
+      "w": "surge",
+      "pos": "n., v.",
+      "tr": "dalgalanma, ani artış; kabarmak",
+      "ex": "A surge in demand emptied the shelves."
+    },
+    {
+      "id": "ext_surgeon",
+      "lv": "B2",
+      "w": "surgeon",
+      "pos": "n.",
+      "tr": "cerrah",
+      "ex": "The surgeon explained the operation step by step."
+    },
+    {
+      "id": "ext_surgery",
+      "lv": "B2",
+      "w": "surgery",
+      "pos": "n.",
+      "tr": "ameliyat; muayenehane",
+      "ex": "He needs surgery on his knee."
+    },
+    {
+      "id": "ext_surgical",
+      "lv": "C1",
+      "w": "surgical",
+      "pos": "adj.",
+      "tr": "cerrahi",
+      "ex": "The kit contains sterile surgical gloves."
+    },
+    {
+      "id": "ext_surplus",
+      "lv": "C1",
+      "w": "surplus",
+      "pos": "n.",
+      "tr": "fazla(lık), artık",
+      "ex": "The farm sells its surplus vegetables at market."
+    },
+    {
+      "id": "ext_surrender",
+      "lv": "C1",
+      "w": "surrender",
+      "pos": "v.",
+      "tr": "teslim olmak; teslim etmek",
+      "ex": "The garrison surrendered after a long siege."
+    },
+    {
+      "id": "ext_surround",
+      "lv": "B2",
+      "w": "surround",
+      "pos": "v.",
+      "tr": "çevrelemek, kuşatmak",
+      "ex": "High walls surround the old city."
+    },
+    {
+      "id": "ext_surrounding",
+      "lv": "B2",
+      "w": "surrounding",
+      "pos": "adj.",
+      "tr": "çevredeki, etraftaki",
+      "ex": "The fire spread to surrounding fields."
+    },
+    {
+      "id": "ext_surveillance",
+      "lv": "C1",
+      "w": "surveillance",
+      "pos": "n.",
+      "tr": "gözetim, izleme",
+      "ex": "The suspect was kept under constant surveillance."
+    },
+    {
+      "id": "ext_survey",
+      "lv": "B2",
+      "w": "survey",
+      "pos": "v.",
+      "tr": "incelemek; anket yapmak; ölçmek",
+      "ex": "Engineers surveyed the damaged bridge."
+    },
+    {
+      "id": "ext_survival",
+      "lv": "B2",
+      "w": "survival",
+      "pos": "n.",
+      "tr": "hayatta kalma",
+      "ex": "The seal pup's survival depends on thick fur."
+    },
+    {
+      "id": "ext_survivor",
+      "lv": "B2",
+      "w": "survivor",
+      "pos": "n.",
+      "tr": "hayatta kalan, kazazede",
+      "ex": "Rescuers searched the rubble for survivors."
+    },
+    {
+      "id": "ext_suspect",
+      "lv": "B2",
+      "w": "suspect",
+      "pos": "n., v.",
+      "tr": "şüpheli; şüphelenmek",
+      "ex": "Police arrested a suspect within hours."
+    },
+    {
+      "id": "ext_suspend",
+      "lv": "B2",
+      "w": "suspend",
+      "pos": "v.",
+      "tr": "askıya almak; asmak; uzaklaştırmak",
+      "ex": "The match was suspended because of lightning."
+    },
+    {
+      "id": "ext_suspension",
+      "lv": "C1",
+      "w": "suspension",
+      "pos": "n.",
+      "tr": "askıya alma; süspansiyon; uzaklaştırma",
+      "ex": "He received a two-game suspension."
+    },
+    {
+      "id": "ext_suspicion",
+      "lv": "C1",
+      "w": "suspicion",
+      "pos": "n.",
+      "tr": "şüphe, kuşku",
+      "ex": "She was arrested on suspicion of fraud."
+    },
+    {
+      "id": "ext_suspicious",
+      "lv": "C1",
+      "w": "suspicious",
+      "pos": "adj.",
+      "tr": "şüpheli; şüpheci",
+      "ex": "A suspicious package closed the station."
+    },
+    {
+      "id": "ext_sustain",
+      "lv": "C1",
+      "w": "sustain",
+      "pos": "v.",
+      "tr": "sürdürmek; (yara) almak; beslemek",
+      "ex": "The soil cannot sustain crops without rain."
+    },
+    {
+      "id": "ext_sustainable",
+      "lv": "B2",
+      "w": "sustainable",
+      "pos": "adj.",
+      "tr": "sürdürülebilir",
+      "ex": "The hotel runs on sustainable energy."
+    },
+    {
+      "id": "ext_swallow",
+      "lv": "B2",
+      "w": "swallow",
+      "pos": "v.",
+      "tr": "yutmak",
+      "ex": "Chew your food well before you swallow."
+    },
+    {
+      "id": "ext_swear",
+      "lv": "B2",
+      "w": "swear",
+      "pos": "v.",
+      "tr": "küfretmek; yemin etmek",
+      "ex": "He swore to tell the truth in court."
+    },
+    {
+      "id": "ext_sweep",
+      "lv": "B2",
+      "w": "sweep",
+      "pos": "v.",
+      "tr": "süpürmek; hızla yayılmak",
+      "ex": "A wave of panic swept through the crowd."
+    },
+    {
+      "id": "ext_swing",
+      "lv": "C1",
+      "w": "swing",
+      "pos": "n., v.",
+      "tr": "salıncak; sallanmak; ani değişim",
+      "ex": "The gate swung open in the wind."
+    },
+    {
+      "id": "ext_switch",
+      "lv": "B2",
+      "w": "switch",
+      "pos": "n.",
+      "tr": "anahtar, düğme; geçiş",
+      "ex": "Press the switch by the door for the light."
+    },
+    {
+      "id": "ext_sword",
+      "lv": "C1",
+      "w": "sword",
+      "pos": "n.",
+      "tr": "kılıç",
+      "ex": "The knight drew his sword."
+    },
+    {
+      "id": "ext_symbolic",
+      "lv": "C1",
+      "w": "symbolic",
+      "pos": "adj.",
+      "tr": "sembolik, simgesel",
+      "ex": "Lighting the lamp has a symbolic meaning."
+    },
+    {
+      "id": "ext_sympathetic",
+      "lv": "B2",
+      "w": "sympathetic",
+      "pos": "adj.",
+      "tr": "anlayışlı, sevecen",
+      "ex": "The nurse gave him a sympathetic smile."
+    },
+    {
+      "id": "ext_sympathy",
+      "lv": "B2",
+      "w": "sympathy",
+      "pos": "n.",
+      "tr": "sempati; başsağlığı; anlayış",
+      "ex": "We sent flowers as a token of our sympathy."
+    },
+    {
+      "id": "ext_syndrome",
+      "lv": "C1",
+      "w": "syndrome",
+      "pos": "n.",
+      "tr": "sendrom",
+      "ex": "The syndrome affects roughly one child in a thousand."
+    },
+    {
+      "id": "ext_synthesis",
+      "lv": "C1",
+      "w": "synthesis",
+      "pos": "n.",
+      "tr": "sentez, bireşim",
+      "ex": "The paper offers a synthesis of recent research."
+    },
+    {
+      "id": "ext_systematic",
+      "lv": "C1",
+      "w": "systematic",
+      "pos": "adj.",
+      "tr": "sistematik, dizgeli",
+      "ex": "The library began a systematic review of its books."
     }
   ],
   "articles": [
