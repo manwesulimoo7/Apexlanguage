@@ -10528,6 +10528,2694 @@
       "pos": "n.",
       "tr": "mit, efsane; yaygın yanlış inanç",
       "ex": "It's a myth that we use only ten per cent of our brains."
+    },
+    {
+      "id": "ext_naked",
+      "lv": "B2",
+      "w": "naked",
+      "pos": "adj.",
+      "tr": "çıplak",
+      "ex": "The hill was naked of any trees."
+    },
+    {
+      "id": "ext_namely",
+      "lv": "C1",
+      "w": "namely",
+      "pos": "adv.",
+      "tr": "yani, şöyle ki",
+      "ex": "One student passed, namely the one who practised daily."
+    },
+    {
+      "id": "ext_narrow",
+      "lv": "B2",
+      "w": "narrow",
+      "pos": "v.",
+      "tr": "daralmak; daraltmak",
+      "ex": "The road narrows sharply after the bridge."
+    },
+    {
+      "id": "ext_nasty",
+      "lv": "B2",
+      "w": "nasty",
+      "pos": "adj.",
+      "tr": "kötü, pis, çirkin",
+      "ex": "He had a nasty fall on the ice."
+    },
+    {
+      "id": "ext_national",
+      "lv": "B2",
+      "w": "national",
+      "pos": "n.",
+      "tr": "vatandaş, yurttaş",
+      "ex": "Foreign nationals must register with the police."
+    },
+    {
+      "id": "ext_nationwide",
+      "lv": "C1",
+      "w": "nationwide",
+      "pos": "adj.",
+      "tr": "ülke çapında",
+      "ex": "The chain has more than two hundred stores nationwide."
+    },
+    {
+      "id": "ext_naval",
+      "lv": "C1",
+      "w": "naval",
+      "pos": "adj.",
+      "tr": "deniz kuvvetlerine ait",
+      "ex": "The naval base guards the entrance to the bay."
+    },
+    {
+      "id": "ext_navigation",
+      "lv": "B2",
+      "w": "navigation",
+      "pos": "n.",
+      "tr": "seyrüsefer, yön bulma",
+      "ex": "Thick fog made navigation almost impossible."
+    },
+    {
+      "id": "ext_nearby",
+      "lv": "B2",
+      "w": "nearby",
+      "pos": "adj., adv.",
+      "tr": "yakındaki; yakında",
+      "ex": "The injured man was taken to a nearby clinic."
+    },
+    {
+      "id": "ext_neat",
+      "lv": "B2",
+      "w": "neat",
+      "pos": "adj.",
+      "tr": "derli toplu, düzenli",
+      "ex": "Her desk is always neat and tidy."
+    },
+    {
+      "id": "ext_necessity",
+      "lv": "B2",
+      "w": "necessity",
+      "pos": "n.",
+      "tr": "gereklilik, zorunluluk; ihtiyaç",
+      "ex": "A car is a necessity in this remote area."
+    },
+    {
+      "id": "ext_negative",
+      "lv": "B2",
+      "w": "negative",
+      "pos": "n.",
+      "tr": "olumsuz yön/yanıt; negatif",
+      "ex": "The plan has one big negative: its cost."
+    },
+    {
+      "id": "ext_neglect",
+      "lv": "C1",
+      "w": "neglect",
+      "pos": "n., v.",
+      "tr": "ihmal; ihmal etmek",
+      "ex": "The garden had suffered years of neglect."
+    },
+    {
+      "id": "ext_negotiate",
+      "lv": "B2",
+      "w": "negotiate",
+      "pos": "v.",
+      "tr": "müzakere etmek, pazarlık etmek",
+      "ex": "The union negotiated a better deal for drivers."
+    },
+    {
+      "id": "ext_negotiation",
+      "lv": "B2",
+      "w": "negotiation",
+      "pos": "n.",
+      "tr": "müzakere, görüşme",
+      "ex": "Negotiations between the two sides resumed today."
+    },
+    {
+      "id": "ext_neighbouring",
+      "lv": "C1",
+      "w": "neighbouring",
+      "pos": "adj.",
+      "tr": "komşu (yer)",
+      "ex": "Refugees crossed into neighbouring countries."
+    },
+    {
+      "id": "ext_nerve",
+      "lv": "B2",
+      "w": "nerve",
+      "pos": "n.",
+      "tr": "sinir; cesaret",
+      "ex": "The dentist removed the damaged nerve."
+    },
+    {
+      "id": "ext_nest",
+      "lv": "C1",
+      "w": "nest",
+      "pos": "n.",
+      "tr": "yuva",
+      "ex": "A pair of storks built a nest on the chimney."
+    },
+    {
+      "id": "ext_net",
+      "lv": "C1",
+      "w": "net",
+      "pos": "adj.",
+      "tr": "net (kesintiler sonrası)",
+      "ex": "Her net salary is lower than the advertised figure."
+    },
+    {
+      "id": "ext_neutral",
+      "lv": "B2",
+      "w": "neutral",
+      "pos": "adj.",
+      "tr": "tarafsız; nötr",
+      "ex": "The referee must remain strictly neutral."
+    },
+    {
+      "id": "ext_nevertheless",
+      "lv": "B2",
+      "w": "nevertheless",
+      "pos": "adv.",
+      "tr": "yine de, buna rağmen",
+      "ex": "The task was hard; nevertheless, they finished on time."
+    },
+    {
+      "id": "ext_newly",
+      "lv": "B2",
+      "w": "newly",
+      "pos": "adv.",
+      "tr": "yeni, henüz",
+      "ex": "The newly opened café is already popular."
+    },
+    {
+      "id": "ext_newsletter",
+      "lv": "C1",
+      "w": "newsletter",
+      "pos": "n.",
+      "tr": "bülten",
+      "ex": "The club sends a monthly newsletter to members."
+    },
+    {
+      "id": "ext_niche",
+      "lv": "C1",
+      "w": "niche",
+      "pos": "n.",
+      "tr": "niş; özel alan/pazar",
+      "ex": "She found a niche selling handmade lamps online."
+    },
+    {
+      "id": "ext_nightmare",
+      "lv": "B2",
+      "w": "nightmare",
+      "pos": "n.",
+      "tr": "kâbus",
+      "ex": "Moving house turned into a complete nightmare."
+    },
+    {
+      "id": "ext_noble",
+      "lv": "C1",
+      "w": "noble",
+      "pos": "adj.",
+      "tr": "soylu; asil, yüce",
+      "ex": "Forgiving him was a noble gesture."
+    },
+    {
+      "id": "ext_nod",
+      "lv": "C1",
+      "w": "nod",
+      "pos": "v.",
+      "tr": "başını sallamak (onay)",
+      "ex": "She nodded in agreement and smiled."
+    },
+    {
+      "id": "ext_nominate",
+      "lv": "C1",
+      "w": "nominate",
+      "pos": "v.",
+      "tr": "aday göstermek; atamak",
+      "ex": "The film was nominated for three awards."
+    },
+    {
+      "id": "ext_nomination",
+      "lv": "C1",
+      "w": "nomination",
+      "pos": "n.",
+      "tr": "adaylık, aday gösterme",
+      "ex": "Her nomination surprised the party leadership."
+    },
+    {
+      "id": "ext_nominee",
+      "lv": "C1",
+      "w": "nominee",
+      "pos": "n.",
+      "tr": "aday (gösterilen)",
+      "ex": "The nominees will be announced next week."
+    },
+    {
+      "id": "ext_non_profit",
+      "lv": "C1",
+      "w": "non-profit",
+      "pos": "adj.",
+      "tr": "kâr amacı gütmeyen",
+      "ex": "She runs a non-profit organization for refugees."
+    },
+    {
+      "id": "ext_nonetheless",
+      "lv": "C1",
+      "w": "nonetheless",
+      "pos": "adv.",
+      "tr": "yine de",
+      "ex": "The evidence was thin; nonetheless, the jury convicted."
+    },
+    {
+      "id": "ext_nonsense",
+      "lv": "C1",
+      "w": "nonsense",
+      "pos": "n.",
+      "tr": "saçmalık",
+      "ex": "Don't believe that nonsense about haunted houses."
+    },
+    {
+      "id": "ext_noon",
+      "lv": "C1",
+      "w": "noon",
+      "pos": "n.",
+      "tr": "öğle vakti",
+      "ex": "The market closes at noon on Sundays."
+    },
+    {
+      "id": "ext_norm",
+      "lv": "B2",
+      "w": "norm",
+      "pos": "n.",
+      "tr": "norm, ölçüt; olağan durum",
+      "ex": "Remote working has become the norm in many firms."
+    },
+    {
+      "id": "ext_notable",
+      "lv": "C1",
+      "w": "notable",
+      "pos": "adj.",
+      "tr": "dikkate değer, önemli",
+      "ex": "The visit was notable for one surprising announcement."
+    },
+    {
+      "id": "ext_notably",
+      "lv": "C1",
+      "w": "notably",
+      "pos": "adv.",
+      "tr": "özellikle; dikkat çekici biçimde",
+      "ex": "Several countries, notably Japan, opposed the plan."
+    },
+    {
+      "id": "ext_notebook",
+      "lv": "B2",
+      "w": "notebook",
+      "pos": "n.",
+      "tr": "defter; dizüstü bilgisayar",
+      "ex": "He writes every idea in a small notebook."
+    },
+    {
+      "id": "ext_notify",
+      "lv": "C1",
+      "w": "notify",
+      "pos": "v.",
+      "tr": "bildirmek, haber vermek",
+      "ex": "Please notify the school of any absence."
+    },
+    {
+      "id": "ext_notion",
+      "lv": "B2",
+      "w": "notion",
+      "pos": "n.",
+      "tr": "kavram, fikir",
+      "ex": "The notion that money buys happiness is questionable."
+    },
+    {
+      "id": "ext_notorious",
+      "lv": "C1",
+      "w": "notorious",
+      "pos": "adj.",
+      "tr": "adı çıkmış (kötü)",
+      "ex": "The junction is notorious for accidents."
+    },
+    {
+      "id": "ext_novel",
+      "lv": "C1",
+      "w": "novel",
+      "pos": "adj.",
+      "tr": "yeni, özgün",
+      "ex": "The team tried a novel approach to the problem."
+    },
+    {
+      "id": "ext_novelist",
+      "lv": "B2",
+      "w": "novelist",
+      "pos": "n.",
+      "tr": "romancı",
+      "ex": "The novelist based the story on her own village."
+    },
+    {
+      "id": "ext_nowadays",
+      "lv": "B2",
+      "w": "nowadays",
+      "pos": "adv.",
+      "tr": "bugünlerde, günümüzde",
+      "ex": "Nowadays most people pay by phone."
+    },
+    {
+      "id": "ext_numerous",
+      "lv": "B2",
+      "w": "numerous",
+      "pos": "adj.",
+      "tr": "çok sayıda",
+      "ex": "We've discussed this on numerous occasions."
+    },
+    {
+      "id": "ext_nursery",
+      "lv": "C1",
+      "w": "nursery",
+      "pos": "n.",
+      "tr": "kreş; fidanlık",
+      "ex": "The twins started nursery this autumn."
+    },
+    {
+      "id": "ext_nursing",
+      "lv": "B2",
+      "w": "nursing",
+      "pos": "n.",
+      "tr": "hemşirelik",
+      "ex": "She chose nursing as a career after the accident."
+    },
+    {
+      "id": "ext_nutrition",
+      "lv": "B2",
+      "w": "nutrition",
+      "pos": "n.",
+      "tr": "beslenme",
+      "ex": "Good nutrition is essential for growing children."
+    },
+    {
+      "id": "ext_obesity",
+      "lv": "B2",
+      "w": "obesity",
+      "pos": "n.",
+      "tr": "obezite",
+      "ex": "Obesity rates have doubled in twenty years."
+    },
+    {
+      "id": "ext_obey",
+      "lv": "B2",
+      "w": "obey",
+      "pos": "v.",
+      "tr": "itaat etmek, uymak",
+      "ex": "Soldiers are trained to obey orders."
+    },
+    {
+      "id": "ext_object",
+      "lv": "B2",
+      "w": "object",
+      "pos": "v.",
+      "tr": "itiraz etmek",
+      "ex": "Several residents objected to the new car park."
+    },
+    {
+      "id": "ext_objection",
+      "lv": "C1",
+      "w": "objection",
+      "pos": "n.",
+      "tr": "itiraz",
+      "ex": "The lawyer raised an objection to the question."
+    },
+    {
+      "id": "ext_objective",
+      "lv": "B2",
+      "w": "objective",
+      "pos": "adj., n.",
+      "tr": "nesnel; hedef",
+      "ex": "Our main objective is to cut waste by half."
+    },
+    {
+      "id": "ext_obligation",
+      "lv": "B2",
+      "w": "obligation",
+      "pos": "n.",
+      "tr": "yükümlülük",
+      "ex": "Parents have a legal obligation to educate their children."
+    },
+    {
+      "id": "ext_oblige",
+      "lv": "C1",
+      "w": "oblige",
+      "pos": "v.",
+      "tr": "zorunda bırakmak; ricayı yerine getirmek",
+      "ex": "Bad weather obliged us to cancel the picnic."
+    },
+    {
+      "id": "ext_observation",
+      "lv": "B2",
+      "w": "observation",
+      "pos": "n.",
+      "tr": "gözlem",
+      "ex": "The patient was kept in hospital for observation."
+    },
+    {
+      "id": "ext_observe",
+      "lv": "B2",
+      "w": "observe",
+      "pos": "v.",
+      "tr": "gözlemlemek; (kurala) uymak",
+      "ex": "Astronomers observed the comet for weeks."
+    },
+    {
+      "id": "ext_observer",
+      "lv": "B2",
+      "w": "observer",
+      "pos": "n.",
+      "tr": "gözlemci",
+      "ex": "International observers monitored the election."
+    },
+    {
+      "id": "ext_obsess",
+      "lv": "C1",
+      "w": "obsess",
+      "pos": "v.",
+      "tr": "kafayı takmak, takıntı yapmak",
+      "ex": "He's obsessed with keeping his car spotless."
+    },
+    {
+      "id": "ext_obsession",
+      "lv": "C1",
+      "w": "obsession",
+      "pos": "n.",
+      "tr": "takıntı, saplantı",
+      "ex": "Tidiness has become an obsession with her."
+    },
+    {
+      "id": "ext_obstacle",
+      "lv": "B2",
+      "w": "obstacle",
+      "pos": "n.",
+      "tr": "engel",
+      "ex": "Lack of money was the biggest obstacle to the plan."
+    },
+    {
+      "id": "ext_obtain",
+      "lv": "B2",
+      "w": "obtain",
+      "pos": "v.",
+      "tr": "elde etmek, edinmek",
+      "ex": "Visitors must obtain a permit before entering."
+    },
+    {
+      "id": "ext_occasional",
+      "lv": "C1",
+      "w": "occasional",
+      "pos": "adj.",
+      "tr": "ara sıra olan",
+      "ex": "She enjoys an occasional game of tennis."
+    },
+    {
+      "id": "ext_occasionally",
+      "lv": "B2",
+      "w": "occasionally",
+      "pos": "adv.",
+      "tr": "ara sıra, bazen",
+      "ex": "We occasionally meet for coffee in town."
+    },
+    {
+      "id": "ext_occupation",
+      "lv": "B2",
+      "w": "occupation",
+      "pos": "n.",
+      "tr": "meslek; işgal",
+      "ex": "Please state your name and occupation."
+    },
+    {
+      "id": "ext_occupy",
+      "lv": "B2",
+      "w": "occupy",
+      "pos": "v.",
+      "tr": "işgal etmek; (yer) kaplamak; meşgul etmek",
+      "ex": "Toys occupied the children for the whole journey."
+    },
+    {
+      "id": "ext_occurrence",
+      "lv": "C1",
+      "w": "occurrence",
+      "pos": "n.",
+      "tr": "olay; meydana gelme",
+      "ex": "Flooding is a common occurrence here in spring."
+    },
+    {
+      "id": "ext_odds",
+      "lv": "C1",
+      "w": "odds",
+      "pos": "n.",
+      "tr": "olasılık, ihtimal; şans",
+      "ex": "The odds of winning the prize are tiny."
+    },
+    {
+      "id": "ext_offence",
+      "lv": "B2",
+      "w": "offence",
+      "pos": "n.",
+      "tr": "suç; gücenme",
+      "ex": "Parking here is a minor offence."
+    },
+    {
+      "id": "ext_offend",
+      "lv": "B2",
+      "w": "offend",
+      "pos": "v.",
+      "tr": "gücendirmek; suç işlemek",
+      "ex": "I didn't mean to offend you with my joke."
+    },
+    {
+      "id": "ext_offender",
+      "lv": "B2",
+      "w": "offender",
+      "pos": "n.",
+      "tr": "suçlu, suç işleyen",
+      "ex": "Young offenders attend a separate court."
+    },
+    {
+      "id": "ext_offensive",
+      "lv": "B2",
+      "w": "offensive",
+      "pos": "adj.",
+      "tr": "saldırgan; hakaret içeren",
+      "ex": "The post was removed for offensive language."
+    },
+    {
+      "id": "ext_offering",
+      "lv": "C1",
+      "w": "offering",
+      "pos": "n.",
+      "tr": "sunulan şey, ürün; adak",
+      "ex": "The bakery's latest offering is a honey cake."
+    },
+    {
+      "id": "ext_official",
+      "lv": "B2",
+      "w": "official",
+      "pos": "n.",
+      "tr": "yetkili, görevli",
+      "ex": "Customs officials searched the lorry."
+    },
+    {
+      "id": "ext_offspring",
+      "lv": "C1",
+      "w": "offspring",
+      "pos": "n.",
+      "tr": "yavru; çocuk(lar)",
+      "ex": "The lioness guards her offspring fiercely."
+    },
+    {
+      "id": "ext_ongoing",
+      "lv": "B2",
+      "w": "ongoing",
+      "pos": "adj.",
+      "tr": "devam eden, süregelen",
+      "ex": "The road is closed due to ongoing repairs."
+    },
+    {
+      "id": "ext_opening",
+      "lv": "B2",
+      "w": "opening",
+      "pos": "n.",
+      "tr": "açılış; açıklık; boş kadro",
+      "ex": "The gallery's opening attracted a large crowd."
+    },
+    {
+      "id": "ext_openly",
+      "lv": "B2",
+      "w": "openly",
+      "pos": "adv.",
+      "tr": "açıkça, alenen",
+      "ex": "They spoke openly about their disagreements."
+    },
+    {
+      "id": "ext_opera",
+      "lv": "B2",
+      "w": "opera",
+      "pos": "n.",
+      "tr": "opera",
+      "ex": "We saw a famous opera at the summer festival."
+    },
+    {
+      "id": "ext_operate",
+      "lv": "B2",
+      "w": "operate",
+      "pos": "v.",
+      "tr": "çalışmak, işletmek; ameliyat etmek",
+      "ex": "The machine operates around the clock."
+    },
+    {
+      "id": "ext_operational",
+      "lv": "C1",
+      "w": "operational",
+      "pos": "adj.",
+      "tr": "işler durumda; operasyonel",
+      "ex": "The new airport is fully operational."
+    },
+    {
+      "id": "ext_operator",
+      "lv": "B2",
+      "w": "operator",
+      "pos": "n.",
+      "tr": "operatör; işletmeci",
+      "ex": "The crane operator works from a high cabin."
+    },
+    {
+      "id": "ext_opponent",
+      "lv": "B2",
+      "w": "opponent",
+      "pos": "n.",
+      "tr": "rakip; karşıt",
+      "ex": "She defeated her opponent in straight sets."
+    },
+    {
+      "id": "ext_oppose",
+      "lv": "B2",
+      "w": "oppose",
+      "pos": "v.",
+      "tr": "karşı çıkmak",
+      "ex": "Local farmers oppose the new motorway."
+    },
+    {
+      "id": "ext_opposed",
+      "lv": "B2",
+      "w": "opposed",
+      "pos": "adj.",
+      "tr": "karşı, muhalif",
+      "ex": "He is firmly opposed to any rise in fees."
+    },
+    {
+      "id": "ext_opposition",
+      "lv": "B2",
+      "w": "opposition",
+      "pos": "n.",
+      "tr": "muhalefet, karşıtlık",
+      "ex": "The plan met strong opposition from parents."
+    },
+    {
+      "id": "ext_opt",
+      "lv": "C1",
+      "w": "opt",
+      "pos": "v.",
+      "tr": "tercih etmek, seçmek",
+      "ex": "Most guests opted for the vegetarian menu."
+    },
+    {
+      "id": "ext_optical",
+      "lv": "C1",
+      "w": "optical",
+      "pos": "adj.",
+      "tr": "optik, görmeyle ilgili",
+      "ex": "The drawing creates a clever optical illusion."
+    },
+    {
+      "id": "ext_optimism",
+      "lv": "C1",
+      "w": "optimism",
+      "pos": "n.",
+      "tr": "iyimserlik",
+      "ex": "There are grounds for cautious optimism."
+    },
+    {
+      "id": "ext_optimistic",
+      "lv": "B2",
+      "w": "optimistic",
+      "pos": "adj.",
+      "tr": "iyimser",
+      "ex": "She remains optimistic about finding a job."
+    },
+    {
+      "id": "ext_oral",
+      "lv": "C1",
+      "w": "oral",
+      "pos": "adj.",
+      "tr": "sözlü; ağızdan",
+      "ex": "The course ends with an oral examination."
+    },
+    {
+      "id": "ext_orchestra",
+      "lv": "B2",
+      "w": "orchestra",
+      "pos": "n.",
+      "tr": "orkestra",
+      "ex": "The orchestra tuned their instruments before the concert."
+    },
+    {
+      "id": "ext_organ",
+      "lv": "B2",
+      "w": "organ",
+      "pos": "n.",
+      "tr": "organ; org",
+      "ex": "The heart is the body's hardest-working organ."
+    },
+    {
+      "id": "ext_organic",
+      "lv": "B2",
+      "w": "organic",
+      "pos": "adj.",
+      "tr": "organik",
+      "ex": "They sell organic vegetables at the market."
+    },
+    {
+      "id": "ext_organizational",
+      "lv": "C1",
+      "w": "organizational",
+      "pos": "adj.",
+      "tr": "örgütsel, organizasyonla ilgili",
+      "ex": "Good organizational skills are essential for this job."
+    },
+    {
+      "id": "ext_orientation",
+      "lv": "C1",
+      "w": "orientation",
+      "pos": "n.",
+      "tr": "yönelim; uyum programı",
+      "ex": "New staff attend a two-day orientation."
+    },
+    {
+      "id": "ext_origin",
+      "lv": "B2",
+      "w": "origin",
+      "pos": "n.",
+      "tr": "köken, kaynak",
+      "ex": "The word's origin is Latin."
+    },
+    {
+      "id": "ext_originate",
+      "lv": "C1",
+      "w": "originate",
+      "pos": "v.",
+      "tr": "kaynaklanmak, doğmak",
+      "ex": "The custom originated in rural villages."
+    },
+    {
+      "id": "ext_otherwise",
+      "lv": "B2",
+      "w": "otherwise",
+      "pos": "adv.",
+      "tr": "aksi takdirde; bunun dışında",
+      "ex": "Leave now; otherwise you'll miss the train."
+    },
+    {
+      "id": "ext_outbreak",
+      "lv": "C1",
+      "w": "outbreak",
+      "pos": "n.",
+      "tr": "(salgın/savaş) patlak verme",
+      "ex": "An outbreak of measles closed the school."
+    },
+    {
+      "id": "ext_outcome",
+      "lv": "B2",
+      "w": "outcome",
+      "pos": "n.",
+      "tr": "sonuç",
+      "ex": "The outcome of the trial surprised everyone."
+    },
+    {
+      "id": "ext_outer",
+      "lv": "B2",
+      "w": "outer",
+      "pos": "adj.",
+      "tr": "dış, dıştaki",
+      "ex": "The outer walls are nearly a metre thick."
+    },
+    {
+      "id": "ext_outfit",
+      "lv": "B2",
+      "w": "outfit",
+      "pos": "n.",
+      "tr": "kıyafet (takım)",
+      "ex": "She bought a new outfit for the interview."
+    },
+    {
+      "id": "ext_outing",
+      "lv": "C1",
+      "w": "outing",
+      "pos": "n.",
+      "tr": "gezi, gezinti",
+      "ex": "The class enjoyed an outing to the science museum."
+    },
+    {
+      "id": "ext_outlet",
+      "lv": "C1",
+      "w": "outlet",
+      "pos": "n.",
+      "tr": "satış noktası; çıkış (yolu); priz",
+      "ex": "Running gives him an outlet for his stress."
+    },
+    {
+      "id": "ext_outline",
+      "lv": "B2",
+      "w": "outline",
+      "pos": "n., v.",
+      "tr": "taslak, ana hat; ana hatlarıyla anlatmak",
+      "ex": "The manager outlined the plan in five minutes."
+    },
+    {
+      "id": "ext_outlook",
+      "lv": "C1",
+      "w": "outlook",
+      "pos": "n.",
+      "tr": "görünüm, beklenti; bakış açısı",
+      "ex": "The economic outlook has improved slightly."
+    },
+    {
+      "id": "ext_output",
+      "lv": "B2",
+      "w": "output",
+      "pos": "n.",
+      "tr": "çıktı, üretim (miktarı)",
+      "ex": "Factory output rose three per cent last month."
+    },
+    {
+      "id": "ext_outrage",
+      "lv": "C1",
+      "w": "outrage",
+      "pos": "n., v.",
+      "tr": "öfke, infial; çileden çıkarmak",
+      "ex": "The decision sparked outrage among fans."
+    },
+    {
+      "id": "ext_outsider",
+      "lv": "C1",
+      "w": "outsider",
+      "pos": "n.",
+      "tr": "yabancı, dışarıdan biri",
+      "ex": "As an outsider, she saw the town's problems clearly."
+    },
+    {
+      "id": "ext_outstanding",
+      "lv": "B2",
+      "w": "outstanding",
+      "pos": "adj.",
+      "tr": "seçkin, olağanüstü; ödenmemiş",
+      "ex": "She received an award for outstanding service."
+    },
+    {
+      "id": "ext_overall",
+      "lv": "B2",
+      "w": "overall",
+      "pos": "adj., adv.",
+      "tr": "genel; genel olarak",
+      "ex": "Overall, the project was a success."
+    },
+    {
+      "id": "ext_overcome",
+      "lv": "B2",
+      "w": "overcome",
+      "pos": "v.",
+      "tr": "üstesinden gelmek, yenmek",
+      "ex": "He overcame his fear of flying."
+    },
+    {
+      "id": "ext_overlook",
+      "lv": "C1",
+      "w": "overlook",
+      "pos": "v.",
+      "tr": "gözden kaçırmak; göz yummak; (manzaraya) bakmak",
+      "ex": "The room overlooks a quiet courtyard."
+    },
+    {
+      "id": "ext_overly",
+      "lv": "C1",
+      "w": "overly",
+      "pos": "adv.",
+      "tr": "aşırı derecede, fazla",
+      "ex": "Don't be overly critical of your own work."
+    },
+    {
+      "id": "ext_overnight",
+      "lv": "B2",
+      "w": "overnight",
+      "pos": "adv.",
+      "tr": "bir gecede; gece boyunca",
+      "ex": "The town's fortunes changed overnight."
+    },
+    {
+      "id": "ext_overseas",
+      "lv": "B2",
+      "w": "overseas",
+      "pos": "adj., adv.",
+      "tr": "denizaşırı, yurt dışında",
+      "ex": "The firm hopes to expand into overseas markets."
+    },
+    {
+      "id": "ext_oversee",
+      "lv": "C1",
+      "w": "oversee",
+      "pos": "v.",
+      "tr": "denetlemek, gözetmek",
+      "ex": "A committee oversees spending on public projects."
+    },
+    {
+      "id": "ext_overturn",
+      "lv": "C1",
+      "w": "overturn",
+      "pos": "v.",
+      "tr": "devirmek; (kararı) bozmak",
+      "ex": "The appeal court overturned the original verdict."
+    },
+    {
+      "id": "ext_overwhelm",
+      "lv": "C1",
+      "w": "overwhelm",
+      "pos": "v.",
+      "tr": "boğmak, altında ezmek; gark etmek",
+      "ex": "The tiny clinic was overwhelmed by patients."
+    },
+    {
+      "id": "ext_overwhelming",
+      "lv": "C1",
+      "w": "overwhelming",
+      "pos": "adj.",
+      "tr": "ezici, karşı konulmaz",
+      "ex": "An overwhelming majority voted yes."
+    },
+    {
+      "id": "ext_owe",
+      "lv": "B2",
+      "w": "owe",
+      "pos": "v.",
+      "tr": "borçlu olmak",
+      "ex": "I owe my brother fifty pounds."
+    },
+    {
+      "id": "ext_ownership",
+      "lv": "B2",
+      "w": "ownership",
+      "pos": "n.",
+      "tr": "sahiplik, mülkiyet",
+      "ex": "Home ownership is falling among the young."
+    },
+    {
+      "id": "ext_oxygen",
+      "lv": "B2",
+      "w": "oxygen",
+      "pos": "n.",
+      "tr": "oksijen",
+      "ex": "Climbers carry oxygen at extreme altitudes."
+    },
+    {
+      "id": "ext_pace",
+      "lv": "B2",
+      "w": "pace",
+      "pos": "n., v.",
+      "tr": "tempo, hız; volta atmak",
+      "ex": "She set a steady pace from the start of the race."
+    },
+    {
+      "id": "ext_package",
+      "lv": "B2",
+      "w": "package",
+      "pos": "v.",
+      "tr": "paketlemek, ambalajlamak",
+      "ex": "The nuts are packaged in small paper bags."
+    },
+    {
+      "id": "ext_packet",
+      "lv": "B2",
+      "w": "packet",
+      "pos": "n.",
+      "tr": "paket (küçük)",
+      "ex": "He opened a packet of biscuits."
+    },
+    {
+      "id": "ext_pad",
+      "lv": "C1",
+      "w": "pad",
+      "pos": "n.",
+      "tr": "ped, yastıkçık; not defteri",
+      "ex": "Write the number on the pad by the phone."
+    },
+    {
+      "id": "ext_palm",
+      "lv": "B2",
+      "w": "palm",
+      "pos": "n.",
+      "tr": "avuç içi; palmiye",
+      "ex": "She held the coin in the palm of her hand."
+    },
+    {
+      "id": "ext_panel",
+      "lv": "B2",
+      "w": "panel",
+      "pos": "n.",
+      "tr": "panel, kurul; pano",
+      "ex": "A panel of judges will choose the winner."
+    },
+    {
+      "id": "ext_panic",
+      "lv": "B2",
+      "w": "panic",
+      "pos": "n.",
+      "tr": "panik",
+      "ex": "The fire alarm caused a brief panic."
+    },
+    {
+      "id": "ext_parade",
+      "lv": "B2",
+      "w": "parade",
+      "pos": "n.",
+      "tr": "geçit töreni",
+      "ex": "Children lined the streets to watch the parade."
+    },
+    {
+      "id": "ext_parallel",
+      "lv": "B2",
+      "w": "parallel",
+      "pos": "adj., n.",
+      "tr": "paralel; benzerlik",
+      "ex": "The film draws a parallel between past and present."
+    },
+    {
+      "id": "ext_parameter",
+      "lv": "C1",
+      "w": "parameter",
+      "pos": "n.",
+      "tr": "parametre, sınır",
+      "ex": "The study stayed within strict ethical parameters."
+    },
+    {
+      "id": "ext_parental",
+      "lv": "C1",
+      "w": "parental",
+      "pos": "adj.",
+      "tr": "ebeveynle ilgili",
+      "ex": "The trip requires parental permission."
+    },
+    {
+      "id": "ext_parish",
+      "lv": "C1",
+      "w": "parish",
+      "pos": "n.",
+      "tr": "mahalle kilisesi bölgesi; cemaat",
+      "ex": "The priest has served this parish for decades."
+    },
+    {
+      "id": "ext_parliament",
+      "lv": "B2",
+      "w": "parliament",
+      "pos": "n.",
+      "tr": "parlamento, meclis",
+      "ex": "Parliament will debate the bill tomorrow."
+    },
+    {
+      "id": "ext_parliamentary",
+      "lv": "C1",
+      "w": "parliamentary",
+      "pos": "adj.",
+      "tr": "parlamenter, meclisle ilgili",
+      "ex": "A parliamentary committee examined the evidence."
+    },
+    {
+      "id": "ext_part_time",
+      "lv": "B2",
+      "w": "part-time",
+      "pos": "adj.",
+      "tr": "yarı zamanlı",
+      "ex": "She took a part-time job at the library."
+    },
+    {
+      "id": "ext_partial",
+      "lv": "C1",
+      "w": "partial",
+      "pos": "adj.",
+      "tr": "kısmi; taraflı",
+      "ex": "The strike caused a partial shutdown of the port."
+    },
+    {
+      "id": "ext_partially",
+      "lv": "C1",
+      "w": "partially",
+      "pos": "adv.",
+      "tr": "kısmen",
+      "ex": "The road is partially blocked by a fallen tree."
+    },
+    {
+      "id": "ext_participant",
+      "lv": "B2",
+      "w": "participant",
+      "pos": "n.",
+      "tr": "katılımcı",
+      "ex": "Each participant received a certificate."
+    },
+    {
+      "id": "ext_participation",
+      "lv": "B2",
+      "w": "participation",
+      "pos": "n.",
+      "tr": "katılım",
+      "ex": "The course encourages active participation."
+    },
+    {
+      "id": "ext_partly",
+      "lv": "B2",
+      "w": "partly",
+      "pos": "adv.",
+      "tr": "kısmen",
+      "ex": "The delay was partly my fault."
+    },
+    {
+      "id": "ext_partnership",
+      "lv": "B2",
+      "w": "partnership",
+      "pos": "n.",
+      "tr": "ortaklık",
+      "ex": "The museum works in partnership with local schools."
+    },
+    {
+      "id": "ext_passage",
+      "lv": "B2",
+      "w": "passage",
+      "pos": "n.",
+      "tr": "pasaj, bölüm; geçit; geçiş",
+      "ex": "Read the passage and answer the questions."
+    },
+    {
+      "id": "ext_passing",
+      "lv": "C1",
+      "w": "passing",
+      "pos": "n.",
+      "tr": "geçiş; vefat",
+      "ex": "The bell marked the passing of the old year."
+    },
+    {
+      "id": "ext_passionate",
+      "lv": "B2",
+      "w": "passionate",
+      "pos": "adj.",
+      "tr": "tutkulu",
+      "ex": "He is passionate about protecting wildlife."
+    },
+    {
+      "id": "ext_passive",
+      "lv": "C1",
+      "w": "passive",
+      "pos": "adj.",
+      "tr": "pasif, edilgen",
+      "ex": "Watching television is a largely passive activity."
+    },
+    {
+      "id": "ext_password",
+      "lv": "B2",
+      "w": "password",
+      "pos": "n.",
+      "tr": "şifre, parola",
+      "ex": "Choose a password that is hard to guess."
+    },
+    {
+      "id": "ext_pastor",
+      "lv": "C1",
+      "w": "pastor",
+      "pos": "n.",
+      "tr": "papaz (Protestan)",
+      "ex": "The pastor greeted the congregation at the door."
+    },
+    {
+      "id": "ext_patch",
+      "lv": "C1",
+      "w": "patch",
+      "pos": "n.",
+      "tr": "yama; küçük alan/dönem",
+      "ex": "The team is going through a difficult patch."
+    },
+    {
+      "id": "ext_patent",
+      "lv": "C1",
+      "w": "patent",
+      "pos": "n.",
+      "tr": "patent",
+      "ex": "The inventor filed a patent for her design."
+    },
+    {
+      "id": "ext_pathway",
+      "lv": "C1",
+      "w": "pathway",
+      "pos": "n.",
+      "tr": "patika; yol (kariyer/süreç)",
+      "ex": "The course offers a pathway into engineering."
+    },
+    {
+      "id": "ext_patience",
+      "lv": "B2",
+      "w": "patience",
+      "pos": "n.",
+      "tr": "sabır",
+      "ex": "Teaching young children takes great patience."
+    },
+    {
+      "id": "ext_patient",
+      "lv": "B2",
+      "w": "patient",
+      "pos": "adj.",
+      "tr": "sabırlı",
+      "ex": "Be patient; the results take a week."
+    },
+    {
+      "id": "ext_patrol",
+      "lv": "C1",
+      "w": "patrol",
+      "pos": "n., v.",
+      "tr": "devriye; devriye gezmek",
+      "ex": "Police patrol the park after dark."
+    },
+    {
+      "id": "ext_patron",
+      "lv": "C1",
+      "w": "patron",
+      "pos": "n.",
+      "tr": "hami, destekçi; müdavim",
+      "ex": "She is a generous patron of young artists."
+    },
+    {
+      "id": "ext_pause",
+      "lv": "B2",
+      "w": "pause",
+      "pos": "n., v.",
+      "tr": "duraklama; duraklamak",
+      "ex": "He paused before answering the question."
+    },
+    {
+      "id": "ext_peak",
+      "lv": "C1",
+      "w": "peak",
+      "pos": "n.",
+      "tr": "zirve, doruk",
+      "ex": "Traffic reaches its peak at eight in the morning."
+    },
+    {
+      "id": "ext_peasant",
+      "lv": "C1",
+      "w": "peasant",
+      "pos": "n.",
+      "tr": "köylü (tarihsel)",
+      "ex": "The peasants worked the lord's fields."
+    },
+    {
+      "id": "ext_peculiar",
+      "lv": "C1",
+      "w": "peculiar",
+      "pos": "adj.",
+      "tr": "tuhaf, acayip; özgü",
+      "ex": "There was a peculiar smell in the cellar."
+    },
+    {
+      "id": "ext_peer",
+      "lv": "B2",
+      "w": "peer",
+      "pos": "n.",
+      "tr": "akran, emsal",
+      "ex": "Teenagers care deeply about the opinions of their peers."
+    },
+    {
+      "id": "ext_penalty",
+      "lv": "B2",
+      "w": "penalty",
+      "pos": "n.",
+      "tr": "ceza; penaltı",
+      "ex": "The penalty for late payment is ten per cent."
+    },
+    {
+      "id": "ext_pension",
+      "lv": "B2",
+      "w": "pension",
+      "pos": "n.",
+      "tr": "emekli maaşı",
+      "ex": "She retired early on a reduced pension."
+    },
+    {
+      "id": "ext_perceive",
+      "lv": "B2",
+      "w": "perceive",
+      "pos": "v.",
+      "tr": "algılamak",
+      "ex": "The change was too slow to be perceived."
+    },
+    {
+      "id": "ext_perception",
+      "lv": "B2",
+      "w": "perception",
+      "pos": "n.",
+      "tr": "algı",
+      "ex": "Public perception of the police has improved."
+    },
+    {
+      "id": "ext_permanent",
+      "lv": "B2",
+      "w": "permanent",
+      "pos": "adj.",
+      "tr": "kalıcı, daimi",
+      "ex": "The accident left no permanent damage."
+    },
+    {
+      "id": "ext_permanently",
+      "lv": "B2",
+      "w": "permanently",
+      "pos": "adv.",
+      "tr": "kalıcı olarak",
+      "ex": "The factory closed permanently last year."
+    },
+    {
+      "id": "ext_permit",
+      "lv": "B2",
+      "w": "permit",
+      "pos": "n., v.",
+      "tr": "izin (belgesi); izin vermek",
+      "ex": "Smoking is not permitted anywhere in the building."
+    },
+    {
+      "id": "ext_persist",
+      "lv": "C1",
+      "w": "persist",
+      "pos": "v.",
+      "tr": "sürmek; ısrar etmek",
+      "ex": "If the pain persists, see a doctor."
+    },
+    {
+      "id": "ext_persistent",
+      "lv": "C1",
+      "w": "persistent",
+      "pos": "adj.",
+      "tr": "inatçı, sürekli",
+      "ex": "A persistent cough kept him awake."
+    },
+    {
+      "id": "ext_personnel",
+      "lv": "C1",
+      "w": "personnel",
+      "pos": "n.",
+      "tr": "personel",
+      "ex": "Only authorised personnel may enter this area."
+    },
+    {
+      "id": "ext_perspective",
+      "lv": "B2",
+      "w": "perspective",
+      "pos": "n.",
+      "tr": "bakış açısı; perspektif",
+      "ex": "Travel gives you a fresh perspective on home."
+    },
+    {
+      "id": "ext_petition",
+      "lv": "C1",
+      "w": "petition",
+      "pos": "n.",
+      "tr": "dilekçe, imza kampanyası",
+      "ex": "Thousands signed a petition to save the library."
+    },
+    {
+      "id": "ext_phase",
+      "lv": "B2",
+      "w": "phase",
+      "pos": "n.",
+      "tr": "evre, aşama",
+      "ex": "The project is still in its early phase."
+    },
+    {
+      "id": "ext_phenomenon",
+      "lv": "B2",
+      "w": "phenomenon",
+      "pos": "n.",
+      "tr": "olgu, fenomen",
+      "ex": "Migration is a global phenomenon."
+    },
+    {
+      "id": "ext_philosopher",
+      "lv": "C1",
+      "w": "philosopher",
+      "pos": "n.",
+      "tr": "filozof",
+      "ex": "The philosopher questioned what justice really means."
+    },
+    {
+      "id": "ext_philosophical",
+      "lv": "C1",
+      "w": "philosophical",
+      "pos": "adj.",
+      "tr": "felsefi; metanetli",
+      "ex": "He was philosophical about losing the match."
+    },
+    {
+      "id": "ext_philosophy",
+      "lv": "B2",
+      "w": "philosophy",
+      "pos": "n.",
+      "tr": "felsefe",
+      "ex": "Her philosophy is simple: work hard, be kind."
+    },
+    {
+      "id": "ext_physician",
+      "lv": "C1",
+      "w": "physician",
+      "pos": "n.",
+      "tr": "hekim, doktor",
+      "ex": "Consult a physician before starting the diet."
+    },
+    {
+      "id": "ext_pick",
+      "lv": "B2",
+      "w": "pick",
+      "pos": "n.",
+      "tr": "seçim; en iyisi",
+      "ex": "Take your pick of the remaining seats."
+    },
+    {
+      "id": "ext_picture",
+      "lv": "B2",
+      "w": "picture",
+      "pos": "v.",
+      "tr": "hayal etmek, gözünde canlandırmak",
+      "ex": "Picture a beach at sunset, totally empty."
+    },
+    {
+      "id": "ext_pile",
+      "lv": "B2",
+      "w": "pile",
+      "pos": "n., v.",
+      "tr": "yığın; yığmak",
+      "ex": "A pile of letters waited on the desk."
+    },
+    {
+      "id": "ext_pill",
+      "lv": "B2",
+      "w": "pill",
+      "pos": "n.",
+      "tr": "hap",
+      "ex": "Take one pill with each meal."
+    },
+    {
+      "id": "ext_pioneer",
+      "lv": "C1",
+      "w": "pioneer",
+      "pos": "n., v.",
+      "tr": "öncü; öncülük etmek",
+      "ex": "She pioneered a new method of teaching reading."
+    },
+    {
+      "id": "ext_pipeline",
+      "lv": "C1",
+      "w": "pipeline",
+      "pos": "n.",
+      "tr": "boru hattı; (in the pipeline) yolda",
+      "ex": "A new gas pipeline crosses the region."
+    },
+    {
+      "id": "ext_pirate",
+      "lv": "C1",
+      "w": "pirate",
+      "pos": "n.",
+      "tr": "korsan",
+      "ex": "Pirates attacked merchant ships along this coast."
+    },
+    {
+      "id": "ext_pit",
+      "lv": "C1",
+      "w": "pit",
+      "pos": "n.",
+      "tr": "çukur; maden ocağı",
+      "ex": "The miners went down the pit at dawn."
+    },
+    {
+      "id": "ext_pitch",
+      "lv": "B2",
+      "w": "pitch",
+      "pos": "n.",
+      "tr": "saha; perde (ses); sunum",
+      "ex": "The pitch was too wet to play on."
+    },
+    {
+      "id": "ext_pity",
+      "lv": "B2",
+      "w": "pity",
+      "pos": "n.",
+      "tr": "acıma; yazık",
+      "ex": "What a pity you can't come to the party."
+    },
+    {
+      "id": "ext_placement",
+      "lv": "B2",
+      "w": "placement",
+      "pos": "n.",
+      "tr": "yerleştirme; staj",
+      "ex": "The course includes a work placement in a hospital."
+    },
+    {
+      "id": "ext_plain",
+      "lv": "B2",
+      "w": "plain",
+      "pos": "adj.",
+      "tr": "sade, düz; açık, net",
+      "ex": "She prefers plain food without rich sauces."
+    },
+    {
+      "id": "ext_plea",
+      "lv": "C1",
+      "w": "plea",
+      "pos": "n.",
+      "tr": "rica, yakarış; savunma (mahkeme)",
+      "ex": "The mother made an emotional plea for help."
+    },
+    {
+      "id": "ext_plead",
+      "lv": "C1",
+      "w": "plead",
+      "pos": "v.",
+      "tr": "yalvarmak; (suçlamayı) kabul/ret beyan etmek",
+      "ex": "The defendant pleaded not guilty."
+    },
+    {
+      "id": "ext_pledge",
+      "lv": "C1",
+      "w": "pledge",
+      "pos": "n., v.",
+      "tr": "söz, taahhüt; söz vermek",
+      "ex": "The mayor pledged to plant ten thousand trees."
+    },
+    {
+      "id": "ext_plot",
+      "lv": "B2",
+      "w": "plot",
+      "pos": "v.",
+      "tr": "komplo kurmak; (grafik) çizmek",
+      "ex": "The generals plotted to seize power."
+    },
+    {
+      "id": "ext_plug",
+      "lv": "C1",
+      "w": "plug",
+      "pos": "n., v.",
+      "tr": "fiş, tapa; tıkamak",
+      "ex": "Pull out the plug before cleaning the machine."
+    },
+    {
+      "id": "ext_plunge",
+      "lv": "C1",
+      "w": "plunge",
+      "pos": "v.",
+      "tr": "dalmak; aniden düşmek",
+      "ex": "Temperatures plunged below zero overnight."
+    },
+    {
+      "id": "ext_plus",
+      "lv": "B2",
+      "w": "plus",
+      "pos": "adj., conj., n.",
+      "tr": "artı; avantaj",
+      "ex": "Speaking two languages is a definite plus."
+    },
+    {
+      "id": "ext_pointed",
+      "lv": "B2",
+      "w": "pointed",
+      "pos": "adj.",
+      "tr": "sivri; iğneleyici",
+      "ex": "She gave him a pointed look when he arrived late."
+    },
+    {
+      "id": "ext_pole",
+      "lv": "C1",
+      "w": "pole",
+      "pos": "n.",
+      "tr": "direk; kutup",
+      "ex": "Flags flew from every pole along the route."
+    },
+    {
+      "id": "ext_poll",
+      "lv": "C1",
+      "w": "poll",
+      "pos": "n.",
+      "tr": "anket; oylama",
+      "ex": "The poll shows support for the mayor falling."
+    },
+    {
+      "id": "ext_pond",
+      "lv": "C1",
+      "w": "pond",
+      "pos": "n.",
+      "tr": "gölcük, havuz",
+      "ex": "Ducks swam across the village pond."
+    },
+    {
+      "id": "ext_pop",
+      "lv": "C1",
+      "w": "pop",
+      "pos": "v.",
+      "tr": "patlamak; aniden çıkmak/uğramak",
+      "ex": "A warning suddenly popped up on the screen."
+    },
+    {
+      "id": "ext_popularity",
+      "lv": "B2",
+      "w": "popularity",
+      "pos": "n.",
+      "tr": "popülerlik",
+      "ex": "The sport's popularity is growing among girls."
+    },
+    {
+      "id": "ext_portfolio",
+      "lv": "C1",
+      "w": "portfolio",
+      "pos": "n.",
+      "tr": "portföy; dosya (çalışma örnekleri)",
+      "ex": "Bring a portfolio of your designs to the interview."
+    },
+    {
+      "id": "ext_portion",
+      "lv": "B2",
+      "w": "portion",
+      "pos": "n.",
+      "tr": "porsiyon; pay, kısım",
+      "ex": "A large portion of the budget goes on rent."
+    },
+    {
+      "id": "ext_portray",
+      "lv": "C1",
+      "w": "portray",
+      "pos": "v.",
+      "tr": "betimlemek, canlandırmak",
+      "ex": "The film portrays the artist as a lonely genius."
+    },
+    {
+      "id": "ext_pose",
+      "lv": "B2",
+      "w": "pose",
+      "pos": "v.",
+      "tr": "oluşturmak (tehdit/soru); poz vermek",
+      "ex": "Melting ice poses a threat to coastal cities."
+    },
+    {
+      "id": "ext_position",
+      "lv": "B2",
+      "w": "position",
+      "pos": "v.",
+      "tr": "yerleştirmek, konumlandırmak",
+      "ex": "Position the lamp so the light falls on the page."
+    },
+    {
+      "id": "ext_positive",
+      "lv": "B2",
+      "w": "positive",
+      "pos": "n.",
+      "tr": "olumlu yön; pozitif",
+      "ex": "Let's focus on the positives of the situation."
+    },
+    {
+      "id": "ext_possess",
+      "lv": "B2",
+      "w": "possess",
+      "pos": "v.",
+      "tr": "sahip olmak",
+      "ex": "He possesses a rare talent for languages."
+    },
+    {
+      "id": "ext_post_war",
+      "lv": "C1",
+      "w": "post-war",
+      "pos": "adj.",
+      "tr": "savaş sonrası",
+      "ex": "The post-war years brought rapid rebuilding."
+    },
+    {
+      "id": "ext_postpone",
+      "lv": "C1",
+      "w": "postpone",
+      "pos": "v.",
+      "tr": "ertelemek",
+      "ex": "The match was postponed because of fog."
+    },
+    {
+      "id": "ext_potential",
+      "lv": "B2",
+      "w": "potential",
+      "pos": "adj., n.",
+      "tr": "potansiyel, olası; gizilgüç",
+      "ex": "The site has great potential for development."
+    },
+    {
+      "id": "ext_potentially",
+      "lv": "B2",
+      "w": "potentially",
+      "pos": "adv.",
+      "tr": "potansiyel olarak",
+      "ex": "The chemical is potentially dangerous if heated."
+    },
+    {
+      "id": "ext_power",
+      "lv": "B2",
+      "w": "power",
+      "pos": "v.",
+      "tr": "güç sağlamak, çalıştırmak",
+      "ex": "Solar cells power the small weather station."
+    },
+    {
+      "id": "ext_practitioner",
+      "lv": "C1",
+      "w": "practitioner",
+      "pos": "n.",
+      "tr": "uygulayıcı (doktor/avukat vb.)",
+      "ex": "She is a respected legal practitioner."
+    },
+    {
+      "id": "ext_praise",
+      "lv": "B2",
+      "w": "praise",
+      "pos": "n., v.",
+      "tr": "övgü; övmek",
+      "ex": "Critics praised the novel's honesty."
+    },
+    {
+      "id": "ext_preach",
+      "lv": "C1",
+      "w": "preach",
+      "pos": "v.",
+      "tr": "vaaz vermek; öğütlemek",
+      "ex": "He preaches patience but rarely shows it."
+    },
+    {
+      "id": "ext_precede",
+      "lv": "B2",
+      "w": "precede",
+      "pos": "v.",
+      "tr": "önce gelmek",
+      "ex": "A short film preceded the main feature."
+    },
+    {
+      "id": "ext_precedent",
+      "lv": "C1",
+      "w": "precedent",
+      "pos": "n.",
+      "tr": "emsal, içtihat",
+      "ex": "The ruling set an important precedent."
+    },
+    {
+      "id": "ext_precious",
+      "lv": "B2",
+      "w": "precious",
+      "pos": "adj.",
+      "tr": "değerli, kıymetli",
+      "ex": "Clean water is a precious resource."
+    },
+    {
+      "id": "ext_precise",
+      "lv": "B2",
+      "w": "precise",
+      "pos": "adj.",
+      "tr": "kesin, tam",
+      "ex": "The map gives the precise location of the well."
+    },
+    {
+      "id": "ext_precisely",
+      "lv": "B2",
+      "w": "precisely",
+      "pos": "adv.",
+      "tr": "tam olarak; kesinlikle",
+      "ex": "The train left at precisely nine o'clock."
+    },
+    {
+      "id": "ext_precision",
+      "lv": "C1",
+      "w": "precision",
+      "pos": "n.",
+      "tr": "kesinlik, hassasiyet",
+      "ex": "The parts are cut with laser precision."
+    },
+    {
+      "id": "ext_predator",
+      "lv": "C1",
+      "w": "predator",
+      "pos": "n.",
+      "tr": "yırtıcı (hayvan), avcı",
+      "ex": "Owls are night-time predators of mice."
+    },
+    {
+      "id": "ext_predecessor",
+      "lv": "C1",
+      "w": "predecessor",
+      "pos": "n.",
+      "tr": "öncel, selef",
+      "ex": "The new director reversed her predecessor's policies."
+    },
+    {
+      "id": "ext_predictable",
+      "lv": "B2",
+      "w": "predictable",
+      "pos": "adj.",
+      "tr": "tahmin edilebilir",
+      "ex": "The plot was enjoyable but predictable."
+    },
+    {
+      "id": "ext_predominantly",
+      "lv": "C1",
+      "w": "predominantly",
+      "pos": "adv.",
+      "tr": "ağırlıklı olarak, çoğunlukla",
+      "ex": "The audience was predominantly young."
+    },
+    {
+      "id": "ext_preference",
+      "lv": "B2",
+      "w": "preference",
+      "pos": "n.",
+      "tr": "tercih",
+      "ex": "We try to respect each guest's preferences."
+    },
+    {
+      "id": "ext_pregnancy",
+      "lv": "C1",
+      "w": "pregnancy",
+      "pos": "n.",
+      "tr": "hamilelik, gebelik",
+      "ex": "Smoking during pregnancy harms the baby."
+    },
+    {
+      "id": "ext_pregnant",
+      "lv": "B2",
+      "w": "pregnant",
+      "pos": "adj.",
+      "tr": "hamile, gebe",
+      "ex": "She was pregnant with her second child."
+    },
+    {
+      "id": "ext_prejudice",
+      "lv": "C1",
+      "w": "prejudice",
+      "pos": "n.",
+      "tr": "ön yargı",
+      "ex": "The law aims to protect workers from prejudice."
+    },
+    {
+      "id": "ext_preliminary",
+      "lv": "C1",
+      "w": "preliminary",
+      "pos": "adj.",
+      "tr": "ön, hazırlık niteliğinde",
+      "ex": "Preliminary results suggest the vaccine works."
+    },
+    {
+      "id": "ext_premier",
+      "lv": "C1",
+      "w": "premier",
+      "pos": "adj.",
+      "tr": "başlıca, en önde gelen",
+      "ex": "The hall is the city's premier concert venue."
+    },
+    {
+      "id": "ext_premise",
+      "lv": "C1",
+      "w": "premise",
+      "pos": "n.",
+      "tr": "öncül, varsayım",
+      "ex": "The argument rests on a false premise."
+    },
+    {
+      "id": "ext_premium",
+      "lv": "C1",
+      "w": "premium",
+      "pos": "n.",
+      "tr": "sigorta primi; ek ücret; üstün kalite",
+      "ex": "Fresh fish sells at a premium in winter."
+    },
+    {
+      "id": "ext_preparation",
+      "lv": "B2",
+      "w": "preparation",
+      "pos": "n.",
+      "tr": "hazırlık",
+      "ex": "Months of preparation went into the festival."
+    },
+    {
+      "id": "ext_prescribe",
+      "lv": "C1",
+      "w": "prescribe",
+      "pos": "v.",
+      "tr": "reçete yazmak; öngörmek",
+      "ex": "The doctor prescribed a course of antibiotics."
+    },
+    {
+      "id": "ext_prescription",
+      "lv": "C1",
+      "w": "prescription",
+      "pos": "n.",
+      "tr": "reçete",
+      "ex": "These tablets are only available on prescription."
+    },
+    {
+      "id": "ext_presence",
+      "lv": "B2",
+      "w": "presence",
+      "pos": "n.",
+      "tr": "varlık, mevcudiyet",
+      "ex": "The army kept a strong presence in the city."
+    },
+    {
+      "id": "ext_presently",
+      "lv": "C1",
+      "w": "presently",
+      "pos": "adv.",
+      "tr": "şu anda; birazdan",
+      "ex": "The manager is presently in a meeting."
+    },
+    {
+      "id": "ext_preservation",
+      "lv": "C1",
+      "w": "preservation",
+      "pos": "n.",
+      "tr": "koruma, muhafaza",
+      "ex": "The society works for the preservation of old buildings."
+    },
+    {
+      "id": "ext_preserve",
+      "lv": "B2",
+      "w": "preserve",
+      "pos": "v.",
+      "tr": "korumak, muhafaza etmek",
+      "ex": "Salt was used to preserve meat for winter."
+    },
+    {
+      "id": "ext_preside",
+      "lv": "C1",
+      "w": "preside",
+      "pos": "v.",
+      "tr": "başkanlık etmek",
+      "ex": "A senior judge presided over the trial."
+    },
+    {
+      "id": "ext_presidency",
+      "lv": "C1",
+      "w": "presidency",
+      "pos": "n.",
+      "tr": "başkanlık (makamı/dönemi)",
+      "ex": "The economy grew during her presidency."
+    },
+    {
+      "id": "ext_presidential",
+      "lv": "C1",
+      "w": "presidential",
+      "pos": "adj.",
+      "tr": "başkanlık ile ilgili",
+      "ex": "The presidential election takes place in May."
+    },
+    {
+      "id": "ext_prestigious",
+      "lv": "C1",
+      "w": "prestigious",
+      "pos": "adj.",
+      "tr": "prestijli, saygın",
+      "ex": "She won a place at a prestigious university."
+    },
+    {
+      "id": "ext_presumably",
+      "lv": "C1",
+      "w": "presumably",
+      "pos": "adv.",
+      "tr": "muhtemelen, tahminen",
+      "ex": "Presumably the flight was delayed by the storm."
+    },
+    {
+      "id": "ext_presume",
+      "lv": "C1",
+      "w": "presume",
+      "pos": "v.",
+      "tr": "varsaymak, farz etmek",
+      "ex": "I presume the meeting is still on for Friday."
+    },
+    {
+      "id": "ext_prevail",
+      "lv": "C1",
+      "w": "prevail",
+      "pos": "v.",
+      "tr": "galip gelmek; hüküm sürmek",
+      "ex": "Common sense prevailed and the fight was avoided."
+    },
+    {
+      "id": "ext_prevalence",
+      "lv": "C1",
+      "w": "prevalence",
+      "pos": "n.",
+      "tr": "yaygınlık",
+      "ex": "The survey measures the prevalence of allergies."
+    },
+    {
+      "id": "ext_prevention",
+      "lv": "C1",
+      "w": "prevention",
+      "pos": "n.",
+      "tr": "önleme",
+      "ex": "Prevention is better than cure."
+    },
+    {
+      "id": "ext_prey",
+      "lv": "C1",
+      "w": "prey",
+      "pos": "n.",
+      "tr": "av (hayvan)",
+      "ex": "The eagle circled, watching for prey."
+    },
+    {
+      "id": "ext_price",
+      "lv": "B2",
+      "w": "price",
+      "pos": "v.",
+      "tr": "fiyatlandırmak",
+      "ex": "The tickets are priced for families, not collectors."
+    },
+    {
+      "id": "ext_pride",
+      "lv": "B2",
+      "w": "pride",
+      "pos": "n.",
+      "tr": "gurur, onur",
+      "ex": "She showed us her garden with great pride."
+    },
+    {
+      "id": "ext_primarily",
+      "lv": "B2",
+      "w": "primarily",
+      "pos": "adv.",
+      "tr": "öncelikle, esasen",
+      "ex": "The course is aimed primarily at beginners."
+    },
+    {
+      "id": "ext_prime",
+      "lv": "B2",
+      "w": "prime",
+      "pos": "adj.",
+      "tr": "başlıca, birincil; en kaliteli",
+      "ex": "Safety is our prime concern."
+    },
+    {
+      "id": "ext_principal",
+      "lv": "B2",
+      "w": "principal",
+      "pos": "adj., n.",
+      "tr": "başlıca; okul müdürü",
+      "ex": "Tourism is the island's principal source of income."
+    },
+    {
+      "id": "ext_principle",
+      "lv": "B2",
+      "w": "principle",
+      "pos": "n.",
+      "tr": "ilke, prensip",
+      "ex": "She refused on a matter of principle."
+    },
+    {
+      "id": "ext_print",
+      "lv": "B2",
+      "w": "print",
+      "pos": "n.",
+      "tr": "baskı; basılı yazı",
+      "ex": "The print is too small for me to read."
+    },
+    {
+      "id": "ext_prior",
+      "lv": "B2",
+      "w": "prior",
+      "pos": "adj.",
+      "tr": "önceki, önceden olan",
+      "ex": "The course requires no prior knowledge."
+    },
+    {
+      "id": "ext_priority",
+      "lv": "B2",
+      "w": "priority",
+      "pos": "n.",
+      "tr": "öncelik",
+      "ex": "Fixing the roof is the top priority."
+    },
+    {
+      "id": "ext_privacy",
+      "lv": "B2",
+      "w": "privacy",
+      "pos": "n.",
+      "tr": "mahremiyet, özel hayat",
+      "ex": "The fence gives the garden more privacy."
+    },
+    {
+      "id": "ext_privatization",
+      "lv": "C1",
+      "w": "privatization",
+      "pos": "n.",
+      "tr": "özelleştirme",
+      "ex": "The privatization of the railways remains controversial."
+    },
+    {
+      "id": "ext_privilege",
+      "lv": "C1",
+      "w": "privilege",
+      "pos": "n.",
+      "tr": "ayrıcalık, imtiyaz",
+      "ex": "Education should be a right, not a privilege."
+    },
+    {
+      "id": "ext_probability",
+      "lv": "B2",
+      "w": "probability",
+      "pos": "n.",
+      "tr": "olasılık",
+      "ex": "There is a high probability of showers tonight."
+    },
+    {
+      "id": "ext_probable",
+      "lv": "B2",
+      "w": "probable",
+      "pos": "adj.",
+      "tr": "muhtemel, olası",
+      "ex": "The most probable cause was an electrical fault."
+    },
+    {
+      "id": "ext_probe",
+      "lv": "C1",
+      "w": "probe",
+      "pos": "n., v.",
+      "tr": "sonda; soruşturma; irdelemek",
+      "ex": "Reporters probed the company's accounts."
+    },
+    {
+      "id": "ext_problematic",
+      "lv": "C1",
+      "w": "problematic",
+      "pos": "adj.",
+      "tr": "sorunlu",
+      "ex": "The bridge's design proved problematic."
+    },
+    {
+      "id": "ext_procedure",
+      "lv": "B2",
+      "w": "procedure",
+      "pos": "n.",
+      "tr": "prosedür, işlem, yöntem",
+      "ex": "Follow the safety procedure during the drill."
+    },
+    {
+      "id": "ext_proceed",
+      "lv": "B2",
+      "w": "proceed",
+      "pos": "v.",
+      "tr": "devam etmek, ilerlemek",
+      "ex": "The building work can now proceed as planned."
+    },
+    {
+      "id": "ext_proceeding",
+      "lv": "C1",
+      "w": "proceeding",
+      "pos": "n.",
+      "tr": "(hukuki) işlem, dava süreci",
+      "ex": "Legal proceedings began against the supplier."
+    },
+    {
+      "id": "ext_proceeds",
+      "lv": "C1",
+      "w": "proceeds",
+      "pos": "n.",
+      "tr": "hasılat, gelir",
+      "ex": "The proceeds of the concert go to charity."
+    },
+    {
+      "id": "ext_process",
+      "lv": "B2",
+      "w": "process",
+      "pos": "v.",
+      "tr": "işlemek, işleme almak",
+      "ex": "The factory processes tonnes of fruit daily."
+    },
+    {
+      "id": "ext_processing",
+      "lv": "C1",
+      "w": "processing",
+      "pos": "n.",
+      "tr": "işleme",
+      "ex": "Visa processing takes around three weeks."
+    },
+    {
+      "id": "ext_processor",
+      "lv": "C1",
+      "w": "processor",
+      "pos": "n.",
+      "tr": "işlemci",
+      "ex": "The new phone has a much faster processor."
+    },
+    {
+      "id": "ext_proclaim",
+      "lv": "C1",
+      "w": "proclaim",
+      "pos": "v.",
+      "tr": "ilan etmek, duyurmak",
+      "ex": "The republic was proclaimed on this square."
+    },
+    {
+      "id": "ext_produce",
+      "lv": "B2",
+      "w": "produce",
+      "pos": "n.",
+      "tr": "tarım ürünü, mahsul",
+      "ex": "The shop sells fresh local produce."
+    },
+    {
+      "id": "ext_productive",
+      "lv": "C1",
+      "w": "productive",
+      "pos": "adj.",
+      "tr": "verimli, üretken",
+      "ex": "We had a very productive meeting this morning."
+    },
+    {
+      "id": "ext_productivity",
+      "lv": "C1",
+      "w": "productivity",
+      "pos": "n.",
+      "tr": "verimlilik, üretkenlik",
+      "ex": "Better tools raised the workshop's productivity."
+    },
+    {
+      "id": "ext_professional",
+      "lv": "B2",
+      "w": "professional",
+      "pos": "n.",
+      "tr": "profesyonel, meslek sahibi",
+      "ex": "The course is designed for busy professionals."
+    },
+    {
+      "id": "ext_profitable",
+      "lv": "C1",
+      "w": "profitable",
+      "pos": "adj.",
+      "tr": "kârlı",
+      "ex": "The bakery became profitable in its second year."
+    },
+    {
+      "id": "ext_profound",
+      "lv": "C1",
+      "w": "profound",
+      "pos": "adj.",
+      "tr": "derin, köklü",
+      "ex": "The war had a profound effect on his writing."
+    },
+    {
+      "id": "ext_programming",
+      "lv": "B2",
+      "w": "programming",
+      "pos": "n.",
+      "tr": "programlama; yayın akışı",
+      "ex": "She is learning programming in the evenings."
+    },
+    {
+      "id": "ext_progress",
+      "lv": "B2",
+      "w": "progress",
+      "pos": "v.",
+      "tr": "ilerlemek",
+      "ex": "The talks progressed more quickly than expected."
+    },
+    {
+      "id": "ext_progressive",
+      "lv": "B2",
+      "w": "progressive",
+      "pos": "adj.",
+      "tr": "ilerici; aşamalı",
+      "ex": "The school is known for its progressive methods."
+    },
+    {
+      "id": "ext_prohibit",
+      "lv": "B2",
+      "w": "prohibit",
+      "pos": "v.",
+      "tr": "yasaklamak",
+      "ex": "The law prohibits the sale of fireworks to children."
+    },
+    {
+      "id": "ext_project",
+      "lv": "B2",
+      "w": "project",
+      "pos": "v.",
+      "tr": "öngörmek; yansıtmak",
+      "ex": "Sales are projected to double within five years."
+    },
+    {
+      "id": "ext_projection",
+      "lv": "C1",
+      "w": "projection",
+      "pos": "n.",
+      "tr": "projeksiyon, öngörü; yansıtma",
+      "ex": "Current projections show the population falling."
+    },
+    {
+      "id": "ext_prominent",
+      "lv": "C1",
+      "w": "prominent",
+      "pos": "adj.",
+      "tr": "önde gelen; göze çarpan",
+      "ex": "A prominent scientist chaired the committee."
+    },
+    {
+      "id": "ext_promising",
+      "lv": "B2",
+      "w": "promising",
+      "pos": "adj.",
+      "tr": "umut vadeden",
+      "ex": "She is one of the most promising young players."
+    },
+    {
+      "id": "ext_promotion",
+      "lv": "B2",
+      "w": "promotion",
+      "pos": "n.",
+      "tr": "terfi; tanıtım, promosyon",
+      "ex": "He got a promotion after two years."
+    },
+    {
+      "id": "ext_prompt",
+      "lv": "B2",
+      "w": "prompt",
+      "pos": "v.",
+      "tr": "yol açmak; harekete geçirmek; hatırlatmak",
+      "ex": "The scandal prompted calls for his resignation."
+    },
+    {
+      "id": "ext_pronounced",
+      "lv": "C1",
+      "w": "pronounced",
+      "pos": "adj.",
+      "tr": "belirgin",
+      "ex": "He walks with a pronounced limp."
+    },
+    {
+      "id": "ext_proof",
+      "lv": "B2",
+      "w": "proof",
+      "pos": "n.",
+      "tr": "kanıt, delil",
+      "ex": "There is no proof that the letter ever existed."
+    },
+    {
+      "id": "ext_propaganda",
+      "lv": "C1",
+      "w": "propaganda",
+      "pos": "n.",
+      "tr": "propaganda",
+      "ex": "The posters were pure political propaganda."
+    },
+    {
+      "id": "ext_proportion",
+      "lv": "B2",
+      "w": "proportion",
+      "pos": "n.",
+      "tr": "oran; kısım",
+      "ex": "A large proportion of students work part-time."
+    },
+    {
+      "id": "ext_proposal",
+      "lv": "B2",
+      "w": "proposal",
+      "pos": "n.",
+      "tr": "öneri, teklif",
+      "ex": "The committee rejected the proposal."
+    },
+    {
+      "id": "ext_propose",
+      "lv": "B2",
+      "w": "propose",
+      "pos": "v.",
+      "tr": "önermek; evlenme teklif etmek",
+      "ex": "She proposed a change to the agenda."
+    },
+    {
+      "id": "ext_proposition",
+      "lv": "C1",
+      "w": "proposition",
+      "pos": "n.",
+      "tr": "önerme; teklif (iş)",
+      "ex": "Running a farm is an expensive proposition."
+    },
+    {
+      "id": "ext_prosecute",
+      "lv": "C1",
+      "w": "prosecute",
+      "pos": "v.",
+      "tr": "kovuşturmak, dava açmak",
+      "ex": "Shoplifters will be prosecuted."
+    },
+    {
+      "id": "ext_prosecution",
+      "lv": "C1",
+      "w": "prosecution",
+      "pos": "n.",
+      "tr": "kovuşturma; iddia makamı",
+      "ex": "The prosecution called its first witness."
+    },
+    {
+      "id": "ext_prosecutor",
+      "lv": "C1",
+      "w": "prosecutor",
+      "pos": "n.",
+      "tr": "savcı",
+      "ex": "The prosecutor demanded a long sentence."
+    },
+    {
+      "id": "ext_prospect",
+      "lv": "B2",
+      "w": "prospect",
+      "pos": "n.",
+      "tr": "olasılık, beklenti; aday",
+      "ex": "The prospect of moving abroad excites her."
+    },
+    {
+      "id": "ext_prospective",
+      "lv": "C1",
+      "w": "prospective",
+      "pos": "adj.",
+      "tr": "müstakbel, olası",
+      "ex": "Prospective buyers toured the house all weekend."
+    },
+    {
+      "id": "ext_prosperity",
+      "lv": "C1",
+      "w": "prosperity",
+      "pos": "n.",
+      "tr": "refah, gönenç",
+      "ex": "Trade brought prosperity to the port towns."
+    },
+    {
+      "id": "ext_protection",
+      "lv": "B2",
+      "w": "protection",
+      "pos": "n.",
+      "tr": "koruma",
+      "ex": "The cream gives protection against the sun."
+    },
+    {
+      "id": "ext_protective",
+      "lv": "C1",
+      "w": "protective",
+      "pos": "adj.",
+      "tr": "koruyucu",
+      "ex": "Wear protective gloves when handling glass."
+    },
+    {
+      "id": "ext_protein",
+      "lv": "B2",
+      "w": "protein",
+      "pos": "n.",
+      "tr": "protein",
+      "ex": "Eggs are an excellent source of protein."
+    },
+    {
+      "id": "ext_protester",
+      "lv": "B2",
+      "w": "protester",
+      "pos": "n.",
+      "tr": "protestocu, eylemci",
+      "ex": "Protesters gathered outside the embassy."
+    },
+    {
+      "id": "ext_protocol",
+      "lv": "C1",
+      "w": "protocol",
+      "pos": "n.",
+      "tr": "protokol; kurallar dizisi",
+      "ex": "Visitors must follow strict safety protocols."
+    },
+    {
+      "id": "ext_province",
+      "lv": "C1",
+      "w": "province",
+      "pos": "n.",
+      "tr": "il, eyalet; taşra",
+      "ex": "The province is famous for its tea gardens."
+    },
+    {
+      "id": "ext_provincial",
+      "lv": "C1",
+      "w": "provincial",
+      "pos": "adj.",
+      "tr": "taşraya özgü; il ile ilgili",
+      "ex": "He never lost his provincial accent."
+    },
+    {
+      "id": "ext_provision",
+      "lv": "C1",
+      "w": "provision",
+      "pos": "n.",
+      "tr": "sağlama, tedarik; hüküm (sözleşme)",
+      "ex": "The contract includes a provision for early exit."
+    },
+    {
+      "id": "ext_provoke",
+      "lv": "C1",
+      "w": "provoke",
+      "pos": "v.",
+      "tr": "kışkırtmak; yol açmak",
+      "ex": "The article provoked a storm of complaints."
+    },
+    {
+      "id": "ext_psychiatric",
+      "lv": "C1",
+      "w": "psychiatric",
+      "pos": "adj.",
+      "tr": "psikiyatrik",
+      "ex": "The hospital has a small psychiatric unit."
+    },
+    {
+      "id": "ext_psychological",
+      "lv": "B2",
+      "w": "psychological",
+      "pos": "adj.",
+      "tr": "psikolojik",
+      "ex": "The injury was physical, but the scars were psychological."
+    },
+    {
+      "id": "ext_psychologist",
+      "lv": "B2",
+      "w": "psychologist",
+      "pos": "n.",
+      "tr": "psikolog",
+      "ex": "A psychologist spoke to the children after the fire."
+    },
+    {
+      "id": "ext_psychology",
+      "lv": "B2",
+      "w": "psychology",
+      "pos": "n.",
+      "tr": "psikoloji",
+      "ex": "She studied psychology at university."
+    },
+    {
+      "id": "ext_publication",
+      "lv": "B2",
+      "w": "publication",
+      "pos": "n.",
+      "tr": "yayın, yayımlama",
+      "ex": "The report's publication was delayed a month."
+    },
+    {
+      "id": "ext_publicity",
+      "lv": "B2",
+      "w": "publicity",
+      "pos": "n.",
+      "tr": "tanıtım; kamuoyu ilgisi",
+      "ex": "The case attracted enormous publicity."
+    },
+    {
+      "id": "ext_publishing",
+      "lv": "B2",
+      "w": "publishing",
+      "pos": "n.",
+      "tr": "yayıncılık",
+      "ex": "She works in children's publishing."
+    },
+    {
+      "id": "ext_pulse",
+      "lv": "C1",
+      "w": "pulse",
+      "pos": "n.",
+      "tr": "nabız",
+      "ex": "The nurse checked his pulse and temperature."
+    },
+    {
+      "id": "ext_pump",
+      "lv": "C1",
+      "w": "pump",
+      "pos": "n., v.",
+      "tr": "pompa; pompalamak",
+      "ex": "The heart pumps blood around the body."
+    },
+    {
+      "id": "ext_punch",
+      "lv": "C1",
+      "w": "punch",
+      "pos": "n., v.",
+      "tr": "yumruk; yumruklamak; delgeçle delmek",
+      "ex": "The boxer threw a quick punch."
+    },
+    {
+      "id": "ext_punk",
+      "lv": "B2",
+      "w": "punk",
+      "pos": "n.",
+      "tr": "punk (müzik/akım)",
+      "ex": "Punk changed British music in the late seventies."
+    },
+    {
+      "id": "ext_pupil",
+      "lv": "B2",
+      "w": "pupil",
+      "pos": "n.",
+      "tr": "öğrenci; göz bebeği",
+      "ex": "The school has nine hundred pupils."
+    },
+    {
+      "id": "ext_purchase",
+      "lv": "B2",
+      "w": "purchase",
+      "pos": "n., v.",
+      "tr": "satın alma; satın almak",
+      "ex": "Keep the receipt as proof of purchase."
+    },
+    {
+      "id": "ext_pure",
+      "lv": "B2",
+      "w": "pure",
+      "pos": "adj.",
+      "tr": "saf, katıksız",
+      "ex": "The ring is made of pure gold."
+    },
+    {
+      "id": "ext_purely",
+      "lv": "B2",
+      "w": "purely",
+      "pos": "adv.",
+      "tr": "sadece, tamamen",
+      "ex": "Their meeting was purely accidental."
+    },
+    {
+      "id": "ext_pursue",
+      "lv": "B2",
+      "w": "pursue",
+      "pos": "v.",
+      "tr": "peşinden gitmek; sürdürmek",
+      "ex": "She left her job to pursue a singing career."
+    },
+    {
+      "id": "ext_pursuit",
+      "lv": "B2",
+      "w": "pursuit",
+      "pos": "n.",
+      "tr": "kovalama; uğraş",
+      "ex": "The police car sped past in pursuit of a van."
+    },
+    {
+      "id": "ext_puzzle",
+      "lv": "B2",
+      "w": "puzzle",
+      "pos": "n.",
+      "tr": "bulmaca; bilmece, muamma",
+      "ex": "The cause of the illness remains a puzzle."
     }
   ],
   "articles": [
