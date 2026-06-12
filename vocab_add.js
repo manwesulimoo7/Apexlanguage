@@ -11,10 +11,17 @@ if (!dataFile) { console.error('Usage: node vocab_add.js <datafile.js>'); proces
 const rows = require(path.resolve(dataFile));
 
 const have = new Set(content.vocab.map(v => v.w.toLowerCase()));
+const allIds = new Set();
+for (const key of Object.keys(content)) {
+  if (Array.isArray(content[key])) for (const item of content[key]) if (item && item.id) allIds.add(item.id);
+}
 let added = 0, skipped = 0;
 for (const [w, lv, pos, tr, ex] of rows) {
   if (have.has(w.toLowerCase())) { skipped++; continue; }
-  content.vocab.push({ id: 'ext_' + w.toLowerCase().replace(/[^a-z0-9]+/g, '_'), lv, w, pos, tr, ex });
+  let id = 'ext_' + w.toLowerCase().replace(/[^a-z0-9]+/g, '_');
+  while (allIds.has(id)) id += '_w'; // avoid collision with non-vocab ids (e.g. listening ext_museum)
+  allIds.add(id);
+  content.vocab.push({ id, lv, w, pos, tr, ex });
   have.add(w.toLowerCase());
   added++;
 }

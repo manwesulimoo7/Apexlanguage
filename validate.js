@@ -222,15 +222,16 @@ function checkItemOptsAns(item, optsLen, ansMax, where) {
 });
 
 // ===========================================================================
-// VOCAB (all entries: ox5_/ext_ prefix, unique w, full fields, lv B2/C1)
+// VOCAB (all entries: ox5_/ext_ prefix, unique w, full fields, lv A1-C1)
 // ===========================================================================
 {
+  const LV_VOCAB = ['A1', 'A2', 'B1', 'B2', 'C1'];
   const wSeen = new Map();
   (content.vocab || []).forEach((v, i) => {
     const where = `vocab[${i}] ${v.id || '(no id)'}`;
     if (!isStr(v.id)) errors.push(`${where}: id missing`);
     else if (!/^(ox5|ext)_/.test(v.id)) errors.push(`${where}: id must start with "ox5_" or "ext_"`);
-    if (!LV.includes(v.lv)) errors.push(`${where}: lv must be B2/C1 (got ${JSON.stringify(v.lv)})`);
+    if (!LV_VOCAB.includes(v.lv)) errors.push(`${where}: lv must be A1/A2/B1/B2/C1 (got ${JSON.stringify(v.lv)})`);
     if (!isStr(v.w)) errors.push(`${where}: w missing`);
     else {
       const k = v.w.toLowerCase();
