@@ -17064,6 +17064,1366 @@
       "pos": "adj.",
       "tr": "sistematik, dizgeli",
       "ex": "The library began a systematic review of its books."
+    },
+    {
+      "id": "ext_tackle",
+      "lv": "B2",
+      "w": "tackle",
+      "pos": "n., v.",
+      "tr": "müdahale (futbol); ele almak, üstüne gitmek",
+      "ex": "The city is finally tackling its traffic problem."
+    },
+    {
+      "id": "ext_tactic",
+      "lv": "C1",
+      "w": "tactic",
+      "pos": "n.",
+      "tr": "taktik",
+      "ex": "Delaying the talks was a deliberate tactic."
+    },
+    {
+      "id": "ext_tactical",
+      "lv": "C1",
+      "w": "tactical",
+      "pos": "adj.",
+      "tr": "taktiksel",
+      "ex": "The coach made a tactical change at half-time."
+    },
+    {
+      "id": "ext_tag",
+      "lv": "B2",
+      "w": "tag",
+      "pos": "n., v.",
+      "tr": "etiket; etiketlemek",
+      "ex": "Each plant in the garden has a name tag."
+    },
+    {
+      "id": "ext_tale",
+      "lv": "B2",
+      "w": "tale",
+      "pos": "n.",
+      "tr": "öykü, masal",
+      "ex": "Grandfather told tales of his sailing days."
+    },
+    {
+      "id": "ext_tank",
+      "lv": "B2",
+      "w": "tank",
+      "pos": "n.",
+      "tr": "tank; depo",
+      "ex": "The fish tank needs cleaning."
+    },
+    {
+      "id": "ext_tap",
+      "lv": "B2",
+      "w": "tap",
+      "pos": "n., v.",
+      "tr": "musluk; hafifçe vurmak",
+      "ex": "Someone tapped me on the shoulder."
+    },
+    {
+      "id": "ext_target",
+      "lv": "B2",
+      "w": "target",
+      "pos": "v.",
+      "tr": "hedeflemek, hedef almak",
+      "ex": "The campaign targets first-time voters."
+    },
+    {
+      "id": "ext_taxpayer",
+      "lv": "C1",
+      "w": "taxpayer",
+      "pos": "n.",
+      "tr": "vergi mükellefi",
+      "ex": "The stadium was built at taxpayers' expense."
+    },
+    {
+      "id": "ext_tear",
+      "lv": "B2",
+      "w": "tear",
+      "pos": "n., v.",
+      "tr": "gözyaşı; yırtmak",
+      "ex": "Be careful not to tear the wrapping paper."
+    },
+    {
+      "id": "ext_technological",
+      "lv": "B2",
+      "w": "technological",
+      "pos": "adj.",
+      "tr": "teknolojik",
+      "ex": "Technological change has transformed farming."
+    },
+    {
+      "id": "ext_teens",
+      "lv": "B2",
+      "w": "teens",
+      "pos": "n.",
+      "tr": "gençlik yılları (13-19)",
+      "ex": "She wrote her first novel in her teens."
+    },
+    {
+      "id": "ext_temple",
+      "lv": "B2",
+      "w": "temple",
+      "pos": "n.",
+      "tr": "tapınak; şakak",
+      "ex": "The ancient temple stands on a hilltop."
+    },
+    {
+      "id": "ext_temporarily",
+      "lv": "B2",
+      "w": "temporarily",
+      "pos": "adv.",
+      "tr": "geçici olarak",
+      "ex": "The bridge is temporarily closed for repairs."
+    },
+    {
+      "id": "ext_temporary",
+      "lv": "B2",
+      "w": "temporary",
+      "pos": "adj.",
+      "tr": "geçici",
+      "ex": "They found temporary accommodation near the station."
+    },
+    {
+      "id": "ext_tempt",
+      "lv": "C1",
+      "w": "tempt",
+      "pos": "v.",
+      "tr": "ayartmak, cezbetmek",
+      "ex": "The discount tempted me to buy two."
+    },
+    {
+      "id": "ext_tenant",
+      "lv": "C1",
+      "w": "tenant",
+      "pos": "n.",
+      "tr": "kiracı",
+      "ex": "The new tenants moved in last weekend."
+    },
+    {
+      "id": "ext_tendency",
+      "lv": "B2",
+      "w": "tendency",
+      "pos": "n.",
+      "tr": "eğilim",
+      "ex": "He has a tendency to interrupt people."
+    },
+    {
+      "id": "ext_tender",
+      "lv": "C1",
+      "w": "tender",
+      "pos": "adj.",
+      "tr": "şefkatli; hassas; yumuşak (et)",
+      "ex": "Cook the meat slowly until it is tender."
+    },
+    {
+      "id": "ext_tension",
+      "lv": "B2",
+      "w": "tension",
+      "pos": "n.",
+      "tr": "gerginlik, gerilim",
+      "ex": "You could feel the tension in the courtroom."
+    },
+    {
+      "id": "ext_tenure",
+      "lv": "C1",
+      "w": "tenure",
+      "pos": "n.",
+      "tr": "görev süresi; kadro",
+      "ex": "Crime fell during her tenure as mayor."
+    },
+    {
+      "id": "ext_term",
+      "lv": "B2",
+      "w": "term",
+      "pos": "v.",
+      "tr": "adlandırmak, nitelemek",
+      "ex": "The plan was termed a failure by critics."
+    },
+    {
+      "id": "ext_terminal",
+      "lv": "B2",
+      "w": "terminal",
+      "pos": "adj., n.",
+      "tr": "terminal; ölümcül (hastalık)",
+      "ex": "The flight leaves from the new terminal."
+    },
+    {
+      "id": "ext_terminate",
+      "lv": "C1",
+      "w": "terminate",
+      "pos": "v.",
+      "tr": "sona erdirmek, feshetmek",
+      "ex": "Either side may terminate the contract with notice."
+    },
+    {
+      "id": "ext_terms",
+      "lv": "B2",
+      "w": "terms",
+      "pos": "n.",
+      "tr": "şartlar, koşullar; ifadeler",
+      "ex": "Read the terms of the agreement carefully."
+    },
+    {
+      "id": "ext_terrain",
+      "lv": "C1",
+      "w": "terrain",
+      "pos": "n.",
+      "tr": "arazi",
+      "ex": "The jeep handles rough terrain easily."
+    },
+    {
+      "id": "ext_terribly",
+      "lv": "B2",
+      "w": "terribly",
+      "pos": "adv.",
+      "tr": "son derece; berbat biçimde",
+      "ex": "I'm terribly sorry for the confusion."
+    },
+    {
+      "id": "ext_terrific",
+      "lv": "C1",
+      "w": "terrific",
+      "pos": "adj.",
+      "tr": "müthiş, harika",
+      "ex": "The band gave a terrific performance."
+    },
+    {
+      "id": "ext_terrify",
+      "lv": "B2",
+      "w": "terrify",
+      "pos": "v.",
+      "tr": "dehşete düşürmek",
+      "ex": "Thunder terrifies our old dog."
+    },
+    {
+      "id": "ext_territory",
+      "lv": "B2",
+      "w": "territory",
+      "pos": "n.",
+      "tr": "toprak, bölge; alan",
+      "ex": "The birds defend their territory fiercely."
+    },
+    {
+      "id": "ext_terror",
+      "lv": "B2",
+      "w": "terror",
+      "pos": "n.",
+      "tr": "dehşet, terör",
+      "ex": "The children fled in terror from the dog."
+    },
+    {
+      "id": "ext_terrorism",
+      "lv": "B2",
+      "w": "terrorism",
+      "pos": "n.",
+      "tr": "terörizm",
+      "ex": "The summit discussed the fight against terrorism."
+    },
+    {
+      "id": "ext_terrorist",
+      "lv": "B2",
+      "w": "terrorist",
+      "pos": "n.",
+      "tr": "terörist",
+      "ex": "The terrorists were caught before the attack."
+    },
+    {
+      "id": "ext_testify",
+      "lv": "C1",
+      "w": "testify",
+      "pos": "v.",
+      "tr": "tanıklık etmek",
+      "ex": "Three witnesses testified against the driver."
+    },
+    {
+      "id": "ext_testimony",
+      "lv": "C1",
+      "w": "testimony",
+      "pos": "n.",
+      "tr": "tanıklık, ifade; kanıt",
+      "ex": "Her testimony convinced the jury."
+    },
+    {
+      "id": "ext_testing",
+      "lv": "B2",
+      "w": "testing",
+      "pos": "n.",
+      "tr": "test etme, deneme",
+      "ex": "The drug is still undergoing clinical testing."
+    },
+    {
+      "id": "ext_textbook",
+      "lv": "B2",
+      "w": "textbook",
+      "pos": "n.",
+      "tr": "ders kitabı",
+      "ex": "The textbook explains each rule with examples."
+    },
+    {
+      "id": "ext_texture",
+      "lv": "C1",
+      "w": "texture",
+      "pos": "n.",
+      "tr": "doku",
+      "ex": "The cake has a light, airy texture."
+    },
+    {
+      "id": "ext_thankfully",
+      "lv": "C1",
+      "w": "thankfully",
+      "pos": "adv.",
+      "tr": "neyse ki, çok şükür",
+      "ex": "Thankfully, no one was hurt in the fire."
+    },
+    {
+      "id": "ext_theatrical",
+      "lv": "C1",
+      "w": "theatrical",
+      "pos": "adj.",
+      "tr": "tiyatroyla ilgili; yapmacık, gösterişli",
+      "ex": "He made a theatrical bow as we applauded."
+    },
+    {
+      "id": "ext_theft",
+      "lv": "B2",
+      "w": "theft",
+      "pos": "n.",
+      "tr": "hırsızlık",
+      "ex": "Car theft has fallen in the area."
+    },
+    {
+      "id": "ext_theology",
+      "lv": "C1",
+      "w": "theology",
+      "pos": "n.",
+      "tr": "ilahiyat, teoloji",
+      "ex": "He studied theology before becoming a teacher."
+    },
+    {
+      "id": "ext_theoretical",
+      "lv": "C1",
+      "w": "theoretical",
+      "pos": "adj.",
+      "tr": "kuramsal, teorik",
+      "ex": "The course mixes theoretical study with practice."
+    },
+    {
+      "id": "ext_therapist",
+      "lv": "B2",
+      "w": "therapist",
+      "pos": "n.",
+      "tr": "terapist",
+      "ex": "A speech therapist works with the children weekly."
+    },
+    {
+      "id": "ext_therapy",
+      "lv": "B2",
+      "w": "therapy",
+      "pos": "n.",
+      "tr": "terapi, tedavi",
+      "ex": "Physical therapy helped her walk again."
+    },
+    {
+      "id": "ext_thereafter",
+      "lv": "C1",
+      "w": "thereafter",
+      "pos": "adv.",
+      "tr": "ondan sonra, akabinde",
+      "ex": "He retired in May and moved abroad shortly thereafter."
+    },
+    {
+      "id": "ext_thereby",
+      "lv": "C1",
+      "w": "thereby",
+      "pos": "adv.",
+      "tr": "böylece, bu suretle",
+      "ex": "The dam burst, thereby flooding the valley."
+    },
+    {
+      "id": "ext_thesis",
+      "lv": "B2",
+      "w": "thesis",
+      "pos": "n.",
+      "tr": "tez",
+      "ex": "She is writing her thesis on coastal erosion."
+    },
+    {
+      "id": "ext_thorough",
+      "lv": "B2",
+      "w": "thorough",
+      "pos": "adj.",
+      "tr": "kapsamlı, titiz",
+      "ex": "The mechanic gave the car a thorough check."
+    },
+    {
+      "id": "ext_thoroughly",
+      "lv": "B2",
+      "w": "thoroughly",
+      "pos": "adv.",
+      "tr": "iyice, tamamen",
+      "ex": "Wash the vegetables thoroughly before cooking."
+    },
+    {
+      "id": "ext_thought_provoking",
+      "lv": "C1",
+      "w": "thought-provoking",
+      "pos": "adj.",
+      "tr": "düşündürücü",
+      "ex": "The film asks thought-provoking questions about fame."
+    },
+    {
+      "id": "ext_thoughtful",
+      "lv": "C1",
+      "w": "thoughtful",
+      "pos": "adj.",
+      "tr": "düşünceli; dalgın",
+      "ex": "It was thoughtful of you to bring flowers."
+    },
+    {
+      "id": "ext_thread",
+      "lv": "C1",
+      "w": "thread",
+      "pos": "n.",
+      "tr": "iplik; (tartışma) konu zinciri",
+      "ex": "I lost the thread of his long argument."
+    },
+    {
+      "id": "ext_threat",
+      "lv": "B2",
+      "w": "threat",
+      "pos": "n.",
+      "tr": "tehdit",
+      "ex": "Rising seas are a threat to the island."
+    },
+    {
+      "id": "ext_threaten",
+      "lv": "B2",
+      "w": "threaten",
+      "pos": "v.",
+      "tr": "tehdit etmek",
+      "ex": "The storm threatened to delay the harvest."
+    },
+    {
+      "id": "ext_threshold",
+      "lv": "C1",
+      "w": "threshold",
+      "pos": "n.",
+      "tr": "eşik",
+      "ex": "Her income is just below the tax threshold."
+    },
+    {
+      "id": "ext_thrilled",
+      "lv": "C1",
+      "w": "thrilled",
+      "pos": "adj.",
+      "tr": "çok heyecanlı, sevinçten uçan",
+      "ex": "We were thrilled to hear about the baby."
+    },
+    {
+      "id": "ext_thrive",
+      "lv": "C1",
+      "w": "thrive",
+      "pos": "v.",
+      "tr": "gelişmek, serpilmek",
+      "ex": "Olive trees thrive in this dry climate."
+    },
+    {
+      "id": "ext_thumb",
+      "lv": "B2",
+      "w": "thumb",
+      "pos": "n.",
+      "tr": "başparmak",
+      "ex": "He gave a thumbs-up through the window."
+    },
+    {
+      "id": "ext_thus",
+      "lv": "B2",
+      "w": "thus",
+      "pos": "adv.",
+      "tr": "böylece; bu nedenle",
+      "ex": "The factory closed, thus ending an era."
+    },
+    {
+      "id": "ext_tide",
+      "lv": "C1",
+      "w": "tide",
+      "pos": "n.",
+      "tr": "gelgit; akış (değişim)",
+      "ex": "Check the tide before walking to the island."
+    },
+    {
+      "id": "ext_tighten",
+      "lv": "C1",
+      "w": "tighten",
+      "pos": "v.",
+      "tr": "sıkmak, sıkılaştırmak",
+      "ex": "The bank tightened its rules on lending."
+    },
+    {
+      "id": "ext_timber",
+      "lv": "C1",
+      "w": "timber",
+      "pos": "n.",
+      "tr": "kereste",
+      "ex": "The cabin is built of local timber."
+    },
+    {
+      "id": "ext_time",
+      "lv": "B2",
+      "w": "time",
+      "pos": "v.",
+      "tr": "zamanlamak",
+      "ex": "She timed her arrival to miss the traffic."
+    },
+    {
+      "id": "ext_timely",
+      "lv": "C1",
+      "w": "timely",
+      "pos": "adj.",
+      "tr": "zamanında, yerinde",
+      "ex": "A timely warning prevented the crash."
+    },
+    {
+      "id": "ext_timing",
+      "lv": "B2",
+      "w": "timing",
+      "pos": "n.",
+      "tr": "zamanlama",
+      "ex": "The timing of the announcement was unfortunate."
+    },
+    {
+      "id": "ext_tissue",
+      "lv": "B2",
+      "w": "tissue",
+      "pos": "n.",
+      "tr": "doku; kâğıt mendil",
+      "ex": "The test examines a small sample of tissue."
+    },
+    {
+      "id": "ext_title",
+      "lv": "B2",
+      "w": "title",
+      "pos": "v.",
+      "tr": "adlandırmak, başlık koymak",
+      "ex": "The exhibition is titled 'Hidden Cities'."
+    },
+    {
+      "id": "ext_tobacco",
+      "lv": "C1",
+      "w": "tobacco",
+      "pos": "n.",
+      "tr": "tütün",
+      "ex": "The tax on tobacco rose again this year."
+    },
+    {
+      "id": "ext_tolerance",
+      "lv": "C1",
+      "w": "tolerance",
+      "pos": "n.",
+      "tr": "hoşgörü; tolerans, dayanma sınırı",
+      "ex": "The school teaches tolerance of different views."
+    },
+    {
+      "id": "ext_tolerate",
+      "lv": "C1",
+      "w": "tolerate",
+      "pos": "v.",
+      "tr": "hoş görmek; katlanmak; dayanmak",
+      "ex": "The plant tolerates both heat and drought."
+    },
+    {
+      "id": "ext_toll",
+      "lv": "C1",
+      "w": "toll",
+      "pos": "n.",
+      "tr": "geçiş ücreti; (death toll) can kaybı",
+      "ex": "The earthquake's toll rose through the night."
+    },
+    {
+      "id": "ext_ton",
+      "lv": "B2",
+      "w": "ton",
+      "pos": "n.",
+      "tr": "ton (ölçü)",
+      "ex": "The ship carries thousands of tons of grain."
+    },
+    {
+      "id": "ext_tone",
+      "lv": "B2",
+      "w": "tone",
+      "pos": "n.",
+      "tr": "ton (ses/renk); üslup",
+      "ex": "I could tell from her tone that she was upset."
+    },
+    {
+      "id": "ext_tonne",
+      "lv": "B2",
+      "w": "tonne",
+      "pos": "n.",
+      "tr": "ton (1000 kg)",
+      "ex": "The recycling plant handles fifty tonnes a day."
+    },
+    {
+      "id": "ext_top",
+      "lv": "C1",
+      "w": "top",
+      "pos": "v.",
+      "tr": "aşmak, üstüne çıkmak; başında olmak",
+      "ex": "Donations topped a million pounds."
+    },
+    {
+      "id": "ext_torture",
+      "lv": "C1",
+      "w": "torture",
+      "pos": "n., v.",
+      "tr": "işkence; işkence etmek",
+      "ex": "The report documented the torture of prisoners."
+    },
+    {
+      "id": "ext_toss",
+      "lv": "C1",
+      "w": "toss",
+      "pos": "v.",
+      "tr": "fırlatmak, atmak; yazı tura atmak",
+      "ex": "He tossed the keys onto the table."
+    },
+    {
+      "id": "ext_total",
+      "lv": "C1",
+      "w": "total",
+      "pos": "v.",
+      "tr": "toplamı ... olmak",
+      "ex": "Losses totalled nearly two million."
+    },
+    {
+      "id": "ext_tough",
+      "lv": "B2",
+      "w": "tough",
+      "pos": "adj.",
+      "tr": "zor, çetin; dayanıklı; sert",
+      "ex": "It was a tough decision to sell the farm."
+    },
+    {
+      "id": "ext_tournament",
+      "lv": "B2",
+      "w": "tournament",
+      "pos": "n.",
+      "tr": "turnuva",
+      "ex": "Sixteen teams entered the chess tournament."
+    },
+    {
+      "id": "ext_toxic",
+      "lv": "C1",
+      "w": "toxic",
+      "pos": "adj.",
+      "tr": "zehirli, toksik",
+      "ex": "The factory released toxic fumes into the air."
+    },
+    {
+      "id": "ext_trace",
+      "lv": "B2",
+      "w": "trace",
+      "pos": "n., v.",
+      "tr": "iz; izini sürmek",
+      "ex": "Police traced the call to a phone box."
+    },
+    {
+      "id": "ext_track",
+      "lv": "B2",
+      "w": "track",
+      "pos": "v.",
+      "tr": "izlemek, takip etmek",
+      "ex": "The app tracks your daily steps."
+    },
+    {
+      "id": "ext_trademark",
+      "lv": "C1",
+      "w": "trademark",
+      "pos": "n.",
+      "tr": "ticari marka; alamet-i farika",
+      "ex": "The logo is a registered trademark."
+    },
+    {
+      "id": "ext_trading",
+      "lv": "B2",
+      "w": "trading",
+      "pos": "n.",
+      "tr": "ticaret, alım satım",
+      "ex": "Trading on the exchange was suspended briefly."
+    },
+    {
+      "id": "ext_tragedy",
+      "lv": "B2",
+      "w": "tragedy",
+      "pos": "n.",
+      "tr": "trajedi, facia",
+      "ex": "The fire was a tragedy for the whole village."
+    },
+    {
+      "id": "ext_tragic",
+      "lv": "B2",
+      "w": "tragic",
+      "pos": "adj.",
+      "tr": "trajik, acıklı",
+      "ex": "He died in a tragic climbing accident."
+    },
+    {
+      "id": "ext_trail",
+      "lv": "C1",
+      "w": "trail",
+      "pos": "n., v.",
+      "tr": "patika; iz; peşinden sürüklenmek; geride olmak",
+      "ex": "The trail winds through the pine forest."
+    },
+    {
+      "id": "ext_trailer",
+      "lv": "C1",
+      "w": "trailer",
+      "pos": "n.",
+      "tr": "römork; fragman",
+      "ex": "The trailer made the film look better than it was."
+    },
+    {
+      "id": "ext_trait",
+      "lv": "B2",
+      "w": "trait",
+      "pos": "n.",
+      "tr": "özellik, karakter çizgisi",
+      "ex": "Patience is a useful trait in a teacher."
+    },
+    {
+      "id": "ext_transaction",
+      "lv": "C1",
+      "w": "transaction",
+      "pos": "n.",
+      "tr": "işlem (ticari)",
+      "ex": "Each transaction appears on your statement."
+    },
+    {
+      "id": "ext_transcript",
+      "lv": "C1",
+      "w": "transcript",
+      "pos": "n.",
+      "tr": "tutanak, çözümleme (kayıt); not dökümü",
+      "ex": "A transcript of the interview was published."
+    },
+    {
+      "id": "ext_transfer",
+      "lv": "B2",
+      "w": "transfer",
+      "pos": "n., v.",
+      "tr": "aktarma, transfer; aktarmak",
+      "ex": "She transferred the money to her son's account."
+    },
+    {
+      "id": "ext_transform",
+      "lv": "B2",
+      "w": "transform",
+      "pos": "v.",
+      "tr": "dönüştürmek",
+      "ex": "The railway transformed the small town."
+    },
+    {
+      "id": "ext_transformation",
+      "lv": "C1",
+      "w": "transformation",
+      "pos": "n.",
+      "tr": "dönüşüm",
+      "ex": "The district has undergone a complete transformation."
+    },
+    {
+      "id": "ext_transit",
+      "lv": "C1",
+      "w": "transit",
+      "pos": "n.",
+      "tr": "transit, geçiş; toplu taşıma",
+      "ex": "The goods were damaged in transit."
+    },
+    {
+      "id": "ext_transition",
+      "lv": "B2",
+      "w": "transition",
+      "pos": "n.",
+      "tr": "geçiş (süreci)",
+      "ex": "The transition to clean energy will take decades."
+    },
+    {
+      "id": "ext_transmission",
+      "lv": "C1",
+      "w": "transmission",
+      "pos": "n.",
+      "tr": "iletim, bulaşma; şanzıman",
+      "ex": "Masks reduce the transmission of the virus."
+    },
+    {
+      "id": "ext_transmit",
+      "lv": "B2",
+      "w": "transmit",
+      "pos": "v.",
+      "tr": "iletmek; bulaştırmak; yayınlamak",
+      "ex": "The signal is transmitted via satellite."
+    },
+    {
+      "id": "ext_transparency",
+      "lv": "C1",
+      "w": "transparency",
+      "pos": "n.",
+      "tr": "şeffaflık",
+      "ex": "Voters demanded transparency about party funding."
+    },
+    {
+      "id": "ext_transparent",
+      "lv": "C1",
+      "w": "transparent",
+      "pos": "adj.",
+      "tr": "şeffaf, saydam; apaçık",
+      "ex": "The jellyfish is almost completely transparent."
+    },
+    {
+      "id": "ext_transportation",
+      "lv": "B2",
+      "w": "transportation",
+      "pos": "n.",
+      "tr": "ulaşım, taşımacılık",
+      "ex": "Public transportation is free for children."
+    },
+    {
+      "id": "ext_trap",
+      "lv": "B2",
+      "w": "trap",
+      "pos": "n., v.",
+      "tr": "tuzak; kapana kıstırmak",
+      "ex": "Miners were trapped underground for two days."
+    },
+    {
+      "id": "ext_trauma",
+      "lv": "C1",
+      "w": "trauma",
+      "pos": "n.",
+      "tr": "travma",
+      "ex": "Therapy helped her recover from the trauma."
+    },
+    {
+      "id": "ext_treasure",
+      "lv": "B2",
+      "w": "treasure",
+      "pos": "n.",
+      "tr": "hazine",
+      "ex": "Divers found treasure in the sunken ship."
+    },
+    {
+      "id": "ext_treaty",
+      "lv": "C1",
+      "w": "treaty",
+      "pos": "n.",
+      "tr": "antlaşma",
+      "ex": "The two nations signed a peace treaty."
+    },
+    {
+      "id": "ext_tremendous",
+      "lv": "C1",
+      "w": "tremendous",
+      "pos": "adj.",
+      "tr": "muazzam, müthiş",
+      "ex": "The play was a tremendous success."
+    },
+    {
+      "id": "ext_trial",
+      "lv": "B2",
+      "w": "trial",
+      "pos": "n.",
+      "tr": "duruşma, yargılama; deneme",
+      "ex": "The trial lasted six weeks."
+    },
+    {
+      "id": "ext_tribal",
+      "lv": "C1",
+      "w": "tribal",
+      "pos": "adj.",
+      "tr": "kabileye özgü",
+      "ex": "Tribal elders settled the dispute."
+    },
+    {
+      "id": "ext_tribe",
+      "lv": "B2",
+      "w": "tribe",
+      "pos": "n.",
+      "tr": "kabile, aşiret",
+      "ex": "The tribe has lived by the river for centuries."
+    },
+    {
+      "id": "ext_tribunal",
+      "lv": "C1",
+      "w": "tribunal",
+      "pos": "n.",
+      "tr": "mahkeme (özel), yargı kurulu",
+      "ex": "An employment tribunal heard her case."
+    },
+    {
+      "id": "ext_tribute",
+      "lv": "C1",
+      "w": "tribute",
+      "pos": "n.",
+      "tr": "övgü, anma; haraç",
+      "ex": "The concert was a tribute to the late singer."
+    },
+    {
+      "id": "ext_trigger",
+      "lv": "B2",
+      "w": "trigger",
+      "pos": "n., v.",
+      "tr": "tetik; tetiklemek",
+      "ex": "Dust can trigger an asthma attack."
+    },
+    {
+      "id": "ext_trillion",
+      "lv": "B2",
+      "w": "trillion",
+      "pos": "num.",
+      "tr": "trilyon",
+      "ex": "Global debt now measures in the trillions."
+    },
+    {
+      "id": "ext_trio",
+      "lv": "C1",
+      "w": "trio",
+      "pos": "n.",
+      "tr": "üçlü",
+      "ex": "A jazz trio played in the corner of the café."
+    },
+    {
+      "id": "ext_trip",
+      "lv": "B2",
+      "w": "trip",
+      "pos": "v.",
+      "tr": "tökezlemek; çelme takmak",
+      "ex": "She tripped over the loose carpet."
+    },
+    {
+      "id": "ext_triumph",
+      "lv": "C1",
+      "w": "triumph",
+      "pos": "n.",
+      "tr": "zafer, büyük başarı",
+      "ex": "The bridge is a triumph of engineering."
+    },
+    {
+      "id": "ext_troop",
+      "lv": "B2",
+      "w": "troop",
+      "pos": "n.",
+      "tr": "birlik (asker), grup",
+      "ex": "Troops were sent to guard the border."
+    },
+    {
+      "id": "ext_trophy",
+      "lv": "C1",
+      "w": "trophy",
+      "pos": "n.",
+      "tr": "kupa, ödül",
+      "ex": "The captain lifted the trophy to wild cheers."
+    },
+    {
+      "id": "ext_tropical",
+      "lv": "B2",
+      "w": "tropical",
+      "pos": "adj.",
+      "tr": "tropikal",
+      "ex": "Tropical storms are common in late summer."
+    },
+    {
+      "id": "ext_trouble",
+      "lv": "B2",
+      "w": "trouble",
+      "pos": "v.",
+      "tr": "rahatsız etmek; zahmet vermek",
+      "ex": "Sorry to trouble you, but is this seat free?"
+    },
+    {
+      "id": "ext_troubled",
+      "lv": "C1",
+      "w": "troubled",
+      "pos": "adj.",
+      "tr": "sorunlu, sıkıntılı",
+      "ex": "He had a troubled childhood but a calm old age."
+    },
+    {
+      "id": "ext_truly",
+      "lv": "B2",
+      "w": "truly",
+      "pos": "adv.",
+      "tr": "gerçekten, hakikaten",
+      "ex": "It was a truly unforgettable evening."
+    },
+    {
+      "id": "ext_trust",
+      "lv": "B2",
+      "w": "trust",
+      "pos": "n., v.",
+      "tr": "güven; güvenmek",
+      "ex": "It takes years to build trust and seconds to lose it."
+    },
+    {
+      "id": "ext_trustee",
+      "lv": "C1",
+      "w": "trustee",
+      "pos": "n.",
+      "tr": "mütevelli, kayyum",
+      "ex": "The trustees manage the charity's funds."
+    },
+    {
+      "id": "ext_try",
+      "lv": "B2",
+      "w": "try",
+      "pos": "n.",
+      "tr": "deneme",
+      "ex": "It's worth a try, even if we fail."
+    },
+    {
+      "id": "ext_tsunami",
+      "lv": "B2",
+      "w": "tsunami",
+      "pos": "n.",
+      "tr": "tsunami",
+      "ex": "The tsunami destroyed villages along the coast."
+    },
+    {
+      "id": "ext_tuition",
+      "lv": "C1",
+      "w": "tuition",
+      "pos": "n.",
+      "tr": "öğrenim ücreti; özel ders",
+      "ex": "Tuition fees rise again next year."
+    },
+    {
+      "id": "ext_tune",
+      "lv": "B2",
+      "w": "tune",
+      "pos": "n.",
+      "tr": "ezgi, melodi",
+      "ex": "He whistled a cheerful tune."
+    },
+    {
+      "id": "ext_tunnel",
+      "lv": "B2",
+      "w": "tunnel",
+      "pos": "n.",
+      "tr": "tünel",
+      "ex": "The train entered a long mountain tunnel."
+    },
+    {
+      "id": "ext_turnout",
+      "lv": "C1",
+      "w": "turnout",
+      "pos": "n.",
+      "tr": "katılım (seçim/etkinlik)",
+      "ex": "Voter turnout reached a record high."
+    },
+    {
+      "id": "ext_turnover",
+      "lv": "C1",
+      "w": "turnover",
+      "pos": "n.",
+      "tr": "ciro; personel devri",
+      "ex": "The shop's annual turnover doubled."
+    },
+    {
+      "id": "ext_twist",
+      "lv": "C1",
+      "w": "twist",
+      "pos": "n., v.",
+      "tr": "bükme; beklenmedik gelişme; burkmak",
+      "ex": "The story ends with a clever twist."
+    },
+    {
+      "id": "ext_ultimate",
+      "lv": "B2",
+      "w": "ultimate",
+      "pos": "adj.",
+      "tr": "nihai; en üst düzey",
+      "ex": "Their ultimate goal is a cure for the disease."
+    },
+    {
+      "id": "ext_ultimately",
+      "lv": "B2",
+      "w": "ultimately",
+      "pos": "adv.",
+      "tr": "sonuçta, en nihayetinde",
+      "ex": "Ultimately, the choice is yours."
+    },
+    {
+      "id": "ext_unacceptable",
+      "lv": "B2",
+      "w": "unacceptable",
+      "pos": "adj.",
+      "tr": "kabul edilemez",
+      "ex": "Such rudeness is simply unacceptable."
+    },
+    {
+      "id": "ext_uncertainty",
+      "lv": "B2",
+      "w": "uncertainty",
+      "pos": "n.",
+      "tr": "belirsizlik",
+      "ex": "Uncertainty about prices delayed many purchases."
+    },
+    {
+      "id": "ext_unconscious",
+      "lv": "B2",
+      "w": "unconscious",
+      "pos": "adj.",
+      "tr": "baygın; bilinçsiz, farkında olmayan",
+      "ex": "The fall knocked him unconscious."
+    },
+    {
+      "id": "ext_undergo",
+      "lv": "B2",
+      "w": "undergo",
+      "pos": "v.",
+      "tr": "geçirmek (süreç), maruz kalmak",
+      "ex": "The airport is undergoing major renovation."
+    },
+    {
+      "id": "ext_undergraduate",
+      "lv": "C1",
+      "w": "undergraduate",
+      "pos": "n.",
+      "tr": "lisans öğrencisi",
+      "ex": "The library reserves a floor for undergraduates."
+    },
+    {
+      "id": "ext_underlying",
+      "lv": "C1",
+      "w": "underlying",
+      "pos": "adj.",
+      "tr": "altta yatan",
+      "ex": "Stress was the underlying cause of his illness."
+    },
+    {
+      "id": "ext_undermine",
+      "lv": "C1",
+      "w": "undermine",
+      "pos": "v.",
+      "tr": "baltalamak, zayıflatmak",
+      "ex": "Constant criticism undermines confidence."
+    },
+    {
+      "id": "ext_undertake",
+      "lv": "B2",
+      "w": "undertake",
+      "pos": "v.",
+      "tr": "üstlenmek; taahhüt etmek",
+      "ex": "The firm undertook a study of local traffic."
+    },
+    {
+      "id": "ext_undoubtedly",
+      "lv": "C1",
+      "w": "undoubtedly",
+      "pos": "adv.",
+      "tr": "şüphesiz, hiç kuşkusuz",
+      "ex": "She is undoubtedly the best player on the team."
+    },
+    {
+      "id": "ext_unexpected",
+      "lv": "B2",
+      "w": "unexpected",
+      "pos": "adj.",
+      "tr": "beklenmedik",
+      "ex": "An unexpected guest arrived at dinner time."
+    },
+    {
+      "id": "ext_unfold",
+      "lv": "B2",
+      "w": "unfold",
+      "pos": "v.",
+      "tr": "açılmak; gözler önüne serilmek",
+      "ex": "The drama unfolded live on television."
+    },
+    {
+      "id": "ext_unfortunate",
+      "lv": "B2",
+      "w": "unfortunate",
+      "pos": "adj.",
+      "tr": "talihsiz, şanssız",
+      "ex": "An unfortunate error delayed the payment."
+    },
+    {
+      "id": "ext_unify",
+      "lv": "C1",
+      "w": "unify",
+      "pos": "v.",
+      "tr": "birleştirmek",
+      "ex": "The new currency helped unify the region's markets."
+    },
+    {
+      "id": "ext_unique",
+      "lv": "B2",
+      "w": "unique",
+      "pos": "adj.",
+      "tr": "eşsiz, benzersiz; özgü",
+      "ex": "Each fingerprint is unique."
+    },
+    {
+      "id": "ext_unite",
+      "lv": "B2",
+      "w": "unite",
+      "pos": "v.",
+      "tr": "birleşmek, birleştirmek",
+      "ex": "The crisis united the rival parties."
+    },
+    {
+      "id": "ext_unity",
+      "lv": "B2",
+      "w": "unity",
+      "pos": "n.",
+      "tr": "birlik, bütünlük",
+      "ex": "The speech called for national unity."
+    },
+    {
+      "id": "ext_universal",
+      "lv": "B2",
+      "w": "universal",
+      "pos": "adj.",
+      "tr": "evrensel; herkese ait",
+      "ex": "The desire for respect is universal."
+    },
+    {
+      "id": "ext_universe",
+      "lv": "B2",
+      "w": "universe",
+      "pos": "n.",
+      "tr": "evren",
+      "ex": "The universe is expanding faster than expected."
+    },
+    {
+      "id": "ext_unknown",
+      "lv": "B2",
+      "w": "unknown",
+      "pos": "adj.",
+      "tr": "bilinmeyen, meçhul",
+      "ex": "The poem's author remains unknown."
+    },
+    {
+      "id": "ext_unprecedented",
+      "lv": "C1",
+      "w": "unprecedented",
+      "pos": "adj.",
+      "tr": "eşi görülmemiş, emsalsiz",
+      "ex": "The heatwave was unprecedented in recorded history."
+    },
+    {
+      "id": "ext_unveil",
+      "lv": "C1",
+      "w": "unveil",
+      "pos": "v.",
+      "tr": "tanıtmak (örtüsünü kaldırmak), açıklamak",
+      "ex": "The mayor unveiled plans for a new park."
+    },
+    {
+      "id": "ext_upcoming",
+      "lv": "C1",
+      "w": "upcoming",
+      "pos": "adj.",
+      "tr": "yaklaşan, gelecek olan",
+      "ex": "Tickets for the upcoming tour sold out fast."
+    },
+    {
+      "id": "ext_upgrade",
+      "lv": "C1",
+      "w": "upgrade",
+      "pos": "n., v.",
+      "tr": "yükseltme; yükseltmek",
+      "ex": "We upgraded the office computers last month."
+    },
+    {
+      "id": "ext_uphold",
+      "lv": "C1",
+      "w": "uphold",
+      "pos": "v.",
+      "tr": "(kararı) onamak; (ilkeyi) savunmak",
+      "ex": "The appeal court upheld the original ruling."
+    },
+    {
+      "id": "ext_upper",
+      "lv": "B2",
+      "w": "upper",
+      "pos": "adj.",
+      "tr": "üst, yukarıdaki",
+      "ex": "The upper floors have the best views."
+    },
+    {
+      "id": "ext_upwards",
+      "lv": "B2",
+      "w": "upwards",
+      "pos": "adv.",
+      "tr": "yukarı doğru",
+      "ex": "House prices continue to move upwards."
+    },
+    {
+      "id": "ext_urban",
+      "lv": "B2",
+      "w": "urban",
+      "pos": "adj.",
+      "tr": "kentsel, şehirle ilgili",
+      "ex": "Urban life can be noisy and crowded."
+    },
+    {
+      "id": "ext_urge",
+      "lv": "B2",
+      "w": "urge",
+      "pos": "v.",
+      "tr": "ısrarla teşvik etmek; çağrıda bulunmak",
+      "ex": "Doctors urge patients to book check-ups early."
+    },
+    {
+      "id": "ext_urgent",
+      "lv": "B2",
+      "w": "urgent",
+      "pos": "adj.",
+      "tr": "acil",
+      "ex": "She received an urgent message from home."
+    },
+    {
+      "id": "ext_usage",
+      "lv": "B2",
+      "w": "usage",
+      "pos": "n.",
+      "tr": "kullanım",
+      "ex": "Water usage rises sharply in summer."
+    },
+    {
+      "id": "ext_useless",
+      "lv": "B2",
+      "w": "useless",
+      "pos": "adj.",
+      "tr": "işe yaramaz, faydasız",
+      "ex": "The map was useless without street names."
+    },
+    {
+      "id": "ext_utility",
+      "lv": "C1",
+      "w": "utility",
+      "pos": "n.",
+      "tr": "kamu hizmeti (elektrik/su); fayda",
+      "ex": "The bill covers all utilities except internet."
+    },
+    {
+      "id": "ext_utilize",
+      "lv": "C1",
+      "w": "utilize",
+      "pos": "v.",
+      "tr": "yararlanmak, kullanmak",
+      "ex": "The barn was utilized as a temporary clinic."
+    },
+    {
+      "id": "ext_utterly",
+      "lv": "C1",
+      "w": "utterly",
+      "pos": "adv.",
+      "tr": "tamamen, son derece",
+      "ex": "The plan was utterly impractical."
     }
   ],
   "articles": [
