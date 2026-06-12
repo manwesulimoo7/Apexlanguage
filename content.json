@@ -18424,6 +18424,950 @@
       "pos": "adv.",
       "tr": "tamamen, son derece",
       "ex": "The plan was utterly impractical."
+    },
+    {
+      "id": "ext_vacuum",
+      "lv": "C1",
+      "w": "vacuum",
+      "pos": "n.",
+      "tr": "vakum, boşluk; elektrikli süpürge",
+      "ex": "His retirement left a vacuum at the top of the firm."
+    },
+    {
+      "id": "ext_vague",
+      "lv": "C1",
+      "w": "vague",
+      "pos": "adj.",
+      "tr": "belirsiz, muğlak",
+      "ex": "She gave only a vague description of the man."
+    },
+    {
+      "id": "ext_valid",
+      "lv": "B2",
+      "w": "valid",
+      "pos": "adj.",
+      "tr": "geçerli",
+      "ex": "Your ticket is valid for three months."
+    },
+    {
+      "id": "ext_validity",
+      "lv": "C1",
+      "w": "validity",
+      "pos": "n.",
+      "tr": "geçerlilik",
+      "ex": "Lawyers questioned the validity of the contract."
+    },
+    {
+      "id": "ext_value",
+      "lv": "B2",
+      "w": "value",
+      "pos": "v.",
+      "tr": "değer vermek; değer biçmek",
+      "ex": "I value your honest opinion."
+    },
+    {
+      "id": "ext_vanish",
+      "lv": "C1",
+      "w": "vanish",
+      "pos": "v.",
+      "tr": "gözden kaybolmak, yok olmak",
+      "ex": "The ship vanished into the fog."
+    },
+    {
+      "id": "ext_variable",
+      "lv": "C1",
+      "w": "variable",
+      "pos": "adj., n.",
+      "tr": "değişken",
+      "ex": "The weather in the hills is highly variable."
+    },
+    {
+      "id": "ext_variation",
+      "lv": "B2",
+      "w": "variation",
+      "pos": "n.",
+      "tr": "çeşitlenme, varyasyon; fark",
+      "ex": "There is wide variation in prices between shops."
+    },
+    {
+      "id": "ext_varied",
+      "lv": "C1",
+      "w": "varied",
+      "pos": "adj.",
+      "tr": "çeşitli, farklı farklı",
+      "ex": "The menu is varied enough for everyone."
+    },
+    {
+      "id": "ext_vary",
+      "lv": "B2",
+      "w": "vary",
+      "pos": "v.",
+      "tr": "değişmek, farklılık göstermek",
+      "ex": "Opening hours vary from branch to branch."
+    },
+    {
+      "id": "ext_vast",
+      "lv": "B2",
+      "w": "vast",
+      "pos": "adj.",
+      "tr": "engin, çok geniş",
+      "ex": "A vast desert stretches beyond the mountains."
+    },
+    {
+      "id": "ext_vein",
+      "lv": "C1",
+      "w": "vein",
+      "pos": "n.",
+      "tr": "damar, toplardamar",
+      "ex": "The nurse found a vein for the injection."
+    },
+    {
+      "id": "ext_venture",
+      "lv": "C1",
+      "w": "venture",
+      "pos": "n., v.",
+      "tr": "girişim; cesaret edip gitmek/denemek",
+      "ex": "Their new venture sells solar lamps."
+    },
+    {
+      "id": "ext_venue",
+      "lv": "B2",
+      "w": "venue",
+      "pos": "n.",
+      "tr": "mekân (etkinlik)",
+      "ex": "The hall is a popular venue for weddings."
+    },
+    {
+      "id": "ext_verbal",
+      "lv": "C1",
+      "w": "verbal",
+      "pos": "adj.",
+      "tr": "sözlü, sözel",
+      "ex": "They had a verbal agreement, nothing in writing."
+    },
+    {
+      "id": "ext_verdict",
+      "lv": "C1",
+      "w": "verdict",
+      "pos": "n.",
+      "tr": "hüküm, jüri kararı",
+      "ex": "The jury returned a verdict of not guilty."
+    },
+    {
+      "id": "ext_verify",
+      "lv": "C1",
+      "w": "verify",
+      "pos": "v.",
+      "tr": "doğrulamak",
+      "ex": "The bank called to verify the payment."
+    },
+    {
+      "id": "ext_verse",
+      "lv": "C1",
+      "w": "verse",
+      "pos": "n.",
+      "tr": "dize, kıta; nazım",
+      "ex": "She recited a verse from her favourite poem."
+    },
+    {
+      "id": "ext_versus",
+      "lv": "C1",
+      "w": "versus",
+      "pos": "prep.",
+      "tr": "karşı (vs.)",
+      "ex": "Tonight's match is the champions versus the newcomers."
+    },
+    {
+      "id": "ext_vertical",
+      "lv": "B2",
+      "w": "vertical",
+      "pos": "adj.",
+      "tr": "dikey",
+      "ex": "The cliff face is almost vertical."
+    },
+    {
+      "id": "ext_very",
+      "lv": "B2",
+      "w": "very",
+      "pos": "adj.",
+      "tr": "ta kendisi, tam da (the very)",
+      "ex": "This is the very book I was looking for."
+    },
+    {
+      "id": "ext_vessel",
+      "lv": "C1",
+      "w": "vessel",
+      "pos": "n.",
+      "tr": "gemi; kap; damar",
+      "ex": "Fishing vessels crowded the small port."
+    },
+    {
+      "id": "ext_veteran",
+      "lv": "C1",
+      "w": "veteran",
+      "pos": "n.",
+      "tr": "emektar; gazi",
+      "ex": "The veteran journalist covered five wars."
+    },
+    {
+      "id": "ext_via",
+      "lv": "B2",
+      "w": "via",
+      "pos": "prep.",
+      "tr": "üzerinden, yoluyla",
+      "ex": "We flew to Tokyo via Istanbul."
+    },
+    {
+      "id": "ext_viable",
+      "lv": "C1",
+      "w": "viable",
+      "pos": "adj.",
+      "tr": "uygulanabilir, yaşayabilir",
+      "ex": "Is the project financially viable?"
+    },
+    {
+      "id": "ext_vibrant",
+      "lv": "C1",
+      "w": "vibrant",
+      "pos": "adj.",
+      "tr": "canlı, hareket dolu",
+      "ex": "The market is the most vibrant part of town."
+    },
+    {
+      "id": "ext_vice",
+      "lv": "C1",
+      "w": "vice",
+      "pos": "n.",
+      "tr": "kötü alışkanlık; ahlaksızlık",
+      "ex": "Chocolate is my only vice, she joked."
+    },
+    {
+      "id": "ext_vicious",
+      "lv": "C1",
+      "w": "vicious",
+      "pos": "adj.",
+      "tr": "acımasız, vahşi; kısır (döngü)",
+      "ex": "Low pay and poor health form a vicious circle."
+    },
+    {
+      "id": "ext_victory",
+      "lv": "B2",
+      "w": "victory",
+      "pos": "n.",
+      "tr": "zafer, galibiyet",
+      "ex": "The team celebrated a famous victory."
+    },
+    {
+      "id": "ext_viewpoint",
+      "lv": "B2",
+      "w": "viewpoint",
+      "pos": "n.",
+      "tr": "bakış açısı",
+      "ex": "Try to see the issue from her viewpoint."
+    },
+    {
+      "id": "ext_villager",
+      "lv": "C1",
+      "w": "villager",
+      "pos": "n.",
+      "tr": "köylü, köy sakini",
+      "ex": "The villagers rebuilt the school themselves."
+    },
+    {
+      "id": "ext_violate",
+      "lv": "C1",
+      "w": "violate",
+      "pos": "v.",
+      "tr": "ihlal etmek, çiğnemek",
+      "ex": "The factory violated safety regulations."
+    },
+    {
+      "id": "ext_violation",
+      "lv": "C1",
+      "w": "violation",
+      "pos": "n.",
+      "tr": "ihlal",
+      "ex": "The court found a violation of basic rights."
+    },
+    {
+      "id": "ext_violence",
+      "lv": "B2",
+      "w": "violence",
+      "pos": "n.",
+      "tr": "şiddet",
+      "ex": "The film contains scenes of violence."
+    },
+    {
+      "id": "ext_virtual",
+      "lv": "B2",
+      "w": "virtual",
+      "pos": "adj.",
+      "tr": "sanal; fiilen ... sayılan",
+      "ex": "The museum offers a virtual tour online."
+    },
+    {
+      "id": "ext_virtue",
+      "lv": "C1",
+      "w": "virtue",
+      "pos": "n.",
+      "tr": "erdem, fazilet; meziyet",
+      "ex": "Patience is a virtue, as they say."
+    },
+    {
+      "id": "ext_visa",
+      "lv": "B2",
+      "w": "visa",
+      "pos": "n.",
+      "tr": "vize",
+      "ex": "She applied for a student visa."
+    },
+    {
+      "id": "ext_visible",
+      "lv": "B2",
+      "w": "visible",
+      "pos": "adj.",
+      "tr": "görünür, görülebilir",
+      "ex": "The lighthouse is visible from miles away."
+    },
+    {
+      "id": "ext_vision",
+      "lv": "B2",
+      "w": "vision",
+      "pos": "n.",
+      "tr": "görme; vizyon, öngörü",
+      "ex": "The founder had a clear vision for the company."
+    },
+    {
+      "id": "ext_visual",
+      "lv": "B2",
+      "w": "visual",
+      "pos": "adj.",
+      "tr": "görsel",
+      "ex": "The slides add visual interest to the talk."
+    },
+    {
+      "id": "ext_vital",
+      "lv": "B2",
+      "w": "vital",
+      "pos": "adj.",
+      "tr": "hayati, yaşamsal",
+      "ex": "Clean water is vital for the camp."
+    },
+    {
+      "id": "ext_vitamin",
+      "lv": "B2",
+      "w": "vitamin",
+      "pos": "n.",
+      "tr": "vitamin",
+      "ex": "Oranges are rich in vitamin C."
+    },
+    {
+      "id": "ext_vocal",
+      "lv": "C1",
+      "w": "vocal",
+      "pos": "adj.",
+      "tr": "sesini yükselten, açık sözlü; vokal",
+      "ex": "She is a vocal critic of the new road."
+    },
+    {
+      "id": "ext_volume",
+      "lv": "B2",
+      "w": "volume",
+      "pos": "n.",
+      "tr": "ses düzeyi; hacim; cilt",
+      "ex": "Please turn the volume down after midnight."
+    },
+    {
+      "id": "ext_voluntary",
+      "lv": "B2",
+      "w": "voluntary",
+      "pos": "adj.",
+      "tr": "gönüllü; isteğe bağlı",
+      "ex": "She does voluntary work at the shelter."
+    },
+    {
+      "id": "ext_voting",
+      "lv": "B2",
+      "w": "voting",
+      "pos": "n.",
+      "tr": "oy verme, oylama",
+      "ex": "Voting closes at ten tonight."
+    },
+    {
+      "id": "ext_vow",
+      "lv": "C1",
+      "w": "vow",
+      "pos": "v.",
+      "tr": "yemin etmek, ant içmek",
+      "ex": "He vowed never to borrow money again."
+    },
+    {
+      "id": "ext_vulnerability",
+      "lv": "C1",
+      "w": "vulnerability",
+      "pos": "n.",
+      "tr": "savunmasızlık, kırılganlık",
+      "ex": "The test exposed a vulnerability in the software."
+    },
+    {
+      "id": "ext_vulnerable",
+      "lv": "C1",
+      "w": "vulnerable",
+      "pos": "adj.",
+      "tr": "savunmasız, kolay incinir",
+      "ex": "Newborn animals are vulnerable to the cold."
+    },
+    {
+      "id": "ext_wage",
+      "lv": "B2",
+      "w": "wage",
+      "pos": "n.",
+      "tr": "ücret (haftalık/saatlik)",
+      "ex": "The factory pays a decent weekly wage."
+    },
+    {
+      "id": "ext_wander",
+      "lv": "B2",
+      "w": "wander",
+      "pos": "v.",
+      "tr": "başıboş dolaşmak",
+      "ex": "We wandered through the old town for hours."
+    },
+    {
+      "id": "ext_ward",
+      "lv": "C1",
+      "w": "ward",
+      "pos": "n.",
+      "tr": "koğuş, servis (hastane)",
+      "ex": "The children's ward is on the third floor."
+    },
+    {
+      "id": "ext_warehouse",
+      "lv": "C1",
+      "w": "warehouse",
+      "pos": "n.",
+      "tr": "depo, ambar",
+      "ex": "The goods are stored in a vast warehouse."
+    },
+    {
+      "id": "ext_warfare",
+      "lv": "C1",
+      "w": "warfare",
+      "pos": "n.",
+      "tr": "savaş (yöntemi), harp",
+      "ex": "The book describes medieval siege warfare."
+    },
+    {
+      "id": "ext_warming",
+      "lv": "B2",
+      "w": "warming",
+      "pos": "n.",
+      "tr": "ısınma",
+      "ex": "Global warming is melting the glaciers."
+    },
+    {
+      "id": "ext_warrant",
+      "lv": "C1",
+      "w": "warrant",
+      "pos": "n., v.",
+      "tr": "arama/tutuklama emri; gerektirmek",
+      "ex": "Police obtained a warrant to search the flat."
+    },
+    {
+      "id": "ext_warrior",
+      "lv": "C1",
+      "w": "warrior",
+      "pos": "n.",
+      "tr": "savaşçı",
+      "ex": "Statues of ancient warriors guard the gate."
+    },
+    {
+      "id": "ext_way",
+      "lv": "B2",
+      "w": "way",
+      "pos": "adv.",
+      "tr": "çok, fazlasıyla (way too)",
+      "ex": "The soup is way too salty for me."
+    },
+    {
+      "id": "ext_weaken",
+      "lv": "C1",
+      "w": "weaken",
+      "pos": "v.",
+      "tr": "zayıflatmak, zayıflamak",
+      "ex": "The illness weakened her for months."
+    },
+    {
+      "id": "ext_weakness",
+      "lv": "B2",
+      "w": "weakness",
+      "pos": "n.",
+      "tr": "zayıflık; zaaf",
+      "ex": "Impatience is his greatest weakness."
+    },
+    {
+      "id": "ext_wealth",
+      "lv": "B2",
+      "w": "wealth",
+      "pos": "n.",
+      "tr": "servet, zenginlik; bolluk",
+      "ex": "The region's wealth comes from oil."
+    },
+    {
+      "id": "ext_wealthy",
+      "lv": "B2",
+      "w": "wealthy",
+      "pos": "adj.",
+      "tr": "varlıklı, zengin",
+      "ex": "A wealthy collector bought the painting."
+    },
+    {
+      "id": "ext_weave",
+      "lv": "C1",
+      "w": "weave",
+      "pos": "v.",
+      "tr": "dokumak; örmek (hikâye)",
+      "ex": "The villagers weave carpets by hand."
+    },
+    {
+      "id": "ext_weed",
+      "lv": "C1",
+      "w": "weed",
+      "pos": "n.",
+      "tr": "yabani ot",
+      "ex": "The garden path is full of weeds."
+    },
+    {
+      "id": "ext_weekly",
+      "lv": "B2",
+      "w": "weekly",
+      "pos": "adj.",
+      "tr": "haftalık",
+      "ex": "The team holds a weekly planning meeting."
+    },
+    {
+      "id": "ext_weird",
+      "lv": "B2",
+      "w": "weird",
+      "pos": "adj.",
+      "tr": "tuhaf, garip",
+      "ex": "A weird noise came from the attic."
+    },
+    {
+      "id": "ext_welfare",
+      "lv": "B2",
+      "w": "welfare",
+      "pos": "n.",
+      "tr": "refah; sosyal yardım",
+      "ex": "The charity protects the welfare of farm animals."
+    },
+    {
+      "id": "ext_well",
+      "lv": "C1",
+      "w": "well",
+      "pos": "n.",
+      "tr": "kuyu",
+      "ex": "The village draws its water from a deep well."
+    },
+    {
+      "id": "ext_well_being",
+      "lv": "C1",
+      "w": "well-being",
+      "pos": "n.",
+      "tr": "esenlik, iyilik hâli",
+      "ex": "Daily exercise improves mental well-being."
+    },
+    {
+      "id": "ext_whatever",
+      "lv": "C1",
+      "w": "whatever",
+      "pos": "adv.",
+      "tr": "her ne; hiç (olumsuz vurgu)",
+      "ex": "Order whatever you like; it's my treat."
+    },
+    {
+      "id": "ext_whatsoever",
+      "lv": "C1",
+      "w": "whatsoever",
+      "pos": "adv.",
+      "tr": "hiçbir şekilde, asla",
+      "ex": "There is no evidence whatsoever against her."
+    },
+    {
+      "id": "ext_wheat",
+      "lv": "B2",
+      "w": "wheat",
+      "pos": "n.",
+      "tr": "buğday",
+      "ex": "Fields of wheat stretched to the horizon."
+    },
+    {
+      "id": "ext_whereas",
+      "lv": "B2",
+      "w": "whereas",
+      "pos": "conj.",
+      "tr": "oysa, halbuki",
+      "ex": "He loves the sea, whereas she prefers mountains."
+    },
+    {
+      "id": "ext_whereby",
+      "lv": "C1",
+      "w": "whereby",
+      "pos": "adv.",
+      "tr": "ki onunla, aracılığıyla",
+      "ex": "They signed a deal whereby profits are shared."
+    },
+    {
+      "id": "ext_wherever",
+      "lv": "B2",
+      "w": "wherever",
+      "pos": "conj.",
+      "tr": "her nerede/nereye",
+      "ex": "Sit wherever you feel comfortable."
+    },
+    {
+      "id": "ext_whilst",
+      "lv": "C1",
+      "w": "whilst",
+      "pos": "conj.",
+      "tr": "iken; her ne kadar",
+      "ex": "Whilst I agree in principle, I have doubts."
+    },
+    {
+      "id": "ext_whip",
+      "lv": "C1",
+      "w": "whip",
+      "pos": "v.",
+      "tr": "kamçılamak; çırpmak (krema)",
+      "ex": "Whip the cream until it forms soft peaks."
+    },
+    {
+      "id": "ext_whisper",
+      "lv": "B2",
+      "w": "whisper",
+      "pos": "n., v.",
+      "tr": "fısıltı; fısıldamak",
+      "ex": "She whispered the answer in his ear."
+    },
+    {
+      "id": "ext_whoever",
+      "lv": "B2",
+      "w": "whoever",
+      "pos": "pron.",
+      "tr": "her kim",
+      "ex": "Whoever finds the wallet should hand it in."
+    },
+    {
+      "id": "ext_wholly",
+      "lv": "C1",
+      "w": "wholly",
+      "pos": "adv.",
+      "tr": "tamamen, bütünüyle",
+      "ex": "The rumour is wholly without foundation."
+    },
+    {
+      "id": "ext_whom",
+      "lv": "B2",
+      "w": "whom",
+      "pos": "pron.",
+      "tr": "kim(i/e) (nesne)",
+      "ex": "To whom should I address the letter?"
+    },
+    {
+      "id": "ext_widely",
+      "lv": "B2",
+      "w": "widely",
+      "pos": "adv.",
+      "tr": "yaygın olarak; büyük farkla",
+      "ex": "The book is widely read in schools."
+    },
+    {
+      "id": "ext_widen",
+      "lv": "C1",
+      "w": "widen",
+      "pos": "v.",
+      "tr": "genişletmek, genişlemek",
+      "ex": "The council plans to widen the narrow bridge."
+    },
+    {
+      "id": "ext_widespread",
+      "lv": "B2",
+      "w": "widespread",
+      "pos": "adj.",
+      "tr": "yaygın",
+      "ex": "The storm caused widespread damage."
+    },
+    {
+      "id": "ext_widow",
+      "lv": "C1",
+      "w": "widow",
+      "pos": "n.",
+      "tr": "dul (kadın)",
+      "ex": "The widow kept the farm running alone."
+    },
+    {
+      "id": "ext_width",
+      "lv": "C1",
+      "w": "width",
+      "pos": "n.",
+      "tr": "genişlik, en",
+      "ex": "Measure the width of the window first."
+    },
+    {
+      "id": "ext_wildlife",
+      "lv": "B2",
+      "w": "wildlife",
+      "pos": "n.",
+      "tr": "yaban hayatı",
+      "ex": "The reserve protects rare wildlife."
+    },
+    {
+      "id": "ext_willing",
+      "lv": "B2",
+      "w": "willing",
+      "pos": "adj.",
+      "tr": "istekli, gönüllü",
+      "ex": "Are you willing to work at weekends?"
+    },
+    {
+      "id": "ext_willingness",
+      "lv": "C1",
+      "w": "willingness",
+      "pos": "n.",
+      "tr": "isteklilik, gönüllülük",
+      "ex": "Her willingness to learn impressed the chef."
+    },
+    {
+      "id": "ext_wind",
+      "lv": "B2",
+      "w": "wind",
+      "pos": "v.",
+      "tr": "kıvrılmak, dolanmak; sarmak",
+      "ex": "The path winds along the cliff edge."
+    },
+    {
+      "id": "ext_wipe",
+      "lv": "C1",
+      "w": "wipe",
+      "pos": "v.",
+      "tr": "silmek",
+      "ex": "He wiped the table with a damp cloth."
+    },
+    {
+      "id": "ext_wire",
+      "lv": "B2",
+      "w": "wire",
+      "pos": "n.",
+      "tr": "tel, kablo",
+      "ex": "A loose wire caused the fault."
+    },
+    {
+      "id": "ext_wisdom",
+      "lv": "B2",
+      "w": "wisdom",
+      "pos": "n.",
+      "tr": "bilgelik, hikmet",
+      "ex": "The old farmer shared his quiet wisdom."
+    },
+    {
+      "id": "ext_wise",
+      "lv": "B2",
+      "w": "wise",
+      "pos": "adj.",
+      "tr": "bilge, akıllıca",
+      "ex": "Saving early was a wise decision."
+    },
+    {
+      "id": "ext_wit",
+      "lv": "C1",
+      "w": "wit",
+      "pos": "n.",
+      "tr": "nükte, zekâ",
+      "ex": "Her speech sparkled with wit."
+    },
+    {
+      "id": "ext_withdraw",
+      "lv": "B2",
+      "w": "withdraw",
+      "pos": "v.",
+      "tr": "çekmek (para); geri çekilmek",
+      "ex": "He withdrew cash from the machine."
+    },
+    {
+      "id": "ext_withdrawal",
+      "lv": "C1",
+      "w": "withdrawal",
+      "pos": "n.",
+      "tr": "çekilme; para çekme; yoksunluk",
+      "ex": "The army announced its withdrawal from the region."
+    },
+    {
+      "id": "ext_witness",
+      "lv": "B2",
+      "w": "witness",
+      "pos": "n., v.",
+      "tr": "tanık; tanık olmak",
+      "ex": "Two witnesses saw the car jump the lights."
+    },
+    {
+      "id": "ext_workforce",
+      "lv": "B2",
+      "w": "workforce",
+      "pos": "n.",
+      "tr": "iş gücü",
+      "ex": "Half the workforce travels in by train."
+    },
+    {
+      "id": "ext_workout",
+      "lv": "C1",
+      "w": "workout",
+      "pos": "n.",
+      "tr": "antrenman, egzersiz",
+      "ex": "She does a short workout before breakfast."
+    },
+    {
+      "id": "ext_workplace",
+      "lv": "B2",
+      "w": "workplace",
+      "pos": "n.",
+      "tr": "iş yeri",
+      "ex": "The law improves safety in the workplace."
+    },
+    {
+      "id": "ext_workshop",
+      "lv": "B2",
+      "w": "workshop",
+      "pos": "n.",
+      "tr": "atölye (çalışması)",
+      "ex": "The museum runs pottery workshops for children."
+    },
+    {
+      "id": "ext_worm",
+      "lv": "B2",
+      "w": "worm",
+      "pos": "n.",
+      "tr": "solucan, kurt",
+      "ex": "Blackbirds hunt worms on the wet lawn."
+    },
+    {
+      "id": "ext_worse",
+      "lv": "B2",
+      "w": "worse",
+      "pos": "n.",
+      "tr": "daha kötüsü",
+      "ex": "The weather took a turn for the worse."
+    },
+    {
+      "id": "ext_worship",
+      "lv": "C1",
+      "w": "worship",
+      "pos": "n., v.",
+      "tr": "ibadet; tapmak",
+      "ex": "The temple is still a place of worship."
+    },
+    {
+      "id": "ext_worst",
+      "lv": "B2",
+      "w": "worst",
+      "pos": "n.",
+      "tr": "en kötüsü",
+      "ex": "Prepare for the worst and hope for the best."
+    },
+    {
+      "id": "ext_worth",
+      "lv": "B2",
+      "w": "worth",
+      "pos": "n.",
+      "tr": "değer",
+      "ex": "The storm caused millions of pounds' worth of damage."
+    },
+    {
+      "id": "ext_worthwhile",
+      "lv": "C1",
+      "w": "worthwhile",
+      "pos": "adj.",
+      "tr": "zahmete değer",
+      "ex": "Volunteering is a worthwhile use of a gap year."
+    },
+    {
+      "id": "ext_worthy",
+      "lv": "C1",
+      "w": "worthy",
+      "pos": "adj.",
+      "tr": "layık, değer",
+      "ex": "The cause is worthy of your support."
+    },
+    {
+      "id": "ext_wound",
+      "lv": "B2",
+      "w": "wound",
+      "pos": "n., v.",
+      "tr": "yara; yaralamak",
+      "ex": "The wound healed without a scar."
+    },
+    {
+      "id": "ext_wrap",
+      "lv": "B2",
+      "w": "wrap",
+      "pos": "v.",
+      "tr": "sarmak, paketlemek",
+      "ex": "She wrapped the gift in gold paper."
+    },
+    {
+      "id": "ext_wrist",
+      "lv": "B2",
+      "w": "wrist",
+      "pos": "n.",
+      "tr": "bilek",
+      "ex": "He wears his watch on his left wrist."
+    },
+    {
+      "id": "ext_wrong",
+      "lv": "B2",
+      "w": "wrong",
+      "pos": "n.",
+      "tr": "haksızlık, yanlış",
+      "ex": "He admitted the wrongs of his past."
+    },
+    {
+      "id": "ext_yell",
+      "lv": "C1",
+      "w": "yell",
+      "pos": "v.",
+      "tr": "bağırmak, haykırmak",
+      "ex": "The coach yelled instructions from the bench."
+    },
+    {
+      "id": "ext_yet",
+      "lv": "B2",
+      "w": "yet",
+      "pos": "conj.",
+      "tr": "yine de, ama",
+      "ex": "The plan was simple, yet it worked perfectly."
+    },
+    {
+      "id": "ext_yield",
+      "lv": "C1",
+      "w": "yield",
+      "pos": "n., v.",
+      "tr": "verim; getirmek; boyun eğmek",
+      "ex": "The orchard yields tons of apples each year."
+    },
+    {
+      "id": "ext_youngster",
+      "lv": "C1",
+      "w": "youngster",
+      "pos": "n.",
+      "tr": "genç, çocuk",
+      "ex": "The club trains youngsters from the local estate."
+    },
+    {
+      "id": "ext_zone",
+      "lv": "B2",
+      "w": "zone",
+      "pos": "n.",
+      "tr": "bölge, kuşak",
+      "ex": "Cars are banned from the pedestrian zone."
     }
   ],
   "articles": [
