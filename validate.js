@@ -141,6 +141,7 @@ function checkOptsAns(item, opts, ans, where) {
 // BATCH 2 — Learn modules (articles, listening, grammar, writing)
 // ===========================================================================
 const LV2 = ['B1', 'B2', 'C1'];
+const LV_GRAMMAR = ['A1', 'A2', 'B1', 'B2', 'C1', 'C2'];
 const ACCENTS = ['en-GB', 'en-US'];
 const EXAMS = ['GENEL', 'IELTS', 'TOEFL'];
 
@@ -195,7 +196,7 @@ function checkItemOptsAns(item, optsLen, ansMax, where) {
 (content.grammar || []).filter((it) => isB2id(it.id)).forEach((it) => {
   const where = `grammar ${it.id}`;
   if (!/_x\d+_/.test(it.id)) errors.push(`${where}: id must contain a batch marker like "_x2_"/"_x5_"`);
-  if (!LV2.includes(it.lv)) errors.push(`${where}: lv must be B1/B2/C1 (got ${JSON.stringify(it.lv)})`);
+  if (!LV_GRAMMAR.includes(it.lv)) errors.push(`${where}: lv must be A1/A2/B1/B2/C1/C2 (got ${JSON.stringify(it.lv)})`);
   if (!isStr(it.title)) errors.push(`${where}: title missing`);
   if (!isStr(it.exp)) errors.push(`${where}: exp missing`);
   if (!Array.isArray(it.items) || it.items.length < 1) errors.push(`${where}: items missing`);
